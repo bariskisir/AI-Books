@@ -1,0 +1,39 @@
+{
+  "title": "The Bellweather Murders",
+  "number": 1,
+  "author": "Barış Kısır",
+  "genre": "Crime Fiction",
+  "subgenre": "Small-town murder mystery / literary procedural",
+  "language": "en",
+  "target_word_count": 100000,
+  "planned_chapters": 50,
+  "word_count": 94976,
+  "short_description": "A former state investigator returns to a lakeside town after the beloved bell-ringer is found murdered inside the church tower, uncovering a town built on a decades-old lie.",
+  "long_description": "In Bellweather, Maine, the church bell marks births, storms, weddings, and funerals. When Amos Vale, the town's aging bell-ringer and unofficial memory keeper, is found dead inside the locked tower after ringing a midnight alarm, former state investigator Mara Ellison comes home to bury a private grief and is drawn into a murder that exposes old loyalties, hidden inheritances, vanished evidence, and a second death no one wanted named. The novel is planned as a professional English-language 50-chapter murder mystery of approximately 100,000 words.",
+  "main_characters": [
+    "Mara Ellison",
+    "Caleb Rusk",
+    "Amos Vale",
+    "Nora Bell",
+    "Eliot Sayer",
+    "June Pritchard",
+    "Reverend Thomas Keene",
+    "Lydia Frost",
+    "Owen Vale",
+    "Sheriff Dina Harrow"
+  ],
+  "keywords": [
+    "murder mystery",
+    "small town",
+    "Maine",
+    "locked tower",
+    "cold case",
+    "family secrets",
+    "procedural",
+    "crime fiction"
+  ],
+  "TXT_path": "The_Bellweather_Murders/txt/The_Bellweather_Murders.txt",
+  "cover_path": "The_Bellweather_Murders/covers/The_Bellweather_Murders.png",
+  "EPUB_path": "The_Bellweather_Murders/epub/The_Bellweather_Murders.epub",
+  "status": "complete_txt_epub_available"
+}

@@ -5,6 +5,20 @@ AI Books is a proprietary repository for AI-generated original fiction projects.
 ## Books
 
 <details open>
+<summary><strong>The Bellweather Murders</strong></summary>
+
+<p>
+  <a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Bellweather_Murders/epub/The_Bellweather_Murders.epub">
+    <img src="The_Bellweather_Murders/covers/The_Bellweather_Murders.png" alt="Cover for The Bellweather Murders" width="240">
+  </a>
+</p>
+
+- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Bellweather_Murders/epub/The_Bellweather_Murders.epub)
+- [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Bellweather_Murders/epub/The_Bellweather_Murders.epub)
+
+</details>
+
+<details open>
 <summary><strong>The Meridian Cycle</strong></summary>
 
 <details open>
