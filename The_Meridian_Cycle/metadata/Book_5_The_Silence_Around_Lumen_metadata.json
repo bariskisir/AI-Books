@@ -1,0 +1,35 @@
+{
+  "title": "The Silence Around Lumen",
+  "number": 5,
+  "author": "Barış Kısır",
+  "genre": "Science Fiction",
+  "subgenre": "Hard SF",
+  "word_count": 141377,
+  "short_description": "A pulsar observatory detects impossible missing neutrinos and uncovers an alien engine that could destabilize the Near Reach's meridian routes.",
+  "long_description": "In 2434, Lumen Observatory keeps time for the outer meridian network by measuring a violently regular pulsar. When neutrino astronomer Anik Sol detects a pattern of missing neutrinos around the star, station chief Petra Quay and drive physicist Chao Lin are pulled into a fight over evidence, route schedules, and the political cost of uncertainty. The anomaly points toward a hidden alien engine inside Lumen's magnetosphere, one that may be warning younger civilizations away from the Pale Arc. To prevent routeholder secrecy and centralized quarantine from turning ignorance into ownership, the observatory must publish incomplete truth before a private transit disturbs the star.",
+  "main_characters": [
+    "Anik Sol",
+    "Petra Quay",
+    "Chao Lin",
+    "Sister Vey",
+    "Oru-Kel-Under-Quiet",
+    "Mael Tors",
+    "Renna Vost"
+  ],
+  "keywords": [
+    "hard science fiction",
+    "pulsar observatory",
+    "neutrino astronomy",
+    "alien megastructure",
+    "Meridian gates",
+    "Pale Arc",
+    "scientific uncertainty",
+    "public evidence",
+    "routeholder politics",
+    "The Meridian Cycle"
+  ],
+  "TXT_path": "The_Meridian_Cycle/txt/Book_5_The_Silence_Around_Lumen.txt",
+  "cover_path": "The_Meridian_Cycle/covers/Book_5_The_Silence_Around_Lumen.png",
+  "EPUB_path": "The_Meridian_Cycle/epub/Book_5_The_Silence_Around_Lumen.epub",
+  "status": "complete_txt_epub_available"
+}

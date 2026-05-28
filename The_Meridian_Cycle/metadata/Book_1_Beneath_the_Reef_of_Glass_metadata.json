@@ -1,0 +1,32 @@
+{
+  "title": "Beneath the Reef of Glass",
+  "number": 1,
+  "author": "Barış Kısır",
+  "genre": "Science Fiction",
+  "subgenre": "First contact",
+  "word_count": 142445,
+  "short_description": "A xenobiologist on an Orison ocean moon must stop a human mining claim from erasing a living memory reef.",
+  "long_description": "On Pelagos, an ocean moon in the Orison Shoals, a human mining company claims that a pale reef beneath the glass ice is dormant mineral architecture. Xenobiologist Mira Cael arrives to audit the claim and finds that the reef is not a settlement, grave, or archive in human terms, but a living continuity ecology that preserves Orison ancestral memory. As Olan Drex pushes extraction under lawful but dangerously narrow categories, Mira and the Orison diplomat Keeps-Water-Calm must build a way for human law to recognize memory as sovereignty before the reef is cut apart. The manuscript is complete as a validated TXT draft, with a cover asset and EPUB export available.",
+  "main_characters": [
+    "Mira Cael",
+    "Keeps-Water-Calm",
+    "Olan Drex",
+    "Sera Kint",
+    "Tavo Rusk",
+    "Yul Brenn"
+  ],
+  "keywords": [
+    "science fiction",
+    "first contact",
+    "alien civilization",
+    "Orison Shoals",
+    "memory reef",
+    "xenobiology",
+    "ecological personhood",
+    "Meridian Cycle"
+  ],
+  "TXT_path": "The_Meridian_Cycle/txt/Book_1_Beneath_the_Reef_of_Glass.txt",
+  "cover_path": "The_Meridian_Cycle/covers/Book_1_Beneath_the_Reef_of_Glass.png",
+  "EPUB_path": "The_Meridian_Cycle/epub/Book_1_Beneath_the_Reef_of_Glass.epub",
+  "status": "complete_txt_epub_available"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Salt Parliament",
+  "number": 7,
+  "author": "Barış Kısır",
+  "genre": "Science Fiction",
+  "subgenre": "Alien Civilization",
+  "word_count": 140042,
+  "short_description": "A human interpreter is adopted into an Orison political crisis where voting means changing bodies.",
+  "long_description": "In 2436, the Orison Shoals fracture over human treaty obligations, route law, and the meaning of consensus among beings whose bodies can bud, merge, exchange memory, and vote by temporary embodiment. Ren Okoye, a human interpreter trained in treaty-science, is summoned to the Salt Parliament to witness a crisis that human law keeps mistranslating as a policy debate. With Third-Voice-of-Reef, Lael Shun, and factions pushing withdrawal or simplification, Ren must protect dissent without turning alien politics into a human-readable fiction.",
+  "main_characters": [
+    "Ren Okoye",
+    "Third-Voice-of-Reef",
+    "Lael Shun",
+    "Keeps-Water-Calm",
+    "Oru-Kel-Under-Quiet",
+    "Salt-Before-Shell",
+    "Aven Rusk"
+  ],
+  "keywords": [
+    "alien civilization",
+    "Orison Shoals",
+    "embodied voting",
+    "treaty science",
+    "consensus",
+    "alien sovereignty",
+    "Meridian routes",
+    "Pale Arc",
+    "dissent",
+    "The Meridian Cycle"
+  ],
+  "TXT_path": "The_Meridian_Cycle/txt/Book_7_The_Salt_Parliament.txt",
+  "cover_path": "The_Meridian_Cycle/covers/Book_7_The_Salt_Parliament.png",
+  "EPUB_path": "The_Meridian_Cycle/epub/Book_7_The_Salt_Parliament.epub",
+  "status": "complete_txt_epub_available"
+}

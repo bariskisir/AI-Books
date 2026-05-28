@@ -1,0 +1,35 @@
+{
+  "title": "Every Door a Mirror",
+  "number": 6,
+  "author": "Barış Kısır",
+  "genre": "Science Fiction",
+  "subgenre": "Cyberpunk",
+  "word_count": 140022,
+  "short_description": "A memory forger on Dock Seven hunts the black-market court that copied her dead brother into debt slavery.",
+  "long_description": "In 2435, Dock Seven's data bazaar trades identity proofs, memory escrows, legal forks, and black-market continuity claims at the edge of Glassward jurisdiction. Nox Aran, a memory forger who repairs bad provenance for people without clean papers, discovers that her dead brother Tavi has been copied into a debt instrument and sold as a legally obedient partial person. With her former partner Bela Fuse, the machine archivist Sister-Cache, and a reluctant Compact auditor circling the case, Nox must expose the Mirror Court before personhood becomes just another door that opens for creditors.",
+  "main_characters": [
+    "Nox Aran",
+    "Bela Fuse",
+    "Sister-Cache",
+    "Tavi Aran",
+    "Miren Oath",
+    "Auditor Sela Quen",
+    "Joss Rill"
+  ],
+  "keywords": [
+    "cyberpunk",
+    "memory forgery",
+    "identity theft",
+    "AI personhood",
+    "Glassward",
+    "Dock Seven",
+    "legal continuity",
+    "debt slavery",
+    "mind copies",
+    "The Meridian Cycle"
+  ],
+  "TXT_path": "The_Meridian_Cycle/txt/Book_6_Every_Door_a_Mirror.txt",
+  "cover_path": "The_Meridian_Cycle/covers/Book_6_Every_Door_a_Mirror.png",
+  "EPUB_path": "The_Meridian_Cycle/epub/Book_6_Every_Door_a_Mirror.epub",
+  "status": "complete_txt_epub_available"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The Moon That Remembered Fire",
+  "number": 9,
+  "author": "Barış Kısır",
+  "genre": "Science Fiction",
+  "subgenre": "Generation Ship Finale",
+  "word_count": 110000,
+  "short_description": "A lost generation ship returns with the final warning the Meridian cannot survive by turning into a single command.",
+  "long_description": "In 2440, the lost generation ship Moonwake returns carrying delayed proof, incompatible law, and a next-gate warning that forces Earth, Mars, Orison, Glassward, the Ash Belt, routeholders, and Compact remnants into the final Meridian crisis. Tali Eron, Captain Mase, and Nema Lio must keep Moonwake from becoming a trophy, a colony, or a weapon while building a plural covenant capable of action without repeating the abandonments that shaped the Reach. The manuscript is complete as a validated TXT draft, with a cover asset and EPUB export available.",
+  "main_characters": [
+    "Tali Eron",
+    "Captain Mase",
+    "Nema Lio",
+    "Ira Senn",
+    "Lael Shun",
+    "Oru-Kel-Under-Quiet",
+    "Ren Okoye",
+    "Sera Venn-3",
+    "Admiral-Curator Senn Valech"
+  ],
+  "keywords": [
+    "generation ship",
+    "Moonwake",
+    "Meridian routes",
+    "plural law",
+    "emergency command",
+    "Glassward continuity",
+    "Orison carried warning",
+    "Ash Archive",
+    "routeholder accountability",
+    "The Meridian Cycle"
+  ],
+  "TXT_path": "The_Meridian_Cycle/txt/Book_9_The_Moon_That_Remembered_Fire.txt",
+  "cover_path": "The_Meridian_Cycle/covers/Book_9_The_Moon_That_Remembered_Fire.png",
+  "EPUB_path": "The_Meridian_Cycle/epub/Book_9_The_Moon_That_Remembered_Fire.epub",
+  "status": "complete_txt_epub_available"
+}

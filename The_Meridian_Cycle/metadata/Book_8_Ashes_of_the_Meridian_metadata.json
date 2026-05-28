@@ -1,0 +1,37 @@
+{
+  "title": "Ashes of the Meridian",
+  "number": 8,
+  "author": "Barış Kısır",
+  "genre": "Science Fiction",
+  "subgenre": "Postwar Political SF",
+  "word_count": 140000,
+  "short_description": "A young Ash Belt advocate investigates a Fracture Wars atrocity every surviving faction needs to keep incomplete.",
+  "long_description": "In 2438, the Meridian Remnant Tribunal reopens the Cinder Gate Abandonment, a Fracture Wars atrocity hidden behind the official story of a failed evacuation gate. Ira Senn, a young Ash Belt advocate, works with archive specialist Vela Cho and Magistrate Om to examine evidence that routeholders, Compact remnants, military survivors, salvage courts, and Glassward custodians all have reasons to suppress. When a fragmented witness derived from a missing maintenance child appears, Ira must protect damaged testimony from being erased by the very tribunal meant to hear it.",
+  "main_characters": [
+    "Ira Senn",
+    "Vela Cho",
+    "Magistrate Om",
+    "Tamsin Vale",
+    "Oriole-of-Archive",
+    "Nadir Pell",
+    "Sera Venn-3",
+    "Lael Shun",
+    "Oru-Kel-Under-Quiet"
+  ],
+  "keywords": [
+    "Ash Belt",
+    "Fracture Wars",
+    "war crimes",
+    "tribunal",
+    "Meridian routes",
+    "Glassward continuity",
+    "forked witness",
+    "routeholder liability",
+    "Pale Arc",
+    "The Meridian Cycle"
+  ],
+  "TXT_path": "The_Meridian_Cycle/txt/Book_8_Ashes_of_the_Meridian.txt",
+  "cover_path": "The_Meridian_Cycle/covers/Book_8_Ashes_of_the_Meridian.png",
+  "EPUB_path": "The_Meridian_Cycle/epub/Book_8_Ashes_of_the_Meridian.epub",
+  "status": "complete_txt_epub_available"
+}
