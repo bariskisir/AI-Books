@@ -352,6 +352,7 @@ Books are listed in order of addition — oldest first, newest last. Always appe
 | `books/The_Mercy_Engine/` | Medical Science Fiction | 50 | Complete |
 | `books/The_Paper_Moon_Conspiracy/` | Retro Science Thriller | 50 | Complete |
 | `books/The_Glass_Lantern/` | Literary Fiction / Historical Mystery | 50 | Complete |
+| `books/The_Fig_Collector/` | Literary Fiction / Travel Narrative / Botanical Fiction | 50 | Complete |
 
 ## Git Workflow
 

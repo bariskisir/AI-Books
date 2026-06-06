@@ -1,0 +1,41 @@
+{
+  "title": "The Fig Collector",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-pro",
+  "genre": "Literary Fiction",
+  "subgenre": "Travel Narrative / Botanical Fiction",
+  "language": "en",
+  "short_description": "In 1938, a Greek botanist born in Smyrna travels the eastern Mediterranean documenting heritage fig varieties before they vanish.",
+  "long_description": "The Fig Collector follows Alekos Kappas, a Greek botanist of Anatolian birth, who returns to the eastern Mediterranean in 1938 to document heritage fig varieties before modern agriculture erases them. His journey takes him through villages in Turkey, the monastery orchards of Lesbos, and the Bekaa Valley of Lebanon, where each tree carries a story — of displacement, survival, and the families who tended the land for centuries.\n\nThrough encounters with Turkish farmers, a beekeeping monk, a Lebanese botanist, and an elderly woman who still speaks the old Lesbos dialect, Alekos discovers that he is not just collecting botanical specimens. He is collecting memory. The fig tree — resilient, ancient, capable of growing from a cutting carried across the sea — becomes a metaphor for what endures when a homeland is lost.",
+  "main_characters": [
+    "Alekos Kappas",
+    "Eleni Kappas",
+    "Nikos Kappas",
+    "Mustafa Yılmaz",
+    "Lale Yılmaz",
+    "Father Gregorios",
+    "Samia Khoury"
+  ],
+  "keywords": [
+    "literary fiction",
+    "botanical fiction",
+    "travel narrative",
+    "mediterranean",
+    "fig trees",
+    "heritage varieties",
+    "displacement",
+    "population exchange",
+    "1930s",
+    "adult characters",
+    "clean literary fiction",
+    "standalone"
+  ],
+  "planned_chapters": 50,
+  "word_count": 14143,
+  "TXT_path": "books/The_Fig_Collector/txt/The_Fig_Collector.txt",
+  "EPUB_path": "books/The_Fig_Collector/epub/The_Fig_Collector.epub",
+  "cover_path": "books/The_Fig_Collector/covers/The_Fig_Collector.png",
+  "outline_path": "books/The_Fig_Collector/planning/The_Fig_Collector_outline.md",
+  "cover_script_path": "books/The_Fig_Collector/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}
