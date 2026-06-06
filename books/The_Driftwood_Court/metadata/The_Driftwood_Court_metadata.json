@@ -1,0 +1,37 @@
+{
+  "title": "The Driftwood Court",
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Coastal Legal Mystery",
+  "subgenre": "Maritime Courtroom Drama",
+  "language": "en",
+  "short_description": "A maritime lawyer reopens a shipwreck case on an island courthouse built from salvage.",
+  "long_description": "The Driftwood Court follows Mara Venn, an adult maritime lawyer, through Gull Court island as a maritime lawyer reopens a shipwreck case on an island courthouse built from salvage. The inquiry moves through offices, sealed rooms, public hearings, and physical evidence, keeping its suspense grounded in work, speech, and consequence.\n\nAs Owen Pike, Sel Calder, and Judge Honora Vale help test the record, Jonas Quill tries to turn delay into truth. The novel is clean adult suspense about institutions, memory, and the cost of naming what everyone was paid not to see.",
+  "main_characters": [
+    "Mara Venn",
+    "Owen Pike",
+    "Sel Calder",
+    "Judge Honora Vale",
+    "Jonas Quill"
+  ],
+  "keywords": [
+    "coastal legal mystery",
+    "maritime courtroom drama",
+    "mystery",
+    "evidence",
+    "archive",
+    "adult characters",
+    "clean suspense",
+    "conspiracy",
+    "truth",
+    "standalone"
+  ],
+  "planned_chapters": 50,
+  "word_count": 24156,
+  "TXT_path": "books/The_Driftwood_Court/txt/The_Driftwood_Court.txt",
+  "EPUB_path": "books/The_Driftwood_Court/epub/The_Driftwood_Court.epub",
+  "cover_path": "books/The_Driftwood_Court/covers/The_Driftwood_Court.png",
+  "outline_path": "books/The_Driftwood_Court/planning/The_Driftwood_Court_outline.md",
+  "cover_script_path": "books/The_Driftwood_Court/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "The Ember Throne",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Epic Fantasy",
+  "subgenre": "Sword and Sorcery",
+  "language": "en",
+  "short_description": "A dispossessed prince must unite warring kingdoms before a prophesied fire consumes the world.",
+  "long_description": "Prince Kael has spent fourteen years in exile, hiding in the cold north while the traitor lord Malachar sits on his father's throne. When the Fire-Crown comet appears in the sky, an ancient prophecy stirs: the deep vents beneath the world are opening, and unless the five kingdoms unite, fire will consume everything.\n\nWith the fire witch Serin at his side, Kael journeys across the warring kingdoms of the Emberlands, forging alliances with queens and miners, horse lords and merchants. But Serin carries a dark secret—every use of her fire magic shortens her life, and the final sealing of the deep vents will demand everything she has.\n\nFacing a duel to the death with the man who killed his father, Kael must choose between vengeance and salvation, and learn whether a throne won through blood can be held through mercy.",
+  "main_characters": [
+    "Prince Kael",
+    "Serin the Fire Witch",
+    "Lord Malachar",
+    "Queen Elara",
+    "Warden Brone",
+    "King Orin"
+  ],
+  "keywords": [
+    "epic fantasy",
+    "sword and sorcery",
+    "prophecy",
+    "exiled prince",
+    "fire magic",
+    "fantasy novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Ember_Throne/txt/The_Ember_Throne.txt",
+  "EPUB_path": "books/The_Ember_Throne/epub/The_Ember_Throne.epub",
+  "cover_path": "books/The_Ember_Throne/covers/The_Ember_Throne.png",
+  "outline_path": "books/The_Ember_Throne/planning/The_Ember_Throne_outline.md",
+  "cover_script_path": "books/The_Ember_Throne/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

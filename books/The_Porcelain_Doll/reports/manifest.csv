@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Porcelain_Doll/planning/The_Porcelain_Doll_outline.md,,markdown,deepseek-v4-flash
+The_Porcelain_Doll/txt/The_Porcelain_Doll.txt,,text,deepseek-v4-flash
+The_Porcelain_Doll/metadata/The_Porcelain_Doll_metadata.json,,json,deepseek-v4-flash
+The_Porcelain_Doll/tools/create_cover.py,,python,deepseek-v4-flash
+The_Porcelain_Doll/covers/The_Porcelain_Doll.png,133900,png,deepseek-v4-flash
+The_Porcelain_Doll/tools/build_epub.py,,python,deepseek-v4-flash
+The_Porcelain_Doll/epub/The_Porcelain_Doll.epub,262249,epub,deepseek-v4-flash
+The_Porcelain_Doll/README.md,,markdown,deepseek-v4-flash
+The_Porcelain_Doll/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Porcelain_Doll/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Porcelain_Doll/reports/progress.md,,markdown,deepseek-v4-flash

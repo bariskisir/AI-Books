@@ -1,0 +1,2101 @@
+Chapter 1: The Anomaly
+
+The data came in at 0347 station time, same as every morning. Dr. Elena Reyes sat alone in the main lab with a cup of coffee that had gone cold an hour ago. The hydrophone array streamed waveforms across her screen, blue lines against black, and she watched them with the practiced patience of someone who had learned to see the seafloor in squiggles and spikes.
+
+She had been at Hadal-7 for eleven months. In that time she had catalogued thirty-seven new species of amphipods, mapped the thermal gradients of three vent fields, and learned to sleep through the groan of eight hundred atmospheres pressing against titanium. The station was a tube of metal and hope wedged into the deepest scar on the planet's skin.
+
+The anomaly appeared on graph seven. A low-frequency pulse that did not belong. Not tectonic. Not biological. Not thermal. She traced it with her finger, then ran the recognition algorithm. No match. She ran it again. Same result.
+
+Reyes saved the file and opened the previous week's logs. The same pulse appeared on Tuesday, fainter. On Thursday, stronger. Today it was clear enough to measure wavelength and amplitude. She calculated the source origin and stopped breathing.
+
+The signal came from below. Not from the seafloor. From beneath it. From the crust itself, somewhere deeper than any drill had ever reached.
+
+She stood and walked to the window. Outside, the station's floodlights cut a thirty-meter circle through black water. Sediment drifted past like snow. There was nothing to see. Nothing ever was.
+
+She picked up the internal phone and dialed the Captain's quarters.
+
+Chapter 2: The Captain
+
+Captain Dmitri Orlov woke to the phone ringing and knew, before he answered, that it was bad news. Twenty-three years running deep stations had taught him that nothing good came at 0400.
+
+He swung his legs over the side of the bunk. The cabin was small, four meters by three, with a single porthole that showed only darkness. He had not looked through it in six months.
+
+"Orlov."
+
+"It's Reyes. I need you in the lab."
+
+"Explain."
+
+"Better if I show you."
+
+He hung up and pulled on his coverall. The station hummed around him, the familiar frequencies of pumps and filters and life support. He knew every sound. He knew which ones meant trouble.
+
+Reyes was waiting at the main console when he arrived. Thirty-eight years old, dark hair pulled back, eyes that did not blink enough. She was the best biologist he had ever worked with. She was also the most relentless.
+
+"Show me," he said.
+
+She tapped the screen. A waveform glowed green against the grid. "This came in on the deep array. Source is below the trench floor. Depth indeterminate."
+
+"Equipment glitch."
+
+"I checked. Three separate arrays recorded it. At different distances. The parallax confirms a single source."
+
+Orlov studied the graph. Military training had taught him to read data quickly. The signal was steady, rhythmic, and powerful. "Seismic?"
+
+"No. The frequency is wrong. Too consistent. There's no decay pattern." She paused. "It's repeating."
+
+"Repeating how?"
+
+"Six-hour cycle. Peak amplitude at noon and midnight. I checked the logs. It's been doing this for at least two weeks."
+
+Orlov looked at her. She looked back. Neither spoke.
+
+"Send the data to surface," he said finally. "Let them sort it out."
+
+"The antenna is down."
+
+"Since when?"
+
+"Since twenty minutes ago."
+
+He stared at her. The hum of the station seemed to grow louder, or maybe he was just listening harder now.
+
+Chapter 3: Going Deeper
+
+Reyes returned to her console and pulled up the hydrophone calibration menu. The station's primary arrays pointed horizontal, scanning for marine traffic and biological surveys. She needed something else. She needed to aim down.
+
+The deep array had been installed by the previous science team for geology work. Two hundred meters of cable spooled across the trench floor, studded with sensors every ten meters. The final node dangled into a fissure that dropped another thousand meters into the crust.
+
+She adjusted the gain and listened.
+
+The raw signal filled the room. A hum so low it was more vibration than sound. Reyes felt it in her teeth, in the bones of her skull. She turned the volume down.
+
+On graph, the pulse resolved into a clean sine wave. Perfect harmonics. Nothing in nature produced a signal this pure. Not wind. Not water. Not animal.
+
+She checked the marine species database. No matches. She checked the geological library. No matches. She checked the classified military signatures she was not supposed to have access to. No matches.
+
+The signal was not human either.
+
+Reyes sat back and stared at the waveform. The pulse peaked, decayed, and rose again. Like a heartbeat. Like something breathing.
+
+She pulled up the oldest acoustic records in the station's archive. Cold War sonar logs from deep-water listening posts. She loaded them into the comparison algorithm.
+
+Nothing matched the current signal. But she found something else. A reference file from 1972, declassified, scanned from microfilm. A sound recorded by a Navy submarine off the coast of Guam. The notes read: "Unknown source. Depth excessive. Investigation abandoned."
+
+The waveform in that file was fainter, distorted by old equipment. But the shape was the same.
+
+This thing had been down here for at least fifty years. Probably longer.
+
+Reyes printed the comparison and pinned it to the wall.
+
+Chapter 4: The Hum
+
+The hum grew louder through the night shift.
+
+Not in volume. In presence. Reyes felt it in the deck plates when she walked. She saw it in the ripple of her coffee cup. She measured it in the micro-vibrations the station's sensors recorded automatically.
+
+By morning, everyone on Hadal-7 had noticed.
+
+The engineers complained of headaches. The cook reported broken glassware in the galley. Two junior biologists asked Reyes if she knew what was causing the vibration. She told them it was geological. She did not believe it herself.
+
+Orlov called a meeting in the common room at 0800. Sixteen crew members sat around the folding tables, looking tired and uneasy. The hum was audible now, a constant drone at the edge of hearing. Like a refrigerator in a silent house. Once you noticed it, you could not ignore it.
+
+"Status report," Orlov said.
+
+The chief engineer, a woman named Kowalski, stood first. "Secondary oxygen pump failed at 0515. Redundant system engaged. We lost pressure in Section C for about four minutes before the backup kicked in."
+
+"Cause?"
+
+"Vibration stress. The mount bolts sheared off. We found them on the deck plates. They'd been vibrating for days, Captain. The threads are polished smooth."
+
+Reyes felt the room look at her.
+
+"The signal is coming from deeper than the station," she said. "Below the trench floor. I don't know what it is yet. But it's getting stronger, and it's affecting our equipment."
+
+"How deep?" Kowalski asked.
+
+"Unknown. The source might be kilometers below the crust."
+
+The room went quiet. The hum filled the space between them.
+
+Orlov rubbed his eyes. "Reyes, you have forty-eight hours. Figure out what it is. If you can't, I'm requesting a surface evacuation."
+
+Reyes nodded. Forty-eight hours was not much time.
+
+But the thing below had waited millions of years. It could wait two more days.
+
+Chapter 5: Diagnostics
+
+Orlov ran the station like a warship. When something broke, you fixed it. When you could not fix it, you isolated it. When you could not isolate it, you abandoned it.
+
+He walked the corridors of Hadal-7 with a tablet in his hand, checking systems in order. Life support. Navigation. Communications. Power. Ballast. Structural integrity.
+
+The comms team had restored the main antenna by 0930. A cable connector had corroded through - the vibration had accelerated metal fatigue. Orlov filed the report and ordered a full inspection of all external connections.
+
+He met Kowalski at the secondary oxygen pump. The unit lay disassembled on a workbench. Four bolts sat next to it, their threads worn flat.
+
+"Look at this," Kowalski said, holding up a bolt. "This is a grade-8 titanium fastener. It should last twenty years down here. Four months in, and it's polished like a river stone."
+
+"The vibration?"
+
+"Has to be. But the pump itself doesn't vibrate that much. The whole station is shaking, Captain. We just didn't notice because it happened so gradually."
+
+Orlov picked up the bolt and turned it in his fingers. The metal was smooth, almost warm. "Can we dampen it?"
+
+"I can isolate the critical systems. Mount them on shock absorbers. But if the amplitude keeps increasing, nothing we do will matter. The station isn't designed for this kind of continuous stress."
+
+"How long before we have real problems?"
+
+Kowalski hesitated. "Forty-eight hours. Maybe less."
+
+Orlov put the bolt down. He thought about Reyes, about her forty-eight hour deadline. The coincidence was not comforting.
+
+"Prioritize life support and communications," he said. "Everything else can wait."
+
+He walked back to his quarters and closed the door. For the first time in twenty-three years, he wished he were anywhere but underwater.
+
+Chapter 6: Oxygen
+
+Reyes was in the lab when the secondary oxygen pump failed for the second time.
+
+The alarm sounded at precisely 1158. She looked at the clock. Two minutes before noon. The hum would peak at noon.
+
+She ran to Section C.
+
+The backup pump was already engaged, but the room was dark. Emergency lighting cast long shadows across the equipment. The air felt thin, wrong.
+
+Kowalski arrived behind her, carrying a tool kit. "What happened?"
+
+"The same thing. Vibration stress. The mount gave way again."
+
+They examined the pump together. The bolts had sheared completely this time, leaving jagged stubs in the mounting plate. The pump itself lay on its side, still running, screaming against the deck.
+
+Kowalski killed the power. The silence was sudden, shocking.
+
+"We need to rethink the mounting," she said. "Welded brackets instead of bolts. But I'll need four hours and the Captain's authorization to shut down life support in this section."
+
+"Do it."
+
+Reyes left Kowalski to work. She walked to the nearest porthole and looked out. The floodlights illuminated a wall of sediment. Something was moving in the water. Not a fish. Something larger, darker, sliding past the station.
+
+She pressed her face to the glass.
+
+A shape resolved in the murk. A disturbance in the sediment, rising from below. It was not an animal. It was the sediment itself, lifted by a current that should not exist.
+
+The current was coming from beneath the station. From the trench floor.
+
+She watched the sediment plume rise and disperse. It took three minutes to pass. When it was gone, the water was clear again, empty, black.
+
+The hum peaked at noon, exactly as she had predicted.
+
+Chapter 7: No Match
+
+Reyes spent the afternoon running comparisons.
+
+She had built the station's biological database herself. Every known species of deep-sea organism, catalogued by acoustic signature, genetic markers, and behavioral patterns. If it lived in the ocean, it was in her files.
+
+The hum matched none of them.
+
+She expanded the search to include extinct species. Fossilized radiolarians left calcium carbonate skeletons with distinct structural patterns. Some paleontologists believed those skeletons could resonate under specific frequencies. She loaded the data and ran the algorithm.
+
+The hum was seven octaves lower than any radiolarian resonance.
+
+She tried geological sources. Subduction zone friction. Mantle convection. Core dynamics. The hum was too regular, too clean, for any of them.
+
+She tried atmospheric phenomena. Solar wind interacting with the magnetosphere. Ionospheric waves. Those could generate low-frequency signals, but they propagated through air, not water. The hydrophones should not have picked them up.
+
+The algorithm reported no match with a confidence of ninety-nine point seven percent.
+
+Reyes leaned back. The chair creaked. The room hummed.
+
+She opened the archive of classified military signatures again. This time she did not filter. She let the algorithm compare the hum against every recorded sound in human history.
+
+The search took forty minutes.
+
+The result was the same.
+
+No match.
+
+She closed the laptop and sat in the dark lab, listening. The hum was everywhere now. In the walls. In the floor. In her chest.
+
+It had no name. No category. No origin.
+
+But it had a pattern. A rhythm. A purpose.
+
+Reyes was certain of one thing. The signal was not random. It was language. Not a language she understood. But language.
+
+Chapter 8: Rationing
+
+Orlov announced power restrictions at 1800.
+
+The announcement came over the intercom, his voice flat and unemotional. Non-essential systems would be shut down in sequence. The galley would serve cold meals. Environmental lighting would drop to minimum. Communication bandwidth would be reserved for emergency traffic.
+
+The crew took it well. They were professionals. They understood the math. The station's power grid was showing strain, and the hum was not going away.
+
+Reyes worked by a single desk lamp. The main console lights were off. Her screen glowed blue against the dark.
+
+She had shifted her analysis to the station's own systems. If the hum was affecting equipment, the pattern of failures might tell her something about the source. She compiled a timeline.
+
+Day one: minor fluctuations in the power grid. Day three: the secondary oxygen pump failed. Day five: the antenna connector corroded. Day seven: the ballast sensors began reporting erratic readings.
+
+The failures were not random. They clustered around the hum's peak cycles. And they were accelerating.
+
+She plotted the frequency of failures against time. The curve was exponential. If it held, the station would lose critical systems within thirty-six hours.
+
+She opened the comms panel. The surface was unreachable. The antenna was down again.
+
+She thought about the escape pods. Three of them, docked at the upper hull. Each pod could carry six people to the surface in an emergency. The safety briefing said they were fail-safe. That meant nothing at eight hundred atmospheres.
+
+Reyes turned back to her data. She pulled up the oldest sonar records from the archival drive. Filtered out the noise. Enhanced the signal.
+
+The hum had been there all along. Faint, buried under decades of data, but present. The station's own logs showed it from the day they had powered up the deep array.
+
+They had been living inside the signal for eleven months.
+
+She wondered what it had been doing to them.
+
+Chapter 9: The Cycle
+
+Reyes mapped the hum's cycle with precision.
+
+The waveform showed a sharp attack, a sustained plateau, and a gradual decay. Total duration: four hours and twenty-three minutes. Followed by one hour and thirty-seven minutes of relative silence. Then it began again.
+
+Six hours. Exactly. Each cycle deviated by less than a millisecond from the last.
+
+No natural process was that precise.
+
+She checked the phase relationship between cycles. The waveform was not simply repeating. It was evolving. Each iteration added a new harmonic, a subtle shift in frequency, a variation in amplitude.
+
+Like someone learning to speak.
+
+The station's failures tracked these changes. Each new harmonic correlated with a specific system malfunction. The first harmonic had affected the ballast sensors. The second had taken out the antenna. The third had weakened the oxygen pump mounts.
+
+The fourth harmonic was due in eleven hours.
+
+Reyes opened the station schematics and started calculating. If the pattern held, the fourth harmonic would target the power distribution nodes. Specifically, the main breaker panel in Section A.
+
+She called Kowalski.
+
+"The fourth harmonic is going to hit the main breaker panel," she said. "Eleven hours from now."
+
+"How do you know?"
+
+"I don't. But I'm right."
+
+Kowalski was silent for a moment. "I can reinforce the panel. Install vibration dampers. Reroute the load."
+
+"Do it."
+
+Kowalski hung up. Reyes stared at the waveform.
+
+She had called it a harmonic, but that was a guess. She did not know what it was. She did not know where it came from. She did not know why it was targeting specific systems.
+
+But the targeting was deliberate. She was sure of that now.
+
+The thing below was not just humming. It was scanning. Probing. Learning the station's vulnerabilities.
+
+And it had found them.
+
+Chapter 10: Dark
+
+The antenna went dark at 2100.
+
+Not a system failure. Not a cable break. The signal simply stopped. One moment the comms panel showed a healthy link to the surface relay buoy. The next, nothing.
+
+Reyes was first to the comms room. The technician on duty, a young man named Park, was cycling through diagnostics.
+
+"Any error codes?" she asked.
+
+"None. The link just dropped. No handshake failure, no signal degradation. It's like the relay buoy disappeared."
+
+"Can you raise them on backup?"
+
+"I tried. No response."
+
+Reyes picked up the emergency satellite phone. Dead. She tried the UHF radio. Static. She tried the acoustic modem, which used sound waves to transmit data through water. The line was silent.
+
+The hum had stolen their voice.
+
+She walked to the observation lounge. The station's external cameras showed the relay buoy's anchor line, still connected, still rising into the darkness. The buoy itself was invisible, lost in the black at the edge of the floodlights.
+
+But the anchor line was slack. Dangling.
+
+The buoy was gone.
+
+She watched the line drift in the current. The end was frayed, as if it had been cut. Or bitten.
+
+She did not call Orlov. Not yet. She needed to think first.
+
+She needed to understand what she was dealing with.
+
+The thing below had isolated them. Deliberately, systematically. It had taken their antenna, their power, their oxygen. Now it had taken their connection to the surface.
+
+Reyes pressed her palm against the cold glass of the porthole.
+
+The water outside was black, absolute, empty.
+
+She had never felt so alone.
+
+Chapter 11: Static
+
+Orlov stood in the comms room, holding the satellite phone to his ear.
+
+Nothing.
+
+He tried the backup antenna, the emergency beacon, the military-band radio. Nothing. Every frequency produced the same soft hiss of static.
+
+He put the phone down and looked at Park. "Last contact with surface?"
+
+"Fourteen hundred hours. Routine data upload. They confirmed receipt."
+
+"Any scheduled check-ins?"
+
+"Zero-six-hundred tomorrow. If we miss it, they'll send a query buoy."
+
+"How long before they mobilize a rescue?"
+
+"Standard protocol is twenty-four hours without contact. But that assumes the station is intact. If they detect a hull breach or emergency beacon activation, they'll move faster."
+
+Orlov nodded. The emergency beacons were independent of the main power grid. Battery-powered, hardwired, designed to transmit on a dedicated frequency. He had tested them himself the day they arrived.
+
+"Activate the emergency beacon," he said.
+
+Park looked at him. "Captain, that will trigger a full search-and-rescue operation."
+
+"I know."
+
+"The surface will assume we're sinking."
+
+"I know."
+
+"Is the situation that bad?"
+
+Orlov looked at the static-filled screens. He looked at Reyes, standing in the doorway. He looked at his own hands, which had begun to tremble slightly, in time with the hum.
+
+"Yes," he said.
+
+Park opened the beacon control panel and flipped the switch.
+
+A green light blinked on.
+
+The beacon was transmitting.
+
+They waited.
+
+The surface did not respond.
+
+Orlov walked out of the room without saying another word.
+
+Chapter 12: Correlation
+
+Reyes built the correlation matrix by hand.
+
+She drew a timeline on the whiteboard, marking every event since the hum appeared. Equipment failures. Crew symptoms. Environmental changes. She connected them with lines of different colors, looking for relationships.
+
+The pattern emerged quickly.
+
+The hum's amplitude correlated with equipment failures at r-squared of ninety-two percent. It correlated with crew reports of headaches at eighty-seven percent. It correlated with fluctuations in station temperature at seventy-eight percent.
+
+One variable did not fit.
+
+The noise.
+
+The station's background noise level had been decreasing steadily for three days. The hum was getting louder, but all other acoustic activity was fading. The pumps were quieter. The ventilation was quieter. The crew spoke in lower voices, moved more slowly, made less sound.
+
+The station was going silent.
+
+Reyes checked the decibel logs. Confirmed. Ambient noise had dropped by fifteen decibels since the hum began. The ocean outside was quiet too. Fish had stopped swimming near the station. The usual crowd of amphipods and crustaceans had vanished.
+
+She ran the acoustic cameras. The water around the station was empty. No bioluminescence. No movement. Nothing.
+
+The sea had gone dead.
+
+She walked to the lab's speaker system and turned it on. The hydrophone feed filled the room. The hum was dominant, overwhelming. But beneath it, she heard something new.
+
+A second tone. Higher. Fainter. Emerging from behind the main signal.
+
+The thing below was adding voices.
+
+She recorded the new tone and ran the analysis. The frequency matched the resonance frequency of the station's primary hull. Not exactly. Nearby. Correcting toward the structural natural frequency.
+
+The thing was tuning itself to the station.
+
+It was learning how to break them.
+
+Chapter 13: The Tremor
+
+The tremor hit at 0345.
+
+Reyes was asleep at her desk, her head resting on her folded arms. The first shock threw her to the floor. The second knocked equipment from the shelves. The third was a sustained vibration that shook the station like a leaf in a storm.
+
+She scrambled to her feet and grabbed the console.
+
+The seismometer was off-scale. The accelerometer showed forces beyond the station's design limits. The hull stress indicators were climbing into the red.
+
+She ran.
+
+The corridors were chaos. Crew members stumbled through emergency lighting. Alarms blared. Water dripped from ceiling panels.
+
+She found Orlov in the control center, strapped into his chair, hands on the manual ballast controls.
+
+"What is it?" she shouted over the noise.
+
+"Not a quake. The source is directly below us. Something is pushing up against the trench floor."
+
+"Pushing?"
+
+"The station has risen eleven centimeters in the last three minutes. The seafloor is lifting us."
+
+The data confirmed it. The pressure sensors showed a massive upward force from below. The trench floor was bulging, deforming, rising.
+
+Something was coming.
+
+Orlov flipped a switch. Emergency thrusters fired. The station shuddered but did not move.
+
+"We're anchored," he said. "The footings are embedded in the seafloor. If the floor lifts, we lift with it."
+
+"How much can the hull take?"
+
+"I don't know. We were never supposed to be moved."
+
+The tremor subsided. The station settled, creaking. The alarms continued.
+
+Reyes checked the depth gauge. They had risen twenty-three centimeters. The seafloor had lifted them like a hand pushing up through sand.
+
+She looked at Orlov. His face was pale, his hands steady.
+
+"We need to leave," she said.
+
+"We can't."
+
+"Then we need to fight."
+
+"Fight what?"
+
+She had no answer.
+
+Chapter 14: Ballast
+
+The ballast check revealed the damage.
+
+Two of the station's eight ballast tanks read zero. Not low. Zero. The water inside them had vanished.
+
+Kowalski stood at the control panel, running the diagnostic for the third time. The numbers did not change.
+
+"Tanks four and seven are empty," she said. "That's twelve hundred liters of water. Gone."
+
+"Leak?" Orlov asked.
+
+"No. The tank integrity is intact. The water just disappeared. I checked the drain valves, the fill lines, the sensor ports. Everything is sealed."
+
+"Then where did the water go?"
+
+Kowalski shook her head. "I don't know."
+
+Reyes examined the schematic. Tanks four and seven were located on the station's port side, closest to the trench wall. The hum's epicenter was also port-side, deeper, beyond the wall.
+
+She pulled up the tank temperature logs. Tank four had spiked to eighty degrees Celsius at the time of the tremor. Tank seven had reached seventy-two. Then they had both dropped to freezing within seconds.
+
+"The water boiled," she said.
+
+Kowalski stared at her. "At eight hundred atmospheres? Water doesn't boil down here. The pressure is too high."
+
+"It does if it's heated fast enough. Supercritical transition. The water went straight from liquid to gas and escaped through the tank vents."
+
+"What could heat a ballast tank to supercritical temperatures?"
+
+Reyes had no answer. But she had a theory.
+
+The thing below was not just pushing. It was radiating heat. Enough heat to boil water through four centimeters of titanium.
+
+She looked at the depth gauge again. They had risen another four centimeters.
+
+The thing was getting closer.
+
+Chapter 15: Radiolarians
+
+Reyes pulled the fossil data from the station's geological archive.
+
+Radiolarians were single-celled organisms that built intricate silica skeletons. They had existed for half a billion years. Their fossils were found everywhere in the ocean floor, including the Mariana Trench.
+
+The hum matched the resonant frequency of a specific radiolarian species. Stylosphaera. The match was not exact, but it was close. Close enough that Reyes felt the hair rise on her arms.
+
+She pulled up the morphology data. Stylosphaera had a spherical central body with radiating spines. The spines created a cage-like structure that resonated at specific frequencies depending on the thickness of the silica.
+
+The hum's primary frequency was the resonant frequency of a Stylosphaera whose spines were exactly one millimeter thick.
+
+That millimeter thickness was not random. It was the thickness required to withstand the pressure at the bottom of the Mariana Trench.
+
+Reyes searched for more. She found a paper from 2003, written by a geologist at Scripps, describing an anomaly in radiolarian fossil distribution around subduction zones. The fossils were concentrated near thermal vents, clustered in patterns that did not match any known current.
+
+The paper suggested the radiolarians might be following a chemical signal. A signal that originated deep in the crust.
+
+Reyes closed the paper and opened the hum's harmonics again. She ran them through the fossil database.
+
+Every harmonic matched a different radiolarian species. Every species had lived at a different depth, a different era, a different pressure.
+
+The hum was a catalogue of extinct life. An archive of everything that had ever lived in the deep.
+
+She realized what she was looking at.
+
+The thing below was not just old. It was ancient. It remembered.
+
+It remembered everything.
+
+Chapter 16: Practical
+
+Orlov listened to Reyes's explanation without interrupting.
+
+When she finished, he leaned back in his chair and stared at the ceiling. The hum was audible even here, in his private quarters. A constant thrum beneath everything.
+
+"Ancient radiolarians," he said.
+
+"Yes."
+
+"A fossil library."
+
+"In a sense."
+
+"At the bottom of the deepest trench on Earth."
+
+"Yes."
+
+He looked at her. "What do you want me to do with this information?"
+
+Reyes hesitated. "I don't know yet. But understanding what it is helps me understand what it wants."
+
+"And what does it want?"
+
+"I think it wants contact."
+
+Orlov laughed. It was not a happy laugh. "Contact. It's boiling our ballast tanks and shaking our hull, and you think it wants to talk."
+
+"I think it's trying to communicate. The way it would communicate with its own kind. Through resonance. Through the crust. Through the water column. It doesn't know we're fragile."
+
+"Then teach it."
+
+"How?"
+
+"I don't know. You're the scientist. Figure it out."
+
+Reyes left his quarters and walked back to the lab. The corridors were dark, the emergency lighting casting weak orange shadows. The crew moved past her in silence.
+
+She sat down at her console and began writing a message.
+
+Not in words. In frequencies. She composed a sequence of tones that followed the hum's own logic, its own grammar. She used the radiolarian resonances as vocabulary. She used the cycle timing as syntax.
+
+She built a sentence in a language she did not speak.
+
+When she was done, she saved the file and set it to transmit on the next cycle.
+
+Then she waited.
+
+Chapter 17: Sediment
+
+The external cameras showed movement.
+
+Reyes had set them to record continuously, cycling through all twelve angles. She watched the feeds on a split screen, her coffee cold beside her.
+
+The sediment on the trench floor was shifting. Slow, deliberate, like a blanket being pulled from beneath.
+
+She zoomed in on Camera Seven, which pointed directly down at the station's base. The seafloor was rippling. Small waves propagated across the sediment surface, radiating outward from a point beneath the station.
+
+She called up the thermal overlay. Vents. Not the station's vents. Natural vents. They had opened in the trench floor, bleeding heat into the water.
+
+The sediment ripples coincided with the thermal pulses. Every time a vent opened, the sediment moved.
+
+She checked the vent temperature. Two hundred degrees Celsius. Hot enough to kill any known deep-sea organism. But something was living in those vents. Something that could survive extreme heat, extreme pressure, extreme darkness. Something that had been waiting.
+
+She watched a stream of bubbles rise from one of the vents. They were not air. They were gas. Methane, probably, released from clathrates beneath the seafloor.
+
+The methane bubbles rose past the station, expanding as they ascended. She tracked them until they disappeared into the black.
+
+Then she saw something else.
+
+A shape. In the water. Beyond the floodlights.
+
+Not a fish. Too large. Too dark. It moved against the current, sliding past the station at a distance of perhaps fifty meters. Reyes held her breath and watched.
+
+The shape was long, tapered, smooth. It did not swim like a living creature. It moved like something carried.
+
+She rewound the footage and enhanced the image.
+
+The shape resolved into a column of darker water. Water that was denser, colder, older. A current within a current. A stream of water from the trench floor, rising like a plume.
+
+At the center of the plume, she saw something solid. Not a biological shape. Something crystalline. Faceted. Reflecting the station's lights in sharp angles.
+
+Then the plume passed, and the water was empty again.
+
+Reyes played the footage three more times. Each time, the same shape. The same angles.
+
+The thing below was not just a source of sound. It had a body. A structure. A presence.
+
+And it was rising.
+
+Chapter 18: Alert
+
+Orlov sounded general alert at 0600.
+
+The alarm was a tone he had hoped never to use. A deep pulse that echoed through the station, calling every crew member to their emergency station.
+
+Reyes stood in the control center, watching the monitors. Sixteen crew members reported in. All present. All accounted for.
+
+Orlov spoke through the intercom. "We are initiating emergency protocols. All non-personnel will proceed to the escape pod bay. Engineers will remain at their posts. Science team will secure all data for evacuation."
+
+A voice crackled over the channel. "Captain, what's happening?"
+
+Orlov looked at Reyes. She nodded.
+
+"Something is approaching the station from below," he said. "We do not know what it is. We do not know what it wants. But it has compromised our hull integrity, our power systems, and our communications. We are preparing to evacuate."
+
+Silence.
+
+Then the questions came. Too many. Overlapping. Orlov cut them off.
+
+"Questions later. Move now."
+
+The crew scattered.
+
+Reyes stayed at her console, transferring her data to a portable drive. The hum was louder now, filling the station with its presence. She felt it in her bones, in her teeth, in the pressure behind her eyes.
+
+She looked at the depth gauge. They had risen two more centimeters.
+
+She looked at the hydrophone feed. The second voice was clearer now, harmonizing with the first. A third was emerging, even higher, even more precise.
+
+The thing was building a chord.
+
+She grabbed her drive and ran for the escape pod bay.
+
+Chapter 19: Lockdown
+
+The lockdown sequence activated automatically.
+
+Orlov had programmed it himself. When the station's structural integrity fell below seventy percent, the computer would seal all watertight doors and isolate each section. It was a standard safety feature. It was also a death sentence if the doors trapped someone on the wrong side.
+
+The doors slammed shut as Reyes ran. She made it through Section B just before the seal engaged. Behind her, the door dropped with a hydraulic hiss, locking Section C off from the rest of the station.
+
+She heard shouting on the other side. Muffled. Distant.
+
+She pressed her hand to the door. "Who's back there?"
+
+A voice answered, distorted through the metal. "Park. And Kowalski. We were in the comms room."
+
+"The door won't open until the computer releases it."
+
+"I know."
+
+"Stay calm. We'll get you out."
+
+She ran on.
+
+The escape pod bay was in Section A, at the top of the station. She climbed the access ladder, her hands slipping on the rungs. The station was tilting. Not much. A few degrees. But enough to make the climb awkward.
+
+She reached the bay and found Orlov already there, checking the pod seals.
+
+"How many?" he asked.
+
+"Park and Kowalski are trapped in Section C. The lockdown doors sealed behind me."
+
+Orlov's jaw tightened. "They'll have to wait. The pods can hold six each. We have sixteen people and three pods. We'll evacuate in waves."
+
+"Who goes first?"
+
+"You. With the data."
+
+"No."
+
+"This isn't a debate."
+
+"Captain, I'm the only one who understands what's happening down here. If I go, you lose that."
+
+Orlov looked at her. The hum vibrated through the deck plates. Somewhere below, metal groaned.
+
+"Fine," he said. "You stay. Someone else goes with the data."
+
+He turned and began assigning seats.
+
+Reyes felt the station tilt another degree.
+
+Chapter 20: Contact
+
+Contact came without warning.
+
+Reyes was in the control center, monitoring the evacuation. The first pod had launched successfully. Eight crew members were ascending through the black water, heading for the surface.
+
+The second pod was preparing to launch.
+
+Then the pressure wave hit.
+
+It was not a sound. It was a force. A wall of water that slammed into the station from below, lifting it, tilting it, compressing it. The lights flickered. The deck pitched. Reyes was thrown against the console.
+
+The alarm system screamed.
+
+She pulled herself upright and checked the sensors. The pressure wave had originated directly beneath the station. It had propagated upward with a force equivalent to a small earthquake.
+
+She looked at the depth gauge. They had risen fourteen meters.
+
+The station was being pushed up the trench wall.
+
+She grabbed the intercom. "Orlov, we're moving. The station is being pushed up the trench wall by the pressure waves."
+
+"I see it. Ballast control is unresponsive. We're riding it."
+
+"How far will it take us?"
+
+"I don't know."
+
+Another wave hit. Stronger. The station groaned, and somewhere in the hull, metal cracked.
+
+Reyes held onto the console and watched the depth gauge spin. Fourteen meters. Twenty-eight. Forty-three.
+
+They were ascending faster than any submarine could manage.
+
+The walls creaked. The floor buckled. The lights flickered and died.
+
+Emergency lighting kicked in, casting the control center in red.
+
+Reyes looked at the hydrophone feed. The hum was distorting, changing, becoming something else.
+
+The thing below was speaking.
+
+And it was telling them to rise.
+
+Chapter 21: Origin
+
+Reyes found the pattern in the acoustic data.
+
+She had been comparing the hum to every known sound source for three days. The answer had been in front of her the whole time, buried in the station's own geological survey.
+
+The Mariana Trench was a subduction zone. The Pacific Plate was sliding beneath the Philippine Plate, dragging billions of tons of crust into the mantle. The process generated heat, pressure, and seismic activity.
+
+But there was something else. A layer of sediment at the bottom of the trench that had been accumulating for millions of years. Organic matter, compressed by weight and time, transformed into a substance that was neither rock nor life.
+
+The substance conducted sound differently than the surrounding crust. It amplified certain frequencies. It stored them. It played them back.
+
+The hum was the sediment layer resonating. But the resonance was not natural. It was being triggered by something beneath the sediment. Something that was sending vibrations up through the crust, using the sediment as a speaker.
+
+She mapped the vibration source. It was not directly below the station. It was deeper, further east, near the axis of the subduction zone. The source was moving, slowly, along the fault line.
+
+The thing was traveling through the crust itself.
+
+She calculated its speed. One kilometer per hour. Directly toward the station.
+
+At that speed, it would arrive in nine hours.
+
+She sent the calculation to Orlov's tablet with a single message: "ETA 9 hours. Source is coming to us."
+
+His reply came a minute later: "Then we go to it."
+
+She stared at the screen.
+
+The Captain was planning something desperate.
+
+Chapter 22: Ascent
+
+Orlov's plan was simple. The emergency ascent thrusters had enough fuel for one sustained burn. He would fire them and attempt to drag the station up the trench wall, away from the approaching source.
+
+The problem was the station's footings. Four massive anchors embedded in the trench floor, each one weighing three tons. They were designed to keep the station stable, to hold it in place against currents and thermal vents.
+
+They were now the only thing keeping the station from rising.
+
+Orlov ordered the footings released.
+
+The controls were in the ballast control room, which was now partially flooded. Kowalski was still trapped in Section C. Orlov would have to go himself.
+
+He grabbed a dive kit and headed for the lower deck.
+
+Reyes watched him go. The station listed at seven degrees. The hum was a physical presence now, pushing against her eardrums, vibrating in her skull.
+
+The intercom crackled. Orlov's voice, distorted by static: "Releasing footings now."
+
+The station lurched.
+
+Then it began to rise.
+
+The ascent was slow at first, then faster. The emergency thrusters pushed against the wall of the trench, driving the station upward along the slope. The hull scraped against rock. The noise was tremendous.
+
+Reyes watched the depth gauge. Three hundred meters. Five hundred. Eight hundred.
+
+The station was climbing the trench wall like a crab ascending a cliff.
+
+She checked the hydrophone feed. The source was still approaching. Faster now. It had accelerated in response to the station's movement.
+
+It was chasing them.
+
+"Orlov, the source is gaining."
+
+No response.
+
+"Orlov?"
+
+The intercom was dead.
+
+The station continued to rise.
+
+Chapter 23: List
+
+The station listed to port.
+
+Not gradually. Suddenly. One moment the ascent was steady, the next the whole structure lurched sideways, throwing Reyes against the wall.
+
+She pulled herself to the console. The port ballast tanks were reading empty. All four of them. The water had been drained or boiled away. The starboard tanks were still full, creating a massive imbalance.
+
+The station was tipping.
+
+She grabbed the intercom. "Orlov, the port tanks are empty. We're listing. The station will capsize if we don't compensate."
+
+No response.
+
+She looked at the emergency thrusters. They were still firing, but the angle was wrong now. The station was being pushed sideways instead of up.
+
+She ran the calculations. At the current rate of list, they would reach critical tilt in twelve minutes.
+
+She opened the ballast control panel and began transferring water from the starboard tanks to the port tanks. The pumps labored. The water moved slowly.
+
+The list continued.
+
+She checked the depth gauge. One thousand two hundred meters. They had climbed almost a kilometer up the trench wall.
+
+The source was two hundred meters below them and closing.
+
+She looked at the hydrophone feed. The second voice was dominant now, harmonizing with the first, creating a chord that vibrated through the entire station.
+
+The thing was singing.
+
+The list reached ten degrees. Twelve. Fifteen.
+
+The station was going to fall.
+
+Chapter 24: Mapping
+
+Reyes needed to understand the thing's shape.
+
+She had the acoustic reflection data from the deep array. The sensors had been pinging for three days, recording every echo that came back. She had assumed the reflections were from geological features. She had been wrong.
+
+She ran the reflection data through a tomographic reconstruction algorithm. The result was a three-dimensional map of everything within two kilometers of the station.
+
+The map showed the trench walls. The sediment layers. The thermal vents. And something else.
+
+A shape. Large. Irregular. Located directly beneath the station, extending down into the crust for at least five hundred meters.
+
+The shape was not solid. It was a network. Tendrils branching through the rock, connecting nodes, forming a structure too organized to be natural.
+
+She enhanced the image. The tendrils were tunnels. Tubes filled with water, cutting through the crust like veins.
+
+The thing was not a single organism. It was a system. A network of passages and chambers, carved into the rock over millions of years.
+
+The nodes were chambers. She counted twelve of them, arranged in a pattern that looked almost architectural.
+
+She measured the distances between nodes. They were not random. They followed a precise geometric sequence. Fibonacci. The golden ratio.
+
+The thing had built itself to mathematical perfection.
+
+She sent the image to Orlov's tablet. No response.
+
+She printed it and pinned it to the wall.
+
+The thing below was not just a creature. It was a civilization. A silent, patient civilization that had been growing beneath the ocean floor for longer than humans had existed.
+
+And it had noticed them.
+
+Chapter 25: Breach
+
+The escape pod seal had been breached.
+
+Reyes discovered it during a system check. The third escape pod, still docked to the upper hull, was showing a pressure loss in its seal. The loss was not gradual. It was sudden, complete, as if the seal had been cut.
+
+She pulled up the external camera feed. The pod's docking collar was intact. The hull was intact. But the seal between the pod and the station was gone.
+
+Not broken. Gone. The rubber gasket had been removed, pulled out of its housing, vanished.
+
+She zoomed in on the collar. The metal surface showed scratches. Parallel grooves, evenly spaced, as if something had gripped the collar and twisted.
+
+The thing had opened the pod from the outside.
+
+She checked the pod's interior camera. The pod was empty. Its emergency supplies were scattered. Its radio was destroyed. Its ballast system was flooded.
+
+The pod was useless.
+
+She called Orlov on the intercom. "Captain, the third pod is breached. The seal is gone. The thing opened it from outside."
+
+His voice came back, distorted by distance and static. "How?"
+
+"I don't know. But it knew where the pod was. It knew how to open it. It's been watching us."
+
+"It's learning."
+
+"Yes."
+
+Silence.
+
+"How many pods do we have left?" she asked.
+
+"Two. One launched. One still docked. But it's not enough for the remaining crew."
+
+"Then we need another way out."
+
+"We're working on it."
+
+The intercom went dead.
+
+Reyes stared at the breached pod on the camera feed. The scratches on the collar were precise. Deliberate. Intelligent.
+
+The thing had not just broken the seal. It had opened it. Like a human opening a jar.
+
+It had hands. Or something like hands.
+
+She did not know if that made it better or worse.
+
+Chapter 26: Collapse
+
+The port observation dome collapsed at 0917.
+
+Reyes heard it before she felt it. A crack, a hiss, and then a roar as water rushed into the station. The alarm system activated. Watertight doors slammed shut.
+
+The dome was in Section D, at the lowest level. It had been the crew's favorite spot, a transparent hemisphere that looked out onto the trench floor. Now it was a hole.
+
+Reyes checked the damage report. Section D was fully flooded. Two crew members had been in the section when the dome failed. Their locator beacons had stopped transmitting.
+
+She stared at the screen. The names blinked red.
+
+She had known them. Ate meals with them. Worked beside them.
+
+They were gone.
+
+She forced herself to focus. The station's structural integrity was at fifty-one percent. The hull was compromised. The tilt was still increasing. The thing was still approaching.
+
+She checked the hydrophone feed. The chord had changed. The third voice had dropped out, replaced by a low rumble that felt like thunder.
+
+The thing was responding to the breach. Not with alarm. With satisfaction.
+
+It had wanted the station to break.
+
+She thought about the observation dome. It had been the weakest point in the hull. The thinnest material. The most exposed surface.
+
+The thing had targeted it deliberately.
+
+She wondered what it would target next.
+
+The answer came quickly. The main reactor. If the reactor went, the station would lose all power. Life support would fail. They would freeze, suffocate, and die in the dark.
+
+She ran for the reactor room.
+
+Chapter 27: Sealed
+
+The watertight door to Section C would not open.
+
+Reyes stood in front of it, hands on the cold metal. The manual release was jammed. The hydraulic system was offline. The emergency override required a power cycle that would take thirty minutes.
+
+On the other side, Kowalski and Park were trapped.
+
+She pressed the intercom button. "Can you hear me?"
+
+A pause. Then Kowalski's voice, thin through the metal. "We hear you."
+
+"The dome collapsed. Section D is flooded. The station is listing. We're losing systems."
+
+"We know. We can feel it."
+
+"The manual release is jammed. I can't get you out."
+
+Another pause. "How bad is it?"
+
+"Bad."
+
+Kowalski laughed. A short, tired sound. "I knew this station was cursed. First day here, I told myself, Kowalski, this place is too deep. You can feel the weight."
+
+"The weight?"
+
+"Of the water. Above you. Every second. You learn to ignore it, but it's there. All that pressure, waiting to crush you."
+
+Reyes pressed her forehead to the door. "I'm sorry."
+
+"Don't be sorry. Get the others out."
+
+"I will."
+
+She walked away from the door. The station tilted another degree. Water dripped from the ceiling. The hum vibrated through everything.
+
+She reached the control center and sat down at the console.
+
+She had lost two crew members. Two more were trapped. The station was dying.
+
+The thing below was winning.
+
+She opened the frequency composer and began writing a new message. No more questions. No more attempts at understanding.
+
+She wrote a warning.
+
+She wrote: "We will burn before we surrender."
+
+She set it to transmit at full power.
+
+Chapter 28: Transmission
+
+The backup beacon was Reyes's last link to the surface.
+
+It was a small device, battery-powered, designed to transmit a simple distress signal on a dedicated frequency. She had found it in the emergency supplies cabinet, still in its packaging.
+
+She opened it and read the instructions. One button. One antenna. One signal.
+
+She climbed to the upper hull access point. The corridor was dark, the emergency lighting flickering. Water sloshed around her ankles.
+
+She reached the access hatch and opened it. The beacon's antenna needed direct line of sight to the surface.
+
+She climbed out onto the station's outer hull.
+
+The darkness was absolute. The floodlights were dead. The only light came from her headlamp, a narrow beam that cut through the black water.
+
+She could feel the hum through the hull. Through the water. Through her body.
+
+She planted the beacon on the hull and activated it.
+
+A green light blinked once. Twice.
+
+The beacon was transmitting.
+
+She climbed back inside, sealed the hatch, and returned to the control center.
+
+She checked the beacon's signal. It was reaching the surface. The message was simple: "Hadal-7. Emergency. Multiple casualties. Structural failure. Source unknown."
+
+She had no idea if anyone would receive it.
+
+She sat in the dark, listening to the hum.
+
+The thing below had stopped singing.
+
+Now it was listening.
+
+Chapter 29: Vocalization
+
+The creature vocalized at 1032.
+
+Not through the hydrophone. Not through the water. Through the hull itself. The station became a speaker, every metal surface vibrating with the creature's voice.
+
+The sound was not a hum anymore. It was a tone. A single, sustained note that resonated through the entire structure. Reyes felt it in her chest, in her throat, in the bones of her skull.
+
+She held onto the console and tried to think.
+
+The note was precise. It was the resonant frequency of the station's main support beam. The beam that held up the entire upper deck.
+
+The creature was going to break the station in half.
+
+She called Orlov. "It's targeting the main support beam. The resonant frequency. It's going to shake the station apart."
+
+"I know. I'm in the reactor room. We're trying to reroute the coolant."
+
+"The beam will fail in minutes."
+
+"Then get everyone to the escape pod."
+
+"There's only one pod left."
+
+"Then take it."
+
+Reyes looked at the crew roster. Nine people still alive on the station. One escape pod, capacity six.
+
+She made a decision.
+
+"Orlov, I'm not leaving."
+
+"Reyes—"
+
+"The pod can take six. Get the crew to the surface. I'll stay and figure out how to stop this thing."
+
+"You can't stop it."
+
+"Maybe not. But I can try."
+
+The note intensified. The deck plates vibrated. Somewhere below, metal screamed.
+
+Orlov was silent for a long moment.
+
+"Good luck, Reyes."
+
+"You too, Captain."
+
+The intercom went dead.
+
+The station began to shake apart.
+
+Chapter 30: Shot
+
+Orlov drew his sidearm in the flooded corridor of Section C.
+
+He had been making his way to the reactor room when the watertight door to Section C had opened. Not fully. A crack. Just enough for water to flow through.
+
+He had looked through the gap and seen something.
+
+Not a tentacle. Not a limb. Something else. A shape in the water, dark and faceted, moving through the flooded section with purpose.
+
+He had drawn his weapon without thinking.
+
+The shape stopped. Turned. Faced him.
+
+It was not an animal. It was a structure. Crystalline arms extending from a central node, rotating slowly, catching the emergency light in sharp reflections.
+
+It was beautiful. And terrible.
+
+He fired.
+
+The bullet struck the central node. The structure shattered. Pieces scattered through the water, glittering, sinking.
+
+The hum stopped.
+
+For one second, there was silence.
+
+Then the sound returned, louder than before. Angry.
+
+The creature had not been hurt. It had been offended.
+
+The water in the corridor began to boil.
+
+Orlov ran.
+
+He made it through the door just before the steam filled the corridor. He slammed the seal behind him, gasping.
+
+His arm was burned. The skin was red, blistering. He wrapped it in his shirt and kept moving.
+
+He reached the reactor room and found the coolant controls.
+
+The station screamed around him.
+
+Chapter 31: Heat
+
+Reyes plotted the energy output of the creature's attacks.
+
+The data was scattered across multiple systems. She pulled it together, correlating each failure with a temperature spike, a pressure wave, a vibration pulse.
+
+The pattern was clear. The creature was feeding on thermal energy.
+
+Every attack drained heat from the surrounding environment and concentrated it at the point of impact. The ballast tanks had been flash-heated. The observation dome had been weakened by thermal stress. The support beam was being heated to its melting point.
+
+The creature was a heat pump. It moved thermal energy from the crust into the station, using the temperature differential to power its actions.
+
+Reyes checked the station's reactor output. The core temperature was stable. But the coolant system was pulling heat away from the reactor and dumping it into the surrounding water.
+
+The creature was intercepting that heat. Using it. Growing stronger.
+
+She had an idea.
+
+She opened the reactor control panel and began adjusting the coolant flow. She reduced the rate, allowing the core to heat up. She increased it, dumping more heat into the water. She modulated the flow in a pattern.
+
+A pattern that matched the creature's cycles.
+
+She was not fighting the creature. She was feeding it. On her terms.
+
+If she could control the heat flow, she could control the creature's behavior. She could lead it away from the station. She could starve it. She could overload it.
+
+She set the coolant system to pulse at the creature's frequency.
+
+The station heated up. The air grew thick. Sweat dripped from her face.
+
+The creature responded. Its vocalizations shifted, harmonizing with the new rhythm.
+
+Reyes held her breath and watched.
+
+The creature was learning her language.
+
+But she was learning its too.
+
+Chapter 32: Target
+
+Orlov confirmed Reyes's theory from the reactor room.
+
+The coolant system was bleeding heat in pulses. The creature was tracking the pulses, moving toward the source. The heat. The reactor.
+
+He looked at the control panel. The reactor was stable, but the thermal output was rising. If the creature reached the reactor, it could drain the core in minutes. The resulting cold shutdown would be catastrophic. The station would freeze.
+
+He checked the emergency protocols. There was a manual override. A way to dump the entire coolant reservoir at once, flash-cooling the reactor and flooding the surrounding section with superheated steam.
+
+The steam would kill the creature. It would also kill anyone in the section.
+
+He was alone in the reactor room.
+
+He made his choice.
+
+He began the override sequence. The computer asked for confirmation three times. He gave it.
+
+The coolant dump would activate in five minutes.
+
+He picked up the intercom. "Reyes, I'm initiating a coolant dump. Superheated steam. It will fill the surrounding sections."
+
+"Including yours."
+
+"Including mine."
+
+"No."
+
+"There's no other way. The creature is targeting the reactor. If it reaches the core, everyone dies. This way, I take it with me."
+
+"Orlov—"
+
+"Get everyone to the escape pod. Launch before the dump. That's an order."
+
+The intercom went dead.
+
+Reyes stared at the console. Her hands were shaking.
+
+She ran for the escape pod bay.
+
+Chapter 33: Counter-Frequency
+
+Reyes stopped halfway to the pod bay.
+
+She could not leave. Not yet. There was another way.
+
+She turned around and ran back to the lab.
+
+The counter-frequency was a theoretical approach she had been developing since the tremor. If the creature responded to specific frequencies, it could be deterred by others. A harmonic that interfered with its own resonance. A signal that caused it pain.
+
+She had the math. She had not tested it.
+
+She opened the hydrophone array controls and began programming the broadcast. The counter-frequency was complex, a layered waveform that targeted the creature's vocalizations at multiple points simultaneously.
+
+She calculated the power required. The broadcast would drain the station's remaining battery reserves. She would have one chance.
+
+She set the timers. The broadcast would begin in two minutes, synchronized with the creature's next vocalization cycle.
+
+She called Orlov. "Stand down the coolant dump. I have another option."
+
+"What?"
+
+"A counter-frequency. It should deter the creature. Drive it back."
+
+"Should?"
+
+"It's theoretical. But it's better than dying."
+
+Silence.
+
+"I'll give you two minutes," Orlov said.
+
+Reyes watched the timer count down.
+
+The creature began its next vocalization.
+
+She hit transmit.
+
+The counter-frequency filled the water. It was a sound that hurt to hear, a discordant howl that cut through the creature's harmonics.
+
+The creature stopped.
+
+The station went quiet.
+
+Then the creature screamed.
+
+Chapter 34: Release
+
+The creature released the station.
+
+Reyes felt it before she saw it. The pressure on the hull decreased. The vibration stopped. The tilt stabilized.
+
+The creature was retreating.
+
+She watched the hydrophone feed. The creature's signal was fading, moving away from the station, descending back toward the trench floor.
+
+The counter-frequency was working.
+
+She reduced the broadcast power, maintaining the signal at a lower level. The creature continued to retreat.
+
+She checked the station's systems. The structural integrity was stabilizing. The list was holding at fifteen degrees. The reactor was stable.
+
+She called Orlov. "It's working. The creature is retreating."
+
+His voice was ragged. "Confirmed. I'm seeing it on the sensors."
+
+"How long will the counter-frequency hold?"
+
+"I don't know. The batteries are running low. Maybe an hour."
+
+"Then we have an hour to figure out our next move."
+
+She looked at the crew roster. Nine people still alive. One escape pod.
+
+The creature was retreating, but it was not gone. It was waiting. Watching.
+
+She opened the hydrophone feed and listened.
+
+The creature was still vocalizing. Softly. A low, steady pulse.
+
+It was not angry. It was patient.
+
+It could wait.
+
+Chapter 35: Return
+
+Orlov emerged from the reactor room with a coolant burn on his arm.
+
+The skin was red and blistered. He wrapped it in a bandage from the first aid kit and kept moving. The station was quiet now, the hum reduced to a murmur.
+
+He found Reyes in the lab, staring at the hydrophone feed.
+
+"It came back," she said.
+
+"What?"
+
+"The creature. The counter-frequency drove it off, but it came back. It's circling the station, about two kilometers out."
+
+Orlov looked at the screen. The creature's signal was there, faint but present, moving in a slow orbit around the station.
+
+"It's waiting," he said.
+
+"Yes."
+
+"For what?"
+
+"I don't know. Maybe for the batteries to die. Maybe for us to make a mistake. Maybe for something else entirely."
+
+Orlov sat down heavily. His arm throbbed. The station creaked around them.
+
+"How long until rescue?" he asked.
+
+"Unknown. The beacon is transmitting, but we have no confirmation it was received. And even if the surface responds, it will take them days to reach us."
+
+"Days we don't have."
+
+"No."
+
+They sat in silence, listening to the distant hum of the creature.
+
+"We need to move the station," Reyes said finally.
+
+"Where?"
+
+"There's a volcanic vent system about three kilometers east of here. I mapped it from the acoustic data. The tunnels are narrow. The creature couldn't follow us inside."
+
+"You want to take a dying station into an active volcanic vent."
+
+"I want to survive."
+
+Orlov looked at her. She looked back.
+
+"Show me the map," he said.
+
+Chapter 36: Steel
+
+The creature wrapped itself around the station.
+
+Reyes saw it on the external cameras first. A dark shape moving through the water, resolving into a mass of crystalline tendrils that coiled around the station's main support spine.
+
+The steel groaned.
+
+She watched the stress indicators spike. The spine was the station's backbone, the central column that connected all sections. If it broke, the station would fold in half.
+
+The creature squeezed.
+
+The groaning grew louder. Metal protested. Rivets popped. The deck tilted.
+
+She opened the intercom. "Orlov, the creature is crushing the main spine. Structural integrity is dropping fast."
+
+"I see it. Can you broadcast the counter-frequency?"
+
+"Batteries are too low. We'd get maybe thirty seconds."
+
+"Then make it count."
+
+She opened the hydrophone controls and set the counter-frequency to broadcast at maximum power. The batteries showed thirty seconds of charge.
+
+She hit transmit.
+
+The sound filled the water. The creature's tendrils loosened. The stress indicators dropped.
+
+Twenty seconds. Ten.
+
+The creature released the station.
+
+The batteries died.
+
+The creature did not retreat this time. It hovered outside the station, its tendrils drifting in the current.
+
+It was learning. The counter-frequency had worked twice. It would not work a third time.
+
+Orlov's voice came over the intercom. "That bought us some time."
+
+"Not much."
+
+"Enough. I'm firing the emergency thrusters. We're heading for the vent."
+
+The station lurched as the thrusters engaged. The creature followed.
+
+Chapter 37: Broadcast
+
+Reyes found the backup batteries in the maintenance locker.
+
+They were small, intended for handheld equipment, not station systems. But they carried charge. She gathered them all.
+
+She wired them together in series, creating a makeshift power source. The voltage was low, but it was enough to power the hydrophone array for a few minutes.
+
+She connected the array to the batteries and activated the counter-frequency one more time.
+
+The broadcast was weaker this time. The creature barely reacted.
+
+She adjusted the frequency. She had been using the same waveform each time. The creature had adapted.
+
+She recalculated the counter-frequency, targeting a different set of harmonics. She tested it at low power.
+
+The creature flinched.
+
+She increased the power and broadcast the new frequency.
+
+The creature retreated. Not far. A few hundred meters. But it gave the station room to move.
+
+Orlov pushed the thrusters to maximum. The station dragged along the trench wall, scraping against rock, heading east toward the vent system.
+
+Reyes watched the creature on the hydrophone feed. It was following them, keeping a steady distance.
+
+She thought about the counter-frequency. It was a weapon, but it was also a message. She was telling the creature that she could hurt it.
+
+The creature was telling her that it could learn.
+
+She wondered who would adapt faster.
+
+The vent system appeared on the sonar. Two kilometers ahead.
+
+They were going to make it.
+
+Chapter 38: Orbit
+
+The creature circled the station at a steady radius of five hundred meters.
+
+Reyes watched it on the acoustic display, a bright spot moving through the darkness. Around and around. Patient. Methodical.
+
+It was not attacking. It was studying.
+
+She checked the station's remaining power. Eight percent. Enough for basic life support for another four hours. Not enough for propulsion, communications, or weapons.
+
+The vent system was five hundred meters ahead. The entrance was a crack in the trench wall, barely wide enough for the station to fit through.
+
+Orlov was at the controls, guiding the station with the last of the thruster fuel.
+
+"The entrance is tight," he said. "We'll have to scrape through."
+
+"How tight?"
+
+"The station is eleven meters wide. The crack is twelve."
+
+"It's going to be close."
+
+"It always is."
+
+The station drifted toward the crack. The creature continued to circle.
+
+Reyes watched the distance decrease. Three hundred meters. Two hundred. One hundred.
+
+The creature changed course. It stopped circling and moved directly toward the station.
+
+"It sees what we're doing," she said. "It knows where we're heading."
+
+Orlov said nothing. He adjusted the thrusters. The station angled toward the crack.
+
+Fifty meters. The creature was closing.
+
+Twenty meters. The creature was two hundred meters away and accelerating.
+
+Ten meters. The station entered the crack.
+
+The creature struck.
+
+The impact slammed the station sideways. Metal screamed against rock. The crack was too narrow for the creature to follow, but it was not trying to follow. It was trying to crush the station against the wall.
+
+Orlov fired the thrusters. The station scraped deeper into the crack.
+
+The creature struck again. The station lurched. The lights flickered.
+
+Then the crack widened, and the station was through.
+
+The creature stopped at the entrance. It could not fit.
+
+They were safe. For now.
+
+Chapter 39: Refuge
+
+The vent tunnel was dark and narrow.
+
+The station's floodlights showed rough walls, steaming water, and the occasional burst of bubbles from thermal vents. The temperature was rising.
+
+Reyes checked the external sensors. Forty degrees Celsius. Fifty. Sixty. The water around the station was heating up as they moved deeper into the vent system.
+
+"How far in can we go?" Orlov asked.
+
+"The tunnel extends about two kilometers before it opens into a chamber. The chamber connects to the main vent shaft, which goes down another three kilometers to the magma chamber."
+
+"And the creature?"
+
+"It can't follow. The tunnel is too narrow."
+
+"For now."
+
+Reyes looked at the sonar. The creature was still at the entrance, hovering. It was not leaving.
+
+"It's waiting," she said.
+
+"Let it wait. We have supplies for a week. Rescue will come before then."
+
+"Will it?"
+
+Orlov did not answer.
+
+The station settled on the floor of the tunnel. The thrusters were empty. The batteries were dying. The hull was damaged.
+
+But they were alive.
+
+Reyes leaned back in her chair and closed her eyes.
+
+The hum was gone. For the first time in three days, the station was silent.
+
+She should have felt relief. Instead, she felt exposed.
+
+The silence was wrong. The creature's voice had become a constant, something she had grown accustomed to. Without it, the station felt empty. Hollow.
+
+She opened her eyes and looked at the sonar.
+
+The creature was still at the entrance. Still waiting.
+
+She wondered how long it would stay.
+
+She wondered what it was thinking.
+
+She wondered if it was thinking at all.
+
+Chapter 40: Probing
+
+The creature began probing the tunnel.
+
+Reyes saw it on the seismic sensors first. Low-frequency vibrations, traveling through the rock, testing the tunnel walls. The creature was mapping the vent system.
+
+She watched the vibrations propagate. They were structured, organized, each one carefully targeted at a specific section of the tunnel.
+
+The creature was looking for weaknesses.
+
+She called Orlov. "It's probing the tunnel walls. Looking for another way in."
+
+"Can it find one?"
+
+"I don't know. The vent system is geologically active. There are fractures and weaknesses throughout the rock. If it finds one, it could break through."
+
+"Where would it come in?"
+
+She pulled up the tunnel map and calculated the most likely entry points. Three locations. All within fifty meters of the station.
+
+"I'll reinforce the hull at those points," Orlov said. "It won't stop a direct breach, but it might buy us time."
+
+He left to gather welding equipment.
+
+Reyes watched the vibrations continue. The creature was patient. Methodical. It had waited millions of years. It could wait a few more hours.
+
+She thought about the creature's intelligence. It was not animal. It was something else. Something that had evolved in a world without light, without sound, without anything humans would recognize as life.
+
+It had its own logic. Its own language. Its own desires.
+
+She wondered what it wanted.
+
+Not to kill them. It could have done that already. Not to drive them away. It could have let them leave.
+
+It wanted something else. Something she could not understand.
+
+She looked at the sonar. The creature was still there, a patient presence in the darkness.
+
+Waiting.
+
+Chapter 41: Second Signature
+
+Reyes detected the second signature at 1400.
+
+She had been monitoring the creature's position, watching it probe the tunnel walls. The probe signals were consistent, predictable. Then a new signal appeared.
+
+Different frequency. Different source location. Different modulation.
+
+She checked the source. It was coming from deeper in the trench, about fifteen kilometers to the east. Moving toward the station.
+
+The creature had called for help.
+
+She watched the second signature approach. It was larger than the first, moving faster, generating a different set of harmonics. The two creatures communicated as the second approached, exchanging information in pulses and tones.
+
+They were talking about the station.
+
+She called Orlov. "There's a second creature. Heading toward us."
+
+"How far?"
+
+"Fifteen kilometers. Moving at about thirty kilometers per hour."
+
+"ETA thirty minutes."
+
+"Less. It's accelerating."
+
+Orlov was silent for a moment. "Can we go deeper into the vent?"
+
+"The tunnel gets narrower. The station won't fit."
+
+"Then we fight."
+
+"How?"
+
+"With what we have."
+
+She looked at the equipment around her. The hydrophone array. The thermal sensors. The emergency batteries.
+
+She had an idea.
+
+Chapter 42: Communication
+
+The two creatures communicated in frequencies that scrambled every sensor on the station.
+
+Reyes watched the data feed dissolve into noise. The acoustic sensors overloaded. The seismic sensors went off-scale. The electromagnetic sensors picked up interference that should not exist underwater.
+
+The creatures were speaking a language that jammed human technology.
+
+She reduced the gain on all sensors, filtering out the worst of the noise. The conversation was still visible in the background, a pattern of pulses and harmonics that shifted too fast for her equipment to track.
+
+She recorded what she could and ran it through the analysis algorithm.
+
+The first creature was reporting. The second was questioning. The first was explaining. The second was deciding.
+
+It sounded like a chain of command.
+
+The first creature had been a scout. The second was a decision-maker. Or a protector. Or a parent.
+
+She did not know. She could only guess.
+
+The conversation ended.
+
+The second creature changed course and headed directly for the tunnel entrance.
+
+Reyes watched it approach. It was larger than the first, its signal stronger, its harmonics more complex. It reached the entrance and stopped.
+
+The creatures conferenced again. Brief. Efficient.
+
+Then the second creature entered the tunnel.
+
+It did not fit. The tunnel was too narrow. But it did not care. It pushed forward, grinding against the rock, scraping its crystalline body against the walls.
+
+It was coming for them.
+
+Orlov's voice came over the intercom. "It's in the tunnel."
+
+"I know."
+
+"How long until it reaches us?"
+
+She calculated the creature's speed, the tunnel's width, the distance. "Ten minutes."
+
+"Then we have ten minutes to think of something."
+
+Reyes looked at the thermal sensors. The vent shaft was getting hotter.
+
+She looked at the escape pod. Six seats. Nine people.
+
+She looked at the creature, pushing through the tunnel toward them.
+
+She had nine minutes left.
+
+Chapter 43: Descent
+
+Orlov used the emergency thrusters to drag the station deeper into the vent system.
+
+The fuel was nearly gone. The thrusters coughed and sputtered. But the station moved, scraping along the tunnel floor, descending into the heat.
+
+The creature followed.
+
+Reyes watched the temperature climb. Seventy degrees. Eighty. The water around the station was approaching boiling.
+
+The tunnel widened ahead, opening into a chamber. A thermal vent rose from the chamber floor, a column of superheated water rising from the depths.
+
+Orlov aimed the station at the vent.
+
+"What are you doing?" Reyes asked.
+
+"Going down."
+
+"The vent leads to the magma chamber."
+
+"I know."
+
+"Orlov, that's suicide."
+
+"Staying here is suicide. I'm choosing the option that gives us a chance."
+
+The station reached the vent and tilted downward. The heat was intense now. The hull creaked. The paint blistered.
+
+The creature stopped at the chamber entrance. It could not follow into the vent. The heat was too high.
+
+Orlov kept the station descending.
+
+The temperature passed one hundred degrees. The station's cooling systems labored. The emergency lights dimmed.
+
+"How deep?" Reyes asked.
+
+"Two hundred meters until the vent turns horizontal. There's a side tunnel marked on the geological survey. It should lead to a secondary vent shaft. We can surface from there."
+
+"You read the geological survey?"
+
+"I read everything."
+
+The station descended into the darkness.
+
+The creature watched from above, its signal fading as the distance grew.
+
+Chapter 44: Pursuit
+
+The creatures collapsed the tunnel behind the station.
+
+Reyes felt the vibrations through the hull. The creatures were attacking the tunnel walls, triggering collapses that sealed the passage behind them.
+
+"They're blocking the exit," she said.
+
+"They don't want us going back."
+
+"Where do they want us to go?"
+
+"Forward."
+
+The station continued its descent. The vent channel was narrow, barely wider than the station itself. The walls were hot to the touch. The water was turbid, thick with minerals.
+
+The hydrophone feed showed nothing. The creatures were above them, blocked by the collapse.
+
+But they were still communicating. Their signals traveled through the rock, through the water, through the station itself. They were coordinating. Planning.
+
+Reyes pulled up the geological survey. The vent system was complex, a network of channels and chambers carved by millions of years of volcanic activity. The side tunnel Orlov had mentioned was real. It branched off the main vent about three hundred meters below their current position.
+
+From the side tunnel, there was a path to the surface. A secondary vent shaft that opened onto the slope of the trench, about fifteen kilometers from the station's original position.
+
+The path was narrow. Unstable. Unmapped.
+
+But it was a way out.
+
+She showed it to Orlov.
+
+"That's our exit," he said.
+
+"The tunnel might not be stable."
+
+"It doesn't have to be stable. It just has to hold long enough for us to pass through."
+
+He adjusted the station's descent angle. The vent shaft curved ahead.
+
+The side tunnel appeared on the sonar.
+
+It was smaller than expected. Too small.
+
+The station would not fit.
+
+Chapter 45: Vent
+
+Reyes identified the volcanic vent as the only refuge.
+
+The side tunnel was too small for the station, but the main vent chamber below was large enough. The chamber had been formed by a ancient eruption, a bubble in the rock that had cooled into a cavity the size of a sports stadium.
+
+The creatures could not enter. The heat was too intense. The water was near boiling, superheated by the magma below.
+
+She showed Orlov the data.
+
+"It's a dead end," she said. "The chamber is a terminal. There's no exit from it except the way we came."
+
+"But the creatures can't follow."
+
+"No."
+
+"So it's a standoff."
+
+"For now."
+
+Orlov piloted the station into the chamber. The space opened around them, cavernous and dark. The station's floodlights showed walls of black rock, steaming vents, and pools of bubbling water.
+
+The temperature was one hundred and twenty degrees. The hull was heating up. The station's cooling system was running at maximum.
+
+"How long can we stay here?" Orlov asked.
+
+"Depends on the hull. The titanium can take the heat for about six hours before it starts to weaken. After that, we need to leave or be crushed."
+
+"Six hours."
+
+"And the creatures are still at the entrance. They're waiting."
+
+Orlov looked at the sonar. Two signals, bright and steady, at the entrance to the vent system.
+
+"They're patient," he said.
+
+"They've had millions of years to practice."
+
+He laughed. A dry, tired sound.
+
+"We need a plan," he said.
+
+Reyes looked at the thermal sensors. The heat was rising.
+
+She had an idea.
+
+Chapter 46: Plunge
+
+Orlov piloted the failing station into the vent shaft.
+
+The decision came suddenly. The creatures had begun probing again, finding new weaknesses in the rock. The chamber was no longer safe.
+
+"There's a thermal plume rising from the magma chamber," Orlov said. "It goes straight up through the vent system."
+
+"To where?"
+
+"The surface. The plume is a column of superheated water that rises at incredible speed. If we position the station in the plume, it will carry us up."
+
+"Like a cork in a pipe."
+
+"Exactly."
+
+"The heat will destroy the station."
+
+"The station is already destroyed. The question is whether we survive."
+
+Reyes looked at the crew. Nine people. Tired, scared, hopeful.
+
+She looked at the creatures on the sonar, waiting at the entrance.
+
+She looked at Orlov.
+
+"Do it."
+
+He engaged the thrusters. The station drifted toward the vent shaft. The heat intensified. The hull groaned.
+
+The station entered the plume.
+
+The ascent was sudden and violent. The station shot upward, carried by the force of the thermal column. The walls of the vent shaft blurred past. The temperature spiked.
+
+The hull began to fail.
+
+Reyes held onto the console and watched the depth gauge spin.
+
+Fifteen hundred meters. Twelve hundred. Eight hundred.
+
+The station was rising faster than any submarine.
+
+The creatures were not following. They could not survive in the plume.
+
+But the station could not survive either.
+
+The hull temperature passed two hundred degrees.
+
+The emergency lights flickered.
+
+The depth gauge showed four hundred meters.
+
+They were going to make it.
+
+Chapter 47: Ascent
+
+The station broke the surface at 1645.
+
+Reyes felt the change before she saw it. The pressure decreased. The temperature dropped. The steady groan of straining metal stopped.
+
+Then light. Blinding, golden, pouring through the damaged observation window.
+
+She raised her hand to shield her eyes.
+
+She had not seen sunlight in eleven months.
+
+The station floated on the surface, listing badly, steam rising from its hull. The water was blue, warm, calm. The sky was clear.
+
+She heard cheering. The crew, emerging from the escape pod bay, standing on the tilted deck, looking at the sky.
+
+She found Orlov on the control deck, staring at the horizon.
+
+"We made it," she said.
+
+He did not look at her. "For now."
+
+"What do you mean?"
+
+He pointed at the water. The sea was calm. But beneath the surface, something moved. A dark shape, deep below.
+
+The creatures had followed.
+
+Not through the vent. Through the trench. Around the volcanic system. They had found another path.
+
+"They're still coming," Orlov said.
+
+Reyes looked at the water. The shape was distant, barely visible. But it was there.
+
+She looked at the horizon. No rescue ships. No aircraft. Nothing.
+
+"Get the emergency beacon working," she said. "We need to tell the surface what's down there."
+
+"They won't believe us."
+
+"They will when they see it."
+
+Orlov nodded and walked to the comms room.
+
+Reyes stayed on the deck, watching the water.
+
+The creatures were circling below. Waiting. Patient.
+
+But she was patient too.
+
+And she had something they did not.
+
+The sun.
+
+Chapter 48: Surface
+
+The emergency buoys deployed automatically at 1700.
+
+Reyes had triggered them from the control panel, a final redundancy she had saved for the surface. The buoys floated on the water, transmitting the station's position and status to any satellite within range.
+
+The response came within minutes.
+
+A cargo ship, the Pacific Venture, was two hundred kilometers away and changing course. ETA four hours.
+
+A Navy patrol aircraft was scrambling from Guam. ETA ninety minutes.
+
+The surface world had heard them.
+
+Reyes sat on the tilted deck, her back against the damaged hull, and looked at the sky. The sun was lowering, painting the clouds orange and pink.
+
+The water was calm. The creatures were deep below, their signals faint.
+
+Orlov sat beside her. His arm was bandaged. His face was tired.
+
+"They're still down there," he said.
+
+"I know."
+
+"Watching."
+
+"Yes."
+
+"Do you think they'll follow us?"
+
+"I don't know. They're tied to the deep. The pressure, the temperature, the darkness. The surface might be as hostile to them as the trench is to us."
+
+"Or they might adapt."
+
+Reyes looked at the water. It was dark blue, nearly black, hiding everything beneath.
+
+"I don't think they'll adapt," she said. "I think they're old. Too old to change. They've been in the deep for millions of years. They don't want the surface. They want the trench."
+
+"Then why did they attack?"
+
+"Because we were in their territory. We were noise. Intrusion. They were defending their home."
+
+Orlov was quiet for a moment. "What if we go back?"
+
+"We don't."
+
+"We have data. Knowledge. We could study them."
+
+"Some things should stay unknown."
+
+He looked at her. She looked back.
+
+"You really believe that?" he asked.
+
+"I believe that we found something that doesn't want to be found. We should respect that."
+
+The aircraft appeared on the horizon. A speck, growing larger, the sound of engines reaching them across the water.
+
+Reyes stood up.
+
+"Let's go home," she said.
+
+Chapter 49: Signal
+
+The rescue helicopter landed on the station's tilted deck.
+
+Reyes helped the crew board, counting each person as they climbed into the cabin. Nine people. All alive. All accounted for.
+
+She was the last to board.
+
+She stood on the deck for a moment, looking at the water. The creatures were still down there. She could feel them. A presence in the deep, watching, waiting.
+
+She thought about the signal. The hum. The language she had almost understood.
+
+She wondered if she would ever understand it fully.
+
+She wondered if she wanted to.
+
+The helicopter pilot called to her. "Ma'am, we need to go."
+
+She climbed aboard.
+
+The helicopter lifted off, banking away from the ruined station. She watched it shrink, a dark shape on the blue water, steam still rising from its hull.
+
+The station had been her home for eleven months. Now it was a wreck, adrift, alone.
+
+She turned away and looked at the sky.
+
+The Pacific Venture appeared on the horizon, a dark shape against the setting sun.
+
+The helicopter flew toward it.
+
+Reyes closed her eyes and listened.
+
+The hum was gone. The creatures were too deep to hear. But she could still feel them, a vibration in her bones, a memory of sound.
+
+She opened her eyes.
+
+She had survived.
+
+But the deep had left its mark.
+
+Chapter 50: Daylight
+
+Reyes woke in a hospital bed on Guam.
+
+The light was white, clean, sterile. A window showed palm trees and blue sky. The air was warm and smelled of flowers.
+
+She did not know how long she had been asleep.
+
+A nurse came in, checked her vitals, smiled, and left.
+
+Orlov arrived an hour later. His arm was in a sling. His face was shaved. He looked almost human.
+
+"They're debriefing us tomorrow," he said. "Navy intelligence. They want to know everything."
+
+"Do you know everything?"
+
+"No. But I know enough."
+
+Reyes sat up. Her body ached. Her mind was foggy.
+
+"The creatures," she said. "Have you heard anything?"
+
+"Seismic stations picked up activity at the trench. Large-scale movement. But it's stabilizing. They're settling back down."
+
+"They're going back to sleep."
+
+"It looks that way."
+
+She looked out the window. The sky was blue. The ocean was calm.
+
+"Will they wake again?" she asked.
+
+"Maybe. If we disturb them again."
+
+"Will we?"
+
+Orlov was quiet. "I don't know. Humans are not good at leaving things alone."
+
+Reyes thought about the station. The data she had collected. The knowledge she had gained.
+
+She had a responsibility. To share what she had learned. To warn others.
+
+But she also had a responsibility. To protect the deep. To let it be.
+
+She looked at her hands. They were steady.
+
+"Promise me something," she said.
+
+"What?"
+
+"If we go back, we go back to listen. Not to drill. Not to extract. Not to exploit."
+
+Orlov looked at her for a long moment.
+
+"I promise," he said.
+
+She did not know if he meant it.
+
+But it was a start.
+
+Outside, the sun was bright.
+
+The deep between stars was silent.

@@ -1,0 +1,35 @@
+{
+  "title": "The Bone Garden",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Medical Thriller",
+  "subgenre": "Medical Thriller",
+  "language": "en",
+  "short_description": "When a rare pathogen escapes a high-security lab, a CDC doctor must find the source before the outbreak becomes a pandemic.",
+  "long_description": "Deep in the sublevel-three containment labs of AeternaGen, a genetically modified fungus designed for industrial paper pulping has escaped. The organism does not just infect its hosts -- it dissolves their bones from within, reducing femurs to hollow shells and filling blood with lethal levels of calcium.\n\nCDC epidemiologist Dr. Lena Cross is called to consult on a mysterious death and discovers a pathogen unlike anything in the medical literature. When the military arrives to seize her samples and silence her investigation, Lena must choose between compliance and the lives of the infected. With the help of a dying mentor, a wary FBI agent, and her own fierce determination, she races to develop a treatment, expose a corporate cover-up, and stop an outbreak before it becomes a global pandemic.\n\nThe Bone Garden is a medical thriller about the cost of cutting corners in biosafety, the courage of speaking truth to power, and the scientist who refuses to look away.",
+  "main_characters": [
+    "Dr. Lena Cross -- CDC senior epidemiologist",
+    "Colonel Marcus Harper -- USAMRIID military liaison",
+    "Daniel Okonkwo -- Patient Zero, AeternaGen lab technician",
+    "Dr. Elaine Vesper -- AeternaGen CEO",
+    "Special Agent Tessa Roy -- FBI Bio-Weapons unit",
+    "Dr. Simon Park -- retired CDC pathologist, Lena's mentor"
+  ],
+  "keywords": [
+    "medical thriller",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "pandemic",
+    "CDC",
+    "bioweapons",
+    "bioengineering",
+    "fungal infection"
+  ],
+  "TXT_path": "books/The_Bone_Garden/txt/The_Bone_Garden.txt",
+  "EPUB_path": "books/The_Bone_Garden/epub/The_Bone_Garden.epub",
+  "cover_path": "books/The_Bone_Garden/covers/The_Bone_Garden.png",
+  "outline_path": "books/The_Bone_Garden/planning/The_Bone_Garden_outline.md",
+  "cover_script_path": "books/The_Bone_Garden/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

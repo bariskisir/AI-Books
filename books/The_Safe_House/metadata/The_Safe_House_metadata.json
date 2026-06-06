@@ -1,0 +1,30 @@
+{
+  "title": "The Safe House",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Romantic Suspense",
+  "subgenre": "Witness Protection",
+  "language": "en",
+  "short_description": "A federal witness and her handler hide out in a remote Montana cabin but the hunter is closer than they think and so is love.",
+  "long_description": "Elena Vasquez has been running for eighteen months. A former forensic accountant who uncovered a massive money laundering operation for the Orellana cartel, she has cycled through four safe houses and three identities. Her latest refuge is a remote cabin in Montana's Sapphire Mountains, where Deputy U.S. Marshal Cole Brennan is assigned as her final handler.\n\nAs a brutal winter seals them off from the outside world, Elena and Cole establish a fragile routine of survival. But the cartel's most relentless enforcer, known only as the Hunter, has tracked her across the country. When he reaches Montana and begins closing in, Elena and Cole must rely on each other to survive the elements, outthink a predator, and confront the dangerous attraction building between them.\n\nA taut romantic suspense novel set against the white vastness of a Montana winter, The Safe House explores trust, survival, and the unexpected places where love takes root.",
+  "main_characters": [
+    "Elena Vasquez",
+    "Deputy U.S. Marshal Cole Brennan",
+    "The Hunter (Joaquin Salazar)"
+  ],
+  "keywords": [
+    "romantic suspense",
+    "witness protection",
+    "Montana",
+    "survival",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Safe_House/txt/The_Safe_House.txt",
+  "EPUB_path": "books/The_Safe_House/epub/The_Safe_House.epub",
+  "cover_path": "books/The_Safe_House/covers/The_Safe_House.png",
+  "outline_path": "books/The_Safe_House/planning/The_Safe_House_outline.md",
+  "cover_script_path": "books/The_Safe_House/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

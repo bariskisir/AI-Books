@@ -1,0 +1,35 @@
+{
+  "title": "The Witch of Thornwood Hollow",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fantasy Romance",
+  "subgenre": "Enchanted Forest Romance",
+  "language": "en",
+  "short_description": "A reclusive witch and a skeptical botanist must bridge the gap between science and sorcery to save a cursed forest.",
+  "long_description": "Morwen has spent a decade alone in a crumbling cottage at the edge of Thornwood Hollow, bound by a blood-oath to contain the Thorn King — a vengeful spirit whose barbed vines are slowly consuming the forest. Her only companions are a half-bird sprite named Lark and the wounded animals she tends in secret.\n\nWhen Dr. Elias Thorne arrives from the Royal Institute to investigate the forest's unexplained blight, his empirical skepticism clashes with Morwen's wild magic. But as the Thorn King's corruption spreads faster than ever, the two must find common ground between science and sorcery. Elias discovers that moonlight alters salt's crystalline structure against the thorns. Morwen learns that some poisons can be fought with cultivated microbes.\n\nAs the boundary fails and the Thorn King reaches for the village, Morwen and Elias must perform a ritual that fuses blood and science — and face the truth that some curses can only be broken by an act of shared faith. In the ashes of the old oak, they plant something new: a future neither of them expected to find.",
+  "main_characters": [
+    "Morwen — The Witch of Thornwood Hollow",
+    "Dr. Elias Thorne — A botanist from the Royal Institute",
+    "The Thorn King — An ancient spirit of bitterness and betrayal",
+    "Old Margit — The village herbalist",
+    "Lark — A forest sprite bound to Morwen"
+  ],
+  "keywords": [
+    "fantasy romance",
+    "enchanted forest",
+    "witch",
+    "botanist",
+    "magic",
+    "cursed forest",
+    "romance",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Witch_of_Thornwood_Hollow/txt/The_Witch_of_Thornwood_Hollow.txt",
+  "EPUB_path": "books/The_Witch_of_Thornwood_Hollow/epub/The_Witch_of_Thornwood_Hollow.epub",
+  "cover_path": "books/The_Witch_of_Thornwood_Hollow/covers/The_Witch_of_Thornwood_Hollow.png",
+  "outline_path": "books/The_Witch_of_Thornwood_Hollow/planning/The_Witch_of_Thornwood_Hollow_outline.md",
+  "cover_script_path": "books/The_Witch_of_Thornwood_Hollow/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

@@ -1,0 +1,12 @@
+File,Size,Description,model
+Beneath_the_Glass_Sea/planning/Beneath_the_Glass_Sea_outline.md,2KB,Premise + cast + 50-chapter plan,deepseek-v4-flash
+Beneath_the_Glass_Sea/txt/Beneath_the_Glass_Sea.txt,11,444 words,deepseek-v4-flash
+Beneath_the_Glass_Sea/metadata/Beneath_the_Glass_Sea_metadata.json,1KB,Title/author/genre metadata,deepseek-v4-flash
+Beneath_the_Glass_Sea/tools/build_epub.py,6KB,EPUB 3 build script (Python),deepseek-v4-flash
+Beneath_the_Glass_Sea/tools/create_cover.py,6KB,Cover generation script (PIL/Python),deepseek-v4-flash
+Beneath_the_Glass_Sea/covers/Beneath_the_Glass_Sea.png,65KB,Cover image,deepseek-v4-flash
+Beneath_the_Glass_Sea/epub/Beneath_the_Glass_Sea.epub,170KB,Final EPUB 3 file,deepseek-v4-flash
+Beneath_the_Glass_Sea/README.md,1KB,Book landing page,deepseek-v4-flash
+Beneath_the_Glass_Sea/reports/final_report.md,1KB,Completion summary,deepseek-v4-flash
+Beneath_the_Glass_Sea/reports/manifest.csv,1KB,File inventory,deepseek-v4-flash
+Beneath_the_Glass_Sea/reports/progress.md,1KB,Chapter completion tracker,deepseek-v4-flash

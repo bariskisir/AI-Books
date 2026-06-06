@@ -1,0 +1,64 @@
+{
+  "title": "The Woman in the Window",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Neo-Noir",
+  "subgenre": "Psychological Thriller",
+  "language": "en",
+  "short_description": "A reclusive photographer witnesses a murder through her zoom lens, but the police find no body, no evidence, and the woman in the photograph died twenty years ago.",
+  "long_description": "Zoe Cross has not left her apartment in twenty-two years. From her window, she photographs the world she cannot bear to join. One night, through her telephoto lens, she witnesses a violent struggle in the building across the courtyard. A woman in a red dress falls. A shadow stands over her. Zoe calls the police.\n\nDetective Marco Ruiz arrives to find no body, no blood, no signs of struggle. The apartment is pristine. The woman in the photograph matches a database entry for Elena Marchetti -- who died in a car accident twenty years ago. Ruiz is skeptical. The evidence points to delusion or deception. But Zoe knows what she saw.\n\nAs Zoe digs deeper, she uncovers a web of lies stretching back two decades: a family secret, a hidden sister, a father who would do anything to keep his daughters close. The woman in the window is real. And she is begging for help before it is too late.",
+  "main_characters": [
+    {
+      "name": "Zoe Cross",
+      "role": "Protagonist",
+      "description": "A reclusive street photographer in her early forties. Agoraphobic for twenty-two years. Observant, isolated, determined."
+    },
+    {
+      "name": "Detective Marco Ruiz",
+      "role": "Supporting",
+      "description": "A weary homicide detective nearing retirement. Cynical but fair. Gradually becomes a believer."
+    },
+    {
+      "name": "Elena Marchetti",
+      "role": "The Woman",
+      "description": "A woman who supposedly died twenty years ago. Kept prisoner by her father for decades. The original daughter."
+    },
+    {
+      "name": "Frank Marchetti",
+      "role": "Antagonist",
+      "description": "Elena and Carla's father. A retired restaurateur who has been keeping his daughters captive for decades."
+    },
+    {
+      "name": "Carla Marchetti",
+      "role": "Supporting",
+      "description": "Elena's half-sister. Escaped the family and disappeared for years. Holds the key to the truth."
+    },
+    {
+      "name": "James Adler",
+      "role": "Supporting",
+      "description": "A true-crime podcaster who investigated the Marchetti case for years. Becomes Zoe's ally."
+    },
+    {
+      "name": "Dr. Lydia Thorne",
+      "role": "Supporting",
+      "description": "Zoe's therapist. Monitors her agoraphobia from a careful professional distance."
+    }
+  ],
+  "keywords": [
+    "neo-noir",
+    "psychological thriller",
+    "photography",
+    "agoraphobia",
+    "missing persons",
+    "false imprisonment",
+    "family secrets",
+    "witness protection",
+    "true crime",
+    "trauma recovery",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Woman_in_the_Window/txt/The_Woman_in_the_Window.txt",
+  "EPUB_path": "books/The_Woman_in_the_Window/epub/The_Woman_in_the_Window.epub",
+  "cover_path": "books/The_Woman_in_the_Window/covers/The_Woman_in_the_Window.png",
+  "status": "complete_txt_epub_available"
+}

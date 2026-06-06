@@ -1,0 +1,12 @@
+file,size_bytes,status,model
+The_Book_of_Dirt/planning/The_Book_of_Dirt_outline.md,,complete,deepseek-v4-flash
+The_Book_of_Dirt/txt/The_Book_of_Dirt.txt,11203 words,complete,deepseek-v4-flash
+The_Book_of_Dirt/metadata/The_Book_of_Dirt_metadata.json,,complete,deepseek-v4-flash
+The_Book_of_Dirt/covers/The_Book_of_Dirt.png,122656,complete,deepseek-v4-flash
+The_Book_of_Dirt/epub/The_Book_of_Dirt.epub,234531,complete,deepseek-v4-flash
+The_Book_of_Dirt/tools/build_epub.py,,complete,deepseek-v4-flash
+The_Book_of_Dirt/tools/create_cover.py,,complete,deepseek-v4-flash
+The_Book_of_Dirt/README.md,,complete,deepseek-v4-flash
+The_Book_of_Dirt/reports/final_report.md,,complete,deepseek-v4-flash
+The_Book_of_Dirt/reports/manifest.csv,,complete,deepseek-v4-flash
+The_Book_of_Dirt/reports/progress.md,,complete,deepseek-v4-flash

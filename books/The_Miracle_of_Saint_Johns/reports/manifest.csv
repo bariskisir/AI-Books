@@ -1,0 +1,12 @@
+file,size_bytes,status,model
+planning/The_Miracle_of_Saint_Johns_outline.md,1132,complete,deepseek-v4-flash
+txt/The_Miracle_of_Saint_Johns.txt,51872,complete,deepseek-v4-flash
+metadata/The_Miracle_of_Saint_Johns_metadata.json,1345,complete,deepseek-v4-flash
+tools/build_epub.py,6496,complete,deepseek-v4-flash
+tools/create_cover.py,8275,complete,deepseek-v4-flash
+covers/The_Miracle_of_Saint_Johns.png,239641,complete,deepseek-v4-flash
+epub/The_Miracle_of_Saint_Johns.epub,241891,complete,deepseek-v4-flash
+README.md,1535,complete,deepseek-v4-flash
+reports/final_report.md,1630,complete,deepseek-v4-flash
+reports/manifest.csv,535,complete,deepseek-v4-flash
+reports/progress.md,167,complete,deepseek-v4-flash

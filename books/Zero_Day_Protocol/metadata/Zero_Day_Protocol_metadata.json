@@ -1,0 +1,35 @@
+{
+  "title": "Zero Day Protocol",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Techno-Thriller",
+  "subgenre": "Cyber-Thriller",
+  "language": "en",
+  "short_description": "A cyber-security analyst discovers a zero-day exploit in the nation's power grid, with only 72 hours to stop a catastrophic attack.",
+  "long_description": "Maya Chen, a senior analyst at the National Cyber Security Center, is reviewing routine SCADA logs when she discovers a sophisticated zero-day exploit embedded in the nation's power grid control systems. The exploit, planted by a hacker known only as Ghost, has a timer set to detonate in 72 hours, triggering a cascading blackout across the entire Eastern Seaboard.\n\nWith General Marcus Reeves of Cyber Command breathing down her neck and Ghost always one step ahead, Maya must race against time to trace the exploit's origin and find a way to stop it. Her investigation uncovers a Russian intelligence operation, a traitor within her own agency, and a former colleague with a dangerous secret. As the clock ticks down, Maya finds herself in a confrontation that will determine the fate of a hundred million lives.\n\nZero Day Protocol is a taut techno-thriller about the vulnerabilities in our critical infrastructure, the shadow wars fought in cyberspace, and the people willing to sacrifice everything to prevent catastrophe.",
+  "main_characters": [
+    "Maya Chen",
+    "Ghost (Jake Parsons)",
+    "General Marcus Reeves",
+    "Director Sarah Okonkwo",
+    "Dmitri Volkov",
+    "Alan Webber"
+  ],
+  "keywords": [
+    "techno-thriller",
+    "cyber-security",
+    "zero-day exploit",
+    "power grid",
+    "hacker",
+    "thriller",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/Zero_Day_Protocol/txt/Zero_Day_Protocol.txt",
+  "EPUB_path": "books/Zero_Day_Protocol/epub/Zero_Day_Protocol.epub",
+  "cover_path": "books/Zero_Day_Protocol/covers/Zero_Day_Protocol.png",
+  "outline_path": "books/Zero_Day_Protocol/planning/Zero_Day_Protocol_outline.md",
+  "cover_script_path": "books/Zero_Day_Protocol/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

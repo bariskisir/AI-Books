@@ -1,0 +1,12 @@
+file,size_bytes,description,model
+The_Last_Shot/planning/The_Last_Shot_outline.md,2670,50-chapter outline with premise and cast,deepseek-v4-flash
+The_Last_Shot/txt/The_Last_Shot.txt,47408,Full 50-chapter manuscript (~9300 words),deepseek-v4-flash
+The_Last_Shot/metadata/The_Last_Shot_metadata.json,1080,Book metadata in JSON format,deepseek-v4-flash
+The_Last_Shot/tools/build_epub.py,6532,EPUB 3 build script,deepseek-v4-flash
+The_Last_Shot/tools/create_cover.py,5499,PIL cover generation script with tennis imagery,deepseek-v4-flash
+The_Last_Shot/covers/The_Last_Shot.png,80027,1600x2560 cover image with Wimbledon court,deepseek-v4-flash
+The_Last_Shot/epub/The_Last_Shot.epub,175847,EPUB 3 ebook with cover,deepseek-v4-flash
+The_Last_Shot/README.md,683,Book readme with cover and download link,deepseek-v4-flash
+The_Last_Shot/reports/final_report.md,1302,Final completion report,deepseek-v4-flash
+The_Last_Shot/reports/manifest.csv,554,File manifest (this file),deepseek-v4-flash
+The_Last_Shot/reports/progress.md,24,Progress status,deepseek-v4-flash

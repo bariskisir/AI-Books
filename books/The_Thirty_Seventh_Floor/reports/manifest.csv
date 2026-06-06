@@ -1,0 +1,13 @@
+file,size_bytes
+The_Thirty_Seventh_Floor/planning/The_Thirty_Seventh_Floor_outline.md,2522
+The_Thirty_Seventh_Floor/txt/The_Thirty_Seventh_Floor.txt,66952
+The_Thirty_Seventh_Floor/metadata/The_Thirty_Seventh_Floor_metadata.json,1114
+The_Thirty_Seventh_Floor/tools/build_epub.py,6103
+The_Thirty_Seventh_Floor/tools/create_cover.py,7966
+The_Thirty_Seventh_Floor/covers/The_Thirty_Seventh_Floor.png,71907
+The_Thirty_Seventh_Floor/epub/The_Thirty_Seventh_Floor.epub,175397
+The_Thirty_Seventh_Floor/README.md,327
+The_Thirty_Seventh_Floor/reports/final_report.md,1218
+The_Thirty_Seventh_Floor/reports/manifest.csv,491
+The_Thirty_Seventh_Floor/reports/progress.md,31
+Model,deepseek-v4-flash

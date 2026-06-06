@@ -1,0 +1,39 @@
+{
+  "title": "The Oracle's Lament",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Mythological Fiction",
+  "subgenre": "Ancient Greek Mythology",
+  "language": "en",
+  "short_description": "A cursed prophet races against fate to save Troy from a destruction only she can see coming.",
+  "long_description": "Cassandra, daughter of King Priam, was granted the gift of prophecy by Apollo — and then cursed to never be believed. For ten years she watches the Greek fleet assemble, the battles rage, and her city march toward annihilation. She warns Hector, begs Paris, confronts her father the king. No one listens.\n\nFrom the first sail sighted off Tenedos to the wooden horse at the Scaean Gate, from the fall of Hector to the fires that consume Troy, this retelling of the Trojan War places the prophet at the center of her own tragedy. Cassandra must navigate the impossible burden of foresight: to know everything and change nothing.\n\nDrawing on the Homeric tradition and the Greek tragedies of Aeschylus and Euripides, The Oracle's Lament is a literary exploration of fate, voice, and the loneliness of truth in a world that prefers comfortable lies.",
+  "main_characters": [
+    "Cassandra — Trojan princess and prophetess cursed by Apollo",
+    "Prince Paris — Cassandra's brother, whose love for Helen triggers the war",
+    "Andromache — Wife of Hector, a clear-eyed ally who sometimes believes",
+    "Priam — King of Troy, Cassandra's father",
+    "Hector — Prince of Troy, Troy's greatest warrior",
+    "Helen — Paris's wife, whose abduction brought the Greek fleet",
+    "Theano — High priestess of Athena at Troy",
+    "Achilles — Greek hero, slayer of Hector",
+    "Agamemnon — King of Mycenae, leader of the Greek forces",
+    "Clytemnestra — Queen of Mycenae, Agamemnon's wife"
+  ],
+  "keywords": [
+    "mythological fiction",
+    "Trojan War",
+    "Cassandra",
+    "Greek mythology",
+    "prophecy",
+    "Troy",
+    "historical fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Oracles_Lament/txt/The_Oracles_Lament.txt",
+  "EPUB_path": "books/The_Oracles_Lament/epub/The_Oracles_Lament.epub",
+  "cover_path": "books/The_Oracles_Lament/covers/The_Oracles_Lament.png",
+  "outline_path": "books/The_Oracles_Lament/planning/The_Oracles_Lament_outline.md",
+  "cover_script_path": "books/The_Oracles_Lament/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "The Architect's Dream",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Designed Utopia",
+  "subgenre": "Architectural Thriller",
+  "language": "en",
+  "short_description": "A structural engineer discovers a hidden geometric flaw in a perfect utopian city, forcing her to choose between the myth and the truth.",
+  "long_description": "The city of Harmonia was built according to the principles of sacred geometry — every angle, proportion, and material chosen to shape human behavior toward cooperation, creativity, and calm. Crime rates fell to near zero within a generation. Creativity flourished. Citizens reported unprecedented life satisfaction.\n\nWhen structural engineer Rhea Stone discovers that the city's foundational geometry contains a hidden flaw — a miscalculation in the original architect's plans that will cause critical infrastructure to fail — she faces an impossible choice: reveal the flaw and shatter the utopian myth that holds the city together, or stay silent while the city literally crumbles around her. Her investigation leads her through layers of denial, conspiracy, and a secret history that traces back to the city's founding architect himself.",
+  "main_characters": [
+    "Rhea Stone",
+    "Kepler Venn",
+    "Director Hale",
+    "Mira Sol",
+    "Dr. Yuki Tanaka"
+  ],
+  "keywords": [
+    "sacred geometry",
+    "utopia",
+    "architecture",
+    "structural engineering",
+    "conspiracy",
+    "truth",
+    "city planning",
+    "Designed Utopia"
+  ],
+  "TXT_path": "books/The_Architects_Dream/txt/The_Architects_Dream.txt",
+  "EPUB_path": "books/The_Architects_Dream/epub/The_Architects_Dream.epub",
+  "cover_path": "books/The_Architects_Dream/covers/The_Architects_Dream.png",
+  "outline_path": "books/The_Architects_Dream/planning/The_Architects_Dream_outline.md",
+  "cover_script_path": "books/The_Architects_Dream/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

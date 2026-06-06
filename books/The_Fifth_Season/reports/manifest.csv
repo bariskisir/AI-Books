@@ -1,0 +1,12 @@
+File,Size (bytes),Type,Status,model
+planning/The_Fifth_Season_outline.md,,Markdown,Complete,deepseek-v4-flash
+txt/The_Fifth_Season.txt,38805,Text,Complete,deepseek-v4-flash
+epub/The_Fifth_Season.epub,188849,EPUB,Complete,deepseek-v4-flash
+covers/The_Fifth_Season.png,79385,PNG,Complete,deepseek-v4-flash
+metadata/The_Fifth_Season_metadata.json,1651,JSON,Complete,deepseek-v4-flash
+tools/build_epub.py,6465,Python,Complete,deepseek-v4-flash
+tools/create_cover.py,6243,Python,Complete,deepseek-v4-flash
+README.md,830,Markdown,Complete,deepseek-v4-flash
+reports/final_report.md,1285,Markdown,Complete,deepseek-v4-flash
+reports/manifest.csv,560,CSV,Complete,deepseek-v4-flash
+reports/progress.md,,Markdown,Complete,deepseek-v4-flash

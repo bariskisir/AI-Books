@@ -1,0 +1,38 @@
+{
+  "title": "The Wintering",
+  "number": 4,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Historical survival / Psychological fiction",
+  "language": "en",
+  "target_word_count": 11000,
+  "planned_chapters": 50,
+  "word_count": 11140,
+  "short_description": "Six men overwinter in Antarctica after their ship fails to return, and the months of total darkness begin to undo them one by one.",
+  "long_description": "Antarctica, 1912. Six men are deposited on the Ross Ice Shelf by the supply vessel RGS Resolute, which departs for McMurdo Sound and never returns. Dr. Alistair Finch — a Cambridge biologist studying extremophile organisms — must keep his men alive through four months of total darkness with dwindling supplies and no rescue. The winter is not merely cold and dark. The ice sings. The wind carries voices. And the boundary between isolation and madness is thinner than any of them prepared for. As the men fracture along fault lines of class, temperament, and fear, Finch confronts the limits of scientific reason and the darkness that has followed him since childhood. Told in spare, luminous prose, The Wintering is a novel about survival, the stories we tell ourselves in the dark, and what remains of a man when everything — light, hope, the world itself — is taken away.",
+  "main_characters": [
+    "Dr. Alistair Finch",
+    "John Carver",
+    "Emmett Shaw",
+    "Thomas \"Tallow\" Wren",
+    "Arthur Pence",
+    "Daniel Kitteridge"
+  ],
+  "keywords": [
+    "literary fiction",
+    "Antarctica",
+    "survival",
+    "historical fiction",
+    "polar exploration",
+    "isolation",
+    "psychological fiction",
+    "Edwardian era",
+    "Ross Ice Shelf",
+    "heroic age of exploration"
+  ],
+  "TXT_path": "books/The_Wintering/txt/The_Wintering.txt",
+  "cover_path": "books/The_Wintering/covers/The_Wintering.png",
+  "EPUB_path": "books/The_Wintering/epub/The_Wintering.epub",
+  "status": "complete_txt_epub_available"
+}

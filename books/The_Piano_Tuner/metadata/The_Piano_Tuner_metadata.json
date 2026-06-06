@@ -1,0 +1,39 @@
+{
+  "title": "The Piano Tuner",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Gothic",
+  "subgenre": "Victorian Gothic",
+  "language": "en",
+  "short_description": "A blind piano tuner in Victorian Edinburgh is called to tune a piano in a house where the music never stops and the player is dead.",
+  "long_description": "Mr. Silas Croft, a blind piano tuner in Victorian Edinburgh, has built his reputation on an exquisite sensitivity to sound — a gift sharpened by his blindness. When Lady Ashworth summons him to her home on Royal Crescent, he finds a grand piano that plays on without a pianist. The music never stops. The player, her son William, is dead — three months buried — yet the instrument produces his compositions each night.\n\nAs Croft returns week after week, he pieces together the story of William Ashworth, a gifted composer who grew reclusive and erratic in his final year. With the help of a skeptical physician, a retired inspector, and a housekeeper who sees shadows, Croft uncovers a tale of forbidden love, a dismissed maid named Catherine, and a mother's cruel interference.\n\nBut the piano is not haunted. It is not possessed. It is speaking — playing the unfinished confession William could not make in life. Croft must find Catherine, complete the music, and help the dead finish what he started. In doing so, he discovers that some songs are never finished. They simply wait for the right ear to hear them.",
+  "main_characters": [
+    "Mr. Silas Croft — A blind piano tuner, precise and solitary, whose blindness has sharpened his hearing beyond ordinary measure",
+    "Lady Eleanor Ashworth — A widow in mourning, brittle and guarded, whose actions set the tragedy in motion",
+    "William Ashworth — The musician, a gifted composer who died by his own hand, leaving behind an unfinished sonata",
+    "Catherine Graham — A former maid in the Ashworth house, dismissed while carrying William's child",
+    "Mrs. Poole — The Ashworth housekeeper, who sees William's shadow and hears the music every night",
+    "Dr. Marcus Finch — The family physician, a rationalist who cannot explain the phenomenon",
+    "Inspector Jameson — A retired policeman who doubts the official verdict of suicide"
+  ],
+  "keywords": [
+    "literary gothic",
+    "victorian gothic",
+    "piano",
+    "ghost story",
+    "edinburgh",
+    "blind protagonist",
+    "unfinished music",
+    "forbidden love",
+    "gothic fiction",
+    "supernatural",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Piano_Tuner/txt/The_Piano_Tuner.txt",
+  "EPUB_path": "books/The_Piano_Tuner/epub/The_Piano_Tuner.epub",
+  "cover_path": "books/The_Piano_Tuner/covers/The_Piano_Tuner.png",
+  "outline_path": "books/The_Piano_Tuner/planning/The_Piano_Tuner_outline.md",
+  "cover_script_path": "books/The_Piano_Tuner/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

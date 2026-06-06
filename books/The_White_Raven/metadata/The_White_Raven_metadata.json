@@ -1,0 +1,40 @@
+{
+  "title": "The White Raven",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Nordic Noir",
+  "subgenre": "Crime Fiction / Arctic Mystery",
+  "language": "en",
+  "short_description": "A detective in northern Sweden investigates a string of disappearances during the endless night of polar winter — the only witness is a white raven.",
+  "long_description": "When three people vanish without trace during the polar winter in the remote Swedish mining town of Kiruna, Detective Liisa Kivi is sent from Stockholm to investigate. The disappearances defy logic — no tracks, no witnesses, no bodies. The only constant across each crime scene is a white raven, a leucistic anomaly that locals regard as an omen.\n\nAs the sunless days stretch on and the cold deepens, Liisa must navigate a web of old grudges, corporate secrets, and a killer who knows the frozen wilderness better than anyone. With the help of a reclusive hunter named Eirik Vinter, she descends into the labyrinthine tunnels of the iron mine — and discovers that the killer has been waiting for her all along.\n\nThe White Raven is a taut, atmospheric Nordic Noir novel about obsession, justice, and the stories we tell about the dark.",
+  "main_characters": [
+    "Detective Liisa Kivi — A sharp, quiet investigator with Sami heritage, haunted by an unsolved case from Stockholm",
+    "The White Raven — A leucistic raven that appears at each crime scene, trained by the killer as a signature",
+    "Eirik Vinter — A reclusive hunter and former mining engineer who knows the forest and tunnels better than anyone",
+    "Gunnar Nilsson — The local constable in Kiruna, weary but committed",
+    "Lars Magnusson — A security guard at the mine, the killer who followed Liisa from Stockholm",
+    "Marcus Magnusson — Lars's brother and accomplice, who trained the white raven",
+    "Linnea Nilsson — A fifteen-year-old girl who becomes the killer's final target"
+  ],
+  "keywords": [
+    "nordic noir",
+    "crime fiction",
+    "arctic mystery",
+    "sweden",
+    "polar winter",
+    "serial killer",
+    "white raven",
+    "kiruna",
+    "detective",
+    "mining town",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_White_Raven/txt/The_White_Raven.txt",
+  "EPUB_path": "books/The_White_Raven/epub/The_White_Raven.epub",
+  "cover_path": "books/The_White_Raven/covers/The_White_Raven.png",
+  "outline_path": "books/The_White_Raven/planning/The_White_Raven_outline.md",
+  "cover_script_path": "books/The_White_Raven/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Larklight",
+  "number": 1,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Family saga / Gothic fiction",
+  "language": "en",
+  "target_word_count": 33000,
+  "planned_chapters": 50,
+  "word_count": 32950,
+  "short_description": "After her grandmother's death, a woman returns to a remote Maine lighthouse and discovers journals spanning four generations of the women who kept it.",
+  "long_description": "Larklight Point is the loneliest place on the Maine coast — a granite spur where the lighthouse has stood since 1884, warning ships away from the teeth of Black Rock Ledges. When Lena March returns to clear her grandmother Iris's house after a long estrangement, she finds a trunk of journals written by four generations of March women: Sarah, who arrived as a bride in 1884 and learned that isolation was its own kind of religion; Ada, who kept the light during the 1918 influenza pandemic while the town died by inches; Iris herself, who came as a young wife in 1952 and stayed through decades of silence; and the unnamed entries from 1978, the year the lighthouse was decommissioned and Iris stopped speaking to anyone. As Lena reads, she begins to understand that the lighthouse held not just a light but the accumulated weight of love, grief, madness, and devotion — and that her own story has been shaped by a legacy she was never told. Written in luminous literary prose, Larklight is a multi-generational novel about what we inherit, what we leave behind, and whether a place can hold more than memory.",
+  "main_characters": [
+    "Lena March",
+    "Iris March",
+    "Sarah March",
+    "Ada March",
+    "Elias March",
+    "Thomas Wainwright",
+    "Cora Bell",
+    "Dr. Nathaniel Parrish",
+    "Margaret Cross",
+    "Theo Vance"
+  ],
+  "keywords": [
+    "literary fiction",
+    "family saga",
+    "lighthouse",
+    "Maine",
+    "multi-generational",
+    "gothic",
+    "women's lives",
+    "isolation",
+    "legacy",
+    "memory"
+  ],
+  "TXT_path": "books/Larklight/txt/Larklight.txt",
+  "cover_path": "books/Larklight/covers/Larklight.png",
+  "EPUB_path": "books/Larklight/epub/Larklight.epub",
+  "status": "complete_txt_epub_available"
+}

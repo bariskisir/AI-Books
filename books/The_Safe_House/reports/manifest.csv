@@ -1,0 +1,12 @@
+file,size_bytes,description,model
+The_Safe_House/planning/The_Safe_House_outline.md,2838,Outline with premise,deepseek-v4-flash, and 50-chapter plan
+The_Safe_House/txt/The_Safe_House.txt,52521,Complete 50-chapter manuscript,deepseek-v4-flash
+The_Safe_House/epub/The_Safe_House.epub,195450,EPUB 3 ebook,deepseek-v4-flash
+The_Safe_House/covers/The_Safe_House.png,84947,Cover image,deepseek-v4-flash
+The_Safe_House/metadata/The_Safe_House_metadata.json,1123,Production metadata,deepseek-v4-flash
+The_Safe_House/tools/build_epub.py,5694,EPUB build script,deepseek-v4-flash
+The_Safe_House/tools/create_cover.py,6602,Cover generation script,deepseek-v4-flash
+The_Safe_House/README.md,277,Book readme,deepseek-v4-flash
+The_Safe_House/reports/final_report.md,819,Final report,deepseek-v4-flash
+The_Safe_House/reports/manifest.csv,533,File manifest,deepseek-v4-flash
+The_Safe_House/reports/progress.md,29,Progress tracker,deepseek-v4-flash

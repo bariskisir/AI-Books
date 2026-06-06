@@ -1,0 +1,50 @@
+{
+  "title": "The Murmuration",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Thriller",
+  "subgenre": "Environmental Thriller",
+  "language": "en",
+  "short_description": "A wildlife photographer documents starling murmurations and discovers a tech company is using the birds as a living data transmission network.",
+  "long_description": "Saskia Vance, a wildlife photographer shattered by a near-fatal accident, retreats to the Somerset Levels to rebuild her career documenting starling murmurations. What she finds in the birds' flight patterns defies explanation: deliberate geometric formations carrying encoded data.\n\nWith the help of Dr. Alistair Naylor, an aging ornithologist who has secretly documented the anomalies for years, Saskia uncovers a conspiracy involving Aethelred Technologies, a data brokerage using the starlings as a biological communication network. The birds have been trained to carry falsified environmental reports, hiding decades of industrial pollution.\n\nAs a dangerous fixer known only as The Collector closes in, Saskia must decode the murmurations, save Naylor from kidnappers, and expose the truth before the company silences them both. The Murmuration is a literary thriller about the collision of nature and technology, the resilience of wild things, and the cost of bearing witness.",
+  "main_characters": [
+    "Saskia Vance — Wildlife photographer, early thirties. Recovering from a climbing accident that killed her partner. Sharp, observant, stubborn.",
+    "Dr. Alistair Naylor — Ornithologist, late sixties. Has spent his life on the Somerset Levels studying starlings. Gentle, precise, secretly terrified.",
+    "The Collector (Marcus Sterling) — Aethelred Technologies fixer. Former MI5. Mid-forties, polished, utterly ruthless."
+  ],
+  "keywords": [
+    "starlings",
+    "murmuration",
+    "wildlife photography",
+    "environmental thriller",
+    "ornithology",
+    "data transmission",
+    "Somerset Levels",
+    "corporate conspiracy",
+    "infrasound",
+    "bird behavior",
+    "whistleblower",
+    "environmental crime"
+  ],
+  "TXT_path": "books/The_Murmuration/txt/The_Murmuration.txt",
+  "EPUB_path": "books/The_Murmuration/epub/The_Murmuration.epub",
+  "cover_path": "books/The_Murmuration/covers/The_Murmuration.png",
+  "paths": {
+    "outline": "books/The_Murmuration/planning/The_Murmuration_outline.md",
+    "manuscript": "books/The_Murmuration/txt/The_Murmuration.txt",
+    "epub": "books/The_Murmuration/epub/The_Murmuration.epub",
+    "cover": "books/The_Murmuration/covers/The_Murmuration.png",
+    "metadata": "books/The_Murmuration/metadata/The_Murmuration_metadata.json",
+    "build_script": "books/The_Murmuration/tools/build_epub.py",
+    "cover_script": "books/The_Murmuration/tools/create_cover.py",
+    "readme": "books/The_Murmuration/README.md",
+    "final_report": "books/The_Murmuration/reports/final_report.md",
+    "manifest": "books/The_Murmuration/reports/manifest.csv",
+    "progress": "books/The_Murmuration/reports/progress.md"
+  },
+  "stats": {
+    "chapters": 50,
+    "word_count_estimate": 17500
+  },
+  "status": "complete_txt_epub_available"
+}

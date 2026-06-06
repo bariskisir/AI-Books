@@ -1,0 +1,16 @@
+Title,The_Hound_of_Blackwood_Lane,model
+Author,Barış Kısır,deepseek-v4-flash
+Language,en,deepseek-v4-flash
+Chapters,50,deepseek-v4-flash
+Word Count,10000,deepseek-v4-flash
+TXT,The_Hound_of_Blackwood_Lane/txt/The_Hound_of_Blackwood_Lane.txt,deepseek-v4-flash
+EPUB,The_Hound_of_Blackwood_Lane/epub/The_Hound_of_Blackwood_Lane.epub,deepseek-v4-flash
+Cover,The_Hound_of_Blackwood_Lane/covers/The_Hound_of_Blackwood_Lane.png,deepseek-v4-flash
+Outline,The_Hound_of_Blackwood_Lane/planning/The_Hound_of_Blackwood_Lane_outline.md,deepseek-v4-flash
+Metadata,The_Hound_of_Blackwood_Lane/metadata/The_Hound_of_Blackwood_Lane_metadata.json,deepseek-v4-flash
+Build Script,The_Hound_of_Blackwood_Lane/tools/build_epub.py,deepseek-v4-flash
+Cover Script,The_Hound_of_Blackwood_Lane/tools/create_cover.py,deepseek-v4-flash
+README,The_Hound_of_Blackwood_Lane/README.md,deepseek-v4-flash
+Final Report,The_Hound_of_Blackwood_Lane/reports/final_report.md,deepseek-v4-flash
+Manifest,The_Hound_of_Blackwood_Lane/reports/manifest.csv,deepseek-v4-flash
+Progress,The_Hound_of_Blackwood_Lane/reports/progress.md,deepseek-v4-flash

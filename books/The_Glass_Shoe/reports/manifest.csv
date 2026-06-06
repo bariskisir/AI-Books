@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+The_Glass_Shoe/txt/The_Glass_Shoe.txt,12951,text/plain,deepseek-v4-flash
+The_Glass_Shoe/planning/The_Glass_Shoe_outline.md,1892,text/markdown,deepseek-v4-flash
+The_Glass_Shoe/epub/The_Glass_Shoe.epub,247844,application/epub+zip,deepseek-v4-flash
+The_Glass_Shoe/covers/The_Glass_Shoe.png,122540,image/png,deepseek-v4-flash
+The_Glass_Shoe/metadata/The_Glass_Shoe_metadata.json,891,application/json,deepseek-v4-flash
+The_Glass_Shoe/tools/build_epub.py,5899,text/x-python,deepseek-v4-flash
+The_Glass_Shoe/tools/create_cover.py,5462,text/x-python,deepseek-v4-flash
+The_Glass_Shoe/README.md,274,text/markdown,deepseek-v4-flash
+The_Glass_Shoe/reports/final_report.md,906,text/markdown,deepseek-v4-flash
+The_Glass_Shoe/reports/manifest.csv,535,text/csv,deepseek-v4-flash
+The_Glass_Shoe/reports/progress.md,30,text/markdown,deepseek-v4-flash

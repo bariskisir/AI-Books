@@ -1,0 +1,40 @@
+{
+  "title": "The Unwritten City",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Political Utopia",
+  "subgenre": "Speculative Fiction",
+  "language": "en",
+  "short_description": "In the city of Annua, all laws expire at midnight on the winter solstice and are rewritten by citizen assemblies — but when political analyst Elara Venn discovers that a faction has learned to manipulate the assemblies through procedural capture, she must expose the corruption without breaking the democratic process itself.",
+  "long_description": "In the city of Annua, all laws expire at midnight on the winter solstice and are rewritten by citizen assemblies over the following month. This annual renewal has sustained the most radically democratic society in history for two centuries. Political analyst Elara Venn believes in the system with her whole life's work. But when she discovers a statistical anomaly in facilitator voting records, she begins pulling a thread that leads to a hidden network called the Continuity Circle — a faction that has spent decades capturing the procedural levers of the Assembly.\n\nWith the help of citizen-journalist Solomon Tev, whose transcripts document every session; Old Mari, a centenarian who carries the founders' unwritten rules in her memory; and a reluctant confession from a compromised facilitator, Elara must decide how to expose the corruption without breaking the system she is trying to save. She must choose between working within the rules that have been captured and invoking the founders' original tools — direct petition, the right of challenge, the ancient privileges that exist outside the written code.\n\nSet over the course of a single Assembly month, The Unwritten City is a novel about procedural democracy, the fragility of trust, and the radical act of showing up. It asks whether a system designed to renew itself can survive the people who claim to protect it.",
+  "main_characters": [
+    "Elara Venn — Political analyst, mid-thirties. A believer in the Assembly system who discovers the Circle's procedural capture and risks everything to expose it.",
+    "Councilor Darian Moss — Assembly leader, early fifties. The public face of the Circle, recruited as a teenager and shaped by decades of managed consensus.",
+    "Solomon Tev — Citizen-journalist, late twenties. Runs the only independent record of every Assembly session. Becomes Elara's primary ally.",
+    "Old Mari — Centenarian, participant in 180 Assemblies. Keeper of the unwritten rules and the founders' original charter. She has watched the Circle grow for decades.",
+    "Estele Kader — Former facilitator, recruited by Yarrow in year seventy-eight. Spent twenty-three years as a tool of the Circle before confessing.",
+    "Yarrow — Former head facilitator, architect of the Circle's appointment system. Recruited by the mysterious Curator.",
+    "Corin Hale — East River neighborhood council member whose housing ordinance was buried by the Circle.",
+    "Alina — Young citizen whose market reform proposal was buried for thirty years before passing under the reformed Assembly."
+  ],
+  "keywords": [
+    "political utopia",
+    "speculative fiction",
+    "democracy",
+    "procedural capture",
+    "citizen assembly",
+    "renewal",
+    "institutional reform",
+    "political corruption",
+    "direct democracy",
+    "utopian fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Unwritten_City/txt/The_Unwritten_City.txt",
+  "EPUB_path": "books/The_Unwritten_City/epub/The_Unwritten_City.epub",
+  "cover_path": "books/The_Unwritten_City/covers/The_Unwritten_City.png",
+  "outline_path": "books/The_Unwritten_City/planning/The_Unwritten_City_outline.md",
+  "cover_script_path": "books/The_Unwritten_City/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

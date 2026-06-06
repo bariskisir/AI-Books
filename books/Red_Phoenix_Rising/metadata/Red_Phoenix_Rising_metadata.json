@@ -1,0 +1,37 @@
+{
+  "title": "Red Phoenix Rising",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Superhero",
+  "subgenre": "Superhero",
+  "language": "en",
+  "short_description": "A retired superhero must don the mask again when a new villain threatens to burn the city to the ground.",
+  "long_description": "Fifteen years ago, the hero known as Phoenix walked away from Iron City and never looked back. Now firefighter Dominic Cross lives a quiet life, haunted by the night he failed to save a young boy from a burning building. When a brilliant and theatrical arsonist called the Inferno begins systematically burning the city's landmarks, Dominic is forced back into action. With only Detective Elena Park as an unwilling ally and his own aging body as an adversary, he must uncover the Inferno's identity before Iron City burns to ash.",
+  "main_characters": [
+    "Dominic Cross / Phoenix",
+    "Detective Elena Park",
+    "The Inferno / Leo Marchetti",
+    "Marcus Webb",
+    "Captain Lorraine Voss",
+    "Danny DeSantos",
+    "Councilman Thomas Park"
+  ],
+  "keywords": [
+    "superhero",
+    "arson",
+    "vigilante",
+    "redemption",
+    "fire",
+    "Iron City",
+    "Barış Kısır",
+    "novel",
+    "fiction"
+  ],
+  "TXT_path": "books/Red_Phoenix_Rising/txt/Red_Phoenix_Rising.txt",
+  "EPUB_path": "books/Red_Phoenix_Rising/epub/Red_Phoenix_Rising.epub",
+  "cover_path": "books/Red_Phoenix_Rising/covers/Red_Phoenix_Rising.png",
+  "outline_path": "books/Red_Phoenix_Rising/planning/Red_Phoenix_Rising_outline.md",
+  "cover_script_path": "books/Red_Phoenix_Rising/tools/create_cover.py",
+  "status": "complete_txt_epub_available",
+  "word_count": 11469
+}

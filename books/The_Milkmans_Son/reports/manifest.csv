@@ -1,0 +1,12 @@
+file,size_bytes,status,model
+The_Milkmans_Son/planning/The_Milkmans_Son_outline.md,,complete,deepseek-v4-flash
+The_Milkmans_Son/txt/The_Milkmans_Son.txt,8160,complete,deepseek-v4-flash
+The_Milkmans_Son/metadata/The_Milkmans_Son_metadata.json,,complete,deepseek-v4-flash
+The_Milkmans_Son/epub/The_Milkmans_Son.epub,201536,complete,deepseek-v4-flash
+The_Milkmans_Son/covers/The_Milkmans_Son.png,116030,complete,deepseek-v4-flash
+The_Milkmans_Son/README.md,,complete,deepseek-v4-flash
+The_Milkmans_Son/tools/build_epub.py,,complete,deepseek-v4-flash
+The_Milkmans_Son/tools/create_cover.py,,complete,deepseek-v4-flash
+The_Milkmans_Son/reports/final_report.md,,complete,deepseek-v4-flash
+The_Milkmans_Son/reports/manifest.csv,,complete,deepseek-v4-flash
+The_Milkmans_Son/reports/progress.md,,complete,deepseek-v4-flash

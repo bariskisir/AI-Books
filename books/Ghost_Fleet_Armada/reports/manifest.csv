@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+Ghost_Fleet_Armada/README.md,220,text,deepseek-v4-flash
+Ghost_Fleet_Armada/covers/Ghost_Fleet_Armada.png,260696,image,deepseek-v4-flash
+Ghost_Fleet_Armada/epub/Ghost_Fleet_Armada.epub,316910,application,deepseek-v4-flash
+Ghost_Fleet_Armada/metadata/Ghost_Fleet_Armada_metadata.json,1030,text,deepseek-v4-flash
+Ghost_Fleet_Armada/planning/Ghost_Fleet_Armada_outline.md,3927,text,deepseek-v4-flash
+Ghost_Fleet_Armada/reports/final_report.md,1276,text,deepseek-v4-flash
+Ghost_Fleet_Armada/reports/manifest.csv,432,text,deepseek-v4-flash
+Ghost_Fleet_Armada/reports/progress.md,27,text,deepseek-v4-flash
+Ghost_Fleet_Armada/tools/build_epub.py,6995,text,deepseek-v4-flash
+Ghost_Fleet_Armada/tools/create_cover.py,7357,text,deepseek-v4-flash
+Ghost_Fleet_Armada/txt/Ghost_Fleet_Armada.txt,64758,text,deepseek-v4-flash

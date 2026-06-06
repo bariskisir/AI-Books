@@ -1,0 +1,37 @@
+{
+  "title": "Silver and Bone",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Urban Fantasy",
+  "subgenre": "Contemporary fantasy / Noir",
+  "language": "en",
+  "short_description": "A Chicago detective who can see through fae glamour discovers a hidden war between ancient courts threatens to spill into the mortal world.",
+  "long_description": "Mira Black has always seen things others cannot. A private detective in Chicago, she possesses the rare ability to pierce the glamour that hides the fae from mortal eyes. When a series of brutal murders targets half-fae hybrids across the city, Mira is pulled into a conflict between the iron-fisted Summer Court, ruled by the ancient Queen Mab, and the insurgent Autumn Court led by her exiled son Rowan.\n\nWith the help of Finn, a double-agent fae nursing his own grievances, and the reluctant backing of Detective Sergeant Cole Hart, Mira must navigate a world of ancient loyalties, deadly bargains, and a weapon forged from silver and bone that could unmake both courts. As the bodies pile up and the wall between worlds begins to thin, Mira discovers that her own past is entangled with the fae in ways she never imagined.\n\nCaught between immortal powers, Mira must stop a war that neither court truly wants to avoid. The only question is how much of herself she is willing to sacrifice to keep Chicago from becoming a battlefield.",
+  "main_characters": [
+    "Mira Black",
+    "Finn",
+    "Queen Mab",
+    "Prince Rowan",
+    "Detective Sergeant Cole Hart",
+    "The Morrigan",
+    "Greta"
+  ],
+  "keywords": [
+    "urban fantasy",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "fae",
+    "Chicago",
+    "private detective",
+    "glamour",
+    "Summer Court",
+    "fantasy noir"
+  ],
+  "TXT_path": "books/Silver_and_Bone/txt/Silver_and_Bone.txt",
+  "EPUB_path": "books/Silver_and_Bone/epub/Silver_and_Bone.epub",
+  "cover_path": "books/Silver_and_Bone/covers/Silver_and_Bone.png",
+  "outline_path": "books/Silver_and_Bone/planning/Silver_and_Bone_outline.md",
+  "cover_script_path": "books/Silver_and_Bone/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

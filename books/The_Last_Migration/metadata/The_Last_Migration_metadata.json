@@ -1,0 +1,35 @@
+{
+  "title": "The Last Migration",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dystopian",
+  "subgenre": "Climate Fiction",
+  "language": "en",
+  "short_description": "A mother and son cross a desert of ash to reach the last habitable zone before its gates close forever.",
+  "long_description": "When the Northern Climate Refuge seals its borders, Mara and her young son Eli must cross nine hundred miles of ash desert to reach the gate before their rations run out. The world outside the wall is dying — poisoned by ecological collapse, buried under drifts of volcanic ash, patrolled by drones that hunt the living. Inside the wall, the Warden presides over a sterile compound of white buildings and artificial light, rationing the last resources of a dying planet.\n\nAs Mara and Eli journey north, they encounter scavengers, storms, and the desperate remnants of a civilization that has already ended. When they finally breach the wall, they discover that the refuge is not a sanctuary but a prison — and that the Warden's methods of preservation are more monstrous than the wasteland outside.\n\nThe Last Migration is a story about the lengths a mother will go to protect her child, the moral cost of survival, and the question of what we owe to the strangers we leave behind.",
+  "main_characters": [
+    "Mara Chen — A mother in her late thirties, former agricultural engineer, determined to save her son at any cost.",
+    "Eli Chen — Mara's nine-year-old son, curious and resilient, carrying his father's compass and a growing understanding of the world's cruelty.",
+    "The Warden — Commander of the Northern Gate, a former climate scientist who believes order must come before mercy.",
+    "Renata — A botanist who runs the compound's hydroponics lab and secretly aids Mara."
+  ],
+  "keywords": [
+    "dystopian",
+    "climate fiction",
+    "survival",
+    "motherhood",
+    "refugee",
+    "environmental collapse",
+    "Barış Kısır",
+    "The Last Migration",
+    "climate refugees",
+    "border",
+    "gate"
+  ],
+  "TXT_path": "books/The_Last_Migration/txt/The_Last_Migration.txt",
+  "EPUB_path": "books/The_Last_Migration/epub/The_Last_Migration.epub",
+  "cover_path": "books/The_Last_Migration/covers/The_Last_Migration.png",
+  "outline_path": "books/The_Last_Migration/planning/The_Last_Migration_outline.md",
+  "cover_script_path": "books/The_Last_Migration/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

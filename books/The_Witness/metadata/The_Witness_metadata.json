@@ -1,0 +1,35 @@
+{
+  "title": "The Witness",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Memory Utopia",
+  "subgenre": "Political Thriller",
+  "language": "en",
+  "short_description": "A historian discovers a single-word discrepancy in an immutable archive, unraveling a quarter-century conspiracy to edit the past.",
+  "long_description": "Every moment is recorded. The Witness Archive stores every public event, every conversation, every transaction. When a question of fact arises, you consult the Archive. Truth is never in doubt.\n\nWhen historian Dr. Priya Sundar compares two records of the same event — the signing of the Unity Charter — she finds a discrepancy: a phrase that appears in one recording but not the other. The difference is small — one word — but impossible in a system where records are immutable. Someone has edited the past.\n\nPriya must discover who, how, and most importantly, what else they changed — before the Archive’s integrity unravels entirely. Her investigation leads her through a labyrinth of political conspiracy, a buried massacre, and the truth about the Union’s founding — a truth that could tear society apart.",
+  "main_characters": [
+    "Dr. Priya Sundar",
+    "Curator Miro",
+    "Helena Voss",
+    "Senator Grace Omondi",
+    "Jian Lee"
+  ],
+  "keywords": [
+    "Witness Archive",
+    "memory",
+    "truth",
+    "utopia",
+    "history",
+    "manipulation",
+    "conspiracy",
+    "censorship",
+    "political thriller",
+    "massacre"
+  ],
+  "TXT_path": "books/The_Witness/txt/The_Witness.txt",
+  "EPUB_path": "books/The_Witness/epub/The_Witness.epub",
+  "cover_path": "books/The_Witness/covers/The_Witness.png",
+  "outline_path": "books/The_Witness/planning/The_Witness_outline.md",
+  "cover_script_path": "books/The_Witness/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

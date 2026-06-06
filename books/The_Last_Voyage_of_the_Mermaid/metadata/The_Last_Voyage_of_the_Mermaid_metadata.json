@@ -1,0 +1,35 @@
+{
+  "title": "The Last Voyage of the Mermaid",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Nautical Horror",
+  "subgenre": "Supernatural Maritime Thriller",
+  "language": "en",
+  "short_description": "A salvage crew towing a derelict luxury yacht discovers the passengers are still aboard — preserved in party attire and still dancing.",
+  "long_description": "The salvage tug Sea Serpent answers a lucrative call: a luxury yacht adrift in the North Atlantic, abandoned for three years. Captain Elias Shaw and his crew expect an easy tow and a handsome fee. But the Mermaid is not empty. Thirty-four passengers stand frozen in the ballroom, dressed for a party that never ended, preserved in perfect condition.\n\nAs the tow line pulls the yacht toward port, strange things begin to happen. Coffee stays hot in a powerless galley. Lights flicker on by themselves. Music plays from the ballroom — a waltz that never stops. The passengers are not as dead as they appear. Something came aboard the Mermaid on its final voyage, something from the deep that collects ships and crews the way others collect trophies.\n\nFirst Mate Voss falls under the yacht's spell. Engineer Harlow succumbs to a strange fever. And captain Shaw realizes too late that he has faced this vessel before. The Mermaid has one last voyage to complete, and she is taking on a new crew.",
+  "main_characters": [
+    "Captain Elias Shaw — Veteran salvage captain with a hidden connection to the Mermaid",
+    "Jess Corrigan — Rigger and deckhand, sharp-eyed and skeptical, the first to uncover the truth",
+    "First Mate Soloman Voss — Superstitious and uneasy, the first to break under the yacht's influence",
+    "Engineer Pete Harlow — Quiet and practical, the first to fall physically ill",
+    "Deckhand Ana Reyes — The youngest crew member, curious and brave, she communicates with the passengers",
+    "The Woman in Blue — The lead passenger, the yacht's first victim, now its emissary",
+    "Captain Marco Rossi — The Mermaid's captain, whose log documents the final days"
+  ],
+  "keywords": [
+    "nautical horror",
+    "supernatural",
+    "ghost ship",
+    "salvage",
+    "derelict yacht",
+    "Atlantic Ocean",
+    "preserved bodies",
+    "dancing dead",
+    "maritime thriller",
+    "haunted vessel"
+  ],
+  "TXT_path": "books/The_Last_Voyage_of_the_Mermaid/txt/The_Last_Voyage_of_the_Mermaid.txt",
+  "EPUB_path": "books/The_Last_Voyage_of_the_Mermaid/epub/The_Last_Voyage_of_the_Mermaid.epub",
+  "cover_path": "books/The_Last_Voyage_of_the_Mermaid/covers/The_Last_Voyage_of_the_Mermaid.png",
+  "status": "complete_txt_epub_available"
+}

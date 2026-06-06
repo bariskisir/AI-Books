@@ -1,0 +1,33 @@
+{
+  "title": "The Cartographer's Daughter",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Adventure",
+  "subgenre": "Historical Adventure",
+  "language": "en",
+  "short_description": "In 1785 a cartographer's daughter stows away on a mapping expedition to an uncharted island where the maps stop making sense.",
+  "long_description": "In 1785, Ada Thorne stows away on the HMS Tenacity, bound for an uncharted island in the South Atlantic where her father, the renowned cartographer Elias Thorne, disappeared eight months earlier. Captain Blackwood carries orders from the Admiralty to complete the survey of the island — but neither he nor his crew are prepared for what they find.\n\nOn the island, compasses spin wildly, landmarks shift overnight, and distances measured one day contradict the next. Ada discovers a stone archway carved with an unknown cartographic language, a valley where gravity tilts sideways, and a chamber of living crystals that show impossible reflections. Guided by her father's journal and the decoded symbols, Ada must confront the truth about what happened to him — and decide whether to stay in the place beyond the map or return to the world she knows.\n\nThe Cartographer's Daughter is a literary adventure about the limits of human knowledge, the nature of reality, and the maps we draw to make sense of what cannot be measured.",
+  "main_characters": [
+    "Ada Thorne — A young cartographer's daughter, self-taught navigator, seeking her missing father",
+    "Captain Jeremiah Blackwood — A weathered sea captain carrying guilt and a secret debt to Elias Thorne",
+    "First Mate Kenji Saito — A Japanese navigator and former assistant to Elias Thorne, haunted by his own failure"
+  ],
+  "keywords": [
+    "adventure",
+    "historical fiction",
+    "cartography",
+    "uncharted island",
+    "mystery",
+    "mapping",
+    "1780s",
+    "nautical",
+    "Barış Kısır",
+    "exploration"
+  ],
+  "TXT_path": "books/The_Cartographers_Daughter/txt/The_Cartographers_Daughter.txt",
+  "EPUB_path": "books/The_Cartographers_Daughter/epub/The_Cartographers_Daughter.epub",
+  "cover_path": "books/The_Cartographers_Daughter/covers/The_Cartographers_Daughter.png",
+  "outline_path": "books/The_Cartographers_Daughter/planning/The_Cartographers_Daughter_outline.md",
+  "cover_script_path": "books/The_Cartographers_Daughter/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

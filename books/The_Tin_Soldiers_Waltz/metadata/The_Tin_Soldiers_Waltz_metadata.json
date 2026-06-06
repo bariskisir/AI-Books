@@ -1,0 +1,40 @@
+{
+  "title": "The Tin Soldier's Waltz",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Whimsical Fantasy",
+  "subgenre": "Toymaker Fairy Tale / Magical Adventure",
+  "language": "en",
+  "short_description": "When a thief steals the music box that holds an aging toymaker's memories, his secretly-alive one-legged tin soldier sets out across a frozen clockwork city to bring it home before the last tune runs out.",
+  "long_description": "In the snowbound clockwork city of Vellmark, an aging toymaker named Anselm Roe has spent his life building wind-up wonders. His finest creation is a one-legged tin soldier, painted blue and red, who — unknown to anyone — has been quietly alive for years, watching and loving the old man in silence.\n\nWhen a desperate thief steals the music box that holds Anselm's fading memories, the toymaker begins to forget his own life. So the tin soldier steps down from his shelf for the first time and sets out — across the workshop, down the drainpipe, through the Tin Market and over the icy rooftops — to bring the music box home before the last tune runs down. With a loyal cymbal monkey, a frightened clockwork ballerina who learns courage, and a wary alley cat, he braves Madame Sorrel, the cold clockmaker who trades in stolen memories.\n\nThe Tin Soldier's Waltz is a warm, inventive, gently melancholy fairy tale for grown readers — small heroes, real peril, and a big heart in the falling snow.",
+  "main_characters": [
+    "Tib — A one-legged tin soldier, secretly alive: brave, plainspoken, easily underestimated, longing to dance",
+    "Anselm Roe — An aging toymaker whose memories live inside a wind-up music box",
+    "Coppelia — A vain, frightened clockwork ballerina who learns courage",
+    "Mr. Pim — A loyal, loud wind-up cymbal monkey and Tib's companion",
+    "The Ragged Man — A desperate clockwork mender who stole the music box",
+    "Madame Sorrel — A cold, elegant clockmaker who buys and sells stolen memory-works",
+    "Soot — A real alley cat, by turns a peril and an ally"
+  ],
+  "keywords": [
+    "fantasy",
+    "fairy tale",
+    "toymaker",
+    "clockwork",
+    "tin soldier",
+    "whimsical",
+    "automaton",
+    "magical adventure",
+    "winter",
+    "memory",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Tin_Soldiers_Waltz/txt/The_Tin_Soldiers_Waltz.txt",
+  "EPUB_path": "books/The_Tin_Soldiers_Waltz/epub/The_Tin_Soldiers_Waltz.epub",
+  "cover_path": "books/The_Tin_Soldiers_Waltz/covers/The_Tin_Soldiers_Waltz.png",
+  "outline_path": "books/The_Tin_Soldiers_Waltz/planning/The_Tin_Soldiers_Waltz_outline.md",
+  "cover_script_path": "books/The_Tin_Soldiers_Waltz/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

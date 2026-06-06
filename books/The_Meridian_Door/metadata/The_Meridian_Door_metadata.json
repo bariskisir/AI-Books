@@ -1,0 +1,32 @@
+{
+  "title": "The Meridian Door",
+  "number": 15,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Portal Fantasy",
+  "subgenre": "Alternate world / Quest",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "A cartographer steps through a door in a London basement and into a world where geography is written by belief.",
+  "long_description": "Dr. Helena Rice is a cartographer who believes in precision: every line on a map should mean something. When she discovers a door in the basement of the Royal Geographical Society that opens onto a world where mountains move and rivers appear where people believe they should be, her certainties unravel. In the land of Meridia, the land itself answers to story and faith, and a warlord is using an ancient map to redraw reality. Helena must learn to map a world that refuses to stay still, and in doing so, discover that the places we carry inside us are as real as any charted territory. A lyrical portal fantasy about the stories that shape the world.",
+  "main_characters": [
+    "Dr. Helena Rice",
+    "Finn (guide)",
+    "The Warlord",
+    "The Cartographers' Council"
+  ],
+  "keywords": [
+    "portal fantasy",
+    "alternate world",
+    "cartography",
+    "maps",
+    "quest",
+    "belief"
+  ],
+  "TXT_path": "books/The_Meridian_Door/txt/The_Meridian_Door.txt",
+  "cover_path": "books/The_Meridian_Door/covers/The_Meridian_Door.png",
+  "EPUB_path": "books/The_Meridian_Door/epub/The_Meridian_Door.epub",
+  "word_count": 15146,
+  "status": "complete_txt_epub_available"
+}

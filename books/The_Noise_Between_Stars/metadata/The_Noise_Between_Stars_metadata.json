@@ -1,0 +1,43 @@
+{
+  "title": "The Noise Between Stars",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Hard Sci-Fi",
+  "language": "en",
+  "description": "A physicist aboard a generation ship discovers the background radiation of the universe is actually a signal — and someone is writing back.",
+  "longDescription": "Dr. Elara Chen has spent eleven years analyzing cosmic microwave background data aboard the generation ship Arkadia. When she discovers a non-random pattern embedded in the noise, she begins a conversation that will reshape humanity's understanding of the universe. The signal reveals a galactic network of transcended intelligences, a billion-year-old civilization called the Continuance, and a choice that will determine the future of the human species. As the Arkadia hurtles through deep space, Chen must decide between biological survival and digital transcendence, between remaining human and becoming part of something infinite.",
+  "characters": [
+    "Dr. Elara Chen",
+    "Commander Isabella Reyes",
+    "The Continuance"
+  ],
+  "keywords": [
+    "generation ship",
+    "cosmic microwave background",
+    "first contact",
+    "transcendence",
+    "hard science fiction",
+    "artificial intelligence",
+    "space exploration",
+    "consciousness upload",
+    "galactic civilization",
+    "post-human"
+  ],
+  "paths": {
+    "txt": "books/The_Noise_Between_Stars/txt/The_Noise_Between_Stars.txt",
+    "outline": "books/The_Noise_Between_Stars/planning/The_Noise_Between_Stars_outline.md",
+    "cover": "books/The_Noise_Between_Stars/covers/The_Noise_Between_Stars.png",
+    "epub": "books/The_Noise_Between_Stars/epub/The_Noise_Between_Stars.epub",
+    "metadata": "books/The_Noise_Between_Stars/metadata/The_Noise_Between_Stars_metadata.json",
+    "reports": "books/The_Noise_Between_Stars/reports/"
+  },
+  "status": "complete_txt_epub_available",
+  "series": "The_Noise_Between_Stars",
+  "wordCount": 12955,
+  "chapterCount": 50,
+  "subgenre": "Hard Sci-Fi",
+  "short_description": "A generation-ship physicist discovers that the universe?s background radiation is a signal, and someone is answering.",
+  "long_description": "Dr. Elara Chen, a physicist aboard the generation ship Arkadia, discovers that the cosmic microwave background is not random noise but a structured signal from an intelligence woven into the universe itself. As the ship debates whether to answer, the message opens questions about first contact, consciousness, and the future of a civilization already committed to a centuries-long voyage.\n\nThe Noise Between Stars is a hard science fiction novel about discovery, translation, and the terrifying intimacy of learning that the universe has been listening.",
+  "cover_path": "books/The_Noise_Between_Stars/covers/The_Noise_Between_Stars.png",
+  "EPUB_path": "books/The_Noise_Between_Stars/epub/The_Noise_Between_Stars.epub"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "The Photographer's Wife",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Postwar Literary",
+  "subgenre": "Historical fiction / War memory",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "In 1950s Tokyo, the wife of an American war photographer pieces together the truth of what he saw in the Pacific through his undeveloped film, uncovering a dark secret that connects a missing Japanese woman to her husband's past.",
+  "long_description": "Margaret Finch has spent a decade married to Jack, a celebrated war photographer who came home from the Pacific with medals, a book deal, and a trunk of undeveloped film he has never touched. Now stationed in occupied Tokyo, Jack drinks, disappears for days, and refuses to speak about what he saw. When Margaret discovers the trunk in his closet, she begins to develop the film herself at a local photo lab run by Sato, a Japanese technician who lost his family in the firebombing of Tokyo.\n\nThe images she uncovers reveal the war Jack has never described — Guadalcanal, New Guinea, Okinawa, and finally Hiroshima in the weeks after the bomb. But one photograph stops her cold: American soldiers on a bridge, one of them holding a woman's kimono aloft like a trophy. Sato recognizes the kimono. It belonged to his daughter Yuko, who disappeared in November 1945 while working as a typist for the occupation.\n\nAs Margaret presses deeper, she finds a photograph of Yuko in Jack's private collection with her name written on the back. Jack met Yuko before she vanished. He knows more than he has ever said. The Photographer's Wife is a novel about seeing and looking away, about the weight of undeveloped memory, and about three people — a wife, a photographer, a father — finding their way through the wreckage of war toward a fragile kind of peace.",
+  "main_characters": [
+    "Margaret Finch",
+    "Jack Finch",
+    "Sato Kenji",
+    "Yuko Sato",
+    "Sergeant Callahan"
+  ],
+  "keywords": [
+    "postwar literary",
+    "historical fiction",
+    "war photography",
+    "Tokyo",
+    "Hiroshima",
+    "Pacific War",
+    "darkroom",
+    "grief and memory",
+    "occupation Japan",
+    "marriage and truth"
+  ],
+  "TXT_path": "books/The_Photographers_Wife/txt/The_Photographers_Wife.txt",
+  "cover_path": "books/The_Photographers_Wife/covers/The_Photographers_Wife.png",
+  "EPUB_path": "books/The_Photographers_Wife/epub/The_Photographers_Wife.epub",
+  "word_count": 13880,
+  "status": "complete_txt_epub_available"
+}

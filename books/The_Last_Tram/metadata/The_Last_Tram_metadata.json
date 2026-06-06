@@ -1,0 +1,35 @@
+{
+  "title": "The Last Tram",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Slipstream",
+  "subgenre": "Magical realism / Historical fantasy",
+  "language": "en",
+  "short_description": "A tram driver on Lisbon's oldest line discovers that his midnight route passes through a version of the city that ceased to exist in 1955.",
+  "long_description": "Jorge Mendes has driven Lisbon's oldest tram line for eighteen years. At midnight on the last Sunday of every month, his route passes through a shadow version of the city -- Lisbon as it existed in 1955, complete with cobblestone streets, black-market cafes, and the electric hum of a world that history forgot.\n\nWhen Jorge falls for Maria, a woman from the lost city, he discovers that she is bound to die in 1957 -- a fact he cannot change, only witness. The Night Conductor, the enigmatic gatekeeper of the time-slip, warns him that every crossing has a cost. But Jorge cannot stay away.\n\nThe Last Tram is a slipstream novel about love across time, the weight of memory, and the streets of a Lisbon that exists only in the space between midnight and dawn. It asks whether love can survive the end of the world -- even when that world has already ended.",
+  "main_characters": [
+    "Jorge Mendes",
+    "The Night Conductor",
+    "Maria dos Santos"
+  ],
+  "keywords": [
+    "slipstream",
+    "magical realism",
+    "historical fantasy",
+    "Lisbon",
+    "Portugal",
+    "tram",
+    "time slip",
+    "1950s",
+    "ghost story",
+    "love story",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Last_Tram/txt/The_Last_Tram.txt",
+  "EPUB_path": "books/The_Last_Tram/epub/The_Last_Tram.epub",
+  "cover_path": "books/The_Last_Tram/covers/The_Last_Tram.png",
+  "outline_path": "books/The_Last_Tram/planning/The_Last_Tram_outline.md",
+  "cover_script_path": "books/The_Last_Tram/tools/create_cover.py",
+  "word_count": 12281,
+  "status": "complete_txt_epub_available"
+}

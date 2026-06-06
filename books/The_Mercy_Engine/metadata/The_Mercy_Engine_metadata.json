@@ -1,0 +1,37 @@
+{
+  "title": "The Mercy Engine",
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Medical Science Fiction",
+  "subgenre": "Hospital Ethics Thriller",
+  "language": "en",
+  "short_description": "A trauma surgeon tests a triage machine whose numbers begin to change for powerful patients.",
+  "long_description": "The Mercy Engine follows Dr. Anika Ro, an adult trauma surgeon, through a crowded city trauma hospital as a trauma surgeon tests a triage machine whose numbers begin to change for powerful patients. The inquiry moves through offices, sealed rooms, public hearings, and physical evidence, keeping its suspense grounded in work, speech, and consequence.\n\nAs Tomas Ivek, Nurse Helen Marr, and Detective Jun Vale help test the record, Director Celia Voss tries to turn delay into truth. The novel is clean adult suspense about institutions, memory, and the cost of naming what everyone was paid not to see.",
+  "main_characters": [
+    "Dr. Anika Ro",
+    "Tomas Ivek",
+    "Nurse Helen Marr",
+    "Detective Jun Vale",
+    "Director Celia Voss"
+  ],
+  "keywords": [
+    "medical science fiction",
+    "hospital ethics thriller",
+    "mystery",
+    "evidence",
+    "archive",
+    "adult characters",
+    "clean suspense",
+    "conspiracy",
+    "truth",
+    "standalone"
+  ],
+  "planned_chapters": 50,
+  "word_count": 24706,
+  "TXT_path": "books/The_Mercy_Engine/txt/The_Mercy_Engine.txt",
+  "EPUB_path": "books/The_Mercy_Engine/epub/The_Mercy_Engine.epub",
+  "cover_path": "books/The_Mercy_Engine/covers/The_Mercy_Engine.png",
+  "outline_path": "books/The_Mercy_Engine/planning/The_Mercy_Engine_outline.md",
+  "cover_script_path": "books/The_Mercy_Engine/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

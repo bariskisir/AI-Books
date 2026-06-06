@@ -1,0 +1,38 @@
+{
+  "title": "Red Weather",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Climate Thriller",
+  "subgenre": "Environmental Thriller",
+  "language": "en",
+  "short_description": "When a mysterious red algae bloom begins consuming oxygen from the Atlantic, a disgraced oceanographer races to find the source before the planet suffocates.",
+  "long_description": "Dr. Simone Marchetti has spent years being wrong. The methane vent prediction that never materialized. The Gulf Stream collapse that did not happen. Her career is a graveyard of correct hypotheses that arrived too early. But when a blood-red algae bloom appears in the Sargasso Sea and begins consuming oxygen at an exponential rate, Simone knows this time is different.\n\nRecruited by Captain Elias Rhodes and his rusting research vessel Atmospheric Dawn, Simone sails into the heart of the bloom. The algae is not natural. It is engineered. Designed by Aetheria Global, an energy conglomerate, to consume methane from a deep-sea vent field. But the organism evolved, adapted, and began consuming everything.\n\nAs the bloom spreads across the Atlantic and global oxygen levels plummet, Simone must confront the scientist who created the plague, infiltrate a sinking corporate platform, and engineer a phage that can destroy the colony intelligence before the world suffocates. The cost of failure is extinction. The cost of success is everything.",
+  "main_characters": [
+    "Dr. Simone Marchetti — Oceanographer and marine biologist, disgraced by past false alarms but relentlessly pursuing the truth behind the red bloom",
+    "Captain Elias Rhodes — Captain of the research vessel Atmospheric Dawn, former Navy salvage operator with a hidden past in marine biology",
+    "Aetheria Global — Multinational energy conglomerate whose deep-sea mining operations triggered the crisis",
+    "Dr. Helena Voss — Aetheria's lead biologist who engineered the algae, now seeking redemption",
+    "Admiral Chen — U.S. Navy admiral who supports Simone's mission",
+    "Dr. Reyes — Navy intelligence officer (actually an INTERPOL environmental crimes investigator)"
+  ],
+  "keywords": [
+    "climate thriller",
+    "environmental thriller",
+    "ocean",
+    "algae bloom",
+    "oxygen depletion",
+    "climate change",
+    "corporate thriller",
+    "suspense",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "Red Weather"
+  ],
+  "TXT_path": "books/Red_Weather/txt/Red_Weather.txt",
+  "EPUB_path": "books/Red_Weather/epub/Red_Weather.epub",
+  "cover_path": "books/Red_Weather/covers/Red_Weather.png",
+  "outline_path": "books/Red_Weather/planning/Red_Weather_outline.md",
+  "cover_script_path": "books/Red_Weather/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

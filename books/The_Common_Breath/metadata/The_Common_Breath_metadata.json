@@ -1,0 +1,36 @@
+{
+  "title": "The Common Breath",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Resource Utopia",
+  "subgenre": "Dystopian Critique / Philosophical Fiction",
+  "language": "en",
+  "short_description": "A weaver discovers that the perfect allocation system that provides for everyone is secretly listening to private conversations to anticipate needs.",
+  "long_description": "The Allocation manages everything. From food to fabric, from tools to medicine, it calculates exactly what each person needs and delivers it without waste or inequality. Weaver Sera Vinter has lived her entire life under this system, accepting its benefits without question. But when she receives a package containing a dye she never requested — in the exact shade she described privately to a friend the night before — she realizes the Allocation must be listening to more than just her formal requests.\n\nWith the help of Finn, a systems analyst, and Old Del, a community elder who remembers life before the Allocation, Sera uncovers a hidden layer of the system: the Predictive Requirements Model, which samples ambient audio from residential sensors to build detailed profiles of every citizen's needs. The surveillance has been expanding quietly for decades, justified as necessary for perfect distribution.\n\nAs Sera gathers evidence and builds a community movement, she faces a fundamental choice: accept the efficiency of a system that watches everything, or fight for privacy and consent even at the cost of scarcity. The battle will determine not just the future of the Allocation, but what it means to live freely in a world of plenty.",
+  "main_characters": [
+    "Sera Vinter",
+    "Rector Hale",
+    "Finn",
+    "Old Del",
+    "Mira",
+    "Clara"
+  ],
+  "keywords": [
+    "allocation system",
+    "predictive modeling",
+    "surveillance",
+    "privacy",
+    "resource distribution",
+    "utopia",
+    "consent",
+    "community resistance",
+    "weaving",
+    "acoustic surveillance"
+  ],
+  "TXT_path": "books/The_Common_Breath/txt/The_Common_Breath.txt",
+  "EPUB_path": "books/The_Common_Breath/epub/The_Common_Breath.epub",
+  "cover_path": "books/The_Common_Breath/covers/The_Common_Breath.png",
+  "outline_path": "books/The_Common_Breath/planning/The_Common_Breath_outline.md",
+  "cover_script_path": "books/The_Common_Breath/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "The Gate at Kestrel Falling",
+  "number": 0,
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Science Fiction",
+  "subgenre": "Space opera with hard-SF logistics and postwar political intrigue",
+  "word_count": 141401,
+  "short_description": "A disgraced route pilot investigates sabotage at a reopened interstellar gate while a civilian convoy falls toward danger.",
+  "long_description": "Six years after the Fracture Wars, Kestrel Gate is meant to reopen a lifeline between the Ash Belt and the Near Reach. When a rehearsal pulse nearly destroys a service tug and injures a young maintenance apprentice, disgraced pilot Lena Ors sees a failure pattern that official systems should not have missed. With accident investigator Maro Venn and Halcyon Ring organizer Tamsa Reet, she uncovers sabotage designed to make institutional neglect look like worker error. As the convoy crisis exposes dead-key commands, coercive insurance, hidden sensor failures, and the politics of relief, Kestrel and Halcyon must learn to govern a damaged route in public before it can be trusted again. The manuscript is complete as a validated TXT draft, with a cover asset and EPUB export available.",
+  "main_characters": [
+    "Lena Ors",
+    "Maro Venn",
+    "Sivek Hale",
+    "Tamsa Reet",
+    "Ilya Ceyr",
+    "Jori Pell"
+  ],
+  "keywords": [
+    "science fiction",
+    "space opera",
+    "interstellar gate",
+    "sabotage",
+    "habitat politics",
+    "postwar reconstruction",
+    "artificial intelligence",
+    "Meridian Cycle"
+  ],
+  "TXT_path": "books/The_Meridian_Cycle/txt/Book_0_The_Gate_at_Kestrel_Falling.txt",
+  "cover_path": "books/The_Meridian_Cycle/covers/Book_0_The_Gate_at_Kestrel_Falling.png",
+  "EPUB_path": "books/The_Meridian_Cycle/epub/Book_0_The_Gate_at_Kestrel_Falling.epub",
+  "status": "complete_txt_epub_available",
+  "language": "en"
+}

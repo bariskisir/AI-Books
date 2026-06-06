@@ -1,0 +1,40 @@
+{
+  "title": "The Lost Colony",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Fiction",
+  "subgenre": "Colonial American History",
+  "language": "en",
+  "short_description": "The untold story of the Lost Colony of Roanoke through the eyes of a young English woman who survives the wilderness.",
+  "long_description": "In 1587, one hundred fifteen English settlers land on Roanoke Island to establish the first permanent English colony in the New World. Among them is Eleanor Sutton, a twenty-year-old tanner's daughter fleeing a contracted marriage. When Governor John White sails back to England for supplies and fails to return for three years, the colony unravels under the pressures of isolation, dwindling resources, and the growing rift between those who would fight the wilderness and those who would learn from it.\n\nThrough Eleanor's eyes, the untold story of the Lost Colony unfolds not as a mystery but as a human reckoning with survival, identity, and the cost of empire. With the guidance of Manteo, a Croatan translator caught between two worlds, Eleanor must choose between the England she left behind and the new life she has built in a land that does not appear on any English map.\n\nFrom the voyage across the Atlantic to the carving of the word CROATOAN into a palisade post, The Lost Colony reimagines one of history's greatest mysteries as a story of resilience, adaptation, and the quiet courage of those who refuse to disappear.",
+  "main_characters": [
+    "Eleanor Sutton",
+    "Manteo",
+    "Governor John White",
+    "Margaret Lawrence",
+    "Thomas Ellis",
+    "Ananias Dare",
+    "Kitchi",
+    "George Howe"
+  ],
+  "keywords": [
+    "historical fiction",
+    "colonial America",
+    "Roanoke",
+    "Lost Colony",
+    "survival",
+    "Native American",
+    "Croatan",
+    "16th century",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "series": "AI-Books",
+  "TXT_path": "books/The_Lost_Colony/txt/The_Lost_Colony.txt",
+  "EPUB_path": "books/The_Lost_Colony/epub/The_Lost_Colony.epub",
+  "cover_path": "books/The_Lost_Colony/covers/The_Lost_Colony.png",
+  "outline_path": "books/The_Lost_Colony/planning/The_Lost_Colony_outline.md",
+  "cover_script_path": "books/The_Lost_Colony/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

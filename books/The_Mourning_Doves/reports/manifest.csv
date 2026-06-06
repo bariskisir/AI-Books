@@ -1,0 +1,12 @@
+file,size_bytes,status,model
+planning/The_Mourning_Doves_outline.md,4465,complete,deepseek-v4-flash
+txt/The_Mourning_Doves.txt,70768,complete,deepseek-v4-flash
+metadata/The_Mourning_Doves_metadata.json,2060,complete,deepseek-v4-flash
+epub/The_Mourning_Doves.epub,219552,complete,deepseek-v4-flash
+covers/The_Mourning_Doves.png,100420,complete,deepseek-v4-flash
+tools/build_epub.py,8283,complete,deepseek-v4-flash
+tools/create_cover.py,6298,complete,deepseek-v4-flash
+README.md,299,complete,deepseek-v4-flash
+reports/final_report.md,1087,complete,deepseek-v4-flash
+reports/manifest.csv,400,complete,deepseek-v4-flash
+reports/progress.md,28,complete,deepseek-v4-flash

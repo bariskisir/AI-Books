@@ -1,0 +1,31 @@
+{
+  "title": "The Still Point",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Literary Fiction",
+  "language": "en",
+  "short_description": "A lighthouse keeper on a remote Scottish island confronts his past when a storm strands a mysterious visitor.",
+  "long_description": "James has kept the lighthouse on Eilean Mor for twelve years, trading the mainland for solitude after a car accident that killed his wife and daughter. His days are measured in foghorns and fuel checks, his only human contact the weekly supply boat and Moira, a young radio operator on the coast.\n\nWhen a freak autumn storm drives a stranger onto the island's rocks, James must pull the man from the sea and shelter him. Over three days of hurricane-force wind, the visitor -- a journalist researching a book on lighthouse keepers who walked into the sea -- forces James to reckon with the grief he has buried beneath routine.\n\nThe storm becomes an external mirror of an internal breaking, and by the time the skies clear, nothing on Eilean Mor is still anymore.",
+  "main_characters": [
+    "James",
+    "Caleb Ross (The Visitor)",
+    "Moira"
+  ],
+  "keywords": [
+    "literary fiction",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "lighthouse",
+    "Scotland",
+    "grief",
+    "redemption"
+  ],
+  "TXT_path": "books/The_Still_Point/txt/The_Still_Point.txt",
+  "EPUB_path": "books/The_Still_Point/epub/The_Still_Point.epub",
+  "cover_path": "books/The_Still_Point/covers/The_Still_Point.png",
+  "outline_path": "books/The_Still_Point/planning/The_Still_Point_outline.md",
+  "cover_script_path": "books/The_Still_Point/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

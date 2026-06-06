@@ -1,0 +1,34 @@
+{
+  "title": "The Last Hunt",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Western Literary",
+  "subgenre": "Historical Western",
+  "language": "en",
+  "short_description": "An aging Comanche tracker is hired by the Texas Ranger who once hunted his people to find a kidnapped girl in the harsh Texas plains.",
+  "long_description": "Santiago has spent forty years living quietly on the edge of settlement, carrying the scars of the Reservation and the loss of his family. When Ranger McAllister — the same man who once hunted his people during the Indian Wars — arrives at his door asking for help finding a kidnapped girl, Santiago agrees not for the Ranger, but for the girl.\n\nWhat follows is a journey across the unforgiving Texas landscape that forces both men to reckon with the violence that shaped them. As the trail leads deeper into Comanche country, old debts surface and old wounds reopen. The girl, Maria Gutierrez, is no passive victim — she watches, she waits, and she plans.\n\nThe Last Hunt is a spare, literary Western about memory, justice, and the fragile possibility of redemption between enemies.",
+  "main_characters": [
+    "Santiago — Comanche elder and tracker, nearly seventy, carries the weight of his people's loss",
+    "Ranger Elias McAllister — Texas Ranger, former Indian fighter, struggling with the ghosts of his past",
+    "Maria Gutierrez — Fifteen-year-old kidnapped girl, fierce and resourceful, refuses to be a victim",
+    "Tomas Gutierrez — Maria's father, tenant farmer, hollowed by grief"
+  ],
+  "keywords": [
+    "Western",
+    "Literary Fiction",
+    "Comanche",
+    "Texas Rangers",
+    "Kidnapping",
+    "Redemption",
+    "Historical",
+    "Texas Plains",
+    "Tracker",
+    "Frontier"
+  ],
+  "TXT_path": "books/The_Last_Hunt/txt/The_Last_Hunt.txt",
+  "EPUB_path": "books/The_Last_Hunt/epub/The_Last_Hunt.epub",
+  "cover_path": "books/The_Last_Hunt/covers/The_Last_Hunt.png",
+  "status": "complete_txt_epub_available",
+  "chapters": 50,
+  "word_count": 15200
+}

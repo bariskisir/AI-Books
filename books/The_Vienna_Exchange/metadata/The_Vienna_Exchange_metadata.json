@@ -1,0 +1,35 @@
+{
+  "title": "The Vienna Exchange",
+  "number": 12,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Cold War Spy Thriller",
+  "subgenre": "Espionage / Defection",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "A burned CIA officer must trade a Soviet defector for the one person who knows the mole in London Station.",
+  "long_description": "Vienna, 1962. The city is a chessboard of spies, double agents, and people who have forgotten which side they are on. Frank Devereux, a CIA officer burned in a failed operation, is given one last chance: trade a high-value Soviet defector for a name — the name of the mole who has been feeding London Station's secrets to Moscow for three years. But the defector has his own agenda, the British are running their own game, and the woman Devereux loved and lost is sitting across the table for the other side. The Vienna Exchange is a cold, elegant spy thriller about loyalty, betrayal, and the price of knowing too much.",
+  "main_characters": [
+    "Frank Devereux",
+    "Elena Volkov",
+    "Control",
+    "Maxwell (MI6)",
+    "The Defector"
+  ],
+  "keywords": [
+    "cold war",
+    "spy thriller",
+    "espionage",
+    "Vienna",
+    "defection",
+    "CIA",
+    "MI6",
+    "mole"
+  ],
+  "TXT_path": "books/The_Vienna_Exchange/txt/The_Vienna_Exchange.txt",
+  "cover_path": "books/The_Vienna_Exchange/covers/The_Vienna_Exchange.png",
+  "EPUB_path": "books/The_Vienna_Exchange/epub/The_Vienna_Exchange.epub",
+  "word_count": 16617,
+  "status": "complete_txt_epub_available"
+}

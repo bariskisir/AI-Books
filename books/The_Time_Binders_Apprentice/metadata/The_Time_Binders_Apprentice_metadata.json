@@ -1,0 +1,33 @@
+{
+  "title": "The Time-Binder's Apprentice",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Time Travel",
+  "subgenre": "Time Travel",
+  "language": "en",
+  "short_description": "A young clockmaker's apprentice discovers his master's time-bending device and must prevent a catastrophe in Edwardian London.",
+  "long_description": "In Edwardian London, young clockmaker's apprentice Tom Ashford uncovers a secret hidden in Master Pendelton's workshop: the Chronometric Loom, a machine capable of weaving the fabric of time itself. When Tom accidentally activates the device, he tears a fracture in the timeline that threatens to collapse past, present, and future into a single catastrophic moment.\n\nWith the help of Lady Cordelia Wren, a mysterious time agent from the Temporal Accord, Tom must navigate fractured timelines, confront a rogue Time-Binder known as the Unraveler, and uncover the truth about his mother's death. As the boundaries between centuries blur and London begins to bleed across eras, Tom must master the art of time-binding before the timeline unravels completely.\n\nA story of sacrifice, legacy, and the price of keeping time whole, The Time-Binder's Apprentice weaves a tale of adventure across centuries in the spirit of classic Edwardian adventure fiction with a speculative twist.",
+  "main_characters": [
+    "Tom Ashford — a young clockmaker's apprentice, eighteen years old",
+    "Master Elias Pendelton — elderly master clockmaker, keeper of the Chronometric Loom",
+    "Lady Cordelia Wren — time agent from the Temporal Accord",
+    "Marcus Vane / The Unraveler — rogue Time-Binder gone mad",
+    "Eleanor Ashford — Tom's mother, former Time-Binder (deceased)"
+  ],
+  "keywords": [
+    "time travel",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "Edwardian",
+    "clockwork",
+    "temporal paradox",
+    "London"
+  ],
+  "TXT_path": "books/The_Time_Binders_Apprentice/txt/The_Time_Binders_Apprentice.txt",
+  "EPUB_path": "books/The_Time_Binders_Apprentice/epub/The_Time_Binders_Apprentice.epub",
+  "cover_path": "books/The_Time_Binders_Apprentice/covers/The_Time_Binders_Apprentice.png",
+  "outline_path": "books/The_Time_Binders_Apprentice/planning/The_Time_Binders_Apprentice_outline.md",
+  "cover_script_path": "books/The_Time_Binders_Apprentice/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

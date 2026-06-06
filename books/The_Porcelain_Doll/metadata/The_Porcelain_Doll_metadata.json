@@ -1,0 +1,107 @@
+{
+  "title": "The Porcelain Doll",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Japanese Literary",
+  "language": "en",
+  "description": "In post-WWII Kyoto, a Japanese dollmaker named Miyako Tanaka discovers that the dolls she crafts carry the souls of children who died in the war. When Captain William Miller, an American officer grieving the loss of his daughter, seeks her out, their shared grief bridges the divide between enemy nations. A story of loss, art, and the impossible hope of love in the ruins of empire.",
+  "long_description": "Kyoto, 1948. The war is over, but the dead remain. Miyako Tanaka, a young dollmaker trained in the ancient art of ningyo-zaiku, lives alone in the Higashiyama district, shaping porcelain faces that seem to capture the spirits of lost children. When grieving American officer Captain William Miller arrives at her workshop carrying a photograph of his seven-year-old daughter Sarah who died while he was deployed in Europe, their two worlds of grief collide. Through the painstaking craft of dollmaking — from digging clay in the hills to painting the final stroke of the eyes — Miyako and Miller navigate the chasm between their cultures and their languages, finding that the dead do not disappear but wait to be carried by the living. Spanning two years in occupied Japan, The Porcelain Doll is a meditation on art as vessel, grief as bridge, and the quiet courage of choosing life after loss.",
+  "characters": [
+    {
+      "name": "Miyako Tanaka",
+      "role": "protagonist",
+      "description": "A 28-year-old dollmaker in Kyoto, trained by her grandmother Hana. She discovers her dolls carry the souls of dead children. Reserved, spiritually attuned, burdened by her gift."
+    },
+    {
+      "name": "Captain William Miller",
+      "role": "protagonist",
+      "description": "A 42-year-old American civil affairs officer stationed in occupied Japan. A widower grieving the death of his seven-year-old daughter Sarah. Persistent, wounded, capable of change."
+    },
+    {
+      "name": "Hana Tanaka",
+      "role": "supporting",
+      "description": "Miyako's deceased grandmother, who taught her the art of dollmaking and the spiritual traditions behind it. Appears in flashbacks and dreams."
+    },
+    {
+      "name": "Mrs. Sato",
+      "role": "supporting",
+      "description": "Miyako's elderly neighbor, who lost her son Takeshi in the Philippines. A source of wisdom and comfort."
+    },
+    {
+      "name": "Colonel Hayes",
+      "role": "supporting",
+      "description": "Miller's commanding officer. Pragmatic, disapproving of Miller's relationship with a Japanese civilian."
+    },
+    {
+      "name": "Sarah Miller",
+      "role": "offstage",
+      "description": "Miller's seven-year-old daughter who died of influenza in 1945 while Miller was deployed. Her spirit becomes the emotional center of the story."
+    },
+    {
+      "name": "Kiku",
+      "role": "minor",
+      "description": "The first child whose spirit Miyako captured in a doll. Died in the Tokyo firebombing of March 1945."
+    },
+    {
+      "name": "Takeshi Sato",
+      "role": "minor",
+      "description": "Mrs. Sato's son, died in the Philippines at age 19 in 1944."
+    }
+  ],
+  "keywords": [
+    "japan",
+    "kyoto",
+    "post-war",
+    "occupation",
+    "dollmaker",
+    "ningyo",
+    "grief",
+    "loss",
+    "spiritual",
+    "tradition",
+    "craft",
+    "porcelain",
+    "american soldier",
+    "cross-cultural",
+    "1940s",
+    "literary fiction",
+    "historical fiction",
+    "spirits",
+    "art",
+    "healing"
+  ],
+  "settings": [
+    "Higashiyama district, Kyoto, Japan (1948-1950)",
+    "Miyako's workshop and garden",
+    "Miller's quarters in requisitioned building",
+    "Gion district",
+    "Hills north of Kyoto (clay deposit)",
+    "Heian Jingu shrine"
+  ],
+  "metadata_paths": {
+    "root": "The_Porcelain_Doll",
+    "planning": "books/The_Porcelain_Doll/planning/The_Porcelain_Doll_outline.md",
+    "manuscript": "books/The_Porcelain_Doll/txt/The_Porcelain_Doll.txt",
+    "epub": "books/The_Porcelain_Doll/epub/The_Porcelain_Doll.epub",
+    "cover": "books/The_Porcelain_Doll/covers/The_Porcelain_Doll.png",
+    "metadata": "books/The_Porcelain_Doll/metadata/The_Porcelain_Doll_metadata.json",
+    "cover_script": "books/The_Porcelain_Doll/tools/create_cover.py",
+    "epub_script": "books/The_Porcelain_Doll/tools/build_epub.py",
+    "report": "books/The_Porcelain_Doll/reports/final_report.md",
+    "manifest": "books/The_Porcelain_Doll/reports/manifest.csv",
+    "progress": "books/The_Porcelain_Doll/reports/progress.md",
+    "readme": "books/The_Porcelain_Doll/README.md"
+  },
+  "TXT_path": "books/The_Porcelain_Doll/txt/The_Porcelain_Doll.txt",
+  "EPUB_path": "books/The_Porcelain_Doll/epub/The_Porcelain_Doll.epub",
+  "cover_path": "books/The_Porcelain_Doll/covers/The_Porcelain_Doll.png",
+  "statistics": {
+    "chapter_count": 50,
+    "status": "complete_txt_epub_available",
+    "word_count_estimate": "15000",
+    "created_date": "2026-06-03"
+  },
+  "status": "complete_txt_epub_available",
+  "subgenre": "Japanese Literary",
+  "short_description": "In occupied Kyoto, a dollmaker and an American officer find a fragile bridge through art, grief, and memory."
+}

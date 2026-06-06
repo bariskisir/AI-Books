@@ -1,0 +1,46 @@
+{
+  "title": "The Watcher on the Wall",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Military Sci-Fi",
+  "language": "en",
+  "description_short": "A soldier stationed at a remote fortress on a frozen planet suspects the enemy they are watching for is already inside the walls.",
+  "description_long": "Private Elias Kane requested the most remote posting in human space. He got it: The Spire, a fortress of black ice on the frozen planet Ostrac, where he stands watch on the Wall, scanning the Barrens for signs of the Hush — an alien species that has been silent for fourteen years. But when supplies spoil overnight, soldiers whisper in dead languages, and shadows move against the light, Kane begins to suspect the enemy is no longer outside the walls. It is already inside. And it has been waiting. As the fortress descends into paranoia and the mimic threat spreads through the structure, Kane must confront a truth that will cost him everything: the walls that were meant to keep the enemy out were actually keeping something in.",
+  "characters": {
+    "Private Elias Kane": "A sharp-eyed soldier who requested the most remote posting available. He watches, notices, and trusts no one. The Watcher of the Wall.",
+    "Commander Marcus Holt": "Veteran of the last Hush war. Rigid, respected, burdened by what he knows. He runs The Spire with iron discipline and hides a terrible secret.",
+    "The Entity": "The Hush central node beneath The Spire. A collective intelligence that does not kill — it absorbs, mimics, and replaces.",
+    "Corporal Vance": "A soldier at The Spire who falls to the Hush fever before recovering. Possible mimic.",
+    "Private Dekker": "A soldier who vanishes from the lower levels and returns as a mimic.",
+    "Doctor Synn": "The Spire's medic, overwhelmed by the mysterious fever and its impossible biology.",
+    "Corporal Reyes": "A field surgeon and survivor who hides during the collapse and helps Kane escape."
+  },
+  "keywords": [
+    "military sci-fi",
+    "alien infiltration",
+    "psychological horror",
+    "fortress siege",
+    "paranoia",
+    "mimics",
+    "collective intelligence",
+    "frozen planet",
+    "Hush",
+    "The Watcher on the Wall",
+    "Barış Kısır",
+    "AI-Books"
+  ],
+  "paths": {
+    "directory": "The_Watcher_on_the_Wall",
+    "outline": "books/The_Watcher_on_the_Wall/planning/The_Watcher_on_the_Wall_outline.md",
+    "manuscript": "books/The_Watcher_on_the_Wall/txt/The_Watcher_on_the_Wall.txt",
+    "cover": "books/The_Watcher_on_the_Wall/covers/The_Watcher_on_the_Wall.png",
+    "epub": "books/The_Watcher_on_the_Wall/epub/The_Watcher_on_the_Wall.epub",
+    "metadata": "books/The_Watcher_on_the_Wall/metadata/The_Watcher_on_the_Wall_metadata.json"
+  },
+  "status": "complete_txt_epub_available",
+  "subgenre": "Military Sci-Fi",
+  "short_description": "At a frozen fortress on the edge of alien territory, a watch soldier suspects the enemy is already inside the walls.",
+  "long_description": "On the frozen planet Ostrac, Private Elias Kane stands watch at The Spire, a black-ice fortress built to hold the line against the silent alien Hush. When supplies spoil, soldiers whisper in dead languages, and shadows move where nothing should live, Kane realizes the enemy may already be inside the walls.\n\nThe Watcher on the Wall is a military science fiction thriller about siege, paranoia, and the cost of recognizing an infiltrator that learns by becoming human.",
+  "cover_path": "books/The_Watcher_on_the_Wall/covers/The_Watcher_on_the_Wall.png",
+  "EPUB_path": "books/The_Watcher_on_the_Wall/epub/The_Watcher_on_the_Wall.epub"
+}

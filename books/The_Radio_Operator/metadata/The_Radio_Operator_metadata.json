@@ -1,0 +1,39 @@
+{
+  "title": "The Radio Operator",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "War Romance",
+  "subgenre": "Historical Romance",
+  "language": "en",
+  "short_description": "A WAC radio operator in 1944 England falls in love with a voice on the encrypted line — a German resistance fighter on the other side of the war.",
+  "long_description": "In the spring of 1944, Sergeant Hannah Markham serves as a WAC radio operator at a covert signals station in the English countryside. One night, she picks up a faint signal — a man she knows only by his call sign, Grey Wolf. He is a German signals officer working inside the Wehrmacht's communication corps, secretly feeding intelligence to the French Resistance.\n\nOver months of coded transmissions, Hannah and Dieter forge an impossible bond through static and cipher. They develop a private language based on Rilke's poetry, sharing fragments of themselves between the formal traffic of war. But when Dieter's cover begins to fray after D-Day, and Hannah's superiors suspect she is compromised, they must decide how much they are willing to risk for a voice they have never seen.\n\nFrom the signals stations of Hampshire to the bombed-out streets of postwar Frankfurt, The Radio Operator is a story of love across enemy lines, the intimacy of the human voice, and the courage it takes to reach through the dark and touch someone you cannot see.",
+  "main_characters": [
+    "Hannah Markham — WAC sergeant, radio operator with a gift for Morse, from Iowa",
+    "Dieter Voss / Grey Wolf — German signals lieutenant turned Resistance informant",
+    "Colonel Reed — Hannah's commanding officer, sharp-eyed and paternal",
+    "Sergeant Joyce Collier — Hannah's bunkmate, pragmatic and protective",
+    "Major Delacroix — Free French intelligence officer",
+    "Captain Braun — Dieter's commanding officer, suspicious of leaks"
+  ],
+  "keywords": [
+    "World War II",
+    "radio operator",
+    "WAC",
+    "enemy lines",
+    "forbidden love",
+    "resistance",
+    "Normandy",
+    "D-Day",
+    "cipher",
+    "Morse code",
+    "signals intelligence",
+    "long-distance romance",
+    "war romance",
+    "1940s",
+    "historical fiction"
+  ],
+  "TXT_path": "books/The_Radio_Operator/txt/The_Radio_Operator.txt",
+  "EPUB_path": "books/The_Radio_Operator/epub/The_Radio_Operator.epub",
+  "cover_path": "books/The_Radio_Operator/covers/The_Radio_Operator.png",
+  "status": "complete_txt_epub_available"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The Wolves of Winter",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Prehistoric Survival",
+  "subgenre": "Ice Age Survival",
+  "language": "en",
+  "short_description": "A young huntress must lead her wounded clan across a frozen plain while a pack of wolves tracks them through the Ice Age wilderness.",
+  "long_description": "Twenty-five thousand years ago, in the frozen heart of Ice Age Europe, a mammoth hunt goes catastrophically wrong. Ayla, the clan's best hunter, watches helplessly as a falling boulder crushes Old Mother's legs. With the shaman gravely wounded and winter tightening its grip, Ayla must make an impossible choice: stay and starve, or lead the clan across the endless frozen plain toward a green valley she has only heard of in stories.\n\nA pack of wolves follows them through the white wilderness. The alpha, a scarred grey-white beast as hungry and desperate as the clan itself, tracks their every step. As food runs out and the temperature drops, Ayla must learn what it truly means to lead — to make the hard decisions, to carry the ones who fall, and to honor an ancient promise between humans and wolves.\n\nThe Wolves of Winter is a spare, literary survival story about leadership, sacrifice, and the thin line between hunter and hunted. Set in a world of ice and bone, it follows one woman's journey across a frozen continent, carrying her people's stories toward an uncertain spring.",
+  "main_characters": [
+    "Ayla — A young huntress who must lead her wounded clan across the frozen plain",
+    "Old Mother — The clan's shaman and healer, whose shattered leg forces Ayla to take command",
+    "The Wolf Leader — The alpha of the wolf pack, a grey-white male who stalks the clan across the ice",
+    "Daron — A middle-aged hunter skeptical of Ayla's leadership",
+    "Kaya — A young woman carrying her infant brother, who becomes Ayla's first ally",
+    "Renn — An old tracker with one eye, Ayla's quietest and most loyal supporter"
+  ],
+  "keywords": [
+    "prehistoric fiction",
+    "ice age",
+    "survival",
+    "wolves",
+    "prehistoric survival",
+    "wilderness",
+    "historical fiction",
+    "Ice Age Europe",
+    "leadership",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Wolves_of_Winter/txt/The_Wolves_of_Winter.txt",
+  "EPUB_path": "books/The_Wolves_of_Winter/epub/The_Wolves_of_Winter.epub",
+  "cover_path": "books/The_Wolves_of_Winter/covers/The_Wolves_of_Winter.png",
+  "outline_path": "books/The_Wolves_of_Winter/planning/The_Wolves_of_Winter_outline.md",
+  "cover_script_path": "books/The_Wolves_of_Winter/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

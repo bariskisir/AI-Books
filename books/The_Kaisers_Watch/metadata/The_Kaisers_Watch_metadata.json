@@ -1,0 +1,30 @@
+{
+  "title": "The Kaiser's Watch",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Alternate History",
+  "subgenre": "Spy Thriller",
+  "language": "en",
+  "short_description": "In a world where Germany won WWI, a Berlin clockmaker secretly spies for the American resistance.",
+  "long_description": "In a world where Germany won the Great War, the Kaiser's empire stretches from the Atlantic to the Urals. Berlin is the capital of the world, and the American resistance fights a losing war of shadows. Klaus Brenner, a master clockmaker on Friedrichstrasse, lives a quiet life repairing antique timepieces for the city's elite. But behind the regulated tick of his workshop, Klaus is a spy for the American resistance.\n\nWhen a ruthless Kommissar from the Imperial Security Bureau arrives in Berlin with a reputation for dismantling resistance cells, Klaus must keep his hands steady and his covers intact. The Kommissar is methodical, patient, and closing in. Every tick of the clock brings Klaus closer to exposure or escape.\n\nThe Kaiser's Watch is an alternate history spy thriller about loyalty, betrayal, and the small, precise acts of rebellion that can bring down an empire.",
+  "main_characters": [
+    "Klaus Brenner",
+    "Frau Elise Becker",
+    "Kommissar Karl Vogler"
+  ],
+  "keywords": [
+    "alternate history",
+    "spy thriller",
+    "WWI",
+    "Berlin",
+    "resistance",
+    "clockmaker",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Kaisers_Watch/txt/The_Kaisers_Watch.txt",
+  "EPUB_path": "books/The_Kaisers_Watch/epub/The_Kaisers_Watch.epub",
+  "cover_path": "books/The_Kaisers_Watch/covers/The_Kaisers_Watch.png",
+  "outline_path": "books/The_Kaisers_Watch/planning/The_Kaisers_Watch_outline.md",
+  "cover_script_path": "books/The_Kaisers_Watch/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

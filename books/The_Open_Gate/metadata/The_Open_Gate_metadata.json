@@ -1,0 +1,35 @@
+{
+  "title": "The Open Gate",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Borderless Utopia",
+  "subgenre": "Philosophical Fiction",
+  "language": "en",
+  "short_description": "A cartographer discovers a hidden place that the maps refuse to show, unearthing a two-century-old secret about the true cost of total openness.",
+  "long_description": "In a world without borders, passports, or restricted zones, cartographer Lena Rahim has mapped every corner of the open world. But when she discovers a coordinate that exists on every instrument yet appears in no record, her methodical world begins to unravel. The coordinate leads her to a submerged city, deliberately hidden and preserved, holding the records of Project Sanctuary — a secret network of closed places created during the Opening itself.\n\nJoined by Kael, a geomancer who reads the land like others read text, Lena journeys across the world to find the twelve hidden nodes, each preserving something precious that total openness would have destroyed. From botanical sanctuaries to genetic repositories, from ice cities to coral reefs, the closed places hold the fragile pieces of a world that could not survive unrestricted access.\n\nAs the barriers begin to fail after two centuries, Lena must decide: reveal the truth and risk destroying what the sanctuaries protect, or keep the secret and betray the foundational principle of the open world. Her choice will redefine what freedom means in a world that thought it had no limits.",
+  "main_characters": [
+    "Lena Rahim",
+    "Kael",
+    "Scholar Den",
+    "The Keeper",
+    "Yuki",
+    "Inari"
+  ],
+  "keywords": [
+    "borderless world",
+    "hidden sanctuaries",
+    "cartography",
+    "geomancer",
+    "preservation",
+    "utopia",
+    "freedom versus protection",
+    "submerged city",
+    "mystery"
+  ],
+  "TXT_path": "books/The_Open_Gate/txt/The_Open_Gate.txt",
+  "EPUB_path": "books/The_Open_Gate/epub/The_Open_Gate.epub",
+  "cover_path": "books/The_Open_Gate/covers/The_Open_Gate.png",
+  "outline_path": "books/The_Open_Gate/planning/The_Open_Gate_outline.md",
+  "cover_script_path": "books/The_Open_Gate/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

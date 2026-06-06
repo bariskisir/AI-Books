@@ -1,0 +1,12 @@
+filename,size_bytes,description,model
+The_Children_of_the_Flood/planning/The_Children_of_the_Flood_outline.md,5766,50-chapter outline with premise and cast,deepseek-v4-flash
+The_Children_of_the_Flood/txt/The_Children_of_the_Flood.txt,72592,Full 50-chapter manuscript,deepseek-v4-flash
+The_Children_of_the_Flood/metadata/The_Children_of_the_Flood_metadata.json,2714,Book metadata in JSON format,deepseek-v4-flash
+The_Children_of_the_Flood/tools/create_cover.py,7363,PIL-based cover generation script,deepseek-v4-flash
+The_Children_of_the_Flood/tools/build_epub.py,8290,EPUB 3 build script,deepseek-v4-flash
+The_Children_of_the_Flood/covers/The_Children_of_the_Flood.png,87536,1600x2560 cover image,deepseek-v4-flash
+The_Children_of_the_Flood/epub/The_Children_of_the_Flood.epub,207287,EPUB 3 ebook file,deepseek-v4-flash
+The_Children_of_the_Flood/README.md,318,Book readme with cover and download link,deepseek-v4-flash
+The_Children_of_the_Flood/reports/final_report.md,1587,Summary of what was created,deepseek-v4-flash
+The_Children_of_the_Flood/reports/manifest.csv,987,This file,deepseek-v4-flash
+The_Children_of_the_Flood/reports/progress.md,25,Chapter completion status,deepseek-v4-flash

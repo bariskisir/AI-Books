@@ -1,0 +1,37 @@
+{
+  "title": "The Long Count",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Sports Drama",
+  "subgenre": "Boxing Fiction",
+  "language": "en",
+  "short_description": "A washed-up boxer in 1970s Detroit gets a shot at the title he never earned, but the fight outside the ring is the one that counts.",
+  "long_description": "Ray \"The Hammer\" Mason was a contender once, a decade ago, before the losses piled up and the booze blurred the years. Now pushing forty in 1970s Detroit, he works an assembly line and sleeps in a walk-up apartment that smells like the previous tenant. When his old trainer Sal surfaces with an improbable opportunity, Ray steps back into the gym for one last shot at the middleweight championship.\n\nThe road back is brutal. Ray's body rebels, his daughter refuses to see him, and his ex-wife carries scars he put there. Standing across the ring is Tony \"The Tiger\" DeMarco, the undefeated champion at the peak of his powers, a man who has never heard the final bell. But the fight that matters most is the one Ray has been losing for a decade: the battle to become a man worth remembering.\n\nThe Long Count is a sports drama about pride, regret, and the quiet courage of a man who refuses to stay down. Set against the backdrop of a fading Detroit, it asks what we fight for when the crowds have gone home and the only opponent left is the face in the mirror.",
+  "main_characters": [
+    "Ray 'The Hammer' Mason",
+    "Salvatore 'Sal' Genovese",
+    "Tony 'The Tiger' DeMarco",
+    "Doreen Mason",
+    "Lena Mason",
+    "Junior Reeves",
+    "Mickey DeLuca"
+  ],
+  "keywords": [
+    "boxing",
+    "sports drama",
+    "Detroit",
+    "1970s",
+    "comeback",
+    "redemption",
+    "middleweight",
+    "Barış Kısır",
+    "fiction",
+    "novel"
+  ],
+  "TXT_path": "books/The_Long_Count/txt/The_Long_Count.txt",
+  "EPUB_path": "books/The_Long_Count/epub/The_Long_Count.epub",
+  "cover_path": "books/The_Long_Count/covers/The_Long_Count.png",
+  "outline_path": "books/The_Long_Count/planning/The_Long_Count_outline.md",
+  "cover_script_path": "books/The_Long_Count/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

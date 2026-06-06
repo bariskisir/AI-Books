@@ -1,0 +1,38 @@
+{
+  "title": "The River Mother",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Magical Realism",
+  "subgenre": "Amazon Magical Realism",
+  "language": "en",
+  "short_description": "After a catastrophic flood, a woman in a floating Amazon village discovers she is pregnant with a child conceived from the river itself.",
+  "long_description": "Yara has spent her life in Porto das Aguas, a floating village on the Amazon River, haunted by the disappearance of her mother who walked into the water one night and never returned. When the worst flood in living memory submerges the village, Yara is pulled into the depths and experiences a vision of the river's ancient consciousness. She emerges carrying a child she did not conceive — the river's first human daughter.\n\nAs the pregnancy accelerates at an unnatural pace, Yara seeks guidance from Dom Ceu, the village shaman, who reveals that her mother also carried the river's seed but chose to return to the water instead. The village turns against her. The river makes demands. And the child growing inside her is not entirely human.\n\nSpanning the seasons of flood and drought, birth and transformation, The River Mother is a story of sacrifice, belonging, and the ancient covenant between humanity and the wild. Yara must choose between the daughter she loves and the river that needs her — and learn that some bonds are stronger than water.",
+  "main_characters": [
+    "Yara — A woman of Porto das Aguas, chosen to carry the river's child",
+    "The River — The Amazon River as a living consciousness",
+    "Dom Ceu — The village shaman who guides Yara",
+    "Iara — Daughter of Yara and the river",
+    "Maria do Rosario — The village midwife",
+    "Joao — A fisherman whose fear turns to respect",
+    "Yara's Mother — A healer who became one with the river"
+  ],
+  "keywords": [
+    "magical realism",
+    "amazon river",
+    "floating village",
+    "pregnancy",
+    "river spirit",
+    "shaman",
+    "motherhood",
+    "sacrifice",
+    "literary fiction",
+    "brazil",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_River_Mother/txt/The_River_Mother.txt",
+  "EPUB_path": "books/The_River_Mother/epub/The_River_Mother.epub",
+  "cover_path": "books/The_River_Mother/covers/The_River_Mother.png",
+  "outline_path": "books/The_River_Mother/planning/The_River_Mother_outline.md",
+  "cover_script_path": "books/The_River_Mother/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Upper Room",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Ghost Story",
+  "subgenre": "Literary haunting / Family drama",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "A ghost story novel. A family moves into a pre-war apartment building in Boston only to discover the upstairs neighbor died in 1952 and never left.",
+  "long_description": "Sarah Vasquez and her twelve-year-old son Leo move into a pre-war apartment building in Boston's Back Bay, hoping for a fresh start after a difficult divorce. The rent is impossibly low, and the reason emerges slowly: no one stays long in 4B. The elderly woman who lived upstairs died in 1952 and never left. She walks the hallway at night, plays records on a Victrola no one owns, and she has been waiting a long time for someone to notice her.\n\nAs Sarah and Leo settle in, the presence in the upper room begins to make itself known — not with malice, but with an aching, lonely persistence. Through old letters, a forgotten photograph, and patient observation, they uncover the story of Eleanor Pendleton, a woman who died alone with an unsent letter to a man named Thomas, a soldier lost in the Korean War. The ghost has been waiting fifty-four years for someone to read her words aloud so she can finally let go.\n\nThe Upper Room is a ghost story about loneliness, courage, and the things we leave unsaid. It asks what it means to be seen, remembered, and finally released — and whether love can survive even the silence of the grave.",
+  "main_characters": [
+    "Sarah Vasquez",
+    "Leo Vasquez",
+    "Mrs. Pendleton",
+    "Thomas Hale"
+  ],
+  "keywords": [
+    "ghost story",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "haunted house",
+    "Boston",
+    "supernatural",
+    "family drama",
+    "literary fiction"
+  ],
+  "TXT_path": "books/The_Upper_Room/txt/The_Upper_Room.txt",
+  "cover_path": "books/The_Upper_Room/covers/The_Upper_Room.png",
+  "EPUB_path": "books/The_Upper_Room/epub/The_Upper_Room.epub",
+  "outline_path": "books/The_Upper_Room/planning/The_Upper_Room_outline.md",
+  "word_count": 10465,
+  "status": "complete_txt_epub_available"
+}

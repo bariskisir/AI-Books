@@ -1,0 +1,12 @@
+file,size_bytes,status,model
+planning/The_Orchid_Thief_of_Calcutta_outline.md,3509,complete,deepseek-v4-flash
+txt/The_Orchid_Thief_of_Calcutta.txt,68923,complete,deepseek-v4-flash
+metadata/The_Orchid_Thief_of_Calcutta_metadata.json,1236,complete,deepseek-v4-flash
+covers/The_Orchid_Thief_of_Calcutta.png,245478,complete,deepseek-v4-flash
+epub/The_Orchid_Thief_of_Calcutta.epub,342208,complete,deepseek-v4-flash
+tools/build_epub.py,7040,complete,deepseek-v4-flash
+tools/create_cover.py,11733,complete,deepseek-v4-flash
+README.md,2179,complete,deepseek-v4-flash
+reports/final_report.md,2156,complete,deepseek-v4-flash
+reports/manifest.csv,457,complete,deepseek-v4-flash
+reports/progress.md,1234,complete,deepseek-v4-flash

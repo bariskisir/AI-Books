@@ -1,0 +1,38 @@
+{
+  "title": "The Last Taxi",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Urban Magical Realism",
+  "subgenre": "Contemporary Fantasy",
+  "language": "en",
+  "short_description": "A taxi driver in Istanbul picks up passengers who all seem to be versions of the same person at different stages of their life.",
+  "long_description": "Kemal drives a worn-out yellow taxi through the streets of Istanbul, night after night. His passengers are strangers — until one evening he picks up a young girl who speaks of memories she could not possibly have. Then a soldier. Then an old man. Each shares the same face, the same tired eyes, the same odd details. They are all the same person at different stages of life, and the city itself is the thread that binds them.\n\nThrough a long night of fares across the Bosphorus, Kemal begins to understand that time in Istanbul does not run in a straight line — it loops, bends, and doubles back on itself. Each passenger carries a fragment of a life that has not yet finished, and Kemal must help them complete the circuit before the last taxi stops running.\n\nFrom the cobblestone lanes of Üsküdar to the neon glow of Taksim Square, “The Last Taxi” is a novel about inheritance, memory, and the hidden loops that pulse beneath the surface of every great city.",
+  "main_characters": [
+    "Kemal — A taxi driver in his late forties, divorced, quiet observer of the city",
+    "The Girl — A twelve-year-old passenger who carries a wooden boat and speaks of a future she should not know",
+    "The Soldier — A young man in uniform returning from a war that has not yet been declared",
+    "The Old Man — Levent, nearing eighty, who holds the key to the loop and knows exactly who Kemal is",
+    "The Woman — Levent’s daughter grown up, the version who stayed in Istanbul while everyone else left"
+  ],
+  "keywords": [
+    "urban magical realism",
+    "istanbul",
+    "taxi",
+    "time loop",
+    "magical realism",
+    "fatherhood",
+    "memory",
+    "turkey",
+    "bosphorus",
+    "contemporary fantasy",
+    "literary fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Last_Taxi/txt/The_Last_Taxi.txt",
+  "EPUB_path": "books/The_Last_Taxi/epub/The_Last_Taxi.epub",
+  "cover_path": "books/The_Last_Taxi/covers/The_Last_Taxi.png",
+  "outline_path": "books/The_Last_Taxi/planning/The_Last_Taxi_outline.md",
+  "cover_script_path": "books/The_Last_Taxi/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

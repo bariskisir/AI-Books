@@ -1,0 +1,39 @@
+{
+  "title": "The Winter Orchid",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dark Academia",
+  "subgenre": "Dark Academic Thriller",
+  "language": "en",
+  "short_description": "A scholarship student at an elite New England college uncovers a secret society that has been stealing genius from the dead for centuries.",
+  "long_description": "Maya Torres arrives at Wychwood College on a scholarship, carrying little more than her mother's silver locket and a worn copy of Ovid. The Gothic campus is imposing, the students are wealthy, and Maya is an outsider. Then Professor Julian Ashford singles her out at the freshman dinner. He knows things about her that he should not.\n\nWhen a purple hyacinth appears on her door, followed by a midnight invitation to a locked tower room, Maya discovers the Ordo Hyacinthi — a secret society that has operated since 1762, harvesting the final cognitive burst of dying geniuses and transferring it into living members. The stolen brilliance of poets, scientists, and composers flows through copper pipes hidden in the library walls.\n\nAshford offers Maya a place as his successor. She refuses. Her scholarship is doubled. A student who threatened exposure falls from a bell tower. Maya realizes the cost of refusal is measured in lives.\n\nWith the help of her reluctant roommate Paige, a philosophy student named Felix, and the enigmatic Librarian who has watched the society for centuries, Maya uncovers the crypt beneath the library where the society's founder, Ezra Thorne, has been kept in suspended animation for two hundred and sixty years. To break the resonance network, Maya must speak a countersigil in three voices, using her own blood — for she is a descendant of Thorne's original vessel.\n\nOn the winter solstice, as the grand harvest begins, Maya cuts her palm and speaks the words that will sever the stolen genius forever. But the cost is higher than she imagined. The building collapses. Thorne dies. The stolen works fade from existence — but the credit is returned to the dead.\n\nYears later, Maya works in the library's new reading room, watching a new generation of scholarship students arrive. The winter orchid blooms in the greenhouse. The cycle does not need to repeat.",
+  "main_characters": [
+    "Maya Torres — A scholarship student from Lowell, Massachusetts; first-generation college student",
+    "Professor Julian Ashford — Classics professor and head of the Ordo Hyacinthi",
+    "The Librarian (Elara Voss) — Head of Special Collections at the Arcane Library",
+    "Paige Worthington — Maya's roommate, a legacy student afraid of the society",
+    "Felix — A philosophy PhD student and reluctant candidate for the society",
+    "Ezra Thorne — Founder of the Ordo Hyacinthi, preserved in suspended animation"
+  ],
+  "keywords": [
+    "dark academia",
+    "secret society",
+    "college",
+    "thriller",
+    "mystery",
+    "genius",
+    "death",
+    "harvest",
+    "New England",
+    "gothic",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Winter_Orchid/txt/The_Winter_Orchid.txt",
+  "EPUB_path": "books/The_Winter_Orchid/epub/The_Winter_Orchid.epub",
+  "cover_path": "books/The_Winter_Orchid/covers/The_Winter_Orchid.png",
+  "outline_path": "books/The_Winter_Orchid/planning/The_Winter_Orchid_outline.md",
+  "cover_script_path": "books/The_Winter_Orchid/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

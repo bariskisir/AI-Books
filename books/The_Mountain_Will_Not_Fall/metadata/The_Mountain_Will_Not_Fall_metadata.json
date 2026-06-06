@@ -1,0 +1,36 @@
+{
+  "title": "The Mountain Will Not Fall",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Survival Thriller",
+  "subgenre": "Mountaineering",
+  "language": "en",
+  "short_description": "A survival thriller set on K2 where a climbing expedition trapped at 26,000 feet must fight for survival against storm, injury, and impossible odds.",
+  "long_description": "When a climbing expedition on K2 is caught in a sudden storm that triggers a devastating avalanche in the Bottleneck, six climbers are reduced to four. Trapped at 26,000 feet with a dying radio, failing oxygen supplies, and multiple injuries, the survivors — Tenzing, a veteran Sherpa guide hiding a career-ending shoulder injury; Dr. Ashford, a British mountaineer driven by private grief; and Min-seo, a young Korean climber on her first 8,000-meter peak — must descend through the death zone with impossible odds stacked against them.\n\nAt Base Camp, twenty-four-year-old radio operator Rana Thapa faces an impossible choice of his own. His father, a former Indian Army mountaineer, warns him that sending rescuers up the mountain will likely kill them too. But Rana must decide whether to follow that advice or send two guides into certain danger.\n\nThe Mountain Will Not Fall is a literary survival thriller about the physics of hope at the edge of human endurance. It asks what we owe each other when the mountain demands everything.",
+  "main_characters": [
+    "Tenzing Dorje — Sherpa guide with a hidden shoulder injury",
+    "Dr. Eleanor Ashford — British mountaineer seeking closure for her brother's death",
+    "Min-seo Park — Korean climber on her first 8,000-meter peak",
+    "Rana Thapa — Base Camp radio operator facing his first rescue decision",
+    "Pemba Nuru — Sherpa, Tenzing's cousin, with a crushed leg",
+    "Russell Crawford — American client, gravely injured in the avalanche",
+    "Dawa — Rescue guide from Base Camp",
+    "Pasang — Rescue guide, Dawa's brother",
+    "Colonel Vinod Thapa — Rana's father, former Indian Army mountaineer"
+  ],
+  "keywords": [
+    "survival thriller",
+    "mountaineering",
+    "K2",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "adventure"
+  ],
+  "TXT_path": "books/The_Mountain_Will_Not_Fall/txt/The_Mountain_Will_Not_Fall.txt",
+  "EPUB_path": "books/The_Mountain_Will_Not_Fall/epub/The_Mountain_Will_Not_Fall.epub",
+  "cover_path": "books/The_Mountain_Will_Not_Fall/covers/The_Mountain_Will_Not_Fall.png",
+  "outline_path": "books/The_Mountain_Will_Not_Fall/planning/The_Mountain_Will_Not_Fall_outline.md",
+  "cover_script_path": "books/The_Mountain_Will_Not_Fall/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

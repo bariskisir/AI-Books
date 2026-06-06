@@ -1,0 +1,36 @@
+{
+  "title": "The Botanist's Daughter",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Family Drama",
+  "subgenre": "Literary Family Drama",
+  "language": "en",
+  "short_description": "After her father's death, a woman discovers his secret botanical journal — forty years of cataloging plants that exist in no known climate zone.",
+  "long_description": "When June Bell receives word of her father's death, she returns to his overgrown cottage expecting to sort through the detritus of a lonely old man. Instead, she finds a locked leather journal hidden beneath his desk. Inside are forty years of meticulous botanical illustrations and field notes describing plants that defy every law of nature — a fern thriving in bone-dry desert sand, a tree whose roots grow upward into salt spray, an orchid that blooms in absolute darkness.\n\nGuided by her father's final letter, June travels to the dying Appalachian town of Mercy, West Virginia, where she finds The Curator — a woman who has guarded her father's secret collection for thirty-five years. In a hidden greenhouse, June sees the impossible plants alive and growing. As she retraces her father's footsteps across America, she uncovers not only a scientific mystery that challenges the foundations of botany, but the hidden life of a man she never truly knew.\n\nWhen a corporate scout named Vance begins hunting the collection, June must choose between revealing the discovery to the world and protecting what her father spent his life hiding. Her journey leads her to a cavern beneath the Nevada desert — the source of all impossible plants — where she must decide what kind of legacy she will carry forward.",
+  "main_characters": [
+    "June Bell — A high school biology teacher who inherits her father's secret botanical journal",
+    "Dr. Arthur Bell — June's deceased father, a botanist who spent forty years documenting impossible plants",
+    "Margaret / The Curator — Keeper of the secret greenhouse, guardian of the collection"
+  ],
+  "keywords": [
+    "family drama",
+    "botany",
+    "impossible plants",
+    "father-daughter relationship",
+    "secret journal",
+    "Appalachia",
+    "scientific mystery",
+    "legacy",
+    "grief",
+    "discovery",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Botanists_Daughter/txt/The_Botanists_Daughter.txt",
+  "EPUB_path": "books/The_Botanists_Daughter/epub/The_Botanists_Daughter.epub",
+  "cover_path": "books/The_Botanists_Daughter/covers/The_Botanists_Daughter.png",
+  "outline_path": "books/The_Botanists_Daughter/planning/The_Botanists_Daughter_outline.md",
+  "cover_script_path": "books/The_Botanists_Daughter/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

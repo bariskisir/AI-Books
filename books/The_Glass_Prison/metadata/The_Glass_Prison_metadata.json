@@ -1,0 +1,69 @@
+{
+  "title": "The Glass Prison",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Prison Thriller",
+  "language": "en",
+  "series": "The_Glass_Prison",
+  "description": "An architect imprisoned in the prison he designed must use his knowledge of its hidden secrets to survive a cartel-orchestrated prison break. Julian Voss built Blackstone Penitentiary to be inescapable. Now he's inmate #819, trapped inside his own creation. When cartel leader El Lobo forces him to chart an escape route through undocumented maintenance tunnels, Julian must navigate a web of betrayal, corruption, and violence to regain his freedom.",
+  "long_description": "Blackstone Penitentiary was Julian Voss's masterpiece — a state-of-the-art supermax built entirely of reinforced glass and steel, designed for total transparency and control. But when a corrupt business partner frames him for accepting bribes, Julian becomes inmate #819, locked inside the prison he designed.\n\nWarden Meredith Cross runs a tight ship, but even she can't prevent the inevitable: cartel leader El Lobo has been planning a massive prison break for years, and he needs Julian's intimate knowledge of Blackstone's secrets — the undocumented maintenance tunnels, the structural flaws, the blind spots in the glass — to pull it off.\n\nCaught between the cartel hunting him and the warden who blames him for the prison's failures, Julian must navigate a brutal escape through the tunnels beneath Blackstone. But freedom comes with a price. El Lobo doesn't leave loose ends, and Julian's former partner Marcus Shaw — the man who framed him — is waiting on the outside with a bullet.\n\nThe Glass Prison is a taut prison thriller about betrayal, survival, and the cages we build around ourselves.",
+  "characters": [
+    {
+      "name": "Julian Voss",
+      "role": "Protagonist",
+      "description": "A brilliant architect who designed Blackstone Penitentiary. Framed for corruption and imprisoned in his own creation. Quiet, observant, methodical. Knows every weakness in the prison."
+    },
+    {
+      "name": "El Lobo",
+      "role": "Antagonist",
+      "description": "Cartel leader born Ricardo Fuentes. Charismatic, ruthless, and patient. Spent three years planning his escape from Blackstone. Will kill anyone who becomes a liability."
+    },
+    {
+      "name": "Warden Meredith Cross",
+      "role": "Supporting",
+      "description": "Warden of Blackstone Penitentiary. A career corrections officer, hard but fair. Doesn't trust Julian but also doesn't trust the cartel. Follows procedure until procedure fails."
+    },
+    {
+      "name": "Vargas",
+      "role": "Supporting",
+      "description": "El Lobo's lieutenant inside Blackstone. Lean, sharp, practical. Leads the extraction team during the prison break."
+    },
+    {
+      "name": "Marcus Shaw",
+      "role": "Antagonist",
+      "description": "Julian's former business partner. Framed Julian for bribes paid by El Lobo. Motivated by his wife's medical bills. Cowardly and guilt-ridden."
+    }
+  ],
+  "TXT_path": "books/The_Glass_Prison/txt/The_Glass_Prison.txt",
+  "EPUB_path": "books/The_Glass_Prison/epub/The_Glass_Prison.epub",
+  "cover_path": "books/The_Glass_Prison/covers/The_Glass_Prison.png",
+  "keywords": [
+    "prison thriller",
+    "architect",
+    "escape",
+    "cartel",
+    "Blackstone Penitentiary",
+    "glass prison",
+    "survival",
+    "betrayal",
+    "corruption",
+    "crime thriller"
+  ],
+  "paths": {
+    "outline": "books/The_Glass_Prison/planning/The_Glass_Prison_outline.md",
+    "manuscript": "books/The_Glass_Prison/txt/The_Glass_Prison.txt",
+    "cover": "books/The_Glass_Prison/covers/The_Glass_Prison.png",
+    "epub": "books/The_Glass_Prison/epub/The_Glass_Prison.epub",
+    "metadata": "books/The_Glass_Prison/metadata/The_Glass_Prison_metadata.json",
+    "tools_directory": "books/The_Glass_Prison/tools/",
+    "reports_directory": "books/The_Glass_Prison/reports/"
+  },
+  "stats": {
+    "chapter_count": 50,
+    "status": "complete_txt_epub_available",
+    "words": 15400
+  },
+  "status": "complete_txt_epub_available",
+  "subgenre": "Prison Thriller",
+  "short_description": "An architect framed and imprisoned inside his own glass supermax must survive a cartel escape plot."
+}

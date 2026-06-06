@@ -1,0 +1,12 @@
+Path,Type,Size,model
+Dandelion_Wine_Summer/planning/Dandelion_Wine_Summer_outline.md,markdown,1503,deepseek-v4-flash
+Dandelion_Wine_Summer/txt/Dandelion_Wine_Summer.txt,text,54217,deepseek-v4-flash
+Dandelion_Wine_Summer/metadata/Dandelion_Wine_Summer_metadata.json,json,1140,deepseek-v4-flash
+Dandelion_Wine_Summer/epub/Dandelion_Wine_Summer.epub,epub,297755,deepseek-v4-flash
+Dandelion_Wine_Summer/covers/Dandelion_Wine_Summer.png,png,839840,deepseek-v4-flash
+Dandelion_Wine_Summer/tools/build_epub.py,python,6185,deepseek-v4-flash
+Dandelion_Wine_Summer/tools/create_cover.py,python,7455,deepseek-v4-flash
+Dandelion_Wine_Summer/README.md,markdown,301,deepseek-v4-flash
+Dandelion_Wine_Summer/reports/final_report.md,markdown,869,deepseek-v4-flash
+Dandelion_Wine_Summer/reports/manifest.csv,csv,628,deepseek-v4-flash
+Dandelion_Wine_Summer/reports/progress.md,markdown,35,deepseek-v4-flash

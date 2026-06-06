@@ -1,0 +1,35 @@
+{
+  "title": "The Whispering Gallery",
+  "author": "Barış Kısır",
+  "model": "gemini-3.5-flash",
+  "genre": "Gothic Mystery",
+  "subgenre": "Victorian Acoustic Horror",
+  "language": "en",
+  "short_description": "A young woman cataloging a blind anatomist's library discovers the house's architecture whispers secrets of the dead.",
+  "long_description": "Clara Thorne arrives at Vance Hall, a crumbling cliffside estate on the North Sea, to index the vast, private library of Lord Julian Vance, a blind anatomist. She quickly notices the curious curvature of the masonry and the high, domed ceiling. The house, designed as a whispering gallery, carries voices from distant and locked chambers.\n\nWhen she starts hearing the voice of her deceased sister Lucy, Clara is drawn into Julian's secretive research on the acoustics of bone and stone. As Julian's brother Arthur arrives to settle debts, Clara realizes the manor holds the dark truth of a tragic fire that occurred ten years ago.\n\nA slow-burn, atmospheric Victorian Gothic mystery about grief, sound, and the echoes that refuse to die.",
+  "main_characters": [
+    "Clara Thorne",
+    "Lord Julian Vance",
+    "Mrs. Hallowell",
+    "Arthur Vance",
+    "Gregory"
+  ],
+  "keywords": [
+    "gothic mystery",
+    "acoustics",
+    "anatomist",
+    "library",
+    "echoes",
+    "victorian",
+    "grief",
+    "haunted house",
+    "sound",
+    "whispering gallery"
+  ],
+  "TXT_path": "books/The_Whispering_Gallery/txt/The_Whispering_Gallery.txt",
+  "EPUB_path": "books/The_Whispering_Gallery/epub/The_Whispering_Gallery.epub",
+  "cover_path": "books/The_Whispering_Gallery/covers/The_Whispering_Gallery.png",
+  "outline_path": "books/The_Whispering_Gallery/planning/The_Whispering_Gallery_outline.md",
+  "cover_script_path": "books/The_Whispering_Gallery/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

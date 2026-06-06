@@ -1,0 +1,37 @@
+{
+  "title": "The Copper Saint",
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Renaissance Thriller",
+  "subgenre": "Art History Conspiracy",
+  "language": "en",
+  "short_description": "A disgraced florence conservator exposes forged miracles hidden in a copper reliquary.",
+  "long_description": "The Copper Saint follows Livia Conti, an adult art conservator, through Florence after a chapel fire as a disgraced Florence conservator exposes forged miracles hidden in a copper reliquary. The inquiry moves through offices, sealed rooms, public hearings, and physical evidence, keeping its suspense grounded in work, speech, and consequence.\n\nAs Captain Renzo Vale, Marta Orsini, and Cesare Bellini help test the record, Gian Bardi tries to turn delay into truth. The novel is clean adult suspense about institutions, memory, and the cost of naming what everyone was paid not to see.",
+  "main_characters": [
+    "Livia Conti",
+    "Captain Renzo Vale",
+    "Marta Orsini",
+    "Cesare Bellini",
+    "Gian Bardi"
+  ],
+  "keywords": [
+    "renaissance thriller",
+    "art history conspiracy",
+    "mystery",
+    "evidence",
+    "archive",
+    "adult characters",
+    "clean suspense",
+    "conspiracy",
+    "truth",
+    "standalone"
+  ],
+  "planned_chapters": 50,
+  "word_count": 24256,
+  "TXT_path": "books/The_Copper_Saint/txt/The_Copper_Saint.txt",
+  "EPUB_path": "books/The_Copper_Saint/epub/The_Copper_Saint.epub",
+  "cover_path": "books/The_Copper_Saint/covers/The_Copper_Saint.png",
+  "outline_path": "books/The_Copper_Saint/planning/The_Copper_Saint_outline.md",
+  "cover_script_path": "books/The_Copper_Saint/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

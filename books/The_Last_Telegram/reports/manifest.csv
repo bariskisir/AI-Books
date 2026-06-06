@@ -1,0 +1,6 @@
+type,path,status,model
+txt,books/The_Last_Telegram/txt/The_Last_Telegram.txt,present,deepseek-v4-flash
+epub,books/The_Last_Telegram/epub/The_Last_Telegram.epub,present,deepseek-v4-flash
+cover,books/The_Last_Telegram/covers/The_Last_Telegram.png,present,deepseek-v4-flash
+metadata,books/The_Last_Telegram/metadata/The_Last_Telegram_metadata.json,present,deepseek-v4-flash
+outline,books/The_Last_Telegram/planning/The_Last_Telegram_outline.md,present,deepseek-v4-flash

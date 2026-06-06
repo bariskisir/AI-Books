@@ -1,0 +1,37 @@
+{
+  "title": "The Crystal Frontier",
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Planetary Adventure",
+  "subgenre": "Speculative Frontier Fiction",
+  "language": "en",
+  "short_description": "A colony surveyor escorts a treaty across crystal plains that refuse to stay mapped.",
+  "long_description": "The Crystal Frontier follows Rae Kest, an adult boundary surveyor, through Mirrorglass colony as a colony surveyor escorts a treaty across crystal plains that refuse to stay mapped. The inquiry moves through offices, sealed rooms, public hearings, and physical evidence, keeping its suspense grounded in work, speech, and consequence.\n\nAs Soren Pike, Amara Holt, and Dr. Iona Saye help test the record, Governor Vale Ardent tries to turn delay into truth. The novel is clean adult suspense about institutions, memory, and the cost of naming what everyone was paid not to see.",
+  "main_characters": [
+    "Rae Kest",
+    "Soren Pike",
+    "Amara Holt",
+    "Dr. Iona Saye",
+    "Governor Vale Ardent"
+  ],
+  "keywords": [
+    "planetary adventure",
+    "speculative frontier fiction",
+    "mystery",
+    "evidence",
+    "archive",
+    "adult characters",
+    "clean suspense",
+    "conspiracy",
+    "truth",
+    "standalone"
+  ],
+  "planned_chapters": 50,
+  "word_count": 24206,
+  "TXT_path": "books/The_Crystal_Frontier/txt/The_Crystal_Frontier.txt",
+  "EPUB_path": "books/The_Crystal_Frontier/epub/The_Crystal_Frontier.epub",
+  "cover_path": "books/The_Crystal_Frontier/covers/The_Crystal_Frontier.png",
+  "outline_path": "books/The_Crystal_Frontier/planning/The_Crystal_Frontier_outline.md",
+  "cover_script_path": "books/The_Crystal_Frontier/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

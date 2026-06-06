@@ -1,0 +1,37 @@
+{
+  "title": "The Broken Hour",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Time Loop",
+  "subgenre": "Speculative Fiction / Temporal Thriller",
+  "language": "en",
+  "short_description": "A watchmaker gets stuck repeating the same hour and uses each iteration to try to prevent a disaster he glimpses from his shop window.",
+  "long_description": "Felix Voss is a quiet watchmaker whose life is defined by precision and routine. One afternoon at 4:14 PM, he looks up from his workbench and sees a woman step into the path of a speeding sedan. Before he can react, the world resets. He is back at his bench, the clock reading 4:00 PM, and the hour begins again.\n\nTrapped in a single hour that repeats endlessly, Felix must navigate a puzzle that grows more complex with each iteration. A mysterious customer named Anna carries a broken pocket watch. A silent figure in a grey coat watches from the corner. And a black sedan with the license plate TEMPUS always arrives at the same moment.\n\nAs Felix peels back the layers of the loop, he discovers connections to his own buried past: a failed experiment, a lost love, and a brother whose crimes reach far deeper than a single car crash. To break the hour, Felix must confront the machine he built twenty years ago and the woman whose consciousness has been trapped inside it since the day she died.\n\nThe Broken Hour is a literary time-loop thriller about grief, redemption, and the courage to let time move forward.",
+  "main_characters": [
+    "Felix Voss — A watchmaker trapped in a temporal loop, haunted by a past he has deliberately forgotten",
+    "Anna — A customer who brings a broken pocket watch to Felix's shop, carrying evidence that could destroy a criminal empire",
+    "The Man in the Coat / Helena Voss — The fragment of Felix's lost fiancée, trapped in the loop for twenty years",
+    "Simon Voss — Felix's estranged brother, a financial criminal who maintains the loop to protect himself",
+    "Leo — A twelve-year-old paperboy whose death in alternate iterations forces Felix to confront the cost of his choices",
+    "The Driver — An FBI agent working undercover as Simon's enforcer"
+  ],
+  "keywords": [
+    "time loop",
+    "watchmaker",
+    "speculative fiction",
+    "temporal thriller",
+    "grief",
+    "redemption",
+    "science fiction",
+    "mystery",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Broken_Hour/txt/The_Broken_Hour.txt",
+  "EPUB_path": "books/The_Broken_Hour/epub/The_Broken_Hour.epub",
+  "cover_path": "books/The_Broken_Hour/covers/The_Broken_Hour.png",
+  "outline_path": "books/The_Broken_Hour/planning/The_Broken_Hour_outline.md",
+  "cover_script_path": "books/The_Broken_Hour/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

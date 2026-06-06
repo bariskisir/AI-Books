@@ -1,0 +1,975 @@
+The Long Exposure
+
+Barış Kısır
+
+
+Chapter 1: The Last Astronomer
+
+The road to the observatory was nine kilometers of switchbacks, and Tomas Reye had driven it so many times that his hands knew the turns the way they knew the buttons of his coat. He did not need to think. He thought instead about the letter on the passenger seat, folded into its envelope, which told him in the language of foundations and trusts that the mountain had been sold and that he was the person who would turn off the light.
+
+It was October. The pines below the treeline had gone the color of old iron. Above them the slope was bare rock and scree, and at the top, where the air thinned and the wind never fully stopped, stood the dome.
+
+He parked in the gravel lot, empty now except for his own car, and sat a moment with the engine ticking. Forty years he had come up this road. He had come up it as a young man who slept four hours and dreamed in coordinates. He had come up it the week Marisol died and worked all night because the alternative was the house. Now he came up it to take an inventory and hand over a set of keys.
+
+The dome was the color of a stormcloud, a hemisphere of riveted steel sixteen meters across, streaked with rust at the seams. The shutter was closed. It had been closed for three months, since the last observing run, and it gave the building the look of a shut eye.
+
+Tomas let himself in through the lower door. The smell met him first, as it always did — cold concrete, machine oil, the faint ozone ghost of old electronics, and under it all the particular mineral smell of the plate vault two floors down, which he could not have described to anyone who had not spent a life among glass.
+
+He climbed to the dome floor. The telescope stood in the center, a great white skeleton of struts and counterweights aimed at the closed shutter, parked at the zenith as the manual instructed. He put his hand on the steel of the mounting. It was cold enough to ache.
+
+"All right," he said, to the instrument, to the dark, to no one. His voice came back to him off the curved walls, small.
+
+He had told the foundation he needed three months to close the observatory properly. They had given him six weeks. There were instruments to crate, a library to disperse, a hundred years of logbooks to box, and the archive — the archive most of all. A century of the sky, recorded on glass, stored in the cold rooms below. Somebody had to decide what survived.
+
+Tomas took the inventory clipboard from its nail by the door, where it had hung since before he was born, and began.
+
+By noon the light through the shutter seam had moved the width of a hand across the floor. He was on the second page of the instrument list when he heard, far below, the sound of a vehicle laboring up the switchbacks, and then the crunch of tires in the gravel that did not belong to anyone he expected.
+
+
+Chapter 2: The Foundation's Girl
+
+She came up the stairs two at a time, which no one did at this altitude until their lungs taught them better, and arrived on the dome floor flushed and unwinded and already talking.
+
+"Mr. Reye? Sable Okonkwo. The foundation said you'd be expecting me." She put out her hand. She was young — late twenties, he guessed — with a digital scanner's hard plastic case in her other hand and a backpack that looked heavy. "I'm the digitization tech. For the plate archive."
+
+Tomas shook her hand. "They said someone would come. They didn't say when."
+
+"Tuesday. It was in the email." She set the case down and looked around the dome, and he watched her do the thing everyone did the first time, the involuntary tilt of the head back, the small silence. Then it passed and she was brisk again. "This is a beautiful machine. Is it the original optics?"
+
+"The mirror is from 1911. The mounting was rebuilt twice." He found he did not want to talk about the telescope with her. "You're here for the plates."
+
+"Forty thousand of them, I'm told. I have six weeks." She said the number the way a person says a number they have already decided to beat. "The foundation wants everything scanned at archival resolution before the collection is broken up. After that it goes to four different institutions, so this is the last time it'll all be in one place." She glanced at him. "You don't look thrilled."
+
+"It's a hundred years of work," Tomas said. "It being in one place is the point of it."
+
+"It being scanned is how it survives the move." She wasn't unkind about it. She was simply a person who had been sent to do a thing and meant to do it. "I'm not breaking anything up. I'm making sure that when it gets broken up, none of it actually gets lost. That's the job."
+
+He had meant to dislike her. He found, slightly to his irritation, that he could not entirely manage it.
+
+"The vault is two floors down," he said. "I'll show you the cold rooms. You'll want a coat."
+
+
+Chapter 3: The Cold Room
+
+The plate vault was the only part of the observatory that had never been allowed to get warm. Even in the worst of the summer, when the dome ticked and groaned with expansion and the asphalt of the lot went soft, the cold rooms held at four degrees and a fixed dryness, because glass is patient but emulsion is not, and a century of careful temperature was the difference between a record and a ruin.
+
+Tomas opened the heavy door and the chilled air came out to meet them, smelling of cold and silver.
+
+Sable stopped in the doorway.
+
+The room was long and low and lined floor to ceiling on both sides with steel shelving, and the shelving was filled, every centimeter, with thin paper sleeves stood on edge, hundreds of thousands of them, each holding a single photographic plate. Each sleeve was labeled in pencil along its top edge. The aisle ran back into a dimness the single bulb could not quite reach.
+
+"My God," she said quietly. "I read the number. I didn't picture the number."
+
+"Each plate is one exposure," Tomas said. "One patch of sky, one night. The early ones are twenty by twenty-five centimeters. They go by date, then by plate number within the night." He walked her along the first shelf, not touching, his hands behind his back the way you learn to hold them around irreplaceable things. "This is 1911. The first season. The director then exposed for six hours a night, by hand, guiding the telescope with his eye against a crosshair the whole time, in this cold, to hold one star steady on the glass."
+
+"Six hours."
+
+"For one plate." He let that sit. "You're going to scan forty thousand of these in six weeks. He made about four hundred in his life."
+
+She was quiet, looking down the long cold aisle of it. He had not meant it as a rebuke and was not sure it hadn't been one.
+
+"Then I'd better not waste any of them," she said at last, and there was something in how she said it that made him revise her again, upward.
+
+
+Chapter 4: First Light, Last Light
+
+She set up in the warm room next to the vault, on the wide oak table where four generations of measurers had bent over the glass with loupes and micrometers. Her scanner was a flatbed the size of a drawer, white and clinical, with a transmitted-light source that shone up through the plate the way the sky had once shone down.
+
+"You bring the plate to room temperature first," Tomas said, watching her unwrap her equipment. "Slowly. An hour at least. Bring cold glass into warm air and the water in the room condenses on it, and you've got a fog on a record that can't be made again."
+
+"There's a protocol sheet from the foundation." She did not look up. "Acclimation, handling, the works."
+
+"Read it twice."
+
+Now she did look up, and there was the start of a real annoyance in her face, and then she seemed to decide something and the annoyance went out of it. "Mr. Reye. I have scanned the herbarium at Kew. I have scanned a collection of Babylonian tablets that are four thousand years old and that nobody had touched without ruining one for a decade. I know how to handle a thing that can't be replaced." She held his eye. "But you've spent your life with these specific objects, and I haven't. So tell me the specific things. Not the general ones."
+
+It was, he thought, a fair distinction, and better made than he could have made it.
+
+"The specific thing," he said, "is that some of these plates are the only evidence that something happened in the sky on a particular night, and never happened again. A star that brightened once. A thing that moved. If you fog one of those, you haven't damaged a copy. You've erased an event from the only place it is recorded in the universe." He nodded at the vault door. "That's the specific thing."
+
+She held the first plate up to the window light, a square of glass gone faintly amber with age, freckled with the black grain of ten thousand stars, and for a moment neither of them said anything at all.
+
+"All right," she said. "Show me how you want them logged."
+
+
+Chapter 5: The Hand in Grease Pencil
+
+By the third day she had a rhythm. Acclimate, unsleeve, log the label, lay the plate on the bed emulsion-up, scan, check the scan, resleeve, shelve. She was fast and she did not cut corners, and Tomas, who had decided to crate the spectrograph in the next room precisely so he could keep half an eye on her, stopped keeping the eye.
+
+On the fourth day she came and found him.
+
+"Mr. Reye. Can you look at something."
+
+He followed her back to the warm room. On her monitor was a scan, the negative inverted to a positive so the stars showed as black points on white, the way the eye prefers them. She had zoomed into one corner.
+
+"This plate," she said. "VR-1970-0114. January, 1970." She pointed. "There's a mark on the glass. On the emulsion side. Somebody circled this star. By hand, in grease pencil. And wrote next to it."
+
+Tomas leaned in. The circle was faded to a brown ghost, but it was unmistakable, a deliberate ring drawn around a single point of light in a field of thousands. And beside it, small and neat, three characters.
+
+"A period, M," Sable read. "A point, M. Or — A, M. Initials?"
+
+"Initials," Tomas said. His voice had gone careful. He was looking at the circled star and feeling, without yet knowing why, the specific cold that he had told her about, the cold of an object that records one event and no other.
+
+"Whose?"
+
+"I don't know." It was true, and it was the first lie he told her, because he did not know and yet some part of him had gone very still, as if it did. "Scan it at the highest resolution you have. The circle too. Don't resleeve it. Leave it out."
+
+She looked at him. "What is it?"
+
+"Probably nothing. A measurer marking a reference star." He straightened. "Probably nothing. But scan it properly, and pull the plates on either side of it. The thirteenth, the fifteenth. The whole week."
+
+
+Chapter 6: Not in the Catalogue
+
+The circled star was not nothing.
+
+Tomas had spent enough of his life with catalogues that he could navigate them in his sleep, and he sat at the old desktop in the office and pulled the position of the circled point off Sable's scan and ran it against the modern surveys, the great machine-made maps of every fixed light in that patch of sky. The work took an hour. At the end of it he sat back.
+
+"There's nothing there," he said.
+
+Sable had come to stand behind him. "What do you mean, nothing."
+
+"I mean at that position, to the limit of these scans, the modern catalogues show no star. Nothing down to magnitudes far fainter than this plate could record." He tapped the screen, the black point that someone had ringed in grease pencil thirty-nine years before. "But here, on the night of January fourteenth, 1970, there was a star there. Bright enough to register clearly. Someone saw it, and circled it, and put their initials beside it."
+
+"A defect in the glass? A speck of dust during the exposure?"
+
+"Dust doesn't make a stellar image. A defect doesn't have a diffraction profile." He had already checked. The point had the soft, particular shape of real starlight spread by a real lens, not the hard edge of a flaw. "It's light. It came through the telescope. Something was there that night that is not there now."
+
+Sable was quiet a moment. "Things in the sky don't just leave."
+
+"Some of them do," Tomas said. "That's the whole reason a place like this exists. To be looking when they do." He looked at the circled star a long moment. "Pull the rest of that week. I want to know if it was there on the other nights, and when it left."
+
+
+Chapter 7: The Logbook
+
+Every night of observing at Vela Ridge had its page in a logbook: the date, the conditions, the seeing, the instrument settings, and a line for each plate exposed — the field, the start and end of the exposure, the initials of whoever ran the telescope. The logbooks went back to 1911 and stood in a long uniform row in the office, bound in black board, a hundred years of nights.
+
+Tomas took down the volume for the winter of 1969 to 1970 and found the page for January fourteenth.
+
+The conditions were in one hand, a cramped efficient script he half recognized as the night assistant's of that era. The plate list was in the same hand. Plate 0114, the field, the exposure times — all of it ordinary.
+
+But in the margin beside the line for plate 0114, in a different hand entirely — smaller, rounder, very precise — someone had written a note.
+
+*Unlisted object near field center, mag ~11, not on the Bonn chart. Flagged for re-exposure. — A.M.*
+
+"There," said Sable, reading over his shoulder. "A.M. again. Same initials as the plate."
+
+"Same hand, too." Tomas set the logbook flat on the desk and looked at the rounded, careful letters. The duty astronomer had not written this. The night assistant had not written this. Someone else had been on the mountain that winter, someone who read the plates closely enough to catch an eleventh-magnitude star that did not belong, someone careful enough to write *not on the Bonn chart* and *flagged for re-exposure*, and who initialed their work and then did not, anywhere in the official record, sign it with a name.
+
+"Whoever A.M. was," Sable said slowly, "they found it the same night it was taken. Off the plate. By eye."
+
+"Yes."
+
+"That's good, isn't it? That's fast."
+
+"It's better than fast," Tomas said. He was looking at the careful hand and feeling the cold come up through him again. "It's the best plate-reading I've seen in forty years, and I have no idea whose it is."
+
+
+Chapter 8: A Name Nobody Keeps
+
+The observatory had kept its people the way it kept everything else: in ledgers, in payroll books, in the bound annual reports that listed the staff each year by title and name. Tomas pulled the reports for 1968 through 1972 and laid them out across the office desk in a row.
+
+The astronomers were listed first, as they always were. The director. The staff observers. Then the technical staff — the night assistants, the instrument makers, the engineer who kept the dome turning. Then, at the bottom, in smaller type, under a heading that the reports of that era still used without embarrassment, the *computers*: the people, almost all of them women, who did the measuring and the calculation by hand.
+
+In the report for 1968, near the bottom, he found it. *Computers: H. Vogel, A. Mireu.*
+
+1969. *Computers: A. Mireu, R. Sandoz.*
+
+1970. *Computers: A. Mireu, R. Sandoz.*
+
+1971. *Computer: R. Sandoz.*
+
+He went back and forth over the four lines twice to be sure. A. Mireu appeared in 1968 and was gone after 1970. Sometime in the spring of 1971, between one annual report and the next, A. Mireu had left the mountain and the record had simply closed over the place where she had been.
+
+"A. Mireu," Sable said. "A.M." She pulled the report for 1970 toward her. "Is there a first name anywhere? A photograph?"
+
+There was not. The computers did not get photographs in the annual report. The astronomers did — a formal plate of grave men in jackets, the director seated. Tomas looked at the photograph for 1970, at the row of faces he had once known, and stopped.
+
+In the back row, youngest, thinnest, his collar too big for his neck, stood a young man of twenty-two whose name was printed below: *T. Reye, Junior Observer.*
+
+He had forgotten he was in it. He had forgotten he had been there at all, in 1970, the year someone named A. Mireu had read a star off a plate better than anyone he had ever worked with, and then left and taken her name with her.
+
+He did not tell Sable that the thin young man was him. It was the second thing he did not tell her.
+
+
+Chapter 9: Marisol's Chair
+
+He drove down the mountain at dark, as he did every night, to the house in the valley town where he had lived with Marisol for thirty-four years and now lived alone.
+
+The house knew her absence the way the observatory knew the closed shutter. Her chair was by the window where the light had been good for marking her students' work. Two years now and he had not moved it, and he had stopped pretending to himself that he would.
+
+He heated soup and ate it standing at the counter and did not taste it. He was thinking about a rounded, careful hand and three letters in grease pencil. He was thinking about a young man in a photograph with a collar too big for his neck.
+
+Marisol would have asked him what was wrong, and he would have had to say it, because she had never once in thirty-four years let him get away with *nothing*. He found himself saying it anyway, aloud, to the chair.
+
+"We found a star somebody saw in 1970. A woman, I think. A computer. She caught it off the plate the same night and nobody — " He stopped.
+
+*Nobody what,* Marisol said, in the way the dead go on talking in the houses they leave. *Nobody what, Tomas.*
+
+"Nobody knows who she was," he said, which was true, and was the third thing, because the larger truth, the one rising in him like the cold off the plates, was that he was beginning to be afraid that he did.
+
+He washed the bowl and set it in the rack and stood a while with his hands on the edge of the sink. Then he went and found, in the drawer where he kept the things he did not look at, the valley telephone directory, and turned to the V's, and ran his finger down the column until he came to a name he had not let himself think of in years.
+
+*Vorne, I.*
+
+Ignatz was still alive. Ignatz had been the night assistant in 1970. Ignatz would know.
+
+
+Chapter 10: Ignatz in the Valley
+
+Ignatz Vorne lived at the edge of the town in a low house with a garden gone to seed, and he opened the door before Tomas had finished knocking, as if he had been standing behind it.
+
+He was very old now, past ninety, stooped to a question mark, but his eyes when they found Tomas's face were quick and entirely present, and they narrowed.
+
+"Reye," he said. "They sent you up to switch it off, then. I heard they sold it." He did not sound surprised. He stood aside. "You'd better come in. You didn't drive down here to tell me the mountain's closing. I knew that the day the wind changed."
+
+The front room was warm and close and smelled of pipe tobacco and woodsmoke. Ignatz lowered himself into a chair with the care of a man who has calculated exactly how his joints will bear it, and waited, and watched Tomas not know how to begin.
+
+"We're scanning the plate archive," Tomas said. "Before it's dispersed. A technician from the foundation is doing the work." He had brought a print of the scan, the circled star, and he took it out now and held it without yet offering it. "She found something. A plate from January 1970. Somebody circled an object on the glass, in grease pencil, and flagged it in the logbook. An unlisted star. Magnitude eleven. Gone from the modern catalogues."
+
+Ignatz's eyes had not left his face.
+
+"The note was initialed," Tomas said. "A.M. The annual reports list a computer named A. Mireu, 1968 to 1970, and then she's gone. There's no first name. No photograph. Nothing." He made himself say it. "I came to ask if you remember her."
+
+For a long moment the old man said nothing. The fire shifted in the grate. Then Ignatz held out his hand, not for the print, but palm up, the way you ask for a thing you already know the shape of, and Tomas gave it to him, and Ignatz looked down at the circled star for a long time, and when he spoke his voice had changed.
+
+"Ada," he said. "Her name was Ada." He looked up, and his old eyes were bright and hard. "And you know that, Tomas Reye, because you were there. So don't sit in my house and pretend you came to ask me who she was."
+
+
+Chapter 11: What the Plate Remembers
+
+Tomas did not pretend. He had come down the mountain meaning, somewhere under the inventory and the cold, to be made to stop pretending, and Ignatz had done it in one sentence, and the relief of it was almost physical.
+
+"I was there," he said. "I was twenty-two. I was a junior observer for one season, 1970. I'd half forgotten." That last was not quite true either, and Ignatz's look told him the old man knew it.
+
+"Forgotten." Ignatz turned the print over in his hands. "You young men were always good at forgetting the parts that didn't flatter you. It's how you got to be old men with pensions." He said it without much heat. "All right. You want to know about Ada. I'll tell you about Ada, because there's nobody else left who will, and because that — " he tapped the circled star " — that is hers, and I have spent fifty years waiting for somebody to come and say so."
+
+He set the print on his knee.
+
+"She came up in '68," he said. "A computer. You know what that meant then. She measured plates. Positions, magnitudes, all by hand, with a micrometer and a loupe and that machine — the blink comparator, you flick between two plates of the same field and anything that moved or changed jumps out at you, if your eye is good enough. Most eyes aren't. Hers was." He shook his head slowly. "I ran that telescope thirty years. I worked with every measurer the place ever had. None of them was within a mile of Ada Mireu. She could read a plate the way you read a face."
+
+"And the star," Tomas said.
+
+"She found it the night you took it. Off the wet plate, practically. Magnitude eleven, sitting in a field she'd measured a hundred times, where there'd never been anything. She knew it didn't belong before she'd finished her coffee." Ignatz's jaw worked. "She flagged it. Wanted it re-exposed the next clear night, and the next, to catch it changing. That's the whole game, you understand — anyone can photograph a star. Catching one appear and fade, with the dates, that's a discovery. That's a name in a journal."
+
+"And did she get it re-exposed?"
+
+The old man looked at him with something close to pity.
+
+"You were there, Tomas," he said. "You tell me how that turned out."
+
+
+Chapter 12: The Three Nights
+
+He could not tell Ignatz how it turned out, because the truth was that he remembered the star and had made himself forget the rest, and the old man saw that too, and did not push. He gave Tomas tea instead, and told him to come back when he had the other plates, and to bring them.
+
+The other plates were waiting on the mountain.
+
+Tomas drove up before dawn and let himself into the cold and went down to the warm room where Sable had left out the week of January 1970, acclimating under their dust covers, as he had asked. He laid them on the light table one after another and bent over them with the loupe, and the years went out of the room.
+
+The fourteenth: the circled star, clear, magnitude eleven by his quick estimate against the field.
+
+The thirteenth, the night before: nothing. He measured the position three times to be sure. The field was there, every catalogued star in its place, and where the object would be, only the empty grain of the emulsion. It had not been there the night before.
+
+The sixteenth: there, and brighter. He held the loupe and breathed slowly and made himself measure rather than gape. Magnitude ten, perhaps ten and a half. It had risen.
+
+The seventeenth and eighteenth were clouded out — the log said so, and the plates were thin and fogged, the record of two useless nights.
+
+The nineteenth: gone. The field clean again, the empty grain where for three nights a star had stood.
+
+A new star, risen out of nothing on the fourteenth, brightened by the sixteenth, gone by the nineteenth. A transient. Caught at the start, the peak, and the end, in a field measured by an eye good enough to catch it cold. It was, he understood, looking down at the glass, a small and complete and beautiful discovery, the kind a person could build a life on.
+
+Sable came in at eight and found him sitting very still over the plates with the loupe in his hand.
+
+"You've been here all night," she said.
+
+"She was right," Tomas said. "Whatever it was, she caught it. Three nights. She had it all." He set down the loupe. "Now I have to find out what they did to her for it."
+
+
+Chapter 13: Computer
+
+In the spring of 1968 Ada Mireu rode the post bus as far as it went and walked the last stretch of the mountain road with a suitcase in one hand and a letter of appointment in the other, and arrived at the observatory windburned and certain.
+
+She was twenty-six. She had a degree in mathematics that three institutions had declined to do anything useful with, and a way of looking at a problem that made men in offices uncomfortable without their being able to say why, and a single published note, under an initial and a surname that hid her sex, that no one had connected to her. She had taken the post of computer because it was the only door into the building, and because she had understood very young that a door is a door.
+
+The director then was Hessel — younger then too, but already the man he would be, smooth and exact, with the particular courtesy of someone who has never had to wonder whether he would be believed. He met her in his office and looked at her appointment letter as though it had surprised him by being correct.
+
+"You'll measure," he said. "Positions and photometry, to begin. The plates come down from the dome, you reduce them, you log the results. Accuracy first, always. Speed is the observatory's concern, not yours." He folded his hands. "You will not need to go up to the telescope. The night work is heavy and the conditions are unsuitable. Everything you require will be brought to you in the measuring room."
+
+"And if I want to see the instrument that makes the plates I'll be reading?" Ada asked. She asked it pleasantly. She had decided on the bus that she would ask everything pleasantly, for as long as pleasantly worked.
+
+Hessel smiled. "There's nothing to see that the plates won't show you better," he said. "That's rather the point of photography, Miss Mireu. It lets us keep the sky without anyone having to stand out in the cold."
+
+She thanked him and went down to the measuring room, which was in the basement, and was cold.
+
+
+Chapter 14: The Measuring Engine
+
+The measuring room became hers within a month, not by any claim but by simple fact: she was in it more than anyone, and she was better in it than anyone, and the other computer, Vogel, an older woman tired in her bones, was glad enough to let the new one take the difficult plates.
+
+The work was exact and physical. A plate clamped on the stage. The loupe, then the micrometer microscope, the crosshair brought to bear on a star's image and the screws turned until it sat dead center, the dial read to the thousandth of a millimeter, the numbers written down, the next star, the next, a field of two hundred stars reduced over an afternoon to two hundred lines of figures that fixed each point of light to its place in the heavens.
+
+And the blink comparator, which she loved. Two plates of the same field, taken on different nights, clamped side by side, and a mirror that flicked your view between them many times a second, so that anything that had stayed the same vanished into stillness and anything that had changed — a star that brightened, an asteroid that crept, a thing that came or went — leaped and flickered and announced itself to the eye. Most measurers found it tiring and used it sparingly. Ada could sit at it for hours, and the stars stood still for her, and the changes jumped out like the one wrong word on a page.
+
+"You read them," Ignatz said to her once, the night assistant down from the dome between exposures, watching her at the comparator. "The others measure. You read them."
+
+"There's a difference?" she said, not looking up.
+
+"You know there is."
+
+She did know. She knew that measuring was arithmetic and reading was attention, and that attention was the rarest thing on the mountain, rarer than clear nights, and that no one above the basement seemed to value it at all.
+
+
+Chapter 15: Ignatz, Night Assistant
+
+Ignatz Vorne ran the telescope. He was younger than Hessel and older than the junior men, a valley boy who had learned the dome the way Tomas would later learn the road, in his hands, without words. He opened the shutter and turned the dome and found the field and held the guide star on the crosshair for hours while the plate drank the light, and at the end of the night he developed what he had caught in the red dark of the darkroom and hung the plates to dry.
+
+He and Ada kept different hours and met in the seam between them, he coming off the night, she coming on to the measuring, and in that grey overlap they became, without either of them deciding it, friends.
+
+He brought her the plates while they were still cool. She told him which of his exposures were a half-second long and which fields he had guided imperfectly, reading his night's work off the glass with a frankness no one else dared use on him, and instead of resenting it he came to depend on it. She was the only one who could tell him whether he had done well, because she was the only one who looked closely enough to know.
+
+"Hessel says there's nothing to see at the eyepiece the plates won't show me better," she told him one dawn.
+
+Ignatz snorted. "Hessel hasn't guided an exposure in fifteen years. He sits in the warm and signs the papers." He looked at her sidelong. "It's not the same, you know. The plate. It's a record. But standing in the dark with the dome open and the real light coming down on your own eye — there's nothing the same as that. He's wrong about that. He's wrong about a lot of things, but he's most wrong about that."
+
+Ada said nothing. But Ignatz, who was learning to read her the way she read the plates, saw the want move across her face before she put it away, and filed it.
+
+
+Chapter 16: Director Hessel
+
+Hessel was not a cruel man. This was the thing Ada had to keep teaching herself, because cruelty would have been easier to fight. He was a careful man, an ambitious man, a man who understood the observatory as an instrument for producing two things, data and credit, and who allocated both with the unhurried confidence of someone who had never been on the short end of either.
+
+He recognized what Ada was within her first year. He was not a fool; foolishness and ambition do not survive long together. He read her reductions and saw that they were faster and cleaner than anything the basement had produced in a decade, and he was glad of them, and he made sure they kept coming, and he made equally sure that they came out of the building under other names than hers.
+
+When a position she had measured went into a circular, it went over the staff astronomer's initials, with thanks, sometimes, to "the measuring staff." When her photometry settled a question that had been open for a year, the note that closed it was Hessel's. None of it was theft, exactly. This was simply how the place worked, how all the places worked; the computers computed and the astronomers got the credit, and everyone knew it, and the knowing was supposed to be enough.
+
+"You're wasted in the basement," he told her once, meaning it as a kindness, the way he said most things. "But there's nowhere else to put you. The night work isn't suitable. The staff positions go to men who can be sent to conferences and put in front of committees. You understand. It's not personal. It's how the field is built."
+
+"And if I found something," Ada said. "At the comparator. Something no one had found."
+
+Hessel smiled his smooth smile. "Then you'd bring it to me," he said, "and we'd see that it was properly handled."
+
+She remembered that he had said *properly handled*, later, when she understood what the words had meant.
+
+
+Chapter 17: The Young Man from the Valley
+
+Tomas Reye came up the mountain in the autumn of 1969, twenty-one years old, a valley boy like Ignatz but bookish where Ignatz was practical, hired as a junior observer because the observatory had a grant that let it take one promising local each year and grind the romance out of him with night work.
+
+He was hungry to belong. That was the truth of him at twenty-one, the truth he would spend forty years declining to look at: he wanted, more than he wanted any particular knowledge, to be let into the room where the real men did the real work, and he had arrived prepared to admire whoever was already inside it.
+
+He admired Hessel, who barely noticed him. He admired the staff astronomers, who used him to fetch and carry. And in the basement, where he was sent in his first weeks to learn how plates were reduced so that he would understand what his exposures were for, he met Ada Mireu, and did not know what to make of her at all.
+
+She was a woman, which the rest of the scientific staff was not. She was junior in title and senior in every way that he could see in the actual work, which confused his sense of how the building was arranged. And she treated him, a junior observer who would in the natural order of things rise far above her, with a dry, exact, slightly amused attention that he found he could not earn his way out of.
+
+"You guided this one," she said, the first afternoon, sliding a plate toward him. "Look. The star images are little dashes, not points. You let it drift. East to west, see the direction? You were tired and you stopped watching the crosshair around the fourth hour."
+
+He looked. The stars were tiny streaks. She was right.
+
+"How can you tell I was tired," he said, "and not just bad."
+
+"Because the first three hours are clean," Ada said, "and a bad guider is bad all night. You're not bad. You're young, and you stopped paying attention." She slid him the next plate. "Don't. That's the whole job. The optics are good and the sky is free. The only thing the observatory is actually buying from any of us is attention. Pay it."
+
+He never forgot that she said that. He spent forty years trying not to remember who had.
+
+
+Chapter 18: A Borrowed Eye
+
+It was Ignatz who broke the rule, on a night in the autumn of 1969, because Ignatz had decided that the rule was stupid and that he was too old to keep stupid rules he had not made.
+
+Hessel had gone down to the valley for two nights, to a committee. The staff astronomer on duty drank, mildly and reliably, and was asleep in the warm room by midnight. The sky was the best of the season, the seeing so steady the stars barely trembled, and Ignatz, alone in the dome with the great telescope tracking and a plate already exposing, went down to the basement where the light was still on and found Ada at the comparator.
+
+"Come up," he said.
+
+She looked at him.
+
+"The shutter's open, the seeing's a tenth of an arcsecond, Hessel's in the valley, and Voss is asleep with his bottle. Come up and put your eye to it. Once. So you'll know what you're measuring."
+
+She did not pretend she didn't want to. That was one of the things he valued in her. She turned off the comparator lamp and followed him up the cold stairs into the dome, where the air was the same temperature as the sky and the slot in the great shutter showed a band of stars so thick and steady they looked solid.
+
+He set the low-power eyepiece in and stepped her up to it and centered a globular cluster, a hundred thousand suns balled at the edge of the galaxy, and stood back.
+
+Ada looked.
+
+She did not say anything for a long time. Ignatz, who had shown the eyepiece to a hundred visitors and heard a hundred small exclamations, waited for hers, and it did not come. When she finally straightened and turned away from it her face was wet, and she did not wipe it, and she did not apologize for it.
+
+"All those years," she said, "I have been reading the letters." Her voice was steady, which was somehow worse. "And no one ever told me the letters were the shadows of that."
+
+"Hessel says the plate shows you more."
+
+"Hessel," said Ada, "has never once looked at the thing he is the director of." She turned back and put her eye to it again. "Don't let me stop. Let me look until it sets."
+
+
+Chapter 19: January 14
+
+The night the star came was a Tuesday, ordinary, cold. Ignatz exposed plate 0114 of a field in the winter sky that Ada had reduced a dozen times over two years, a calibration field, dull, well-mapped, chosen precisely because it held no surprises. He developed it at the end of the night and hung it to dry and left it for the basement with the rest.
+
+Ada came on at the grey hour. She took the night's plates down to the measuring room and laid them out and started, as she always did, with the dull calibration field, because it was easy and it warmed up the eye.
+
+She had the position micrometer halfway to the first reference star when she stopped.
+
+There was a star near the center of the field that she did not know.
+
+She knew this field. She had its bright stars by heart, their pattern as familiar as the arrangement of her own kitchen. And near the center, clear and round and magnitude eleven by her instant unthinking estimate, sat a point of light that had no business being there, that had not been there in any of the dozen plates of this field she had measured, that was not on the Bonn chart she kept at her elbow, that was, simply, new.
+
+She did not let herself believe it yet. Belief was the enemy of measurement. She clamped the plate and measured the intruder's position to the thousandth of a millimeter, three times, and converted it, and checked it against every catalogue in the basement, and found nothing at that position down to far below what the plate could show.
+
+Then, and only then, she let herself sit back and feel her heart going.
+
+She took a grease pencil and circled the star on the emulsion, lightly, where it would not lift the image, and beside it she wrote her initials, because the work was hers and because some instinct older than the observatory told her to put her hand on it before anyone else could. *A.M.*
+
+Then she opened the night logbook to the page for January fourteenth and wrote, in the margin beside the line for plate 0114, in her careful round hand: *Unlisted object near field center, mag ~11, not on the Bonn chart. Flagged for re-exposure. — A.M.*
+
+She needed it re-exposed. She needed the next clear night, and the next, to catch it doing whatever it was going to do. She needed the dome.
+
+She needed Hessel to say yes.
+
+
+Chapter 20: The Second Plate
+
+Hessel said yes, at first, because saying yes cost him nothing and Ada had brought him a clean, careful, well-measured anomaly that might be real.
+
+"An eleventh-magnitude object, not on the charts." He looked at her measurement, at the circled plate. "It could be a number of things. A plate flaw. An asteroid, though you'd have measured the motion. A variable at minimum that's caught us at a rare maximum." He was, she could see, interested despite himself; the scientist in him had not been entirely eaten by the administrator. "Re-expose it. Vorne can take it tomorrow night if it's clear. We'll see if it's still there."
+
+It was clear. Ignatz took plate 0116 of the field on the night of the sixteenth, and developed it with more care than he gave any plate that season, and carried it down to the basement himself instead of leaving it, and stood over Ada while she measured.
+
+The star was still there. And it was brighter. Magnitude ten, perhaps ten and a half — it had risen most of a magnitude in two nights.
+
+"It's a nova," Ada said. Her voice was very quiet and very controlled. "Or something like one. It's brightening. If we catch the decline — if we get it every clear night from here until it fades — we'll have the whole light curve. The rise, the peak, the fall. From the discovery plate." She looked up at Ignatz. "Nobody else has this. It's not in any circular. We found it here, off our own plates, and we have it cold."
+
+Ignatz, who had run the telescope for fifteen years and brought countless objects to countless astronomers, felt the thing every observer lives for and almost never gets, the certainty of standing at the start of something real.
+
+"Then we'd better not miss a night," he said.
+
+Neither of them yet understood that the danger was not the weather.
+
+
+Chapter 21: The Rule of Credit
+
+The trouble began the morning Ada brought Hessel the second plate.
+
+She brought it the right way, the careful way, the way that should have been safe. She laid out the discovery plate and the re-exposure side by side, the position measurements, the magnitude estimates, the catalogue searches that turned up nothing. She had a draft already, two paragraphs, dry and exact, of the sort that went out as a discovery circular to every observatory in the world: a new object, these coordinates, this rise, found at Vela Ridge.
+
+"It's clean, Director," she said. "It's a nova or a recurrent. We have the discovery and the first nights of the rise. If we report it now we have the priority, and the other observatories pick up the decline, and Vela Ridge has the find."
+
+Hessel read the draft slowly. She watched him read it and could not tell, at first, what was wrong, only that something was. He set it down and aligned its edge with the edge of the blotter, a small fastidious motion she would remember for fifty years.
+
+"This is good work," he said. "Careful. You're quite sure of the position?"
+
+"To the limit of the plate."
+
+"And the discovery." He did not look up. "Found by the measuring staff, off the calibration plates. In the course of routine reduction."
+
+"Found by me," Ada said. "On the fourteenth. The note's in the logbook."
+
+"Yes." Now he looked up, and his face was kind, and that was the worst of it. "Here is the difficulty, Miss Mireu. A discovery circular carries the name of the observatory and the name of the discoverer. The discoverer, by the convention of the field, is the astronomer responsible for the program. The measuring staff reduce the plates. They do extraordinary work — your work is extraordinary, I have said so — but they do not, in the language of the circulars, *discover*. If we put your name on this as discoverer, every observatory that receives it will write back to ask who you are, and I will have to explain that you are a computer, and the discovery will be discussed not on its merits but as a curiosity. You don't want that. The object doesn't deserve that." He folded his hands. "Let it go out properly. Under the program. With full thanks to the measuring staff. That's how it's done."
+
+"And whose name is the program," Ada said, "in the language of the circulars."
+
+Hessel did not quite answer that. He did not have to.
+
+
+Chapter 22: January 19
+
+She did not let it stop the work, because the work could not wait on the argument. That was the trap, and she walked into it with her eyes open because the alternative was to let the star fade unrecorded out of spite, and she would not do that to the star.
+
+The seventeenth clouded over. The eighteenth clouded over. Ada stood at the basement window both nights and watched the grey scud across the valley and did the only thing there was to do, which was wait, and check the barometer, and hate the weather with the particular hatred of an astronomer who can see the clock running on something that will not come again.
+
+The nineteenth was clear.
+
+Ignatz exposed the field. He developed the plate himself, in the red dark, and he knew before he had fully fixed it, from the empty place near the center where for three nights a star had been, what it would show. He carried it down to the basement anyway, because she would want to measure it herself, because measuring was how she believed things.
+
+She measured it. The field was clean. Every catalogued star in its place and the center empty, the grain bare where the new star had stood. It had risen on the fourteenth, peaked by the sixteenth, and now, three nights later, it was below the plate limit, gone, fading back into whatever it had climbed out of.
+
+"A fast nova," Ada said. "Or a recurrent at a faint maximum. The decline's steep — we've already lost it." She set down the loupe. She was very calm. "Which means the discovery plates are the only complete record of it that exists or will ever exist. The fourteenth, the sixteenth. Three nights of the rise and the empty before and the empty after." She looked up at Ignatz. "It will never be re-observed. There is no second chance to share the credit around later. Whoever's name goes on this now, that's whose it is forever."
+
+"Then it has to be yours," Ignatz said.
+
+"Yes," said Ada. "I rather think it does."
+
+
+Chapter 23: The Plate That Walked
+
+It was in those days, while the argument over the name went on above her head in offices she was not invited into, that Ada let the young observer help her.
+
+Tomas had attached himself to the work the way the young attach themselves to anything that feels like the real thing. He came down to the basement on his off nights and she let him measure the easy fields under her eye, and they talked, in the cold, about the object, and he was the only person on the mountain besides Ignatz who treated it as what it was — not a problem of credit but a thing that had actually happened in the sky, a star that had flared and died nine hundred years ago and whose light had only now, on these three nights, finished its long fall onto their glass.
+
+"It's already over," Tomas said once, wonderingly, holding the discovery plate to the light. "It happened before we were born. Before the observatory. We're just where the light landed."
+
+"That's every plate in the building," Ada said. "That's the whole archive. A hundred years of light that left its stars before anyone alive was born. We don't observe the sky, Tomas. We observe the past arriving." She took the plate from him gently. "Which is exactly why the record has to be right. It's the only part we control. We can't change what the star did. We can only be honest about who saw it land."
+
+She kept her own notebooks, separate from the logbook, separate from the official reductions — a private, exact, dated record of everything: the discovery, the measurements, the dates, the conversations with Hessel set down in her round hand with the time and the words. Tomas saw her writing in them and asked why.
+
+"Because Hessel keeps the logbook," Ada said, "and Hessel signs the circulars, and the only record in this building that Hessel does not control is the one I keep myself." She closed the notebook. "Write down the truth as it happens, Tomas. Dated. In your own hand. It's the only thing they can't reach back and change."
+
+He did not, then. He was twenty-two and he wanted to be let into the warm room, and people who keep dated private records of the truth do not get let into the warm room. He remembered the advice for forty years and did not take it until it was almost too late to matter.
+
+
+Chapter 24: Hessel's Telegram
+
+Hessel solved his difficulty the way careful, ambitious men have always solved such difficulties: not by refusing Ada, which would have looked like what it was, but by routing around her until the question of her name no longer arose.
+
+He cabled a colleague — a senior man at a great northern institution, a friend, a member of the committees Hessel sat on. He described the object. He shared the coordinates and the dates and the discovery, in confidence, between gentlemen, as a matter of helping a colleague's program. The colleague's institution had a bigger telescope and a faster line to the journals and, above all, a name that the field would never think to question.
+
+When the circular went out three weeks later, announcing the nova at Vela Ridge and its early light curve, it carried Hessel's name and the name of the northern colleague and, in the body, the phrase that Ada would find years afterward in a bound volume and read four times standing in a library: *We are indebted to the observatory's measuring staff for the reduction of the discovery plates.*
+
+The measuring staff. Not a name. A function. The reduction of the plates — not the discovery, the reduction, as though the star had announced itself and she had merely done the arithmetic.
+
+She had been right that there would be no second chance. The light curve in that circular was her light curve, her positions, her magnitudes, her three nights, and it went into the literature under two men's names and stayed there, and every later paper that referred to the object referred to it by their circular, and the chain of credit, once forged, was unbreakable by anything short of going back to the glass itself.
+
+Which no one would ever do. The glass would sit in the cold room, alphabetized by night, for thirty-nine years, until a young woman with a scanner found a grease-pencil circle and three initials and asked an old man what they meant.
+
+
+Chapter 25: The Spring Meeting
+
+There was a meeting, that spring, of the observatory's small scientific staff and a visiting committee, the kind of gathering where the year's work was laid out and admired. Hessel presented the nova. He presented it well, with Ada's light curve drawn up clean on a board, and the visiting men nodded, and someone said it was a pretty result, a tidy result, and Hessel inclined his head and accepted the word *tidy* as the compliment it was meant to be.
+
+Ada was not in the room. Computers did not attend the scientific meeting. She was in the basement, two floors down, measuring a different field, while her discovery was admired by men who did not know her name.
+
+But Tomas was in the room.
+
+He was there as a junior observer, at the back, in his too-large collar, allowed to attend so that he might learn how science was conducted. He sat and watched Hessel present Ada's three nights as the observatory's result, watched the clean curve that he knew she had measured by hand in the cold, and he felt, distinctly, the wrongness of it rise in his throat.
+
+And he said nothing.
+
+He told himself afterward, for years, that there had been nothing to say, that it was not his place, that a junior observer did not correct the director in front of a visiting committee, that the convention was the convention and everyone knew the computers did the measuring and it was understood, it was understood. All of that was true. None of it was the reason. The reason was that he wanted to be in that room, and to say the true thing was to be cast out of it, and at twenty-two he chose the room.
+
+When the meeting broke up, one of the visiting men clapped him on the shoulder and said he had a good eye and a future, and Tomas felt the words settle over the small wrong thing in his throat like snow, and he let them, and the snow held for forty years.
+
+
+Chapter 26: The Scan Confirms
+
+"It's real," Sable said. "It's not the glass."
+
+They were in the warm room, the modern world reasserting itself: her scanner, her calibrated monitors, the software that could pull a stellar profile off a thirty-nine-year-old emulsion and measure it to a precision Ada could only have dreamed of with her micrometer.
+
+She had scanned the three plates at the highest resolution the equipment had, and the circled object on the fourteenth and the brighter object on the sixteenth had the unmistakable signature of real light: the right profile, the right diffraction pattern from the telescope's optics, the right faint distortions toward the edge of the field that proved it had come through that lens on that night and not been added later or risen from a flaw in the gelatin.
+
+"And the position is identical on both nights, to within the measurement error," she went on, "which a defect wouldn't be, and which an asteroid wouldn't be, because an asteroid would have moved. It's a fixed point that brightened and vanished. Whatever your Ada said it was, the data says she was right."
+
+"She said a nova, or a recurrent." Tomas looked at the profiles on the screen, the hard clean evidence of the thing Ada had read off wet glass by eye. "Forty years on, with all this, you couldn't do better than she did with a loupe and a chart. She had it cold the first night."
+
+"So why isn't it hers?" Sable turned from the screen. "Walk me through it. A computer in 1970 makes a clean discovery, fully documented, logbook and all. What actually stops her name going on it?"
+
+"The convention stopped it," Tomas said. "And then a man stopped it. And then — " he made himself say it " — and then a roomful of men let him, because the alternative was inconvenient, and one of them was a junior observer of twenty-two who had a good eye and a future."
+
+Sable was watching him now with a different kind of attention. "You keep talking about this junior observer."
+
+"Pull the 1972 circular," Tomas said. "The one that reported the nova. I want to see exactly whose names are on it. Then I'll tell you about the junior observer."
+
+
+Chapter 27: What It Could Be
+
+Before the names, though, there was the physics, and the physics mattered, because a claim made forty years late would live or die on whether the object was real and what it was, and Tomas wanted to walk every step of that ground before he asked anyone to believe him.
+
+"Three nights," he said, at the whiteboard in the office that had been Hessel's and then three other directors' and finally, briefly, his. "Appears on the fourteenth at magnitude eleven. Brighter on the sixteenth, magnitude ten and a half. Gone by the nineteenth, below the plate limit. The rise is fast, a magnitude or more in two days. The decline is faster still — under three days from peak to invisibility on these plates."
+
+"Nova," Sable said. She had done her reading. "Classical nova brightens fast, fades over weeks to months. But this faded in days."
+
+"Which makes it a fast nova at best, and possibly something else. A recurrent nova caught at a weak maximum. A dwarf nova — a smaller, more frequent outburst, those can rise and fall in days." He tapped the dates. "Here's the trouble and the gift of it. With three nights and two clouded out, we have the rise and the absence after, but we don't have the peak well sampled, and we have no spectrum. A spectrum would have told us what it was outright. They didn't take one. They couldn't have known in time."
+
+"So we can't say exactly what it was."
+
+"We can say what it was not, which narrows it. And we can do something they couldn't." He turned to her. "We can search every plate in this archive that covers that field, across a hundred years, for another outburst. If it's a recurrent or a dwarf nova, it will have gone off again, before or since. If we find a second outburst on a plate from 1955 or 1988, at that exact position, we don't just confirm the object. We turn one mysterious night into a pattern. We make it undeniable."
+
+Sable looked down the building toward the cold room, the long aisles, the forty thousand nights. "That's a lot of plates to search by hand."
+
+"You're not searching by hand," Tomas said. "That's the gift of you. You're scanning all of it anyway. We point the software at one position and let it look. She'd have killed for that." He capped the marker. "She searched what she could by eye and time. We can search everything."
+
+
+Chapter 28: The Missing Notebooks
+
+Ada's official reductions were in the archive where they should be — the bound volumes of measuring-room results, field by field, in her round hand, including the calibration field that had held the nova. But the official reductions were only the surface of her work. The depth of it had been in her private notebooks, the dated, exact record she had kept of everything, the one part of the building Hessel had not controlled.
+
+Tomas knew the notebooks had existed. He had watched her write in them. He went looking for them now, because Ada's own contemporaneous account, dated and detailed, would be worth more than any reconstruction he could make, and he knew her well enough even at this distance to be certain she had documented every word Hessel said to her.
+
+They were not in the archive.
+
+He searched the measuring-room records twice, then the general manuscript collection, then the boxes of miscellaneous papers that had accumulated in the basement storeroom over a century. There were notebooks from other computers, from Vogel, from Sandoz, ordinary working notebooks that no one had bothered to keep or to throw away. There was nothing from Ada Mireu except the official bound reductions, which bore her hand but not her voice.
+
+"Somebody took them," Sable said, when he came up empty. "Or she took them when she left."
+
+"She'd have taken them. She told me once they were the only record in the building no one else could reach." Tomas stood in the storeroom among the boxes, the dust of a century in the light. "Which means the contemporaneous account of what Hessel did exists, or existed, and it left the mountain with her in the spring of 1971, and it could be anywhere. In an attic. In a landfill. Gone." He felt the loss of it like a physical thing. "She'd have written it all down. The exact words. And we can't find a single page."
+
+"Then we build it from what's here," Sable said. "The plates. The logbook. The circular. The annual reports." She paused. "And from you. You were there. You're a witness, Mr. Reye, whether you want to be or not."
+
+
+Chapter 29: Petra Lund's Deadline
+
+Petra Lund drove up on the Thursday, in a foundation car, with a folder and a schedule and the particular brisk gentleness of a person whose job is to end things on time.
+
+"The crating firm starts on the fifteenth of next month," she said, in the office, with her schedule open on the desk between them. "Four weeks. They'll pack the instruments first, then the library, then the plate archive. The archive goes last because Ms. Okonkwo's scanning has to finish before it's packed, and the scanning is — " she checked " — on schedule, which is a small miracle, frankly, given the volume." She looked up. "Is there a problem? You asked for the meeting."
+
+"I'm asking for time," Tomas said. "On the archive. Six weeks past the date, perhaps eight."
+
+"Why?"
+
+He had decided, on the drive up, to tell her the truth, because the truth was the only argument he had and because lying to careful people was Hessel's method and he was done with Hessel's methods. He told her. The grease-pencil circle. The three nights. The computer named Ada Mireu who had made a clean discovery in 1970 and been written out of it, whose name had never gone on the object she found, whose contemporaneous proof had walked off the mountain and vanished. The chance, now, with the scans, to establish what was hers and put it back.
+
+Petra Lund listened without interrupting, which he had not expected, and at the end she was quiet for a moment.
+
+"That's a serious thing you're describing," she said. "If it's true."
+
+"It's true. The evidence is on the glass. I can show you."
+
+"I believe you may believe it." She closed her folder. "But understand my position, Mr. Reye. The foundation is selling this mountain. A clean, quiet closure is what the sale needs. A story about credit stolen from a woman, attached to this institution, in the press, while the transaction is closing — that is precisely the kind of complication the people I answer to will want to make disappear. Do you see? The easiest thing, by far, the safest thing, is for me to keep to the schedule, let the archive be packed, let the question of Ada Mireu go into four different institutions in four different crates, and never be assembled again." She stood. "I'm not saying that's what I'll do. I'm saying that's the path of least resistance, and I'm telling you so you understand what you're asking me to step off of. Show me the glass. Then I'll decide."
+
+
+Chapter 30: The Basement Index
+
+While Tomas worked on Petra Lund, Sable went down into the basement to look for the one thing an archivist always looks for and rarely finds: the index the workers kept for themselves.
+
+She found it behind a filing cabinet that had not been moved in decades, a long shallow wooden drawer of the kind that holds catalogue cards, unlabeled, heavy with dust. Inside were hundreds of cards in several hands, and she understood within a minute of reading them what she had found.
+
+It was the computers' own index. Not the official reductions, which the observatory kept and credited as it pleased, but the working register the measuring staff had maintained for their own use across forty years — who had measured which plates, which fields were done, which results had gone where. A whole stratum of labor, invisible in the published record, documented here in the careful hands of the women who had done it.
+
+She brought the relevant cards up to the warm room and laid them out, and they told the story under the story. Card after card in Ada Mireu's round hand: fields measured, plates reduced, results passed up. And for the winter of 1970, a card that made Sable sit very still.
+
+*Field 117 (calib.). Plates 0114, 0116. New object, mag 11→10.5, not in cat. Discovery — A.M. Reduction, position, photometry — A.M. Reported to Dir. 15 & 17 Jan. See personal nb.*
+
+*Discovery — A.M.* In Ada's own hand, in the workers' own private index, dated, the week it happened, before any circular went out. Not "reduction by the measuring staff." *Discovery.* Her claim, made to herself and her fellow computers, in the one record Hessel never thought to control because he never thought of the computers as people who kept records.
+
+"Mr. Reye," Sable called up the stairs, and there was something new in her voice. "Come down. She signed it. She signed it the week it happened, and I can prove the card is from then."
+
+
+Chapter 31: Ignatz's Box
+
+Tomas brought Sable's photograph of the index card down to the valley, and Ignatz held it under his reading lamp for a long time, and when he looked up his face had gone soft and old in a way Tomas had not seen.
+
+"Her hand," he said. "After all this time. Her hand." He set the photograph down carefully. "She kept those cards meticulous. The director never knew they existed. She used to say the official record was Hessel's house and the index drawer was hers, and she swept her own house." He almost smiled. "Discovery — A.M. Yes. That's what she'd have written. That's what it was."
+
+"It helps," Tomas said. "It's contemporaneous. It's in her hand, dated. But it's the workers' own index — they'll say she could have written anything in her own drawer. We need her personal notebooks. The ones she kept. You remember them. Do you know what became of them?"
+
+Ignatz looked at him for a long moment. Then he got up, with the care of his ninety-odd years, and went into the back of the house, and was gone long enough that Tomas wondered if he should follow. When he came back he was carrying a wooden box, an old tea chest, and he set it on the table between them and stood with his hands on the lid.
+
+"She left in the spring," he said. "Hessel saw to it. The night before she went, she came down to the dome to say goodbye to me — to me, mind, not to him, not to any of them — and she had her notebooks in a bag, all of them, and she gave me one. The current one. The one with the nova in it." His old hands tightened on the lid. "She said, keep this, Ignatz, in case it ever matters to anyone. Keep it somewhere they won't look. And I said I would. And then she walked off the mountain and I never saw her again, and I have kept this box for fifty years, and I have never once opened it, because I was afraid of two things." He stopped.
+
+"Of what," Tomas said.
+
+"That I would read it and find she blamed me for not stopping it." Ignatz's voice did not shake, which made it worse. "And that I would read it and find she didn't, which I could not have borne either." He lifted his hands off the lid. "I am too old to be afraid of it any longer. You open it. You're the one she taught. You open it, and you read me what she wrote."
+
+
+Chapter 32: The Numbers Hold
+
+Inside the box, wrapped in oilcloth against fifty years of valley damp, was a single notebook, black-covered, its pages dense with Ada Mireu's round, exact hand.
+
+Tomas did not read it aloud at once. He could not. He turned the pages with the care he would have given a plate, and there it was, all of it, dated, the way she had told him to keep his own and he had not: the night of January fourteenth, the new object, the position measured three times, the catalogue searches, the magnitude. The sixteenth, the rise. The nineteenth, the empty field. And between them, in the same calm hand, the conversations — *Dir. says discovery belongs to program, not to me. Says my name on circular would make object a curiosity. Says let it go out properly. I said whose name is the program. He did not answer.* — set down with the time and the date, exactly as she had taught the boy to do and the boy had failed to.
+
+And the measurements. Pages of them. Her hand-measured positions for the object on both nights, in her own units, with her own error estimates.
+
+"Read me the position," Sable said quietly. She had driven down behind him; she had the scans on her laptop. "The fourteenth. Read me her number."
+
+He read it. She converted it, and put it beside the position her software had pulled off the same plate thirty-nine years later, the modern reduction, machine-precise.
+
+They matched. To within the error of the glass, the woman with the loupe and the micrometer in the cold basement had fixed the position of a star that existed for three nights as accurately as a calibrated scanner and a computer could fix it four decades on. Her photometry held too — her magnitudes, eyeballed against the field, fell within a tenth of what the software measured.
+
+"She wasn't close," Sable said. She sounded almost angry. "She was *right*. There's no allowance to make for the equipment or the era. She was simply right, and they took it from her anyway."
+
+Ignatz, in his chair, had his eyes closed. "Read me the last page," he said. "The notebook. What's the last thing she wrote in it, before she gave it to me."
+
+
+Chapter 33: Hessel's Paper
+
+The circular had been the first theft; Tomas had known about the circular. It was in the library, in the bound run of the discovery circulars, and he found it where Ada must have found it years later and read the phrase *the observatory's measuring staff* and aligned the volume's edge with the edge of the table and walked out.
+
+But there had been a second document, and the second was worse, and Tomas had not known about it, or had let himself not know.
+
+In 1972 Hessel and the northern colleague had published a full paper — not a circular, a proper refereed paper, in a real journal — on the nova at Vela Ridge: the discovery, the light curve, an analysis of the rise and decline, a classification. It was the paper that had gone into the permanent literature, the one every later reference pointed to, the foundation stone of the object's existence in the science.
+
+Tomas pulled the volume and read it at the library table, and Sable read it over his shoulder, and there in the introduction was the light curve — Ada's three nights, Ada's positions, Ada's magnitudes, presented as the program's data — and in the acknowledgments, one sentence: *We thank the measuring staff of the observatory for the reduction of the plates, and Mr. T. Reye for assistance with the measurements.*
+
+Sable read it twice. "Mr. T. Reye," she said. "Assistance with the measurements." She turned. "That's you."
+
+"That's me." His voice was steady because he had been waiting two weeks to say it and the waiting had worn the shake out of it. "I helped her measure the easy fields, on my off nights, because I was young and I wanted to be near the real work. I did not measure the nova. She measured the nova, every number of it. But when the paper was written, the man who got a sentence of thanks by name was the junior observer who helped a little and would rise, and the woman who found it and measured all of it got 'the measuring staff,' no name, because she was a computer and a woman and would not rise." He closed the volume. "They put my name in the paper, Sable. Not as theft. As manners. And I let it stay there for forty years."
+
+
+Chapter 34: The Junior Author
+
+"It's worse than the acknowledgment," Sable said that night, on the mountain, going through the paper line by line as she had gone through everything, because she did not stop when a thing got uncomfortable; it was the quality in her Tomas had come most to rely on. "Look at the author list again."
+
+He looked. Hessel. The northern colleague. And a third name, smaller, last: *T. Reye.*
+
+He had not registered it at the library. He had stopped at the acknowledgment, at the sentence of thanks, and not gone back up to the masthead, because some part of him had not wanted to. Now he made himself look. He was an author on the paper. Not merely thanked. An author. A junior third author, the boy of twenty-two, carried onto the byline of the paper that reported Ada Mireu's discovery as the program's result.
+
+"I didn't write a word of it," he said. "I didn't ask to be on it. Hessel put me there." And he understood, saying it, exactly why Hessel had put him there, with the clean cold understanding that comes too late to do any good. "He put me on it to make me complicit. A junior man with his name on the paper doesn't stand up at the spring meeting and say the computer found it. A junior man on the byline has a career riding on the byline staying as it is. He bought my silence with a line of authorship, and I was so glad to be bought that I called it being recognized."
+
+Sable was quiet.
+
+"For forty years," Tomas said, "I have been a co-author of the paper that erased Ada Mireu. It is on my list of publications. It is, in a literal sense, part of how I got every job I have ever had on this mountain, up to and including the job of being the one they trust to close it." He looked at the byline a long time. "She told me to keep a dated record of the truth in my own hand. I didn't. The only record with my hand anywhere near it is this one. And it's a lie."
+
+
+Chapter 35: Why He Stayed
+
+Sable asked him the question that night, plainly, because she had earned the right to and because someone had to.
+
+"Why did you stay? Forty years. If you knew."
+
+They were in the office with the lights low and the dome dark above them and the valley a scatter of small lights far below. Tomas did not answer quickly. He had been asking himself the same thing in Marisol's empty house for two weeks, and he found he wanted to get the answer exactly right, the way Ada had measured the position exactly right, because anything less was another kind of lie.
+
+"At first because I didn't let myself know," he said. "Twenty-two, with a future, a man clapping my shoulder and telling me I had a good eye. It's astonishing what you can not-know when the not-knowing is rewarded. The wrong thing went down my throat at the spring meeting and I let it snow over and I got very good, over the years, at not going back to look at it."
+
+"And later? When you were older. When you ran the place."
+
+"Later it was the cost. By the time I was old enough to understand it clearly, the paper was twenty years in the literature, Hessel was dead, the northern colleague was dead, and to reopen it I'd have had to stand up and say: the foundational paper of this object, the one with my name on it, is a theft, and I have known and said nothing for two decades. That's not a correction. That's a confession. And every year I didn't make it, the confession got more expensive, because every year added a year of silence to account for." He turned his hands over on the desk. "So I did what cowards do with a debt they can't face. I paid the interest and never touched the principal. I was scrupulous about everything else. I credited every student. I put the computers' names on things when I finally could. I was, in every case but the one that mattered, an honest man. And I told myself the general honesty made up for the specific lie." He looked at her. "It didn't. It never does. The specific lie just sat in the cold room with the plate, waiting for someone to scan it."
+
+"Well," Sable said, after a while. "Someone scanned it."
+
+"Yes." For the first time in the conversation something in his face eased. "Thank God, someone finally scanned it."
+
+
+Chapter 36: The Last Night, 1971
+
+He had kept this memory in the deepest part of the cold, and now he took it out and looked at it, and told Sable, because she had asked him to be a witness and a witness does not get to keep the worst night to himself.
+
+In the spring of 1971 Hessel moved Ada off the mountain. He did it the careful way, of course. There was no scene, no dismissal anyone could point to. There was a reorganization of the measuring staff, a decision that the observatory required only one computer and that the position would go to Sandoz, who was senior in years if not in skill and who had never embarrassed anyone by claiming a discovery. Ada's appointment was simply not renewed. It was in no one's interest to call it what it was, and so it was called nothing, and the annual report closed over her name.
+
+The night before she left, she came up to the dome to say goodbye to Ignatz. Tomas was on the stairs — he had come up to fetch a logbook, or told himself he had — and he heard them, Ada and Ignatz, in the dome above him, and he stopped on the stairs in the dark and did not go up and did not go down.
+
+He heard her give Ignatz the notebook. He heard her say keep this in case it ever matters. He heard Ignatz's voice break, the practical valley man who never broke, and heard her steady him, the one being sent away comforting the one allowed to stay. And he heard her say, near the end, a thing he had carried for forty years and never repeated to a soul:
+
+"Don't be sorry, Ignatz. You showed me the eyepiece. You're the only one in this whole building who ever showed me the real thing instead of the shadow of it. Whatever they put in the journals, I *saw* it. I stood in the dark and the light came down on my own eye. They can't take that. They can only take the credit, and credit was always going to be theirs. The looking was mine."
+
+And Tomas, twenty-two, on the stairs, in the dark, had understood that he was hearing the truest thing he would ever hear in that building, and that the decent thing, the only thing, was to climb the last steps and stand with them and say I will tell them, I saw, I'll say so — and that if he did, his future on the mountain ended that night.
+
+He went back down the stairs in the dark, quietly, so they would not know he had heard, and he let her go.
+
+
+Chapter 37: What She Took
+
+She left in the morning on the post bus, the way she had come, with her suitcase and her bag of notebooks, minus the one she had given Ignatz. No one saw her off but the night assistant, who stood in the gravel lot in the cold spring light with his cap in his hands.
+
+She took her notebooks and her measurements and her certainty, and she left behind the official reductions in her hand, the index card in the workers' drawer, the grease-pencil circle on plate 0114, and the logbook note initialed A.M. — all the small marks that Hessel did not think to erase because he did not think of them as the record, and that would, thirty-nine years later, be exactly enough.
+
+She did not make a scene. Tomas had wondered, over the years, in the rare moments he let himself wonder, why she had not fought it — not written to the journals herself, not gone to another observatory and told the story, not spent her life trying to claw the nova back. He understood it better now, old himself, with his own forty years of silence to measure hers against. She had been twenty-nine, a woman, a former computer at a small observatory, with no degree the field respected and no man's name to borrow. The journals would not have printed her. The committees would not have heard her. To fight would have been to spend her one life beating on a door that was built not to open, and she had decided, somewhere on that post bus, that her one life was worth more than the credit for one star.
+
+So she took the looking, which was hers, and left them the credit, which was theirs, and walked out of the record. And the men went back to the eyepiece, and the boy on the stairs grew into the old man, and the plate sat in the cold.
+
+"What happened to her?" Sable asked. "After. Where did she go?"
+
+"I don't know," Tomas said. "That's the worst of it. I let her go and I never once, in forty years, tried to find out. I'll have to now. I owe her a found-out life. But I don't know yet if it has a happy ending or a sad one, and I'm afraid of both, the way Ignatz was afraid of the box."
+
+
+Chapter 38: The Light Still Coming
+
+He drove down that night and did not go home. He went to the cemetery on the edge of the valley town, where Marisol was, and stood at her stone in the dark with his coat collar up against the spring cold that was so like the spring cold of 1971.
+
+He told her. He had been telling her things for two years, to her chair, to the dark, and he told her this, the whole of it, the spring meeting and the byline and the boy on the stairs and the box Ignatz had kept for fifty years. He had never told Marisol any of it while she lived. She had known him for thirty-four years and not known the one thing he was most ashamed of, and that, he saw now, was its own small lie, layered over the big one.
+
+"I'm going to fix it," he said. "What can be fixed. The credit. I'm going to put her name on it if it's the last thing I do on that mountain, and it probably will be." The wind moved in the cypresses. "It won't give her back her life. It won't give her the career she should have had. The light from that star left it nine hundred years ago and it only reaches the people it reaches. But it's still coming, Marisol. That's the thing about it. The plate caught it and the plate is still here and the light is still in the grain, still arriving, forty years on, to anyone who finally looks. It's not too late to look. It's only ever too late to have looked sooner."
+
+He stood a while longer. Then he drove up the mountain in the dark, against all sense, at his age, on that road, and let himself into the dome, and went down to the cold room, and stood in the long aisle among a hundred years of arriving light, and felt, for the first time since the letter came, not like a man switching off a lamp, but like a man who had finally been given something worth keeping it on for.
+
+
+Chapter 39: Building the Case
+
+After that the work had a different quality. It was no longer an inquiry into whether something had happened; it was the construction of a case, and Tomas built it the way Ada had taught him to keep records and he never had: dated, exact, in order, each claim nailed to its evidence.
+
+They assembled it on the long oak table where the computers had measured. The discovery plate, VR-1970-0114, with the grease-pencil circle and the initials, scanned and the scan measured. The re-exposure, 0116, the brightening confirmed. The plate of the nineteenth, the empty field, the transient's end. The night logbook, open to the margin note in Ada's hand. The workers' index card, *Discovery — A.M.*, dated the week of the event. And the notebook from Ignatz's box, the contemporaneous account, the conversations with Hessel set down with their dates, the hand-measured positions that matched the modern scans to the limit of the glass.
+
+And the published record on the other side of the table, for contrast: the 1972 circular, *the measuring staff*; the 1972 paper, *Mr. T. Reye for assistance*, the byline that bought a boy's silence.
+
+"It's a clean case," Sable said, standing back from the table. "Honestly, it's cleaner than most priority claims that succeed. You have the physical discovery mark, the dated logbook flag, the independent workers' index, and the personal notebook all in agreement, all in her hand, all from the week it happened, all predating the publication that omitted her. That's not a feeling. That's a documented chain."
+
+"It's the chain she forged herself," Tomas said. "Every link. She circled the plate. She flagged the logbook. She kept the index. She filled the notebook. She told me to keep dated records and I didn't, and it turns out it didn't matter, because she kept them well enough for both of us." He looked at the table, the evidence of a life's worth of attention laid out at last in the light. "All we did was find what she left. She did the hard part forty years ago, in the cold, knowing no one would look. We just looked."
+
+
+Chapter 40: The Journal
+
+The case still had to leave the mountain and survive contact with the world, and the world, Tomas knew, did not easily reopen a forty-year-old paper to demote two dead men and credit a dead woman it had never heard of.
+
+They drafted it carefully. Not a polemic — Sable was firm on that, and she was right. A short, dry, exact paper for a journal that handled the history of astronomy: a re-examination of the 1970 Vela Ridge transient, presenting the archival evidence, establishing through the physical plates, the contemporaneous logbook, the workers' index, and Mireu's personal notebook that the discovery, measurement, and characterization of the object were the work of Ada Mireu, and proposing the correction of the historical record. Tomas put his own role in plainly, in the first person, in a paragraph he wrote and rewrote a dozen times: that he had been a junior observer present at the time, that he had been carried as an author on the original paper without having done the work attributed to Ada, that he had remained silent for forty years, and that he submitted this correction as the responsible party to the original error.
+
+"You don't have to flay yourself in print," Sable said, reading the paragraph. "You could just present the evidence and let it speak."
+
+"Hessel let the convention speak," Tomas said. "He never lied outright. He just let the way things were done carry the lie for him, so his own hands stayed clean. I'm not doing it his way. If I'm going to correct a theft I had my name on, my name goes on the correction, with what I did and didn't do stated plainly. Otherwise I'm just laundering my conscience and calling it history." He did not change the paragraph. "Besides. She kept a dated record of exactly what everyone did. The least I can do, forty years late, is keep one too."
+
+He submitted it the next morning, with Sable as co-author — she had insisted she didn't need to be on it and he had insisted right back that the person who actually found the circle would not, this time, be relegated to the acknowledgments — and they sent it off into the slow machinery of peer review, and there was nothing to do then but wait, and find Ada, and keep the foundation from packing the evidence into four crates before the world could check it.
+
+
+Chapter 41: Petra's Choice
+
+Petra Lund came up again to see the glass, as she had said she would, and Tomas showed her everything, laid out on the long oak table, and walked her through the chain link by link, and did not soften the part about himself.
+
+She was a long time at the table. She looked at the circle through the loupe Sable handed her. She read the logbook margin and the index card and the page of the notebook where Ada had written down Hessel's words. She read Tomas's paragraph in the draft paper, the one in the first person, twice.
+
+"You could have left yourself out of it," she said at last. "I'd never have known you were on the original paper. None of the press would dig to a third author on a 1972 byline. You're confessing to something no one was going to catch you at."
+
+"I know," Tomas said.
+
+"Why."
+
+"Because that's how Hessel did it," he said, for what felt like the hundredth time, and meant just as much. "He counted on no one digging. I'm not building this on the same bet."
+
+Petra closed the draft. She stood at the table a while longer, among the plates and the notebook and the index card, the assembled evidence of a woman's erased attention, and Tomas watched her do the arithmetic he had warned her she would do — the sale, the clean closure, the path of least resistance that ran straight through packing all of this into crates and letting the question disperse.
+
+"My job," she said slowly, "is to close this institution cleanly. I've been thinking about what *cleanly* means." She turned to him. "I told you the safe thing was to keep to the schedule and let Ada Mireu go into four crates. I've decided I don't want to be the person who did that. The foundation can absorb a true story better than it thinks. A great deal better than it could absorb being the institution that had the evidence in hand and packed it away to make a sale tidy." She picked up her folder. "You'll have your time on the archive. I'll hold the crating firm. And when your paper is ready, the foundation will not bury it — it will announce it. If this place is going dark, it can go dark having finally told the truth about one thing. That's a better closure than a quiet one." She almost smiled. "You measured this honestly. The least I can do is not round it down."
+
+
+Chapter 42: Finding Ada
+
+Sable found her.
+
+It took two weeks of the kind of searching Sable was good at and Tomas was not — public records, civil registries, the long patient cross-referencing of a name that had left no scientific trace. Ada Mireu had vanished from astronomy in 1971 as completely as the nova had vanished from the sky, and for the same reason: no one had kept looking.
+
+But she had not vanished from the world. She had only left the one small country of it that kept its records in journals.
+
+"She taught," Sable said. She had the file open, assembled from a dozen thin sources. "After the observatory. She went to a city in the north and she taught mathematics. Secondary school, then a teacher's college. For thirty years. There are former students — I found a tribute page, the kind they make for a teacher who mattered. Listen to this one." She read it off the screen. "'Miss Mireu taught me that a wrong answer is just an answer you haven't finished measuring yet. She is the reason I became an engineer. She kept a small telescope on the school roof and let us look on clear nights and told us we were seeing the past arrive.'"
+
+Tomas sat with that.
+
+"She married," Sable went on, gentler now. "A music teacher, at the same school. By every account it was a good marriage. They had a daughter. She kept teaching almost until the end. She had — it sounds like she had a full life, Mr. Reye. Not the life she should have had. Not the one they took from her. But a real one, and a long one, and from the look of this, a loved one."
+
+"And the end," Tomas said, because he had heard the tense she was using and he knew. "When."
+
+Sable was quiet a moment. "Two years ago," she said. "She died two years ago. She was seventy-eight." She looked up. "We missed her by two years. If the foundation had ordered the scan when they first talked about it, you might have — " She stopped. "I'm sorry. She was alive for almost all of the forty years. She just wasn't alive for these last two."
+
+Tomas closed his eyes. Two years. The same two years that Marisol's chair had stood empty by the window. While he had grieved one woman in the valley, the other had been alive in a northern city, an old retired teacher who had once found a star, and he had not looked, and now she was gone, and the looking was all he had left to give her.
+
+"The daughter," he said. "You said there was a daughter."
+
+"Liane," said Sable. "Liane Mireu. She's alive. She's findable." She turned the screen. "Do you want to be the one to call her? Or should I?"
+
+
+Chapter 43: Liane
+
+Tomas made the call himself. It took him three days to be ready, and when he dialed he had written out what he would say, and then he set the paper aside and said none of it, because the woman who answered had Ada's voice — not the same, but the same shape under it, the same dry steadiness — and his careful script went out of his head.
+
+"My name is Tomas Reye," he said. "I'm calling from the Vela Ridge Observatory. I worked there many years ago, when I was young. Your mother — Ada Mireu — worked there too, before you were born. I'm calling about something she did there that no one ever gave her credit for, and that I think you should know about, and that I'm trying, very late, to put right."
+
+There was a silence on the line. When Liane spoke, her voice was careful.
+
+"My mother never talked about the observatory," she said. "Almost never. I knew she'd worked there as a young woman. She said it was a place that didn't have room for her. She said it the way you'd mention a town you'd left." A pause. "She did love the stars, though. She had a little telescope. She used to take it up to the school roof. When I was small she'd take me out and show me things and tell me I was looking at light that had left before I was born." Another silence, longer. "Mr. Reye. What did she do, at the observatory, that no one gave her credit for?"
+
+"She discovered a star," Tomas said. "In 1970. A nova — a star that flared up and faded over three nights. She found it, and measured it, and documented it perfectly, and the men who ran the observatory put their own names on it and left hers off, and I — " he made himself keep going " — I was one of the young men who let it happen, and I have spent forty years ashamed of it, and I have proof now, your mother's own notebook among other things, and I am trying to correct the record and put her name back on the star she found. I wanted you to know. And I wanted to ask — if it's not too much — whether your mother left any papers. Notebooks. From those years."
+
+The silence this time was so long he thought the line had dropped.
+
+"A trunk," Liane said finally, and her voice had changed. "There's a trunk. From before she married. I never opened it. She said it was old work, from before her real life. After she died I couldn't — I just put it in the attic." A breath. "Mr. Reye. Are you telling me my mother found a star, and never told me?"
+
+"Yes," Tomas said. "I think she decided the finding was enough, and that the telling would only have cost her. So she kept it. But she kept the proof, too, Mrs.— "
+
+"Liane. Just Liane."
+
+"She kept the proof, Liane. Your whole mother kept the proof, for fifty years, in case it ever mattered to anyone. It matters. It matters now. May I come and see the trunk?"
+
+
+Chapter 44: The Notebooks Speak
+
+The trunk held the rest of Ada Mireu.
+
+Tomas and Sable drove north, six hours, and Liane met them at the door of a small flat full of books and a piano, and she had brought the trunk down from the attic and set it in the middle of the front room, and the three of them sat around it like people around a fire.
+
+Inside were the notebooks — all of them, the ones Ada had carried off the mountain on the post bus, ten of them, the years of her measuring life in the cold basement, in her round exact hand. The nova was in them, of course, the same account as in the notebook Ignatz had kept, in fuller form: the discovery, the measurements, the conversations, and then, after the spring of 1971, the entries that Tomas had not known to expect and that undid him.
+
+She had kept observing. Not professionally — they had closed that door — but on her own, with whatever instrument she could get, all her life. The notebooks ran on past the observatory, past her marriage, into the decades of teaching: variable stars estimated by eye from a city rooftop, the school telescope's small discoveries, a life of attention paid freely to a sky that had refused to pay her back. And folded into the notebook for 1971, where she had left the observatory, a single page, dated, that was not a measurement.
+
+Tomas read it aloud, because Liane asked him to, because she said she could not.
+
+*They have the nova now and they will keep it. I have thought about whether to fight and I will not. A life is too short to spend it knocking on a door built shut. But I will not pretend either. I know what I found. I measured it three times. The boy on the stairs heard me say so — I knew he was there; I am not a fool; I let him hear it on purpose, so that one person who would outlive all of them would know. Perhaps he will say so someday, when it is safe and I am gone and it costs him nothing. Perhaps not. It does not matter. I saw it. The looking was mine. Let that be written somewhere, even if only here.*
+
+The room was very quiet. Liane was crying without sound, the way her mother had cried at the eyepiece. Tomas could not speak at all.
+
+"The boy on the stairs," Liane said at last. "Mr. Reye. That's you. Isn't it."
+
+"Yes," he said. "That's me. She knew I was there. She left it for me to find for fifty years." He looked at the page in his hands, Ada's hand, *perhaps he will say so someday*. "I'm sorry I was so slow," he said, to the page, to the room, to the dead woman who had measured him too. "I'm here now. I'm going to say so."
+
+
+Chapter 45: Ignatz's Testimony
+
+There was one more living link, and Tomas drove down to the valley to ask the old man to forge it before it was too late, because Ignatz was ninety-three and the referees of journals like their witnesses signed and dated.
+
+Ignatz signed gladly. Sable typed his statement as he spoke it, in his own words, and they read it back to him twice and he changed two things and put his name to it: that he had been the night assistant at Vela Ridge in 1970; that he had exposed the plates of the nova on Ada Mireu's instruction; that he had watched her discover and measure the object off the glass; that he had heard the director decline to credit her; that he had kept her notebook for fifty years at her request. It was the last living eyewitness account, and it would matter to the referees more than any document, because a document can be argued and a man under his own name cannot, not easily.
+
+"There," Ignatz said, when it was done. He set down the pen. "Fifty years I kept that box, and I told you I kept it because I was afraid. That was true. But I'll tell you the other reason now." His old eyes were steady. "I kept it because she asked me to keep it in case it ever mattered to anyone, and I was not going to be the one who decided it didn't. I was not going to throw away her star because no one had come for it yet. Somebody might come. Somebody did." He looked at Tomas, and then at Sable. "You came."
+
+"You kept it," Sable said. "We just opened it."
+
+"We all kept something," Tomas said. "Ignatz kept the box. Ada kept the proof. The observatory kept the plate, without knowing why. I kept the silence, God help me, which is the one thing that should have been thrown out." He put his hand on the old man's shoulder. "But it's all the same archive, in the end. It all sat in the cold, waiting to be read. And it got read."
+
+
+Chapter 46: The Referee
+
+The journal sent the paper to two referees, and the second was hard, and Tomas was glad of it, because a soft acceptance would have meant the record was being corrected by sympathy and he wanted it corrected by proof.
+
+The referee did not doubt the plates. The physical evidence was beyond argument; the scans were unimpeachable; the object was real and the position was certain. What the referee pressed on was priority, the precise thing the case had to win: how could the authors be sure the documents were contemporaneous, that the index card and the notebook had not been written or altered later to support a claim? It was the exact objection Sable had predicted in the cold room weeks before — *they'll say she could have written anything in her own drawer.*
+
+So they answered it the way Ada would have: by measuring.
+
+Sable established the dating beyond reasonable doubt. The grease pencil on the plate was the observatory's own stock, matched to other marked plates of 1970. The logbook was bound and paginated, the margin note inseparable from the surrounding genuine entries in the night assistant's hand. The index card stock matched the dated cards around it in the drawer. The notebook's paper, ink, and the natural aging of both were consistent with 1970 and inconsistent with any later fabrication, and its account interlocked, detail for detail, date for date, with the independent logbook and the published circular — a forger would have had to corrupt four separate records in four separate places and ages, and to do it in a way that left Ada's positions matching a digital scan that would not exist for thirty-nine years. And there was Ignatz, signed, dated, alive.
+
+The referee's second report was three lines. The objection was met; the dating was secure; the priority claim was, in the referee's word, *unusually well documented for a historical case*, and the correction of the record was warranted and overdue.
+
+"Unusually well documented," Sable read, and laughed, a little wetly. "She documented it, in a basement, in 1970, knowing no one would ever look. She refereed her own case forty years before the referee asked the question."
+
+"She always did know," Tomas said, "exactly what they'd try, and exactly what would stop them. She just didn't have the standing to make them stop, in her lifetime." He looked at the report. "She does now. She has us, and Ignatz, and the glass. It turns out that's standing enough. It only took fifty years to assemble."
+
+
+Chapter 47: The Dome Goes Dark
+
+The decommissioning was set for a clear cold night in late autumn, and the foundation, to its credit and Petra Lund's, made it a small ceremony rather than a switch quietly thrown. A handful of people came up the mountain road in the dark: Petra, a few foundation staff, two astronomers from institutions that would receive the plates, Sable, and Ignatz, driven up by his neighbor and bundled in three coats, who had not been on the mountain in forty years and who sat in the dome floor's old observing chair and looked up at the instrument he had run for thirty years and said nothing at all, which from Ignatz was everything.
+
+And Tomas ran the telescope one last time.
+
+He had argued for it and Petra had allowed it: one final exposure before the great mirror went dark, on coordinates of his choosing. He chose, of course, the field. Field 117, the dull calibration field near whose center, on three nights in 1970, a star had risen and faded into the only record that would ever hold it.
+
+He opened the shutter. The cold real sky came down through the slot, the same sky, the same field, the winter stars wheeling up exactly as they had for Ignatz and Ada and the boy on the stairs. He found the field by hand, the old motions in his hands still, and centered it, and began the exposure — a long one, the longest the night allowed, a deliberate, ceremonial long exposure of the empty patch of sky where Ada's star had been and was no longer.
+
+"There's nothing there," one of the visiting astronomers said quietly, watching. "The nova's been gone fifty years."
+
+"The light it gave on those three nights is still going outward," Tomas said. "We caught a little of it on glass. The rest is still traveling. Somewhere it's still arriving, on some other world's night, for the first time." He watched the seconds count up on the exposure. "We're not photographing the star. We're photographing the place it taught us to look. That's worth a long exposure."
+
+When the time was up he closed the shutter, and the dome was dark, and that was the last light Vela Ridge ever gathered: a long, patient, empty exposure of the field where a woman no one had credited had once paid the closest attention of anyone who ever worked there.
+
+
+Chapter 48: Accepted
+
+The paper was accepted in the spring, a year almost to the season since Sable had first held a plate to the window light, and the foundation, as Petra had promised, did not bury it.
+
+The correction entered the record cleanly and without much noise, which was the right size for it. The historical journal published the re-examination. The database that held the 1970 transient updated its entry: the discovery and characterization attributed, with the supporting documentation, to *A. Mireu, Vela Ridge Observatory*. The original 1972 paper was not retracted — it could not be, the physics in it was sound — but it was annotated, linked to the correction, its acknowledgment exposed for what it had been. In a few catalogues, informally at first and then settling into use, the object acquired a name it had never had in fifty years of being someone else's: Mireu's Star. Not official, not yet. But the kind of name that, once people start saying it, becomes true by being said.
+
+And Tomas's own name moved. On the original paper it had sat for forty years on the wrong side of the page, a junior author who had not done the work, a line of credit that had bought his silence. On the correction it sat in the open, attached to a first-person paragraph that said plainly what he had done and failed to do. He had not cleaned his name. He had told the truth about it, which was the only kind of clean that was worth anything, and which was harder, and which was the thing Ada had told a boy to do in a basement in 1970 and the man had finally, fifty years late, done.
+
+"How does it feel," Sable asked him. They were closing the office, the last boxes, the keys.
+
+"Like setting down something heavy," Tomas said. "That I should have set down forty years ago, and instead carried up and down that road every day, telling myself it was the inventory." He looked around the emptied office that had been Hessel's. "It doesn't make me good, Sable. Forty years of silence isn't undone by one paper. But she asked one person to say so someday, and I'm the person, and I said so. That has to be enough, because it's all there is. You don't get to go back and look sooner. You only get to look now."
+
+
+Chapter 49: Liane on the Mountain
+
+Liane came to Vela Ridge in the last week, before the archive went into its crates, because Tomas had asked her to and because she wanted, she said, to stand where her mother had stood and finally understand the town her mother had left.
+
+He showed her the basement measuring room, the long oak table, the stage where the plates were clamped, the place where Ada had spent her cold years reading the sky off glass. He showed her the dome, and the eyepiece, and let her look through it, low power, at a globular cluster, a hundred thousand suns at the galaxy's edge, the same object Ignatz had shown her mother on the night that ruined her for the shadows. Liane looked for a long time, the way her mother had, and when she straightened her face was wet, the way her mother's had been, and she did not apologize for it either, and Tomas understood that some things are inherited that have nothing to do with notebooks.
+
+Then he took her down to the cold room.
+
+He opened the heavy door and the chilled air came out, cold and silver, and the long aisles of sleeved glass ran back into the dim, a hundred years of arriving light, and Liane stood in the doorway and did the thing everyone did, the involuntary tilt of the head, the silence.
+
+He took her to the shelf where plate VR-1970-0114 stood in its sleeve, scanned now, safe now, its evidence read and published and its star named for her mother. He did not take it out — it was acclimated for the cold, and there was no need; the work was done. He only put his hand near it, the way you indicate a thing you revere without touching it.
+
+"This is it," he said. "This is the night. Her hand is on the glass — the circle, in grease pencil. It's the only place in the universe that holds those three nights. And it held them through fifty years of everyone forgetting, in the cold, in the dark, waiting." He looked at Ada's daughter. "She told my generation that the only thing the observatory was really buying from any of us was attention. She paid more of it than anyone who ever worked here. And it's all still here, Liane. In the grain. It was never lost. It was just unread."
+
+Liane put her own hand near the sleeve, not touching, beside his.
+
+"Thank you for reading it," she said.
+
+
+Chapter 50: The Long Exposure
+
+On the last morning Tomas climbed the road for the last time, alone, the way he had climbed it forty years and on the morning the sale closed, and his hands knew the turns and he let them, and he did not think about much at all.
+
+The crates were gone. The instruments, the library, the archive — all of it had been packed and trucked down the mountain to its four institutions, the plates riding in climate-controlled cold, every one of them scanned now, every night of a century preserved twice over, in the original glass and in the data that Sable had made, so that whatever happened to any single crate the light was safe. The dome was empty. The telescope still stood at the zenith, parked as the manual said, its work done, the great mirror cooling toward whatever future the new owners had bought it for.
+
+Sable was waiting in the lot, her car packed, ready to drive down for the last time. She had a hard drive in her hand, and she held it out to him.
+
+"The complete scan," she said. "Forty thousand plates. A hundred years of sky. Mireu's Star is in there, the three nights, at full resolution, with the circle." She put it in his hands. "I made you a copy. The institutions have theirs. But this one's yours. So that whatever else happens, the man who kept it lit has the whole archive in his pocket."
+
+Tomas held it. It weighed almost nothing. A hundred years of arriving light, a century of attention paid in the cold, the discovery they had nearly let go into four crates, all of it in a thing the size of a book.
+
+"I spent forty years coming up this road to keep a light on," he said, "and most of them I was keeping the wrong thing in the dark." He closed his hand around the drive. "You came up it for six weeks and you read the one plate that mattered."
+
+"I scanned it," Sable said. "You read it. You'd been not-reading it your whole life, and then you read it." She got into her car. "That's not nothing, Mr. Reye. That's the whole job. You told me that the first week, about her. The only thing the place was ever really buying was attention." She started the engine. "You paid it. Late. But you paid it."
+
+She drove down the switchbacks, and he watched her go until the road took her, and then he stood a while in the empty lot with the dome dark behind him and the valley spread out below in the clear autumn light, and the drive in his pocket, and a star with her name on it nine hundred light-years out and still, somewhere, arriving.
+
+Then he locked the door, and left the keys for the new owners, and walked down to his car, and drove off the mountain for the last time, carrying the light he had failed once and finally, fully, delivered.

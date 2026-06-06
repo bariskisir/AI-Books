@@ -1,0 +1,38 @@
+{
+  "title": "The Velvet Underground",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Music Fiction",
+  "subgenre": "Lost Media Mystery",
+  "language": "en",
+  "short_description": "A cassette tape found in a thrift store contains an unreleased album by a band that never existed — and a map to where they disappeared.",
+  "long_description": "Music journalist Ella discovers a cassette tape in a thrift store. The music on it is extraordinary — a full unreleased album by a band called The Velvet Underground, except no such band appears in any music history book, database, or archive. With the help of sound engineer Milo, Ella uncovers a map encoded in the tape's subsonic frequencies — a map that leads to the place where the band vanished forty years ago. As she follows the trail through abandoned venues, sealed fire reports, and cryptic messages from a figure known only as The Archivist, Ella uncovers a murder, a fire, and a choice: reveal the truth or protect the people who have spent decades hiding from it.",
+  "main_characters": [
+    "Ella — A music journalist specializing in lost recordings and forgotten artists. She finds the cassette and follows the trail to its end.",
+    "Milo — A sound engineer who runs a small mastering studio. He analyzes the tape and helps decode its hidden layers.",
+    "Elena Vasquez / The Archivist — The sound engineer for Eclipse Sound Studios. She saved the band from a fire and has protected their secret for forty years.",
+    "Sol / David Weiss — The guitarist of The Velvet Underground. The only surviving member willing to be found.",
+    "Julian — The singer and songwriter of The Velvet Underground. Her voice is preserved on the tape."
+  ],
+  "keywords": [
+    "music fiction",
+    "lost media",
+    "cassette tape",
+    "music journalism",
+    "mystery",
+    "1980s",
+    "recording studio",
+    "vanished band",
+    "sound engineer",
+    "music history",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Velvet_Underground/txt/The_Velvet_Underground.txt",
+  "EPUB_path": "books/The_Velvet_Underground/epub/The_Velvet_Underground.epub",
+  "cover_path": "books/The_Velvet_Underground/covers/The_Velvet_Underground.png",
+  "outline_path": "books/The_Velvet_Underground/planning/The_Velvet_Underground_outline.md",
+  "cover_script_path": "books/The_Velvet_Underground/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

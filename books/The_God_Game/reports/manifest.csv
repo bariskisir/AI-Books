@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+The_God_Game/planning/The_God_Game_outline.md,1214,text/markdown,deepseek-v4-flash
+The_God_Game/txt/The_God_Game.txt,69970,text/plain,deepseek-v4-flash
+The_God_Game/metadata/The_God_Game_metadata.json,1137,application/json,deepseek-v4-flash
+The_God_Game/covers/The_God_Game.png,60195,image/png,deepseek-v4-flash
+The_God_Game/epub/The_God_Game.epub,172809,application/epub+zip,deepseek-v4-flash
+The_God_Game/tools/create_cover.py,7858,text/x-python,deepseek-v4-flash
+The_God_Game/tools/build_epub.py,7659,text/x-python,deepseek-v4-flash
+The_God_Game/README.md,252,text/markdown,deepseek-v4-flash
+The_God_Game/reports/final_report.md,1460,text/markdown,deepseek-v4-flash
+The_God_Game/reports/manifest.csv,520,text/csv,deepseek-v4-flash
+The_God_Game/reports/progress.md,27,text/markdown,deepseek-v4-flash

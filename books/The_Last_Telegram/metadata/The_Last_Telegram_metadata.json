@@ -1,0 +1,35 @@
+{
+  "title": "The Last Telegram",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Historical Literary Fiction",
+  "language": "en",
+  "short_description": "A literary fiction novel set in 1944 about a Wren decoder who decodes telegrams revealing the fate of the man she loves before she meets him.",
+  "long_description": "In November 1944, Rose Clayton, a twenty-two-year-old Wren decoder at a remote Royal Navy signals station on the south coast of England, decodes the daily stream of encrypted telegrams that track every ship, submarine, and casualty of the Atlantic war. When she begins piecing together the fragmentary signals concerning a damaged destroyer, HMS Archer, she grows obsessed with the crew's fate, particularly that of Lieutenant D. Davies, a wounded officer whose name recurs in the signals.\n\nBefore she ever lays eyes on Davies, she decodes the telegram that announces his destroyer has been sunk with all hands. She grieves a man she has never met. Weeks later, when a man named Davies arrives at the station as the new signals officer, Rose must reconcile the dead man she read about with the living one who stands before her.\n\nThe Last Telegram is a spare, literary novel about the gap between information and truth, the strange intimacy of war, and the courage required to love someone you have already mourned.",
+  "main_characters": [
+    "Rose Clayton",
+    "Lieutenant David Davies",
+    "Commander Phillip Bryce",
+    "Mabel Finch",
+    "Alice Weaver"
+  ],
+  "keywords": [
+    "literary fiction",
+    "historical fiction",
+    "World War II",
+    "Wrens",
+    "Bletchley",
+    "telegrams",
+    "signals intelligence",
+    "romance",
+    "wartime",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Last_Telegram/txt/The_Last_Telegram.txt",
+  "EPUB_path": "books/The_Last_Telegram/epub/The_Last_Telegram.epub",
+  "cover_path": "books/The_Last_Telegram/covers/The_Last_Telegram.png",
+  "outline_path": "books/The_Last_Telegram/planning/The_Last_Telegram_outline.md",
+  "cover_script_path": "books/The_Last_Telegram/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

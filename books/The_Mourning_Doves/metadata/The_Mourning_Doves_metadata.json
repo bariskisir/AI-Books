@@ -1,0 +1,32 @@
+{
+  "title": "The Mourning Doves",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Gothic Romance",
+  "subgenre": "Gothic Romance",
+  "language": "en",
+  "short_description": "A young widow returns to her late husband's crumbling Cornish estate where she must confront his ghost, a cursed artifact, and the truth of his death.",
+  "long_description": "After the sudden death of her husband Elias, young widow Eleanor Morwen travels to his remote Cornish estate, Penhallow Grange, to settle his affairs. The crumbling manor clings to the cliffs, haunted by more than memories. Her cold mother-in-law Lady Morwen greets her with suspicion, the brooding groundskeeper Mr. Graves speaks in warnings, and the locked study holds secrets Elias took to his grave.\n\nAs Eleanor searches for answers, she uncovers a hidden cargo salvaged from a shipwreck, a carved dove of dark power that seems to hold the souls of those who possess it, and a ghost that walks the halls at night. The deeper she digs, the more she realizes that Elias's death was no accident, and that the truth he died protecting may destroy everyone left behind.\n\nHaunted by footsteps in empty corridors and the recurring presence of mourning doves at her window, Eleanor must confront not only the supernatural forces at play but her own grief and guilt. In a story of love, betrayal, and redemption, she discovers that some secrets are better left buried, and that the only way forward is through the fire.",
+  "main_characters": [
+    "Eleanor Morwen",
+    "Mr. Graves",
+    "Lady Morwen",
+    "Elias Morwen"
+  ],
+  "keywords": [
+    "gothic romance",
+    "Cornwall",
+    "ghost story",
+    "haunted house",
+    "supernatural",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Mourning_Doves/txt/The_Mourning_Doves.txt",
+  "EPUB_path": "books/The_Mourning_Doves/epub/The_Mourning_Doves.epub",
+  "cover_path": "books/The_Mourning_Doves/covers/The_Mourning_Doves.png",
+  "outline_path": "books/The_Mourning_Doves/planning/The_Mourning_Doves_outline.md",
+  "cover_script_path": "books/The_Mourning_Doves/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

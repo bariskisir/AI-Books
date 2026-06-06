@@ -1,0 +1,31 @@
+{
+  "title": "The Burden of Proof",
+  "number": 14,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Legal Thriller",
+  "subgenre": "Courtroom drama / Investigation",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "A defense attorney takes on an impossible case — his client confessed, the evidence is overwhelming, and he believes she is innocent.",
+  "long_description": "Leo Alder has never lost a case he believed in. But the State v. Mara Velez is different: his client confessed on video, her fingerprints are on the weapon, and every piece of physical evidence places her at the scene of a murder she swears she did not commit. As Alder digs deeper, he discovers a conspiracy that reaches into the prosecutor's office, the police evidence room, and a cold case from twelve years ago that someone has gone to great lengths to bury. The Burden of Proof is a tightly-plotted legal thriller about the difference between evidence and truth, and the price of believing your client when no one else does.",
+  "main_characters": [
+    "Leo Alder",
+    "Mara Velez",
+    "ADA Patricia Chen",
+    "Detective Frank Orbach"
+  ],
+  "keywords": [
+    "legal thriller",
+    "courtroom drama",
+    "investigation",
+    "conspiracy",
+    "wrongful conviction"
+  ],
+  "TXT_path": "books/The_Burden_of_Proof/txt/The_Burden_of_Proof.txt",
+  "cover_path": "books/The_Burden_of_Proof/covers/The_Burden_of_Proof.png",
+  "EPUB_path": "books/The_Burden_of_Proof/epub/The_Burden_of_Proof.epub",
+  "word_count": 13733,
+  "status": "complete_txt_epub_available"
+}

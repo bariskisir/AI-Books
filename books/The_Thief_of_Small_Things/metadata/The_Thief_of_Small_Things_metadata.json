@@ -1,0 +1,37 @@
+{
+  "title": "The Thief of Small Things",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Quirky Fiction",
+  "subgenre": "Magical Realism",
+  "language": "en",
+  "short_description": "A woman who can only steal intangible things must steal back her dying mother's will to live.",
+  "long_description": "Lena has a peculiar gift: she can steal memories, talents, luck, and emotions from anyone she touches. But she cannot steal physical objects, and she cannot regift what she takes. For years she has lived by a careful set of rules, taking only small things from people who can afford to lose them. But when her mother falls into a mysterious wasting illness — a slow fading of the spirit that no doctor can explain — Lena discovers that the one thing her mother needs most is the one thing she cannot take. The will to live cannot be stolen. It can only be given. Desperate, Lena enters the orbit of The Collector, a man who runs a hidden trade in stolen intangibles from a warehouse full of bottled emotions and preserved memories. He offers Lena a dangerous bargain: help him acquire a rare memory, and he will tell her how to save her mother. But every deal with The Collector comes at a cost, and Lena must decide how much of herself she is willing to trade for a chance to keep her mother alive. Set in the quiet French village of Marcheux and the shadowy corridors of The Collector's Inventory, The Thief of Small Things is a story about love, loss, and the impossible mathematics of the human heart — where nothing can be taken without leaving a mark, and nothing can be given without changing the giver.",
+  "main_characters": [
+    "Lena — A woman in her early thirties who can steal intangible things: memories, talents, luck, emotions. She has built a quiet life on small thefts, but her mother's illness forces her to confront the limits of her gift.",
+    "Mama — Lena's mother, a warm woman who runs a curio shop in Marcheux. She is fading from a mysterious condition that drains her will to live, unaware of her daughter's secret.",
+    "The Collector — A mysterious man who runs a warehouse of stolen intangibles. Cold, patient, and fascinated by Lena's unique limitation, he offers knowledge in exchange for pieces of her soul."
+  ],
+  "keywords": [
+    "quirky fiction",
+    "magical realism",
+    "intangible theft",
+    "mother-daughter relationship",
+    "will to live",
+    "memory",
+    "bargains",
+    "small town france",
+    "grief and loss",
+    "redemption",
+    "the collector",
+    "lena",
+    "emotional heist"
+  ],
+  "TXT_path": "books/The_Thief_of_Small_Things/txt/The_Thief_of_Small_Things.txt",
+  "EPUB_path": "books/The_Thief_of_Small_Things/epub/The_Thief_of_Small_Things.epub",
+  "cover_path": "books/The_Thief_of_Small_Things/covers/The_Thief_of_Small_Things.png",
+  "outline_path": "books/The_Thief_of_Small_Things/planning/The_Thief_of_Small_Things_outline.md",
+  "status": "complete_txt_epub_available",
+  "chapters": 50,
+  "word_count_target": 15000
+}

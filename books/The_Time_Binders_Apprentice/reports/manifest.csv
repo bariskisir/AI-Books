@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+The_Time_Binders_Apprentice/planning/The_Time_Binders_Apprentice_outline.md,text,outline,deepseek-v4-flash
+The_Time_Binders_Apprentice/txt/The_Time_Binders_Apprentice.txt,text,manuscript,deepseek-v4-flash
+The_Time_Binders_Apprentice/metadata/The_Time_Binders_Apprentice_metadata.json,json,metadata,deepseek-v4-flash
+The_Time_Binders_Apprentice/tools/create_cover.py,python,cover_script,deepseek-v4-flash
+The_Time_Binders_Apprentice/covers/The_Time_Binders_Apprentice.png,png,cover_image,deepseek-v4-flash
+The_Time_Binders_Apprentice/tools/build_epub.py,python,build_script,deepseek-v4-flash
+The_Time_Binders_Apprentice/epub/The_Time_Binders_Apprentice.epub,epub,ebook,deepseek-v4-flash
+The_Time_Binders_Apprentice/README.md,text,readme,deepseek-v4-flash
+The_Time_Binders_Apprentice/reports/final_report.md,text,report,deepseek-v4-flash
+The_Time_Binders_Apprentice/reports/manifest.csv,csv,manifest,deepseek-v4-flash
+The_Time_Binders_Apprentice/reports/progress.md,text,progress,deepseek-v4-flash

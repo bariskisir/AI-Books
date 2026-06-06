@@ -1,0 +1,12 @@
+path,type,size_bytes,model
+The_Last_Hunt/planning/The_Last_Hunt_outline.md,text/markdown,2200,deepseek-v4-flash
+The_Last_Hunt/txt/The_Last_Hunt.txt,text/plain,42600,deepseek-v4-flash
+The_Last_Hunt/epub/The_Last_Hunt.epub,application/epub+zip,217095,deepseek-v4-flash
+The_Last_Hunt/covers/The_Last_Hunt.png,image/png,97628,deepseek-v4-flash
+The_Last_Hunt/metadata/The_Last_Hunt_metadata.json,application/json,1250,deepseek-v4-flash
+The_Last_Hunt/tools/build_epub.py,text/x-python,8300,deepseek-v4-flash
+The_Last_Hunt/tools/create_cover.py,text/x-python,5700,deepseek-v4-flash
+The_Last_Hunt/README.md,text/markdown,800,deepseek-v4-flash
+The_Last_Hunt/reports/final_report.md,text/markdown,1000,deepseek-v4-flash
+The_Last_Hunt/reports/manifest.csv,text/csv,650,deepseek-v4-flash
+The_Last_Hunt/reports/progress.md,text/markdown,300,deepseek-v4-flash

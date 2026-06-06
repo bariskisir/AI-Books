@@ -1,0 +1,12 @@
+path,type,size_bytes,model
+The_Silk_Road_Deception/planning/The_Silk_Road_Deception_outline.md,markdown,4566,deepseek-v4-flash
+The_Silk_Road_Deception/txt/The_Silk_Road_Deception.txt,text,65472,deepseek-v4-flash
+The_Silk_Road_Deception/metadata/The_Silk_Road_Deception_metadata.json,json,1214,deepseek-v4-flash
+The_Silk_Road_Deception/covers/The_Silk_Road_Deception.png,png,140619,deepseek-v4-flash
+The_Silk_Road_Deception/epub/The_Silk_Road_Deception.epub,epub,262346,deepseek-v4-flash
+The_Silk_Road_Deception/tools/create_cover.py,python,6575,deepseek-v4-flash
+The_Silk_Road_Deception/tools/build_epub.py,python,6105,deepseek-v4-flash
+The_Silk_Road_Deception/README.md,markdown,380,deepseek-v4-flash
+The_Silk_Road_Deception/reports/final_report.md,markdown,1837,deepseek-v4-flash
+The_Silk_Road_Deception/reports/manifest.csv,csv,584,deepseek-v4-flash
+The_Silk_Road_Deception/reports/progress.md,markdown,33,deepseek-v4-flash

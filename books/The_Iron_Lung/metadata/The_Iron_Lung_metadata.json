@@ -1,0 +1,36 @@
+{
+  "title": "The Iron Lung",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Medical Drama",
+  "subgenre": "Historical Medical Fiction",
+  "language": "en",
+  "short_description": "A nurse in a 1950s polio ward fights to keep her patients alive in iron lungs while a doctor with a secret experimental treatment watches.",
+  "long_description": "Polio summer of 1952. Nurse Elinor Chase tends the iron lung ward at Saint Catherine's Hospital, a room of breathing machines and paralyzed bodies. When Dr. Henry Keller arrives with a secret experimental treatment and promises of a cure, he disrupts the careful rhythm of the ward. Young Tommy Beldon, twelve years old and trapped in an iron lung, becomes the test case.\n\nAs Keller pushes for results and the hospital administration bends to pressure, Elinor must decide whether to trust a man who sees patients as data points or cling to the slow, grim work of keeping them alive one breath at a time. The consequences of the experiment ripple through the ward, changing lives forever. A story of medical ethics, human hope, and the machines that both trap and sustain us.",
+  "main_characters": [
+    "Elinor Chase",
+    "Dr. Henry Keller",
+    "Tommy Beldon",
+    "Sister Margaret Burke",
+    "Dr. William Chen",
+    "Ruth Beldon"
+  ],
+  "keywords": [
+    "polio",
+    "iron lung",
+    "1950s",
+    "medical drama",
+    "hospital",
+    "experimental treatment",
+    "nurse",
+    "epidemic",
+    "Salk vaccine",
+    "medical ethics",
+    "historical fiction"
+  ],
+  "TXT_path": "books/The_Iron_Lung/txt/The_Iron_Lung.txt",
+  "EPUB_path": "books/The_Iron_Lung/epub/The_Iron_Lung.epub",
+  "cover_path": "books/The_Iron_Lung/covers/The_Iron_Lung.png",
+  "COVER_path": "books/The_Iron_Lung/covers/The_Iron_Lung.png",
+  "status": "complete_txt_epub_available"
+}

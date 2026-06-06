@@ -1,0 +1,42 @@
+{
+  "title": "The Eighth Summit",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Mountaineering Drama",
+  "subgenre": "High-Altitude Survival / Literary Adventure",
+  "language": "en",
+  "short_description": "A decade after a Himalayan peak killed her partner, a renowned climber returns with an expedition that is not what it seems, and a storm near the summit forces impossible choices.",
+  "long_description": "Ten years after a storm on the Himalayan peak Khumri killed her climbing partner Jonas, the renowned alpinist Vera Sorensen accepts an invitation to return — a small, well-funded expedition led by a charismatic stranger and bankrolled by a gear company with reasons of its own. Vera climbs seven of the world's highest mountains and turned her back on this eighth one for a decade. Now she walks back into the thin air to set down a grief she has carried too long.\n\nAs the team works up the mountain, Vera learns the expedition is a trap built of incentives: a 'documentary' that is really a product verification, a summit deadline tied to a launch date rather than the weather, an unproven heating suit that fails in the cold, and a young teammate whose father fixed the rope that killed Jonas. When the storm arrives a day early and pins the climbers near the top, old guilt, the sponsor's hidden agenda, and the brutal arithmetic of altitude force a series of impossible choices about who can move, who must be carried, and who is brought down alive.\n\nThe Eighth Summit is a cold, exact, physical novel about guilt, the economics of risk, and the only lesson the mountain teaches — that the summit gives no credit, and the return is everything. Restrained on the deaths, grief over spectacle, the mountain itself a character that does not care.",
+  "main_characters": [
+    "Vera Sorensen — Renowned alpinist, forty-six, who returns to the peak that killed her partner a decade ago",
+    "Daniel Quayle — Charismatic expedition leader, paid by the sponsor to deliver a summit by a date",
+    "Tenzin Norgyel — Lead sirdar who was with Jonas when he died and carries his own grief",
+    "Mara Lindqvist — Producer who is really verifying a product for the sponsor, untrained for the height",
+    "Owen Reyes — Ambitious young climber whose father ran the expedition that fixed the fatal rope",
+    "Priya Anand — Blunt expedition doctor, the team's conscience on the math of survival",
+    "Jonas Holt — Vera's partner, dead ten years on the summit ridge, present in memory",
+    "Aerolex — The sponsor, a gear company testing an unproven cold-weather suit it must launch"
+  ],
+  "keywords": [
+    "mountaineering",
+    "high altitude",
+    "himalaya",
+    "survival",
+    "climbing",
+    "expedition",
+    "storm",
+    "grief",
+    "literary adventure",
+    "death zone",
+    "alpinism",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Eighth_Summit/txt/The_Eighth_Summit.txt",
+  "EPUB_path": "books/The_Eighth_Summit/epub/The_Eighth_Summit.epub",
+  "cover_path": "books/The_Eighth_Summit/covers/The_Eighth_Summit.png",
+  "outline_path": "books/The_Eighth_Summit/planning/The_Eighth_Summit_outline.md",
+  "cover_script_path": "books/The_Eighth_Summit/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

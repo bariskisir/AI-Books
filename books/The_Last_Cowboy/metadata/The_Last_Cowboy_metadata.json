@@ -1,0 +1,36 @@
+{
+  "title": "The Last Cowboy",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Contemporary Western",
+  "subgenre": "Literary Fiction",
+  "language": "en",
+  "short_description": "An aging rodeo champion takes one last bull ride to save his son's ranch from a casino developer.",
+  "long_description": "Wes Hardin was a rodeo champion once. Now he is sixty-seven years old, living on a dying ranch in the dying town of Pinyon, Nevada. His son Sonny inherited the land and a mountain of debt. When casino developer Marcus Webb arrives with an offer to buy the ranch, Sonny refuses, but the numbers do not lie. The bank is calling. The town is fading. The ranch is slipping away.\n\nThen Wes sees a flyer for the Silver State Rodeo in Winnemucca. Forty thousand dollars to the winner of the bull riding. He has not been on a bull in twenty years. His body is held together with scar tissue and stubbornness. But he knows bulls. He knows the weight, the spin, the whistle.\n\nOne ride. Eight seconds. That is all it would take.\n\nSet against the stark beauty of the Nevada high desert, The Last Cowboy is a spare, powerful story about pride, sacrifice, and the things a man will do for his family when there is nothing left to lose.",
+  "main_characters": [
+    "Wes Hardin — aging rodeo champion, former PRCA bull rider, proud and stubborn",
+    "Sonny Hardin — Wes's son, practical and tired, trying to save the family ranch",
+    "Lena — Sonny's wife, grounded and pragmatic",
+    "Marcus Webb — the casino developer, polished and patient",
+    "Dale Parsons — Wes's old rodeo partner, owns the Pinyon Feed & Grain"
+  ],
+  "keywords": [
+    "rodeo",
+    "bull riding",
+    "Nevada",
+    "ranch",
+    "father-son",
+    "contemporary western",
+    "casino development",
+    "aging",
+    "redemption",
+    "small town",
+    "family legacy"
+  ],
+  "TXT_path": "books/The_Last_Cowboy/txt/The_Last_Cowboy.txt",
+  "EPUB_path": "books/The_Last_Cowboy/epub/The_Last_Cowboy.epub",
+  "cover_path": "books/The_Last_Cowboy/covers/The_Last_Cowboy.png",
+  "status": "complete_txt_epub_available",
+  "chapter_count": 50,
+  "word_count": 10001
+}

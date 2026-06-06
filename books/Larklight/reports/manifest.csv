@@ -1,0 +1,2 @@
+title,TXT path,EPUB path,metadata path,target word count,current word count,chapters planned,chapters drafted,status,model
+Larklight,Larklight/txt/Larklight.txt,Larklight/epub/Larklight.epub,Larklight/metadata/Larklight_metadata.json,33000,32950,50,50,complete_txt_epub_available,deepseek-v4-flash

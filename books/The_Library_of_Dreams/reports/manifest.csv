@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Library_of_Dreams/planning/The_Library_of_Dreams_outline.md,,markdown,deepseek-v4-flash
+The_Library_of_Dreams/txt/The_Library_of_Dreams.txt,,text,deepseek-v4-flash
+The_Library_of_Dreams/metadata/The_Library_of_Dreams_metadata.json,,,deepseek-v4-flash
+The_Library_of_Dreams/tools/create_cover.py,,python,deepseek-v4-flash
+The_Library_of_Dreams/covers/The_Library_of_Dreams.png,64995,png,deepseek-v4-flash
+The_Library_of_Dreams/tools/build_epub.py,,python,deepseek-v4-flash
+The_Library_of_Dreams/epub/The_Library_of_Dreams.epub,189406,epub,deepseek-v4-flash
+The_Library_of_Dreams/README.md,,markdown,deepseek-v4-flash
+The_Library_of_Dreams/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Library_of_Dreams/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Library_of_Dreams/reports/progress.md,,markdown,deepseek-v4-flash

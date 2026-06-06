@@ -1,0 +1,42 @@
+{
+  "title": "The Last Silk Dress",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Gilded Age Fiction",
+  "subgenre": "Historical Fiction",
+  "language": "en",
+  "short_description": "A seamstress in 1890s New York makes dresses for the Astors while secretly running an underground railroad for women escaping abusive marriages.",
+  "long_description": "New York City, 1895. Evelyn Chase is a gifted seamstress stitching gowns for Caroline Astor's inner circle, but she leads a double life. By day she measures hems and pins silk for the Four Hundred; by night she runs a secret network helping women escape abusive marriages. When Annie Fletcher, a young bride fleeing a violent industrialist husband, arrives at Evelyn's workroom door, the two women must navigate the treacherous lines between New York's glittering ballrooms and its shadowy backstreets.\n\nAs Evelyn's underground railroad grows, Mrs. Astor's patronage becomes both a shield and a trap. Edward Fletcher, Annie's husband, hires detectives and posts rewards, turning the city into a trap. Evelyn must balance the demands of her society clients with the desperate needs of the women who arrive at her door, each with a story of cruelty and survival.\n\nA single torn silk dress at the Patriarchs' Ball threatens to unravel everything. But Evelyn discovers unexpected allies in unexpected places, including the most powerful woman in New York. The Last Silk Dress is a story of courage, solidarity, and the quiet revolution of women helping women in a world that denies them power.",
+  "main_characters": [
+    "Evelyn Chase — A seamstress in her early thirties who inherited her mother's sewing skills and a hidden network of safe houses",
+    "Mrs. Caroline Astor — The self-appointed queen of New York society who controls guest lists and reputations",
+    "Annie Fletcher — A young woman who escapes her abusive husband and becomes Evelyn's assistant and accomplice",
+    "Edward Fletcher — Annie's husband, a wealthy industrialist who will stop at nothing to get her back",
+    "Maeve O'Donnell — An Irish laundress who runs a boarding house serving as the first stop on Evelyn's network",
+    "Mr. Alistair Vance — Mrs. Astor's personal secretary, who suspects Evelyn's secret activities",
+    "Margaret Hale — One of the first women admitted to the New York bar, who helps Annie seek a divorce"
+  ],
+  "keywords": [
+    "gilded age",
+    "historical fiction",
+    "new york city",
+    "1890s",
+    "seamstress",
+    "women's rights",
+    "domestic abuse",
+    "underground railroad",
+    "society",
+    "astors",
+    "divorce",
+    "victorian era",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Last_Silk_Dress/txt/The_Last_Silk_Dress.txt",
+  "EPUB_path": "books/The_Last_Silk_Dress/epub/The_Last_Silk_Dress.epub",
+  "cover_path": "books/The_Last_Silk_Dress/covers/The_Last_Silk_Dress.png",
+  "outline_path": "books/The_Last_Silk_Dress/planning/The_Last_Silk_Dress_outline.md",
+  "cover_script_path": "books/The_Last_Silk_Dress/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

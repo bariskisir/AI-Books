@@ -1,0 +1,36 @@
+{
+  "title": "Dandelion Wine Summer",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Coming of Age",
+  "subgenre": "Historical Fiction",
+  "language": "en",
+  "short_description": "A coming of age novel set in rural Missouri, 1965.",
+  "long_description": "In the summer of 1965, eleven-year-old Benny discovers that a single season can hold a lifetime. Between helping his grandfather Tom brew the family's dandelion wine and navigating a new friendship with Clara, the girl next door, Benny learns about love, loss, and the strange way time speeds up when you want it to slow down.\n\nSet in the farming country of rural Missouri, this is the summer Benny stops being a boy who thinks summers last forever and becomes someone who knows they don't. Through the rhythms of winemaking, the thrill of childhood adventure, and the quiet heartbreak of goodbyes, Dandelion Wine Summer captures the moment when innocence gives way to understanding.\n\nWith spare, lyrical prose and vivid sensory detail, this novel follows Benny through the golden days of county fairs and swimming holes, through storms and fireflies, through the first stirrings of friendship and the final lessons of a beloved grandfather. It is a story about paying attention to the small things before they are gone.",
+  "main_characters": [
+    "Benny",
+    "Grandpa Tom",
+    "Clara",
+    "Grandma Helen",
+    "Frank (Benny's father)",
+    "Margaret (Benny's mother)"
+  ],
+  "keywords": [
+    "coming of age",
+    "1960s Missouri",
+    "dandelion wine",
+    "rural america",
+    "family",
+    "loss",
+    "childhood friendship",
+    "historical fiction",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/Dandelion_Wine_Summer/txt/Dandelion_Wine_Summer.txt",
+  "EPUB_path": "books/Dandelion_Wine_Summer/epub/Dandelion_Wine_Summer.epub",
+  "cover_path": "books/Dandelion_Wine_Summer/covers/Dandelion_Wine_Summer.png",
+  "outline_path": "books/Dandelion_Wine_Summer/planning/Dandelion_Wine_Summer_outline.md",
+  "cover_script_path": "books/Dandelion_Wine_Summer/tools/create_cover.py",
+  "status": "complete_txt_epub_available",
+  "word_count": 11857
+}

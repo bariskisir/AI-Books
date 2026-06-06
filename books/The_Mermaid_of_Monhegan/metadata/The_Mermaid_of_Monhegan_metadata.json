@@ -1,0 +1,44 @@
+{
+  "title": "The Mermaid of Monhegan",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Coastal Literary",
+  "language": "en",
+  "description": "A marine biologist on a remote Maine island discovers a creature that should not exist—and must protect it from those who would exploit it.",
+  "long_description": "Dr. Isabel Wells, a marine biologist grieving a drowned colleague, takes a summer position on Monhegan Island, Maine. There she discovers a relict population of aquatic humanoids—creatures of legend made flesh. When a biotech corporation learns of her discovery, Wells must choose between scientific revelation and the protection of a species that trusts her. A spare, literary novel about wonder, loss, and the cost of knowledge.",
+  "characters": {
+    "Dr. Isabel Wells": "Marine biologist, 38, grieving and guarded",
+    "Ezra Pridham": "Monhegan fisherman, 62, keeper of island secrets",
+    "Marcus Killian": "VP of Aethelon Biosciences, ruthless corporate executive",
+    "Dr. Lena Orloff": "Aethelon staff scientist with a troubled conscience",
+    "The Creature": "Young female mermaid, last of her kind"
+  },
+  "keywords": [
+    "mermaid",
+    "marine biology",
+    "Maine",
+    "Monhegan Island",
+    "coastal fiction",
+    "literary fiction",
+    "environmental fiction",
+    "discovery",
+    "conservation",
+    "mythical creatures"
+  ],
+  "paths": {
+    "manuscript": "books/The_Mermaid_of_Monhegan/txt/The_Mermaid_of_Monhegan.txt",
+    "epub": "books/The_Mermaid_of_Monhegan/epub/The_Mermaid_of_Monhegan.epub",
+    "cover": "books/The_Mermaid_of_Monhegan/covers/The_Mermaid_of_Monhegan.png",
+    "outline": "books/The_Mermaid_of_Monhegan/planning/The_Mermaid_of_Monhegan_outline.md",
+    "metadata": "books/The_Mermaid_of_Monhegan/metadata/The_Mermaid_of_Monhegan_metadata.json",
+    "tools": "books/The_Mermaid_of_Monhegan/tools/"
+  },
+  "status": "complete_txt_epub_available",
+  "chapters": 50,
+  "word_count": 10549,
+  "date_completed": "2026-06-03",
+  "subgenre": "Coastal Literary",
+  "short_description": "A marine biologist on Monhegan Island must protect a hidden aquatic species from scientific exploitation.",
+  "cover_path": "books/The_Mermaid_of_Monhegan/covers/The_Mermaid_of_Monhegan.png",
+  "EPUB_path": "books/The_Mermaid_of_Monhegan/epub/The_Mermaid_of_Monhegan.epub"
+}

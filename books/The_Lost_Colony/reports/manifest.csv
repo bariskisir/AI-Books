@@ -1,0 +1,12 @@
+File,Size (bytes),Description,model
+The_Lost_Colony/planning/The_Lost_Colony_outline.md,3301,50-chapter outline with premise and cast,deepseek-v4-flash
+The_Lost_Colony/txt/The_Lost_Colony.txt,58128,Complete manuscript (50 chapters),deepseek-v4-flash
+The_Lost_Colony/epub/The_Lost_Colony.epub,200299,EPUB 3 ebook,deepseek-v4-flash
+The_Lost_Colony/covers/The_Lost_Colony.png,628360,1600x2560 cover image,deepseek-v4-flash
+The_Lost_Colony/metadata/The_Lost_Colony_metadata.json,1494,Production metadata JSON,deepseek-v4-flash
+The_Lost_Colony/tools/build_epub.py,6990,EPUB build script,deepseek-v4-flash
+The_Lost_Colony/tools/create_cover.py,10281,PIL cover generation script,deepseek-v4-flash
+The_Lost_Colony/README.md,282,Book README,deepseek-v4-flash
+The_Lost_Colony/reports/final_report.md,1497,Final summary report,deepseek-v4-flash
+The_Lost_Colony/reports/manifest.csv,696,File manifest CSV,deepseek-v4-flash
+The_Lost_Colony/reports/progress.md,29,Chapter completion tracking,deepseek-v4-flash

@@ -1,0 +1,33 @@
+{
+  "title": "The Ghost of the Grand Hotel",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Haunted House",
+  "subgenre": "Ghost Story",
+  "language": "en",
+  "short_description": "A hotel historian staying at a fading grand hotel on Lake Geneva discovers that Room 307 connects to 1924 and a woman trapped in time.",
+  "long_description": "Claire Durand, a hotel historian specializing in Belle Epoque architecture, arrives at the Hotel du Lac on Lake Geneva to document its fading glory before a corporate renovation. Assigned to Room 307 -- a room that should not exist according to the floor plans -- she discovers that the antique mirror connects to the hotel as it was in 1924.\n\nMarguerite Delacroix has been waiting in that room for a century. A French socialite trapped in the night her lover was murdered, she relives the same evening on an endless loop. As Claire investigates the hotel archives and crosses between timelines, she uncovers a web of theft, cover-up, and a diamond necklace hidden in the walls for one hundred years.\n\nTo free Marguerite, Claire must uncover the truth about the shooting on the lakeside terrace -- and help Marguerite forgive herself for the moment she stood by and did nothing.",
+  "main_characters": [
+    "Claire Durand",
+    "The Night Porter (Jean-Luc)",
+    "Marguerite Delacroix"
+  ],
+  "keywords": [
+    "haunted hotel",
+    "Lake Geneva",
+    "time loop",
+    "1920s",
+    "ghost story",
+    "hotel historian",
+    "diamond necklace",
+    "murder mystery",
+    "historical fiction",
+    "supernatural",
+    "Belle Epoque",
+    "Room 307"
+  ],
+  "TXT_path": "books/The_Ghost_of_the_Grand_Hotel/txt/The_Ghost_of_the_Grand_Hotel.txt",
+  "EPUB_path": "books/The_Ghost_of_the_Grand_Hotel/epub/The_Ghost_of_the_Grand_Hotel.epub",
+  "cover_path": "books/The_Ghost_of_the_Grand_Hotel/covers/The_Ghost_of_the_Grand_Hotel.png",
+  "status": "complete_txt_epub_available"
+}

@@ -1,0 +1,12 @@
+file,size,sha256,model
+planning/The_Astronomers_Daughter_outline.md,,sha256,deepseek-v4-flash
+txt/The_Astronomers_Daughter.txt,,sha256,deepseek-v4-flash
+metadata/The_Astronomers_Daughter_metadata.json,,sha256,deepseek-v4-flash
+covers/The_Astronomers_Daughter.png,,sha256,deepseek-v4-flash
+epub/The_Astronomers_Daughter.epub,,sha256,deepseek-v4-flash
+tools/build_epub.py,,sha256,deepseek-v4-flash
+tools/create_cover.py,,sha256,deepseek-v4-flash
+README.md,,sha256,deepseek-v4-flash
+reports/final_report.md,,sha256,deepseek-v4-flash
+reports/manifest.csv,,sha256,deepseek-v4-flash
+reports/progress.md,,sha256,deepseek-v4-flash

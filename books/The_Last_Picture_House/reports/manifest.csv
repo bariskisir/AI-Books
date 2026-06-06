@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Last_Picture_House/planning/The_Last_Picture_House_outline.md,5663,markdown,deepseek-v4-flash
+The_Last_Picture_House/txt/The_Last_Picture_House.txt,69654,text,deepseek-v4-flash
+The_Last_Picture_House/metadata/The_Last_Picture_House_metadata.json,2364,json,deepseek-v4-flash
+The_Last_Picture_House/tools/create_cover.py,11261,python,deepseek-v4-flash
+The_Last_Picture_House/covers/The_Last_Picture_House.png,108771,png,deepseek-v4-flash
+The_Last_Picture_House/tools/build_epub.py,8287,python,deepseek-v4-flash
+The_Last_Picture_House/epub/The_Last_Picture_House.epub,229909,epub,deepseek-v4-flash
+The_Last_Picture_House/README.md,,markdown,deepseek-v4-flash
+The_Last_Picture_House/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Last_Picture_House/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Last_Picture_House/reports/progress.md,,markdown,deepseek-v4-flash

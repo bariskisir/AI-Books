@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Alchemists_Wife/planning/The_Alchemists_Wife_outline.md,,markdown,deepseek-v4-flash
+The_Alchemists_Wife/txt/The_Alchemists_Wife.txt,57563,text,deepseek-v4-flash
+The_Alchemists_Wife/metadata/The_Alchemists_Wife_metadata.json,,json,deepseek-v4-flash
+The_Alchemists_Wife/tools/create_cover.py,,python,deepseek-v4-flash
+The_Alchemists_Wife/covers/The_Alchemists_Wife.png,119732,png,deepseek-v4-flash
+The_Alchemists_Wife/tools/build_epub.py,,python,deepseek-v4-flash
+The_Alchemists_Wife/epub/The_Alchemists_Wife.epub,223971,epub,deepseek-v4-flash
+The_Alchemists_Wife/README.md,,markdown,deepseek-v4-flash
+The_Alchemists_Wife/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Alchemists_Wife/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Alchemists_Wife/reports/progress.md,,markdown,deepseek-v4-flash

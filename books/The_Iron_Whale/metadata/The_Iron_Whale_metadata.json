@@ -1,0 +1,42 @@
+{
+  "title": "The Iron Whale",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Submarine Thriller",
+  "subgenre": "Cold War Naval Suspense",
+  "language": "en",
+  "short_description": "In 1968, a crippled American submarine on a covert patrol must decide whether to suffocate in silence or surface into hostile Soviet waters.",
+  "long_description": "In the spring of 1968, the aging diesel-electric submarine USS Cuttlefish creeps to the edge of Soviet waters on a covert listening patrol, recording the acoustic signature of a new class of warship. The terms of the mission are absolute: hear everything, be heard by nothing. Then a fire breaks out in the after battery — close enough to the boat's shielded auxiliary unit to terrify a crew that does not fully trust their refit — and in a single black hour the Cuttlefish loses her radio, her trim, and her contact with command.\n\nTrapped three hundred feet down with a wounded captain, dwindling air, a failing battery, and hostile warships circling overhead, Executive Officer Daniel Reyes must hold a frightened crew together while the carbon dioxide climbs and the cold creeps in. Worse, two small acts of sabotage suggest there is a professional aboard who wants the boat to die quietly — and suspicion spreads through the hull like a second smoke. As the air runs out and a destroyer settles directly overhead, Reyes faces the only question left: stay silent and let the sea win, or surface into the guns of an enemy that must never know they were there.\n\nThe Iron Whale is a claustrophobic, procedural, deeply human thriller about pressure as both physics and psychology — about fear, command, and the oldest law of the sea, told with literary restraint and the steady tick of a hull under the weight of the deep.",
+  "main_characters": [
+    "Lt. Cmdr. Daniel Reyes — Executive officer who must take command and choose between the mission and the men",
+    "Cmdr. Walter Hale — The captain, gravely burned early in the casualty, whose orders become a question the boat must answer",
+    "Chief of the Boat Tom Garrity — The senior enlisted man, gruff and loyal, who steadies Reyes",
+    "Lt. Avery Cole — The young engineering officer who blames himself for the fire and jury-rigs the air",
+    "Sonarman First Class Eddie Mahon — The ears of the boat, who reads the surface no one else can hear",
+    "Doc Pruitt — The independent-duty corpsman fighting to keep the captain alive",
+    "Petty Officer Karl Brandt — A quiet electrician with a forged past on whom suspicion settles",
+    "Chief Auxiliaryman Joe Salas — Keeper of the air and water, who finds the second act of sabotage",
+    "Seaman Lewis Tran — The youngest aboard, a torpedoman striker who proves himself in the bilge"
+  ],
+  "keywords": [
+    "submarine thriller",
+    "cold war",
+    "naval suspense",
+    "1968",
+    "diesel-electric submarine",
+    "claustrophobic",
+    "sabotage",
+    "deep sea",
+    "military fiction",
+    "survival",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Iron_Whale/txt/The_Iron_Whale.txt",
+  "EPUB_path": "books/The_Iron_Whale/epub/The_Iron_Whale.epub",
+  "cover_path": "books/The_Iron_Whale/covers/The_Iron_Whale.png",
+  "outline_path": "books/The_Iron_Whale/planning/The_Iron_Whale_outline.md",
+  "cover_script_path": "books/The_Iron_Whale/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

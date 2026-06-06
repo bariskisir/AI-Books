@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Mermaid_of_Monhegan/planning/The_Mermaid_of_Monhegan_outline.md,6901,markdown,deepseek-v4-flash
+The_Mermaid_of_Monhegan/txt/The_Mermaid_of_Monhegan.txt,60762,text,deepseek-v4-flash
+The_Mermaid_of_Monhegan/metadata/The_Mermaid_of_Monhegan_metadata.json,1944,json,deepseek-v4-flash
+The_Mermaid_of_Monhegan/tools/create_cover.py,7070,python,deepseek-v4-flash
+The_Mermaid_of_Monhegan/covers/The_Mermaid_of_Monhegan.png,49463,png,deepseek-v4-flash
+The_Mermaid_of_Monhegan/tools/build_epub.py,8297,python,deepseek-v4-flash
+The_Mermaid_of_Monhegan/epub/The_Mermaid_of_Monhegan.epub,157087,epub,deepseek-v4-flash
+The_Mermaid_of_Monhegan/README.md,321,markdown,deepseek-v4-flash
+The_Mermaid_of_Monhegan/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Mermaid_of_Monhegan/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Mermaid_of_Monhegan/reports/progress.md,,markdown,deepseek-v4-flash

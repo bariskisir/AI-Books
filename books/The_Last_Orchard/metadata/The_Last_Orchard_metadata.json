@@ -1,0 +1,32 @@
+{
+  "title": "The Last Orchard",
+  "number": 13,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Post-Apocalyptic",
+  "subgenre": "Survival / Slow collapse",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "One orchard stands between a community and starvation — but the last harvest is guarded by something worse than drought.",
+  "long_description": "The collapse came quietly: crops failed first, then supply chains, then cities. Five years later, the survivors of a small farming collective tend the last producing orchard in three hundred miles. When a blight threatens the trees and a group of armed strangers appears on the ridge, the community must decide how far they will go to defend what remains. Told through the eyes of a father, his daughter, and the stranger who arrives with more questions than answers, The Last Orchard is a quiet, devastating novel about what survives after everything else is gone.",
+  "main_characters": [
+    "Thomas Cole",
+    "Wren Cole",
+    "The Stranger",
+    "Mara (community elder)"
+  ],
+  "keywords": [
+    "post-apocalyptic",
+    "survival",
+    "orchard",
+    "community",
+    "drought",
+    "slow collapse"
+  ],
+  "TXT_path": "books/The_Last_Orchard/txt/The_Last_Orchard.txt",
+  "cover_path": "books/The_Last_Orchard/covers/The_Last_Orchard.png",
+  "EPUB_path": "books/The_Last_Orchard/epub/The_Last_Orchard.epub",
+  "word_count": 16969,
+  "status": "complete_txt_epub_available"
+}

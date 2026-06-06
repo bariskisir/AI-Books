@@ -1,0 +1,35 @@
+{
+  "title": "The Clockwork Rabbi",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Fantasy",
+  "subgenre": "Historical Fantasy",
+  "language": "en",
+  "short_description": "In 16th century Prague a rabbi creates a golem to protect the Jewish quarter but the clockwork creature develops a soul.",
+  "long_description": "Prague, 1592. The Holy Roman Empire festers with religious violence. Blood libels threaten the Jewish ghetto. Rabbi Judah Loew ben Bezalel, the Maharal of Prague, has spent a lifetime studying the Kabbalistic secrets of creation. Now he must use them.\n\nWorking in the attic of the Altneuschul, Loew shapes a creature of clay and clockwork, animating it with the sacred Name of God. The Golem is meant to be a protector, a weapon of last resort. But something goes wrong in the forging. The creature awakens with a question: \"Why?\"\n\nAs Emperor Rudolf II, obsessed with alchemy and the occult, sets his sights on the Golem, and the Vatican sends an inquisitor to destroy it, Rabbi Loew must confront a terrible truth. He did not build a weapon. He built a son. And a son cannot be owned.\n\nThe Clockwork Rabbi is a story of faith and fatherhood, of souls in clay and gears, of the questions that arise when creation exceeds the creator's intent.",
+  "main_characters": [
+    "Rabbi Judah Loew ben Bezalel",
+    "Yossele (the Golem)",
+    "Emperor Rudolf II",
+    "Esther Loew",
+    "Gershom",
+    "Brother Vaclav"
+  ],
+  "keywords": [
+    "historical fantasy",
+    "golem",
+    "Prague",
+    "16th century",
+    "Kabbalah",
+    "Rabbi Loew",
+    "Rudolf II",
+    "Jewish fiction",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Clockwork_Rabbi/txt/The_Clockwork_Rabbi.txt",
+  "EPUB_path": "books/The_Clockwork_Rabbi/epub/The_Clockwork_Rabbi.epub",
+  "cover_path": "books/The_Clockwork_Rabbi/covers/The_Clockwork_Rabbi.png",
+  "outline_path": "books/The_Clockwork_Rabbi/planning/The_Clockwork_Rabbi_outline.md",
+  "cover_script_path": "books/The_Clockwork_Rabbi/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

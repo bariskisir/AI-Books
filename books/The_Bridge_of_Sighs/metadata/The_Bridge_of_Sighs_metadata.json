@@ -1,0 +1,34 @@
+{
+  "title": "The Bridge of Sighs",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Venetian Mystery",
+  "language": "en",
+  "series": "The_Bridge_of_Sighs",
+  "short_description": "A British art historian in Venice discovers a 500-year-old conspiracy hidden in the paintings of the Doge's Palace.",
+  "long_description": "Dr. Eleanor Chase, a British art historian specializing in Venetian Renaissance painting, arrives in Venice to authenticate a newly discovered Tintoretto sketch. She soon realizes the sketch contains a hidden code — a pentimento revealing a 500-year-old conspiracy buried within the official paintings of the Doge's Palace. The Doge's propaganda paintings were designed to glorify Venice, but beneath the gilded surface lies a systematic cover-up of a secret treaty, a murdered Doge, and a fortune in stolen gold. Commissario Bianchi of the Venetian art crimes unit and a mysterious restorer named Marco must help her uncover the truth before the conspirators silence her.",
+  "characters": [
+    "Dr. Eleanor Chase — British art historian, meticulous and intuitive",
+    "Commissario Paolo Bianchi — Venetian police, art crimes division",
+    "Marco Valieri — The Restorer, descendant of a Renaissance painter",
+    "Antonio Donato — Wealthy Venetian patron, head of the conspiracy",
+    "Elena Morosini — Archivista at the Venetian State Archives",
+    "Luca Ferrante — Donato's lieutenant and enforcer"
+  ],
+  "keywords": [
+    "Venice",
+    "art history",
+    "conspiracy",
+    "Tintoretto",
+    "Doge's Palace",
+    "Renaissance",
+    "mystery",
+    "pentimento",
+    "Council of Ten"
+  ],
+  "TXT_path": "books/The_Bridge_of_Sighs/txt/The_Bridge_of_Sighs.txt",
+  "EPUB_path": "books/The_Bridge_of_Sighs/epub/The_Bridge_of_Sighs.epub",
+  "cover_path": "books/The_Bridge_of_Sighs/covers/The_Bridge_of_Sighs.png",
+  "status": "complete_txt_epub_available",
+  "subgenre": "Venetian Mystery"
+}

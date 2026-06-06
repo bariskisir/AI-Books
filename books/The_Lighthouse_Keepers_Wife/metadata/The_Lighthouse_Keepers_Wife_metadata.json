@@ -1,0 +1,52 @@
+{
+  "title": "The Lighthouse Keeper's Wife",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Romance",
+  "language": "en",
+  "description": "In 1870, Isobel MacKenzie marries a lighthouse keeper on the remote Scottish rock of Sgeir Mhor. She arrives expecting a new beginning and finds instead a world of relentless sea, crushing isolation, and a husband whose years of solitude have turned him nearly mute. Through storms, winter, illness, and the ghosts of the past, she must learn to survive the elements and discover her own strength — or be broken by the silence of the sea.",
+  "long_description": "Scotland, 1870. When Isobel MacKenzie loses her father and her home in Edinburgh, she accepts a proposal from a man she has never met: Hamish Campbell, lighthouse keeper on the remote rock of Sgeir Mhor. She arrives to find a world stripped to its essentials—stone, sea, sky, and a man who has forgotten how to speak. As she learns to tend the lamp, bake bread in a difficult oven, and sit with a silence that stretches for days, Isobel begins to understand the tragedy that shaped her husband. Through the long winter and a near-fatal fever, through shipwreck and rescue, she must decide whether isolation will break her or whether she can build a life at the edge of the world.",
+  "characters": [
+    {
+      "name": "Isobel Campbell (nee MacKenzie)",
+      "description": "A twenty-eight-year-old woman from Edinburgh, orphaned and without prospects, who accepts a marriage of convenience and discovers unexpected strength in isolation."
+    },
+    {
+      "name": "Hamish Campbell",
+      "description": "A forty-two-year-old lighthouse keeper, widowed and silent, who has spent sixteen years on Sgeir Mhor and carries the guilt of his first wife's death."
+    },
+    {
+      "name": "The Sea",
+      "description": "A constant presence, character-like force that shapes every day on Sgeir Mhor."
+    }
+  ],
+  "keywords": [
+    "historical romance",
+    "Scotland",
+    "lighthouse",
+    "1870s",
+    "isolation",
+    "marriage of convenience",
+    "grief",
+    "redemption",
+    "the sea",
+    "Victorian era",
+    "Highlands",
+    "survival"
+  ],
+  "paths": {
+    "root": "The_Lighthouse_Keepers_Wife",
+    "manuscript": "books/The_Lighthouse_Keepers_Wife/txt/The_Lighthouse_Keepers_Wife.txt",
+    "cover": "books/The_Lighthouse_Keepers_Wife/covers/The_Lighthouse_Keepers_Wife.png",
+    "epub": "books/The_Lighthouse_Keepers_Wife/epub/The_Lighthouse_Keepers_Wife.epub",
+    "metadata": "books/The_Lighthouse_Keepers_Wife/metadata/The_Lighthouse_Keepers_Wife_metadata.json",
+    "outline": "books/The_Lighthouse_Keepers_Wife/planning/The_Lighthouse_Keepers_Wife_outline.md"
+  },
+  "status": "complete_txt_epub_available",
+  "word_count": 10394,
+  "chapter_count": 50,
+  "subgenre": "Historical Romance",
+  "short_description": "In 1870 Scotland, a marriage of convenience at a remote lighthouse becomes a test of grief, silence, and devotion.",
+  "cover_path": "books/The_Lighthouse_Keepers_Wife/covers/The_Lighthouse_Keepers_Wife.png",
+  "EPUB_path": "books/The_Lighthouse_Keepers_Wife/epub/The_Lighthouse_Keepers_Wife.epub"
+}

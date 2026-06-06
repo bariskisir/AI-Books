@@ -1,0 +1,33 @@
+{
+  "title": "The Ash Garden",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Historical literary fiction / Post-internment drama",
+  "language": "en",
+  "short_description": "A Japanese-American woman returns to her California farm after internment to find a stranger living in her home.",
+  "long_description": "In December 1944, Rosa Tanaka steps off a Greyhound bus in Bakersfield, California, carrying nothing but a suitcase and a key to a house she has not seen in two years. Released from the Gila River internment camp after the death of both her parents, she returns to the family farm only to find it occupied by Henry Calloway, a disabled war veteran who was granted a county lease under the Alien Land Laws.\n\nWhat follows is a quiet battle of wills and consciences. Rosa takes her case to court with the reluctant help of Judge Morrison, the same judge who signed the property seizure orders during the war. Henry must confront the uncomfortable truth that the land he was given as a reward for service was taken from a family who had served before him. And Judge Morrison must reckon with the signatures he placed on papers he never read.\n\nThe Ash Garden is a story about what we owe to strangers, what we owe to the law, and what we owe to the people who came before us. It asks whether home is a place, a piece of paper, or something we carry with us through the fire.",
+  "main_characters": [
+    "Rosa Tanaka",
+    "Henry Calloway",
+    "Judge Morrison",
+    "Kenji Tanaka"
+  ],
+  "keywords": [
+    "literary fiction",
+    "historical fiction",
+    "japanese-american",
+    "internment",
+    "post-war",
+    "california",
+    "farm",
+    "redemption",
+    "home"
+  ],
+  "TXT_path": "books/The_Ash_Garden/txt/The_Ash_Garden.txt",
+  "EPUB_path": "books/The_Ash_Garden/epub/The_Ash_Garden.epub",
+  "cover_path": "books/The_Ash_Garden/covers/The_Ash_Garden.png",
+  "outline_path": "books/The_Ash_Garden/planning/The_Ash_Garden_outline.md",
+  "cover_script_path": "books/The_Ash_Garden/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

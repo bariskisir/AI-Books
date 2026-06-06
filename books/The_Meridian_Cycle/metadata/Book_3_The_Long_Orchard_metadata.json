@@ -1,0 +1,37 @@
+{
+  "title": "The Long Orchard",
+  "number": 3,
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Science Fiction",
+  "subgenre": "Climate SF",
+  "word_count": 150377,
+  "short_description": "A botanist crosses restored and ruined Earth biomes to keep weaponized seed archives from turning food succession into war.",
+  "long_description": "In 2431, the Cascadia Watershed Compact depends on the Long Orchard, a linked network of seed archives, living crop corridors, pollinator preserves, soil libraries, and graft stock that keeps famine from returning to a damaged but recovering Earth. When Compact Steward Elian Voss dies, emergency succession protocols freeze disputed seed releases just as false provenance marks and blight warnings begin steering food power toward the strongest claimants. Field botanist Sana Ilyen, water-rights mediator Ro Tamsin, and former seed courier Kade Morrow cross restored forests, dry basins, rain towers, drowned archives, and fire-buffer towns to prove that scarcity is being manufactured around real ecological limits. To prevent civil war, Sana must expose the corrupted provenance ledger and restore the Long Orchard as a living commons with obligations rather than a throne of keys.",
+  "main_characters": [
+    "Sana Ilyen",
+    "Ro Tamsin",
+    "Kade Morrow",
+    "Dr. Mirek Vale",
+    "Iona Saye",
+    "Tali Moss",
+    "Amma Quill"
+  ],
+  "keywords": [
+    "climate fiction",
+    "seed archives",
+    "food politics",
+    "ecological recovery",
+    "watershed governance",
+    "Cascadia",
+    "scarcity",
+    "stewardship",
+    "biotechnology",
+    "The Meridian Cycle"
+  ],
+  "TXT_path": "books/The_Meridian_Cycle/txt/Book_3_The_Long_Orchard.txt",
+  "cover_path": "books/The_Meridian_Cycle/covers/Book_3_The_Long_Orchard.png",
+  "EPUB_path": "books/The_Meridian_Cycle/epub/Book_3_The_Long_Orchard.epub",
+  "status": "complete_txt_epub_available",
+  "language": "en"
+}

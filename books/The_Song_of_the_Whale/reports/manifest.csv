@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Song_of_the_Whale/planning/The_Song_of_the_Whale_outline.md,,markdown,deepseek-v4-flash
+The_Song_of_the_Whale/txt/The_Song_of_the_Whale.txt,,text,deepseek-v4-flash
+The_Song_of_the_Whale/metadata/The_Song_of_the_Whale_metadata.json,,json,deepseek-v4-flash
+The_Song_of_the_Whale/tools/create_cover.py,,python,deepseek-v4-flash
+The_Song_of_the_Whale/covers/The_Song_of_the_Whale.png,140247,png,deepseek-v4-flash
+The_Song_of_the_Whale/tools/build_epub.py,,python,deepseek-v4-flash
+The_Song_of_the_Whale/epub/The_Song_of_the_Whale.epub,247618,epub,deepseek-v4-flash
+The_Song_of_the_Whale/README.md,,markdown,deepseek-v4-flash
+The_Song_of_the_Whale/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Song_of_the_Whale/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Song_of_the_Whale/reports/progress.md,,markdown,deepseek-v4-flash

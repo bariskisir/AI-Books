@@ -1,0 +1,14 @@
+path,size_bytes
+The_Ember_Throne/planning/The_Ember_Throne_outline.md,2316
+The_Ember_Throne/txt/The_Ember_Throne.txt,61475
+The_Ember_Throne/metadata/The_Ember_Throne_metadata.json,834
+The_Ember_Throne/covers/The_Ember_Throne.png,76464
+The_Ember_Throne/epub/The_Ember_Throne.epub,181014
+The_Ember_Throne/tools/create_cover.py,6286
+The_Ember_Throne/tools/build_epub.py,5889
+The_Ember_Throne/tools/expand_chapters.py,6913
+The_Ember_Throne/README.md,209
+The_Ember_Throne/reports/final_report.md,1137
+The_Ember_Throne/reports/manifest.csv,467
+The_Ember_Throne/reports/progress.md,27
+Model,deepseek-v4-flash

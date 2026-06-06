@@ -1,0 +1,32 @@
+{
+  "title": "Briar House",
+  "number": 11,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Gothic Horror",
+  "subgenre": "Haunted house / Family curse",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "An archivist cataloguing a crumbling estate discovers the house's dark history is not past — it is waiting.",
+  "long_description": "Briar House has stood empty for forty years, its rooms sealed, its gardens overgrown, its secrets intact. When archivist Clara March arrives to catalogue the estate's library, she finds a house that does not want her there: doors that open to the wrong rooms, mirrors that show reflections that do not match, and a child's laugh echoing from a nursery that has been locked since 1923. The Briar family history is written in blood and silence, and Clara is the first person in a generation to read it. A slow-burn gothic horror about inheritance, memory, and the things that live in the walls of the houses we refuse to leave.",
+  "main_characters": [
+    "Clara March",
+    "Mrs. Ashford (housekeeper)",
+    "The Briar family",
+    "The child in the walls"
+  ],
+  "keywords": [
+    "gothic horror",
+    "haunted house",
+    "family curse",
+    "archivist",
+    "supernatural",
+    "slow burn"
+  ],
+  "TXT_path": "books/Briar_House/txt/Briar_House.txt",
+  "cover_path": "books/Briar_House/covers/Briar_House.png",
+  "EPUB_path": "books/Briar_House/epub/Briar_House.epub",
+  "word_count": 19546,
+  "status": "complete_txt_epub_available"
+}

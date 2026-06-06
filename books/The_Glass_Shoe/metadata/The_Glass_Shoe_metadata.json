@@ -1,0 +1,34 @@
+{
+  "title": "The Glass Shoe",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fairy Tale Retelling",
+  "subgenre": "Noir Cinderella / Crime Mystery",
+  "language": "en",
+  "short_description": "A detective hired to find a missing glass slipper discovers it is tied to a murder and a conspiracy among the city's elite.",
+  "long_description": "In the rain-slicked city of Aureliana, a masked ball ends with a dead industrialist and a single glass slipper left behind. Detective Ella Marlowe, a sharp-witted investigator with a past she keeps locked in a filing cabinet, is hired by the enigmatic Prince Valentine to find the slipper's owner. But the case twists through the city's gilded elite, crooked cops, and a stepmother whose secrets are worth killing for.\n\nWhat begins as a missing-object case becomes a murder investigation that forces Ella to confront a conspiracy reaching the highest levels of power. With a coat-check girl dead, a witness on the run, and a glass slipper that contains evidence of embezzlement and murder, Ella must navigate a web of lies before the killer silences everyone who knows the truth.",
+  "main_characters": [
+    "Detective Ella Marlowe",
+    "Prince Valentine",
+    "Stepmother DeVane",
+    "Anastasia DeVane",
+    "Lieutenant Corrigan",
+    "Celeste Tremaine",
+    "Theo Vance"
+  ],
+  "keywords": [
+    "fairy tale retelling",
+    "cinderella noir",
+    "crime mystery",
+    "detective fiction",
+    "glass slipper",
+    "murder mystery",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Glass_Shoe/txt/The_Glass_Shoe.txt",
+  "EPUB_path": "books/The_Glass_Shoe/epub/The_Glass_Shoe.epub",
+  "cover_path": "books/The_Glass_Shoe/covers/The_Glass_Shoe.png",
+  "outline_path": "books/The_Glass_Shoe/planning/The_Glass_Shoe_outline.md",
+  "cover_script_path": "books/The_Glass_Shoe/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

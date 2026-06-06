@@ -1,0 +1,41 @@
+{
+  "title": "The Lantern Index",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5.4-mini",
+  "genre": "Literary Mystery",
+  "subgenre": "Archival Suspense",
+  "language": "en",
+  "short_description": "An archivist uncovers a hidden ledger of erased lighthouse records and follows it into a civic cover-up that reaches her own family.",
+  "long_description": "Nora Vale spends her days preserving the city's paper memory, filing damp reports and repairing ledgers in a municipal archive nobody praises and everyone depends on. After her father's death, she finds a private index among his effects: a numbered list of demolished lantern houses, missing reports, and names that never made it into the official record. The list points toward the breakwater collapse that reshaped the harbor years earlier, but it also suggests the disaster was not merely survived. It was managed.\n\nAs Nora follows the entries through sealed storage rooms, old beacon towers, and testimony long buried under procedure, she works with a harbor electrician and a local journalist to reconstruct what was removed. The deeper she goes, the more she learns that her mother built part of the index, and that her father spent years hiding the rest. The novel is about civic amnesia, family loyalty, and the cost of insisting that a city remember what it has chosen to forget.",
+  "main_characters": [
+    "Nora Vale - municipal archivist and investigator",
+    "Tomas Vale - Nora's late father, a harbor clerk",
+    "Mara Vale - Nora's mother, a surveyor and hidden author of the index",
+    "Eli Mercer - harbor electrician and beacon restorer",
+    "Asha Ilyas - journalist and local historian",
+    "Jonas Vale - Nora's uncle and civic lawyer",
+    "Commissioner Holt - the official managing the cover-up",
+    "Ruth Calder - retired dock foreman and witness"
+  ],
+  "keywords": [
+    "literary mystery",
+    "archival suspense",
+    "harbor",
+    "lighthouse",
+    "records",
+    "cover-up",
+    "family secret",
+    "city memory",
+    "investigation",
+    "fiction",
+    "novel",
+    "gpt-5.4-mini",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Lantern_Index/txt/The_Lantern_Index.txt",
+  "EPUB_path": "books/The_Lantern_Index/epub/The_Lantern_Index.epub",
+  "cover_path": "books/The_Lantern_Index/covers/The_Lantern_Index.png",
+  "outline_path": "books/The_Lantern_Index/planning/The_Lantern_Index_outline.md",
+  "cover_script_path": "books/The_Lantern_Index/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

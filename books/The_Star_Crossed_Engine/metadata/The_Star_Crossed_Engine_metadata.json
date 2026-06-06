@@ -1,0 +1,36 @@
+{
+  "title": "The Star-Crossed Engine",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Steampunk",
+  "subgenre": "Steampunk",
+  "language": "en",
+  "short_description": "An airship engineer and a clockwork revolutionary race to stop a weapon that could spark an empire-ending war.",
+  "long_description": "In the floating city of Aurelia, where brass dirigibles tether between clockwork towers, chief engineer Elara Vance discovers a catastrophic design flaw in the Titan's Heart, a weapon engine commissioned by the powerful Lord Ironvale. When she refuses to sign off on its deployment, she is marked for elimination and forced to flee into the undercity.\n\nThere she crosses paths with Silas Cog, a clockwork revolutionary who lost his arm to an earlier version of the same engine. Together they must race against Ironvale's relentless enforcers to expose the weapon's true purpose: to spark an empire-ending war. Their journey takes them from the glittering spires of Aurelia to the grim foundries of Mount Forge, where the Titan's Heart awaits ignition.\n\nWhat follows is a pulse-pounding steampunk adventure through steam tunnels, across desolate ash plains, and into the heart of an industrial fortress, where Elara must use her engineering genius to reverse the weapon's ignition sequence from inside the core itself.",
+  "main_characters": [
+    "Elara Vance",
+    "Silas Cog",
+    "Lord Ironvale",
+    "Mina Harker",
+    "Commander Voss",
+    "Professor Aris Thorne",
+    "Kael Dorn",
+    "Marta"
+  ],
+  "keywords": [
+    "steampunk",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "airship",
+    "clockwork",
+    "revolution",
+    "adventure"
+  ],
+  "TXT_path": "books/The_Star_Crossed_Engine/txt/The_Star_Crossed_Engine.txt",
+  "EPUB_path": "books/The_Star_Crossed_Engine/epub/The_Star_Crossed_Engine.epub",
+  "cover_path": "books/The_Star_Crossed_Engine/covers/The_Star_Crossed_Engine.png",
+  "outline_path": "books/The_Star_Crossed_Engine/planning/The_Star_Crossed_Engine_outline.md",
+  "cover_script_path": "books/The_Star_Crossed_Engine/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

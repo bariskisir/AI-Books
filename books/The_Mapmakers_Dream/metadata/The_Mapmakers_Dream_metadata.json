@@ -1,0 +1,34 @@
+{
+  "title": "The Mapmaker's Dream",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Exploration Fiction",
+  "language": "en",
+  "short_description": "A cartographer for the East India Company maps a river through Central Africa that leads to a city that appears on no other map.",
+  "long_description": "London, 1874. Arthur Finch is a meticulous cartographer for the British East India Company who is sent to map the uncharted interior of Central Africa. Local rumors speak of a great river that leads to a city of stone, a place that appears on no European map. With his native guide Kibo, Arthur traces the river through jungle, rapids, and highlands. At its end he finds a walled city — ancient, inhabited, and deliberately omitted from every chart. The city's Guardian tests Arthur's intentions: will he draw the truth and destroy the city's protection, or leave it unwritten and betray his life's calling?",
+  "characters": {
+    "Arthur Finch": "A London cartographer, precise and methodical. Believes the world can be known through measurement.",
+    "Kibo": "A guide from a coastal trading village. Speaks three languages, reads no maps. He knows the river by memory and the city by legend.",
+    "The Guardian": "An elder woman of the stone city. She keeps the archive and determines who may know of the city's existence."
+  },
+  "keywords": [
+    "exploration",
+    "cartography",
+    "Africa",
+    "hidden city",
+    "East India Company",
+    "discovery",
+    "river mapping",
+    "colonial era",
+    "secret knowledge"
+  ],
+  "TXT_path": "books/The_Mapmakers_Dream/txt/The_Mapmakers_Dream.txt",
+  "EPUB_path": "books/The_Mapmakers_Dream/epub/The_Mapmakers_Dream.epub",
+  "cover_path": "books/The_Mapmakers_Dream/covers/The_Mapmakers_Dream.png",
+  "outline_path": "books/The_Mapmakers_Dream/planning/The_Mapmakers_Dream_outline.md",
+  "cover_script_path": "books/The_Mapmakers_Dream/tools/create_cover.py",
+  "status": "complete_txt_epub_available",
+  "word_count": 11577,
+  "chapter_count": 50,
+  "subgenre": "Exploration Fiction"
+}

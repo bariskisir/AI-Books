@@ -1,0 +1,38 @@
+{
+  "title": "The Horse Whisperer's Daughter",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Rural Fiction",
+  "subgenre": "Horse Racing Drama",
+  "language": "en",
+  "short_description": "A horse trainer in Kentucky must save her family's farm by winning the Derby with a horse no one believes in — including herself.",
+  "long_description": "Ellie McAllister has spent her whole life on her family's Kentucky horse farm, Shadow Hill, learning her craft from a father known throughout the Bluegrass as a horse whisperer. But the farm is drowning in debt, her father's health is failing, and the bank is circling.\n\nTheir last chance is a damaged three-year-old colt named Midnight — a horse with blazing speed and a shattered spirit. To save the farm, Ellie must do what no one believes she can: train a broken horse to win the Kentucky Derby.\n\nBut her rival, Cole Landry, has the money, the bloodlines, and the ruthlessness to stop her. As the Derby approaches, Midnight's hidden injury threatens everything, and Ellie's father reveals a secret that changes everything she thought she knew.\n\nAgainst the backdrop of Kentucky's rolling pastures and the high-stakes world of Thoroughbred racing, Ellie must find a way to trust herself as much as she trusts the horses. The Horse Whisperer's Daughter is a story about the quiet power of listening — to animals, to family, and to your own heart.",
+  "main_characters": [
+    "Ellie McAllister — A thirty-two-year-old horse trainer, stubborn and gifted, who must save her family's farm",
+    "Dan McAllister — Ellie's father, the legendary horse whisperer, now in failing health with stage four lung cancer",
+    "Midnight — A coal-black three-year-old colt with record-breaking speed and a deep fear of humans",
+    "Cole Landry — The wealthy rival trainer who wants Shadow Hill for his own operation",
+    "Rosa Vasquez — Ellie's loyal stable hand who keeps the barn running",
+    "Dr. Alice Chen — The equine veterinarian who treats Midnight and becomes an ally",
+    "Frank Tuttle — The bank manager with a deadline that cannot be moved"
+  ],
+  "keywords": [
+    "rural fiction",
+    "horse racing",
+    "kentucky derby",
+    "horse trainer",
+    "family farm",
+    "thoroughbred",
+    "redemption",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "horse whisperer"
+  ],
+  "TXT_path": "books/The_Horse_Whisperers_Daughter/txt/The_Horse_Whisperers_Daughter.txt",
+  "EPUB_path": "books/The_Horse_Whisperers_Daughter/epub/The_Horse_Whisperers_Daughter.epub",
+  "cover_path": "books/The_Horse_Whisperers_Daughter/covers/The_Horse_Whisperers_Daughter.png",
+  "outline_path": "books/The_Horse_Whisperers_Daughter/planning/The_Horse_Whisperers_Daughter_outline.md",
+  "cover_script_path": "books/The_Horse_Whisperers_Daughter/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

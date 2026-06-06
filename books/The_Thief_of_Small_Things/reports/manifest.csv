@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Thief_of_Small_Things/planning/The_Thief_of_Small_Things_outline.md,,markdown,deepseek-v4-flash
+The_Thief_of_Small_Things/txt/The_Thief_of_Small_Things.txt,,text,deepseek-v4-flash
+The_Thief_of_Small_Things/metadata/The_Thief_of_Small_Things_metadata.json,,,deepseek-v4-flash
+The_Thief_of_Small_Things/tools/create_cover.py,,python,deepseek-v4-flash
+The_Thief_of_Small_Things/covers/The_Thief_of_Small_Things.png,108427,png,deepseek-v4-flash
+The_Thief_of_Small_Things/tools/build_epub.py,,python,deepseek-v4-flash
+The_Thief_of_Small_Things/epub/The_Thief_of_Small_Things.epub,237670,epub,deepseek-v4-flash
+The_Thief_of_Small_Things/README.md,,markdown,deepseek-v4-flash
+The_Thief_of_Small_Things/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Thief_of_Small_Things/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Thief_of_Small_Things/reports/progress.md,,markdown,deepseek-v4-flash

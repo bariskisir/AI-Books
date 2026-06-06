@@ -1,0 +1,37 @@
+{
+  "title": "The Vegetarian's Wife",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Psychological Literary",
+  "subgenre": "Literary Fiction",
+  "language": "en",
+  "short_description": "A woman whose husband has abruptly stopped eating watches his body and mind transform into something she no longer recognizes.",
+  "long_description": "Hana's husband Jae stops eating. Not as a diet or a protest -- he simply ceases to want food. At first she tries to accommodate him: special broths, protein drinks, doctor visits. But as weeks pass, Jae's body grows leaner, his eyes brighter, his skin translucent. He begins to speak of things he could not know. He begins to forget things he should remember.\n\nDr. Elias runs every test he knows. Blood work. Scans. Neurological exams. Everything comes back normal. There is no medical explanation for what is happening to Jae. As his physical presence diminishes, Jae describes dreams of a white field with a house at its center -- a house with a green door that is slowly opening.\n\nHana must watch the man she loves become a stranger. She must decide whether to fight for him or accept that he is being called somewhere she cannot follow. A spare, haunting meditation on love, loss, and the boundaries of the self, The Vegetarian's Wife is a psychological literary novel about the spaces between two people when one of them is already gone.",
+  "main_characters": [
+    "Hana -- Wife, a teacher, a careful woman watching her husband disappear",
+    "Jae -- Husband, an architect who has stopped eating and is becoming something else",
+    "Dr. Elias -- A physician who cannot explain what he is witnessing"
+  ],
+  "keywords": [
+    "psychological literary",
+    "literary fiction",
+    "marriage",
+    "transformation",
+    "loss",
+    "grief",
+    "mystery",
+    "body horror",
+    "existential",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Vegetarians_Wife/txt/The_Vegetarians_Wife.txt",
+  "EPUB_path": "books/The_Vegetarians_Wife/epub/The_Vegetarians_Wife.epub",
+  "cover_path": "books/The_Vegetarians_Wife/covers/The_Vegetarians_Wife.png",
+  "outline_path": "books/The_Vegetarians_Wife/planning/The_Vegetarians_Wife_outline.md",
+  "cover_script_path": "books/The_Vegetarians_Wife/tools/create_cover.py",
+  "build_script_path": "books/The_Vegetarians_Wife/tools/build_epub.py",
+  "readme_path": "books/The_Vegetarians_Wife/README.md",
+  "status": "complete_txt_epub_available"
+}

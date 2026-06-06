@@ -1,0 +1,41 @@
+{
+  "title": "The Black Swan",
+  "number": 72,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Ballet Fiction",
+  "subgenre": "Psychological drama / Performing arts fiction",
+  "language": "en",
+  "target_word_count": 15000,
+  "planned_chapters": 50,
+  "word_count": 9900,
+  "short_description": "A corps de ballet dancer at the Mariinsky Theatre gets her shot at Odette-Odile when the prima is injured, but the dual role begins to consume her.",
+  "long_description": "Ekaterina Morozova has spent seven years invisible in the corps de ballet of the Mariinsky Theatre, dancing in the shadow of soloists who rose past her. When prima ballerina Irina Volkova tears her Achilles tendon during a dress rehearsal of Swan Lake, Katya is given the chance of a lifetime: she will dance the dual role of Odette and Odile. But the role that made Volkova a legend has a darker reputation. As Katya pushes her body through punishing rehearsals, a stress fracture in her foot, and the psychological demands of embodying both the vulnerable white swan and the predatory black swan, the boundaries between dancer and dance begin to dissolve. Set against the gilded, brutal world of St. Petersburg's greatest ballet company, The Black Swan is a literary novel about the cost of artistic perfection, the violence of transformation, and what happens when a woman looks into the mirror long enough to stop recognizing what looks back.",
+  "main_characters": [
+    "Ekaterina \"Katya\" Morozova",
+    "Irina Volkova",
+    "Maestro Dmitri Petrov",
+    "Mikhail Baranov",
+    "Nadezhda"
+  ],
+  "keywords": [
+    "ballet fiction",
+    "literary fiction",
+    "Swan Lake",
+    "Mariinsky Theatre",
+    "St. Petersburg",
+    "dance",
+    "psychological fiction",
+    "performing arts",
+    "obsession",
+    "transformation",
+    "Odette-Odile",
+    "Russian ballet",
+    "corps de ballet",
+    "prima ballerina"
+  ],
+  "TXT_path": "books/The_Black_Swan/txt/The_Black_Swan.txt",
+  "cover_path": "books/The_Black_Swan/covers/The_Black_Swan.png",
+  "EPUB_path": "books/The_Black_Swan/epub/The_Black_Swan.epub",
+  "status": "complete_txt_epub_available"
+}

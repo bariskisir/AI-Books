@@ -1,0 +1,12 @@
+File,Size (bytes),Description,model
+planning/Silver_and_Bone_outline.md,,50-chapter outline,deepseek-v4-flash
+txt/Silver_and_Bone.txt,10741,Full manuscript,deepseek-v4-flash
+epub/Silver_and_Bone.epub,195791,EPUB 3 ebook,deepseek-v4-flash
+covers/Silver_and_Bone.png,90117,Cover image,deepseek-v4-flash
+metadata/Silver_and_Bone_metadata.json,,Production metadata,deepseek-v4-flash
+tools/build_epub.py,,EPUB build script,deepseek-v4-flash
+tools/create_cover.py,,Cover generation script,deepseek-v4-flash
+README.md,,Book README,deepseek-v4-flash
+reports/final_report.md,,Final report,deepseek-v4-flash
+reports/manifest.csv,,File manifest,deepseek-v4-flash
+reports/progress.md,,Progress tracking,deepseek-v4-flash

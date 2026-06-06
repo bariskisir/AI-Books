@@ -1,0 +1,12 @@
+File,Size (bytes),Type,model
+The_Last_Tram/planning/The_Last_Tram_outline.md,,Markdown,deepseek-v4-flash
+The_Last_Tram/txt/The_Last_Tram.txt,69121,Text,deepseek-v4-flash
+The_Last_Tram/metadata/The_Last_Tram_metadata.json,1014,JSON,deepseek-v4-flash
+The_Last_Tram/covers/The_Last_Tram.png,106364,PNG,deepseek-v4-flash
+The_Last_Tram/epub/The_Last_Tram.epub,221026,EPUB,deepseek-v4-flash
+The_Last_Tram/tools/create_cover.py,9158,Python,deepseek-v4-flash
+The_Last_Tram/tools/build_epub.py,7415,Python,deepseek-v4-flash
+The_Last_Tram/README.md,277,Markdown,deepseek-v4-flash
+The_Last_Tram/reports/final_report.md,1686,Markdown,deepseek-v4-flash
+The_Last_Tram/reports/manifest.csv,671,CSV,deepseek-v4-flash
+The_Last_Tram/reports/progress.md,30,Markdown,deepseek-v4-flash

@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+The_Garden_of_Unearthly_Delights/planning/The_Garden_of_Unearthly_Delights_outline.md,3655,text/markdown,deepseek-v4-flash
+The_Garden_of_Unearthly_Delights/txt/The_Garden_of_Unearthly_Delights.txt,48622,text/plain,deepseek-v4-flash
+The_Garden_of_Unearthly_Delights/metadata/The_Garden_of_Unearthly_Delights_metadata.json,1344,application/json,deepseek-v4-flash
+The_Garden_of_Unearthly_Delights/tools/build_epub.py,8297,text/x-python,deepseek-v4-flash
+The_Garden_of_Unearthly_Delights/tools/create_cover.py,9958,text/x-python,deepseek-v4-flash
+The_Garden_of_Unearthly_Delights/covers/The_Garden_of_Unearthly_Delights.png,822090,image/png,deepseek-v4-flash
+The_Garden_of_Unearthly_Delights/epub/The_Garden_of_Unearthly_Delights.epub,938199,application/epub+zip,deepseek-v4-flash
+The_Garden_of_Unearthly_Delights/README.md,299,text/markdown,deepseek-v4-flash
+The_Garden_of_Unearthly_Delights/reports/final_report.md,1578,text/markdown,deepseek-v4-flash
+The_Garden_of_Unearthly_Delights/reports/manifest.csv,658,text/csv,deepseek-v4-flash
+The_Garden_of_Unearthly_Delights/reports/progress.md,26,text/markdown,deepseek-v4-flash

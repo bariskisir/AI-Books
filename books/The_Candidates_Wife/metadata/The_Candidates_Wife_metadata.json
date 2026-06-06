@@ -1,0 +1,31 @@
+{
+  "title": "The Candidate's Wife",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Political Satire",
+  "subgenre": "Political Satire",
+  "language": "en",
+  "short_description": "A political satire about a candidate's wife who accidentally live-tweets the truth about her husband's campaign, triggering a media firestorm that neither the campaign nor her marriage can survive.",
+  "long_description": "Grace Holloway has spent twenty years as the perfect political spouse. She smiles on cue, repeats approved talking points, and suppresses every honest thought behind a practiced smile. But when her phone autocorrects a private draft into a public post during a live debate broadcast, the unfiltered truth about her husband's presidential campaign spills onto the internet in 230 characters.\n\nThe tweet goes viral in minutes, exposing the cynicism, backroom deals, and outright lies behind Senator Mark Holloway's carefully manufactured image. As the media descends and Campaign Manager Pike scrambles to contain the damage, Grace discovers something unexpected: telling the truth is addictive. The more she speaks honestly, the more the public loves her — and the more her husband's campaign unravels.\n\nWhat begins as an accident becomes a rebellion. Grace navigates a minefield of damage control, power struggles, and personal betrayals as she transforms from ornament to agent. The Candidate's Wife is a sharp political satire about complicity, courage, and what happens when the person expected to stay silent finally speaks up.",
+  "main_characters": [
+    "Grace Holloway — The candidate's wife, tired of performing",
+    "Senator Mark Holloway — The presidential candidate, a man of manufactured authenticity",
+    "Campaign Manager Pike — Ruthless, competent, and perpetually stressed"
+  ],
+  "keywords": [
+    "political satire",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "campaign",
+    "presidential election",
+    "media satire",
+    "marriage politics"
+  ],
+  "TXT_path": "books/The_Candidates_Wife/txt/The_Candidates_Wife.txt",
+  "EPUB_path": "books/The_Candidates_Wife/epub/The_Candidates_Wife.epub",
+  "cover_path": "books/The_Candidates_Wife/covers/The_Candidates_Wife.png",
+  "outline_path": "books/The_Candidates_Wife/planning/The_Candidates_Wife_outline.md",
+  "cover_script_path": "books/The_Candidates_Wife/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}
