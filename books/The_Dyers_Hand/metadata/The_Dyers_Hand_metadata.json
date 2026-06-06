@@ -1,0 +1,41 @@
+{
+  "title": "The Dyer's Hand",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-pro",
+  "genre": "Literary Fiction",
+  "subgenre": "Historical Fiction / Craft Narrative",
+  "language": "en",
+  "short_description": "In 1954 Fez, the last master indigo dyer must decide whether to sell his family's ancient formulas to a Paris fashion house.",
+  "long_description": "The Dyer's Hand follows Idris ben Omar, a 68-year-old master indigo dyer in the Fez medina whose hands have been blue for fifty-three years. He is the last of his line — his son chose law over the vats, and the Jewish dyers who once shared the quarter have all departed. When a Paris fashion house sends a representative with an offer to buy his formulas, Idris must confront the ghosts of his craft and decide what a lifetime's knowledge is worth when no one is left to inherit it.\n\nThrough the return of his old friend Yacob Cohen — a Jewish dyer now dying of cancer in Marseille — and the quiet persistence of his young apprentice Driss, Idris learns that the craft is larger than any single dyer. The novel is a meditation on tradition, color, friendship across faiths, and what endures when the hands that built something are no longer there.",
+  "main_characters": [
+    "Idris ben Omar",
+    "Samira ben Omar",
+    "Driss",
+    "Henri Delacroix",
+    "Yacob Cohen",
+    "Amina",
+    "Karim ben Omar"
+  ],
+  "keywords": [
+    "literary fiction",
+    "historical fiction",
+    "fez",
+    "morocco",
+    "indigo dyeing",
+    "craft",
+    "tradition",
+    "jewish-muslim friendship",
+    "1950s",
+    "adult characters",
+    "clean literary fiction",
+    "standalone"
+  ],
+  "planned_chapters": 50,
+  "word_count": 15402,
+  "TXT_path": "books/The_Dyers_Hand/txt/The_Dyers_Hand.txt",
+  "EPUB_path": "books/The_Dyers_Hand/epub/The_Dyers_Hand.epub",
+  "cover_path": "books/The_Dyers_Hand/covers/The_Dyers_Hand.png",
+  "outline_path": "books/The_Dyers_Hand/planning/The_Dyers_Hand_outline.md",
+  "cover_script_path": "books/The_Dyers_Hand/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}
