@@ -3,7 +3,8 @@
 AI Books is a proprietary repository for AI-generated original fiction projects.
 
 
-## Catalog
+<details open>
+<summary>Catalog</summary>
 
 Click a cover to read online
 
@@ -53,8 +54,10 @@ Click a cover to read online
 <tr><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Mercy_Engine/epub/The_Mercy_Engine.epub" target="_blank" title="The Mercy Engine"><img src="books/The_Mercy_Engine/covers/The_Mercy_Engine.png" alt="The Mercy Engine" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Paper_Moon_Conspiracy/epub/The_Paper_Moon_Conspiracy.epub" target="_blank" title="The Paper Moon Conspiracy"><img src="books/The_Paper_Moon_Conspiracy/covers/The_Paper_Moon_Conspiracy.png" alt="The Paper Moon Conspiracy" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Glass_Lantern/epub/The_Glass_Lantern.epub" target="_blank" title="The Glass Lantern"><img src="books/The_Glass_Lantern/covers/The_Glass_Lantern.png" alt="The Glass Lantern" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Fig_Collector/epub/The_Fig_Collector.epub" target="_blank" title="The Fig Collector"><img src="books/The_Fig_Collector/covers/The_Fig_Collector.png" alt="The Fig Collector" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Dyers_Hand/epub/The_Dyers_Hand.epub" target="_blank" title="The Dyer's Hand"><img src="books/The_Dyers_Hand/covers/The_Dyers_Hand.png" alt="The Dyer's Hand" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td></tr>
 </table>
 
+</details>
 
-## Series
+<details open>
+<summary>Series</summary>
 
 <details>
 <summary><strong>The Meridian Cycle</strong> (10-book sci-fi series)</summary>
@@ -210,7 +213,10 @@ Click a cover to read online
 </details>
 </details>
 
-## Books
+</details>
+
+<details>
+<summary>Books</summary>
 
 <details>
 <summary><strong>The Bellweather Murders</strong></summary>
@@ -3104,6 +3110,7 @@ Click a cover to read online
 
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Copper_Saint/epub/The_Copper_Saint.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Copper_Saint/epub/The_Copper_Saint.epub)
+- Model: gpt-5.5
 
 </details>
 
@@ -3118,6 +3125,7 @@ Click a cover to read online
 
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Driftwood_Court/epub/The_Driftwood_Court.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Driftwood_Court/epub/The_Driftwood_Court.epub)
+- Model: gpt-5.5
 
 </details>
 
@@ -3132,6 +3140,7 @@ Click a cover to read online
 
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Rainmakers_Ledger/epub/The_Rainmakers_Ledger.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Rainmakers_Ledger/epub/The_Rainmakers_Ledger.epub)
+- Model: gpt-5.5
 
 </details>
 
@@ -3146,6 +3155,7 @@ Click a cover to read online
 
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Silent_Observatory/epub/The_Silent_Observatory.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Silent_Observatory/epub/The_Silent_Observatory.epub)
+- Model: gpt-5.5
 
 </details>
 
@@ -3160,6 +3170,7 @@ Click a cover to read online
 
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Harvest_of_Ashes/epub/The_Harvest_of_Ashes.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Harvest_of_Ashes/epub/The_Harvest_of_Ashes.epub)
+- Model: gpt-5.5
 
 </details>
 
@@ -3174,6 +3185,7 @@ Click a cover to read online
 
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Gilded_Ferry/epub/The_Gilded_Ferry.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Gilded_Ferry/epub/The_Gilded_Ferry.epub)
+- Model: gpt-5.5
 
 </details>
 
@@ -3188,6 +3200,7 @@ Click a cover to read online
 
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Amber_Signal/epub/The_Amber_Signal.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Amber_Signal/epub/The_Amber_Signal.epub)
+- Model: gpt-5.5
 
 </details>
 
@@ -3202,6 +3215,7 @@ Click a cover to read online
 
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Crystal_Frontier/epub/The_Crystal_Frontier.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Crystal_Frontier/epub/The_Crystal_Frontier.epub)
+- Model: gpt-5.5
 
 </details>
 
@@ -3216,6 +3230,7 @@ Click a cover to read online
 
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Mercy_Engine/epub/The_Mercy_Engine.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Mercy_Engine/epub/The_Mercy_Engine.epub)
+- Model: gpt-5.5
 
 </details>
 
@@ -3230,6 +3245,7 @@ Click a cover to read online
 
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Paper_Moon_Conspiracy/epub/The_Paper_Moon_Conspiracy.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Paper_Moon_Conspiracy/epub/The_Paper_Moon_Conspiracy.epub)
+- Model: gpt-5.5
 
 </details>
 
@@ -3244,6 +3260,7 @@ Click a cover to read online
 
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Glass_Lantern/epub/The_Glass_Lantern.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Glass_Lantern/epub/The_Glass_Lantern.epub)
+- Model: deepseek-v4-pro
 
 </details>
 
@@ -3258,6 +3275,7 @@ Click a cover to read online
 
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Fig_Collector/epub/The_Fig_Collector.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Fig_Collector/epub/The_Fig_Collector.epub)
+- Model: deepseek-v4-pro
 
 </details>
 
@@ -3272,6 +3290,9 @@ Click a cover to read online
 
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Dyers_Hand/epub/The_Dyers_Hand.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Dyers_Hand/epub/The_Dyers_Hand.epub)
+- Model: deepseek-v4-pro
+
+</details>
 
 </details>
 
