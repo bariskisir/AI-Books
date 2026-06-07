@@ -1,0 +1,41 @@
+{
+  "title": "The Tessera Bureau",
+  "author": "Barış Kısır",
+  "genre": "Speculative Fiction",
+  "subgenre": "Parallel Worlds / Institutional Thriller",
+  "language": "en",
+  "model": "sonnet-4.6",
+  "short_description": "A grief-hardened reconciler in a city long ago fractured into parallel versions of itself discovers that someone inside her own bureau is deliberately collapsing the worlds together — and that the architect's reasons are unbearably close to her own.",
+  "long_description": "The city of Halloway tessellated long ago — fractured into several adjacent versions of itself, near-identical cities occupying the same ground, divided by a thin membrane called a seam. Most people live and die in one pane, never knowing the others exist. The Tessera Bureau is the unglamorous civil service that keeps the panes from bleeding into one another, and its field agents, the reconcilers, are licensed to cross between adjacent worlds to repair the leaks: a person who wandered across, an object that duplicated, a death that did not match its neighbor.\n\nMaren Vos, a senior reconciler hardened by the loss of her partner inside a collapsing seam eight years ago, is paired with an idealistic new partner when anomalous seams begin opening where the Bureau's charts say none can exist. Two panes are drifting toward convergence — objects doubling, then people, then identities beginning to blur — and Maren uncovers that the collapse is being engineered from inside the Bureau itself. Worse, in the adjacent pane a version of herself made a different, catastrophic choice, and in that same pane her dead partner is alive.\n\nThe Tessera Bureau is a literary science-fiction thriller about grief, the roads not taken, and the discipline of staying in your own life. Its antagonist is not a monster but a mirror — a man trying to merge the worlds to recover someone dead on one side and alive on the other — and its quiet, costly resolution turns on a single question every reconciler must answer alone: whether to step through the open door, or go home.",
+  "main_characters": [
+    "Maren Vos — senior reconciler, 44, exacting and grief-hardened, defined by the seam-death of her partner eight years ago",
+    "Idris Lan — her new junior partner, 38, idealistic and instinct-sharp, secretly visiting a brother stranded in an adjacent pane",
+    "Director Sable Quist — head of the Bureau, 57, pragmatic and institution-protective, willing to bury truth to preserve order",
+    "Wynn Across — the version of Maren's lost partner, alive in Pane Four; a temptation and a structural danger",
+    "Cyriac Holm — the Bureau's chief cartographer of seams, 50, who has known for months that someone is forging permits",
+    "Petra — the Pane Four variant of Maren, who made the catastrophic other choice and is her mirror and her warning",
+    "Rendel Osk — the Bureau analyst engineering the convergence, whose tragic motive mirrors Maren's own temptation"
+  ],
+  "keywords": [
+    "parallel worlds",
+    "multiverse",
+    "speculative fiction",
+    "literary science fiction",
+    "institutional thriller",
+    "grief",
+    "bureaucracy",
+    "alternate selves",
+    "roads not taken",
+    "convergence",
+    "seams",
+    "loss",
+    "moral mirror",
+    "female protagonist",
+    "quiet thriller"
+  ],
+  "status": "complete_txt_epub_available",
+  "TXT_path": "books/The_Tessera_Bureau/txt/The_Tessera_Bureau.txt",
+  "EPUB_path": "books/The_Tessera_Bureau/epub/The_Tessera_Bureau.epub",
+  "cover_path": "books/The_Tessera_Bureau/covers/The_Tessera_Bureau.png",
+  "planning_path": "books/The_Tessera_Bureau/planning/The_Tessera_Bureau_outline.md"
+}

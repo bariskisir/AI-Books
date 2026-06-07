@@ -364,6 +364,10 @@ Books are listed in order of addition — oldest first, newest last. Always appe
 | `books/The_Dark_Mirror/` | Psychological Fiction / NPD | 50 | Complete |
 | `books/The_Fragile_Mind/` | Psychological Fiction / DID | 50 | Complete |
 | `books/The_Weight_of_Silence/` | Psychological Thriller / Forensic Psychology | 50 | Complete |
+| `books/The_Tessera_Bureau/` | Speculative Fiction / Parallel Worlds | 50 | Complete |
+| `books/The_House_With_Two_Skies/` | Literary Fiction / Parallel Lives | 50 | Complete |
+| `books/The_Color_of_Eight_Thoughts/` | Literary Fiction / Non-Human POV | 50 | Complete |
+| `books/The_Understory/` | Literary Fiction / Ecological Non-Human POV | 50 | Complete |
 
 ## Git Workflow
 

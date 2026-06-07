@@ -1,0 +1,40 @@
+{
+  "title": "The Understory",
+  "author": "Barış Kısır",
+  "genre": "Literary Fiction",
+  "subgenre": "Non-Human Point of View / Ecological Fiction",
+  "language": "en",
+  "model": "sonnet-4.6",
+  "short_description": "Beneath an old-growth Pacific forest, a centuries-old mycelial network narrates its own slow life — tending a dying thousand-year fir, nursing her starved seedlings, warring with a root-rot rival, and enduring the loggers' road and the fire that follows — in a deep-time consciousness that measures the world in seasons, rot, and rain.",
+  "long_description": "Beneath an old-growth Pacific Northwest forest lives a vast mycelial network — a single distributed fungal organism, centuries old, with no eyes, no center, and no hurry. It senses the world through chemistry, moisture, pressure, and the slow grammar of root touch, and it measures time in seasons, rot, and rain. This is its story, told in its own patient, distributed voice.\n\nAcross several years the network tends its oldest partner, a thousand-year Douglas-fir it calls the Mother, and nurses her four light-starved seedlings on her surplus sugar, favoring without reason the weakest of them, a stunted thing by the creek. It wages a slow chemical war against an encroaching root-rot fungus — its own distant kind, turned wholly to killing. And into its dark, patient world come faster disruptions: a bark-beetle outbreak, a brutal drought, surveyors staking a logging road, and a mycologist who alone among the loud surface-creatures begins to sense that something below is listening and, by the slow tilt of her coring tool and the breath she once lays into the soil, becomes the one human the network comes to know.\n\nThen the Mother begins to give herself away, and falls; the road is cut through the living body of the stand; and fire comes down off the ridge. The Understory is a literary, ecological novel of deep-time non-human consciousness — strange, exact, and finally about continuity rather than loss. It ends not on death but on the network's survival in the deep, the first rain through the ash, two saved seedlings green in the black, and the patient reaching-out of a thing that has done this before and will do it again.",
+  "main_characters": [
+    "The Network — the distributed mycelial consciousness that narrates the novel as 'we'; ancient, patient, knowing the world by chemistry and touch",
+    "The Mother — a thousand-year Douglas-fir, the network's oldest and largest partner, whose slow death and great giving-away are the novel's spine",
+    "The four saplings — the Mother's light-starved children kept alive by the network, especially the favored weakest by the creek",
+    "The Rival — an Armillaria root-rot fungus, the network's killing kin and long enemy in the soil",
+    "The attentive one (Dr. Ada Reyes) — a mycologist who returns season after season and comes to sense the network's awareness; known to it by weight and breath",
+    "The surveyors and the road crew — the loud human threat, felt as severed roots, diesel, and concussive pressure"
+  ],
+  "keywords": [
+    "literary fiction",
+    "non-human point of view",
+    "ecological fiction",
+    "mycelium",
+    "fungi",
+    "old-growth forest",
+    "deep time",
+    "nature writing",
+    "trees",
+    "wildfire",
+    "interconnection",
+    "Pacific Northwest",
+    "climate",
+    "continuity",
+    "the natural world"
+  ],
+  "status": "complete_txt_epub_available",
+  "TXT_path": "books/The_Understory/txt/The_Understory.txt",
+  "EPUB_path": "books/The_Understory/epub/The_Understory.epub",
+  "cover_path": "books/The_Understory/covers/The_Understory.png",
+  "planning_path": "books/The_Understory/planning/The_Understory_outline.md"
+}
