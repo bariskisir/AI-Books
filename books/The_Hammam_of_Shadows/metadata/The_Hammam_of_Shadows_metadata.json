@@ -1,0 +1,43 @@
+{
+  "title": "The Hammam of Shadows",
+  "author": "Barış Kısır",
+  "model": "opus-4.8",
+  "genre": "Mystery",
+  "subgenre": "Ottoman Historical Mystery / Literary Crime",
+  "language": "en",
+  "short_description": "In 1893 Istanbul, a hammam attendant witnesses the staged drowning of a Greek merchant and, powerless in the city's courts, uses her intimate knowledge of the bathhouse's clientele to expose a smuggling network reaching from the old bazaars to the declining palace.",
+  "long_description": "Istanbul, 1893. Fatma Hanım, forty-two years old and senior tellak at the historic Çemberlitaş Hammam, witnesses what appears to be a staged drowning in the private bathing chamber — a Greek merchant, Nikos Papadakis, found face-down in the steaming pool. The official ruling is accident. Fatma knows better: she saw the man's hands gripping the stone lip, white-knuckled with effort, an hour before his body was found.\n\nWith no standing in the city's courts and no man to carry her word to anyone who matters, Fatma must use her intimate knowledge of the hammam's daily clientele — ministers, merchants, imams, foreign visitors — to trace the invisible threads that led to that marble floor. She navigates a world where her testimony is inherently discounted, her movements constrained, and her only tools are observation, patience, and the detailed knowledge of human behavior accumulated over twenty years of attending the city's most private rituals.\n\nThe investigation pulls her into a smuggling network connecting the old bazaar families, the new European banks, and the declining Hamidian palace administration. What she uncovers is a scheme in which Ottoman state documents — property deeds, certificates of debt — are being secretly transferred to European investors, stripping small landholders of their rights without their knowledge. To speak the truth aloud could cost Fatma her livelihood and her life. To stay silent makes her complicit in a crime that extends far beyond one man's death in a marble pool.",
+  "main_characters": [
+    "Fatma Hanım, 42, senior bath attendant, sharp and unseen",
+    "Nikos Papadakis, 54, the murdered Greek merchant",
+    "Kadriye, 28, Fatma's junior colleague",
+    "Mehmet Bey, 55, the hammam owner",
+    "Inspector Nazmi, 38, a police inspector",
+    "Roksanda, 45, a Bulgarian textile trader",
+    "Halil Efendi, 62, a retired bureaucrat"
+  ],
+  "keywords": [
+    "Ottoman Empire",
+    "Istanbul",
+    "1893",
+    "historical mystery",
+    "hammam",
+    "Turkish history",
+    "female detective",
+    "literary crime",
+    "Hamidian era",
+    "corruption",
+    "smuggling",
+    "historical fiction",
+    "Middle East",
+    "19th century"
+  ],
+  "planned_chapters": 50,
+  "word_count": 0,
+  "TXT_path": "books/The_Hammam_of_Shadows/txt/The_Hammam_of_Shadows.txt",
+  "EPUB_path": "books/The_Hammam_of_Shadows/epub/The_Hammam_of_Shadows.epub",
+  "cover_path": "books/The_Hammam_of_Shadows/covers/The_Hammam_of_Shadows.png",
+  "outline_path": "books/The_Hammam_of_Shadows/planning/The_Hammam_of_Shadows_outline.md",
+  "cover_script_path": "books/The_Hammam_of_Shadows/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

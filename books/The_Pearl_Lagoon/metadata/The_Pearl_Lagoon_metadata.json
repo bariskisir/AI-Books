@@ -1,0 +1,42 @@
+{
+  "title": "The Pearl Lagoon",
+  "author": "Barış Kısır",
+  "model": "opus-4.8",
+  "genre": "Historical Fiction",
+  "subgenre": "Pacific Island Historical Fiction / Colonial Drama",
+  "language": "en",
+  "short_description": "In 1873 French Polynesia, a pearl diver must navigate between a colonial survey that threatens her lagoon's richest beds and her community's desperate need for trade revenue.",
+  "long_description": "The Pearl Lagoon follows Hina Aroha, 34, the daughter of a Tahitian mother and a French trader father, who has been diving the lagoon of Avatoru in the Tuamotu Archipelago since she was nineteen. She knows every coral head, every drift of sand, and where the oysters grow fat and slow. When a French survey party arrives aboard a schooner to chart the archipelago's resources, Hina offers herself as interpreter, hoping to guide what the surveyor's maps will record.\n\nThe surveyor, Émile Renard, is a cartographer with private misgivings about the colonial enterprise, and his guarded alliance with Hina deepens as she shows him the reef. But the arrival of Delacroix, a company agent who sees the pearl beds as inventory, transforms the survey from a mapping exercise into an extraction plan. Hina's uncle Manea, the village chief, must decide how much to concede to the French in exchange for trade goods the community needs. Her younger sister Teura, more trusting of outsiders, becomes drawn to the survey party's promises. And Tupa, the island's most experienced diver, resents Hina's authority and sees Delacroix's arrival as a chance to reclaim his standing.\n\nSet across three weeks in the lagoon, the novel traces the small negotiations, silences, and acts of defiance through which a community confronts the machinery of empire. It is a story about water and maps, about what can be seen from the surface and what must be known from below, and about one woman's determination to ensure that the lagoon she learned from her mother is not sold away.",
+  "main_characters": [
+    "Hina Aroha, 34, pearl diver and community mediator",
+    "Émile Renard, 31, French cartographer",
+    "Manea, 58, Hina's uncle and village chief",
+    "Delacroix, 47, French company agent",
+    "Teura, 26, Hina's younger sister",
+    "Father Breton, 62, Marianist missionary",
+    "Tupa, 40, rival diver",
+    "Moreau, 38, French naval lieutenant",
+    "Vahine, 75, elder former diver"
+  ],
+  "keywords": [
+    "historical fiction",
+    "french polynesia",
+    "tuamotu archipelago",
+    "pearl diving",
+    "colonialism",
+    "1870s",
+    "lagoon",
+    "cartography",
+    "adult characters",
+    "clean literary fiction",
+    "standalone"
+  ],
+  "planned_chapters": 50,
+  "word_count": 21800,
+  "TXT_path": "books/The_Pearl_Lagoon/txt/The_Pearl_Lagoon.txt",
+  "EPUB_path": "books/The_Pearl_Lagoon/epub/The_Pearl_Lagoon.epub",
+  "cover_path": "books/The_Pearl_Lagoon/covers/The_Pearl_Lagoon.png",
+  "outline_path": "books/The_Pearl_Lagoon/planning/The_Pearl_Lagoon_outline.md",
+  "cover_script_path": "books/The_Pearl_Lagoon/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

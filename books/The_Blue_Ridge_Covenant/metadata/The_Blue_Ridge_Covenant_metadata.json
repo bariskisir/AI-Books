@@ -1,0 +1,43 @@
+{
+  "title": "The Blue Ridge Covenant",
+  "author": "Barış Kısır",
+  "model": "opus-4.8",
+  "genre": "Gothic Fiction",
+  "subgenre": "Appalachian Gothic / Post-War Mystery",
+  "language": "en",
+  "short_description": "A World War II veteran returns to his Appalachian mountain hollow to find his brother dead, his family's land gone, and a wartime pact of land and blood still enforced by the man who made it.",
+  "long_description": "Madison County, North Carolina, 1947. Caleb Prater comes home from the Pacific to find his mountain hollow changed in ways no one will explain. His older brother Eli is dead — reportedly drowned — and a man named Earl Bowman has built a sawmill on land that used to belong to the community, employing half the hollow and posting the upper timber off-limits. Caleb's childhood friend Wren Hensley is evasive, the preacher seems afraid, and his mother flinches at the sound of Bowman's name.\n\nAs Caleb presses for answers, he uncovers a wartime covenant made while he was fighting overseas: in the autumn of 1944, an overseer was killed on the ridge and buried without report, and when Bowman arrived claiming to investigate the man's disappearance, he used the community's secret to extract land transfers and labor agreements from five frightened families. The covenant was sealed with land and silence, enforced by exposure, and still binding when Eli decided he could no longer live with it.\n\nSet against the bare-tree loneliness of the Appalachian autumn, The Blue Ridge Covenant is a novel about the long reach of wartime fear, the things communities bury together, and a veteran trying to understand what his brother died for — and who benefited.",
+  "main_characters": [
+    "Caleb Prater, 26, Pacific War veteran returning home",
+    "Wren Hensley, 24, Caleb's childhood friend, keeper of secrets",
+    "Earl Bowman, 51, sawmill owner and author of the covenant",
+    "Ida Prater, 52, Caleb's mother, frightened and complicit",
+    "Reverend Hammons, 64, the preacher who witnessed and blessed the covenant",
+    "Dory Prater, 28, Eli's widow, knowing more than she has said",
+    "Boone Calhoun, 38, Bowman's enforcer, unwilling to fully betray either side"
+  ],
+  "keywords": [
+    "Appalachian Gothic",
+    "post-war mystery",
+    "mountain hollow",
+    "land covenant",
+    "wartime secrets",
+    "North Carolina",
+    "1940s",
+    "veteran",
+    "community complicity",
+    "sawmill",
+    "Southern Gothic",
+    "historical fiction",
+    "family drama",
+    "murder mystery"
+  ],
+  "planned_chapters": 50,
+  "word_count": 22704,
+  "TXT_path": "books/The_Blue_Ridge_Covenant/txt/The_Blue_Ridge_Covenant.txt",
+  "EPUB_path": "books/The_Blue_Ridge_Covenant/epub/The_Blue_Ridge_Covenant.epub",
+  "cover_path": "books/The_Blue_Ridge_Covenant/covers/The_Blue_Ridge_Covenant.png",
+  "outline_path": "books/The_Blue_Ridge_Covenant/planning/The_Blue_Ridge_Covenant_outline.md",
+  "cover_script_path": "books/The_Blue_Ridge_Covenant/tools/create_cover.py",
+  "status": "complete_txt_epub_available"
+}

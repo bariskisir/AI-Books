@@ -1,0 +1,12 @@
+file,path,size_bytes,notes
+outline,books/The_Norsewoman/planning/The_Norsewoman_outline.md,7668,50-chapter outline with premise and cast
+manuscript,books/The_Norsewoman/txt/The_Norsewoman.txt,109321,Full 50-chapter manuscript ~19684 words
+epub,books/The_Norsewoman/epub/The_Norsewoman.epub,287556,EPUB 3 with cover image and styled chapters
+cover_png,books/The_Norsewoman/covers/The_Norsewoman.png,125541,1600x2560 PNG cover art
+metadata,books/The_Norsewoman/metadata/The_Norsewoman_metadata.json,2652,Production metadata JSON
+build_epub,books/The_Norsewoman/tools/build_epub.py,8361,EPUB build script (generic)
+create_cover,books/The_Norsewoman/tools/create_cover.py,18032,Book-specific cover generation script
+readme,books/The_Norsewoman/README.md,2379,Per-book README
+final_report,books/The_Norsewoman/reports/final_report.md,2376,Production summary
+manifest,books/The_Norsewoman/reports/manifest.csv,0,This file
+progress,books/The_Norsewoman/reports/progress.md,0,Status tracker

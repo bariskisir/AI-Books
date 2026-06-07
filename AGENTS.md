@@ -354,6 +354,11 @@ Books are listed in order of addition — oldest first, newest last. Always appe
 | `books/The_Glass_Lantern/` | Literary Fiction / Historical Mystery | 50 | Complete |
 | `books/The_Fig_Collector/` | Literary Fiction / Travel Narrative / Botanical Fiction | 50 | Complete |
 | `books/The_Dyers_Hand/` | Literary Fiction / Historical Fiction / Craft Narrative | 50 | Complete |
+| `books/The_Norsewoman/` | Viking Historical Fiction | 50 | Complete |
+| `books/The_Pearl_Lagoon/` | Pacific Island Historical Fiction / Colonial Drama | 50 | Complete |
+| `books/The_Blue_Ridge_Covenant/` | Appalachian Gothic | 50 | Complete |
+| `books/The_Hammam_of_Shadows/` | Ottoman Mystery | 50 | Complete |
+| `books/The_Fermentation_Master/` | Korean Literary Fiction / Craft Narrative | 50 | Complete |
 
 ## Git Workflow
 

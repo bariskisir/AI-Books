@@ -52,6 +52,7 @@ Click a cover to read online
 <tr><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Lantern_Index/epub/The_Lantern_Index.epub" target="_blank" title="The Lantern Index"><img src="books/The_Lantern_Index/covers/The_Lantern_Index.png" alt="The Lantern Index" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Falconers_Knot/epub/The_Falconers_Knot.epub" target="_blank" title="The Falconer's Knot"><img src="books/The_Falconers_Knot/covers/The_Falconers_Knot.png" alt="The Falconer's Knot" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Copper_Saint/epub/The_Copper_Saint.epub" target="_blank" title="The Copper Saint"><img src="books/The_Copper_Saint/covers/The_Copper_Saint.png" alt="The Copper Saint" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Driftwood_Court/epub/The_Driftwood_Court.epub" target="_blank" title="The Driftwood Court"><img src="books/The_Driftwood_Court/covers/The_Driftwood_Court.png" alt="The Driftwood Court" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Rainmakers_Ledger/epub/The_Rainmakers_Ledger.epub" target="_blank" title="The Rainmaker&#x27;s Ledger"><img src="books/The_Rainmakers_Ledger/covers/The_Rainmakers_Ledger.png" alt="The Rainmaker&#x27;s Ledger" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td></tr>
 <tr><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Silent_Observatory/epub/The_Silent_Observatory.epub" target="_blank" title="The Silent Observatory"><img src="books/The_Silent_Observatory/covers/The_Silent_Observatory.png" alt="The Silent Observatory" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Harvest_of_Ashes/epub/The_Harvest_of_Ashes.epub" target="_blank" title="The Harvest of Ashes"><img src="books/The_Harvest_of_Ashes/covers/The_Harvest_of_Ashes.png" alt="The Harvest of Ashes" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Gilded_Ferry/epub/The_Gilded_Ferry.epub" target="_blank" title="The Gilded Ferry"><img src="books/The_Gilded_Ferry/covers/The_Gilded_Ferry.png" alt="The Gilded Ferry" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Amber_Signal/epub/The_Amber_Signal.epub" target="_blank" title="The Amber Signal"><img src="books/The_Amber_Signal/covers/The_Amber_Signal.png" alt="The Amber Signal" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Crystal_Frontier/epub/The_Crystal_Frontier.epub" target="_blank" title="The Crystal Frontier"><img src="books/The_Crystal_Frontier/covers/The_Crystal_Frontier.png" alt="The Crystal Frontier" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td></tr>
 <tr><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Mercy_Engine/epub/The_Mercy_Engine.epub" target="_blank" title="The Mercy Engine"><img src="books/The_Mercy_Engine/covers/The_Mercy_Engine.png" alt="The Mercy Engine" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Paper_Moon_Conspiracy/epub/The_Paper_Moon_Conspiracy.epub" target="_blank" title="The Paper Moon Conspiracy"><img src="books/The_Paper_Moon_Conspiracy/covers/The_Paper_Moon_Conspiracy.png" alt="The Paper Moon Conspiracy" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Glass_Lantern/epub/The_Glass_Lantern.epub" target="_blank" title="The Glass Lantern"><img src="books/The_Glass_Lantern/covers/The_Glass_Lantern.png" alt="The Glass Lantern" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Fig_Collector/epub/The_Fig_Collector.epub" target="_blank" title="The Fig Collector"><img src="books/The_Fig_Collector/covers/The_Fig_Collector.png" alt="The Fig Collector" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Dyers_Hand/epub/The_Dyers_Hand.epub" target="_blank" title="The Dyer's Hand"><img src="books/The_Dyers_Hand/covers/The_Dyers_Hand.png" alt="The Dyer's Hand" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td></tr>
+<tr><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Norsewoman/epub/The_Norsewoman.epub" target="_blank" title="The Norsewoman"><img src="books/The_Norsewoman/covers/The_Norsewoman.png" alt="The Norsewoman" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Pearl_Lagoon/epub/The_Pearl_Lagoon.epub" target="_blank" title="The Pearl Lagoon"><img src="books/The_Pearl_Lagoon/covers/The_Pearl_Lagoon.png" alt="The Pearl Lagoon" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Blue_Ridge_Covenant/epub/The_Blue_Ridge_Covenant.epub" target="_blank" title="The Blue Ridge Covenant"><img src="books/The_Blue_Ridge_Covenant/covers/The_Blue_Ridge_Covenant.png" alt="The Blue Ridge Covenant" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Hammam_of_Shadows/epub/The_Hammam_of_Shadows.epub" target="_blank" title="The Hammam of Shadows"><img src="books/The_Hammam_of_Shadows/covers/The_Hammam_of_Shadows.png" alt="The Hammam of Shadows" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Fermentation_Master/epub/The_Fermentation_Master.epub" target="_blank" title="The Fermentation Master"><img src="books/The_Fermentation_Master/covers/The_Fermentation_Master.png" alt="The Fermentation Master" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td></tr>
 </table>
 
 </details>
@@ -3291,6 +3292,81 @@ Click a cover to read online
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Dyers_Hand/epub/The_Dyers_Hand.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Dyers_Hand/epub/The_Dyers_Hand.epub)
 - Model: deepseek-v4-pro
+
+</details>
+
+<details>
+<summary><strong>The Norsewoman</strong></summary>
+
+<p>
+  <a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Norsewoman/epub/The_Norsewoman.epub">
+    <img src="books/The_Norsewoman/covers/The_Norsewoman.png" alt="Cover for The Norsewoman" width="240">
+  </a>
+</p>
+
+- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Norsewoman/epub/The_Norsewoman.epub)
+- [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Norsewoman/epub/The_Norsewoman.epub)
+- Model: opus-4.8
+
+</details>
+
+<details>
+<summary><strong>The Pearl Lagoon</strong></summary>
+
+<p>
+  <a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Pearl_Lagoon/epub/The_Pearl_Lagoon.epub">
+    <img src="books/The_Pearl_Lagoon/covers/The_Pearl_Lagoon.png" alt="Cover for The Pearl Lagoon" width="240">
+  </a>
+</p>
+
+- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Pearl_Lagoon/epub/The_Pearl_Lagoon.epub)
+- [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Pearl_Lagoon/epub/The_Pearl_Lagoon.epub)
+- Model: opus-4.8
+
+</details>
+
+<details>
+<summary><strong>The Blue Ridge Covenant</strong></summary>
+
+<p>
+  <a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Blue_Ridge_Covenant/epub/The_Blue_Ridge_Covenant.epub">
+    <img src="books/The_Blue_Ridge_Covenant/covers/The_Blue_Ridge_Covenant.png" alt="Cover for The Blue Ridge Covenant" width="240">
+  </a>
+</p>
+
+- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Blue_Ridge_Covenant/epub/The_Blue_Ridge_Covenant.epub)
+- [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Blue_Ridge_Covenant/epub/The_Blue_Ridge_Covenant.epub)
+- Model: opus-4.8
+
+</details>
+
+<details>
+<summary><strong>The Hammam of Shadows</strong></summary>
+
+<p>
+  <a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Hammam_of_Shadows/epub/The_Hammam_of_Shadows.epub">
+    <img src="books/The_Hammam_of_Shadows/covers/The_Hammam_of_Shadows.png" alt="Cover for The Hammam of Shadows" width="240">
+  </a>
+</p>
+
+- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Hammam_of_Shadows/epub/The_Hammam_of_Shadows.epub)
+- [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Hammam_of_Shadows/epub/The_Hammam_of_Shadows.epub)
+- Model: opus-4.8
+
+</details>
+
+<details>
+<summary><strong>The Fermentation Master</strong></summary>
+
+<p>
+  <a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Fermentation_Master/epub/The_Fermentation_Master.epub">
+    <img src="books/The_Fermentation_Master/covers/The_Fermentation_Master.png" alt="Cover for The Fermentation Master" width="240">
+  </a>
+</p>
+
+- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Fermentation_Master/epub/The_Fermentation_Master.epub)
+- [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Fermentation_Master/epub/The_Fermentation_Master.epub)
+- Model: opus-4.8
 
 </details>
 
