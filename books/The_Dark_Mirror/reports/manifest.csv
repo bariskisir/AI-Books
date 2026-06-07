@@ -1,0 +1,12 @@
+file,status
+books/The_Dark_Mirror/planning/The_Dark_Mirror_outline.md,complete
+books/The_Dark_Mirror/txt/The_Dark_Mirror.txt,complete
+books/The_Dark_Mirror/covers/The_Dark_Mirror.png,complete
+books/The_Dark_Mirror/epub/The_Dark_Mirror.epub,complete
+books/The_Dark_Mirror/metadata/The_Dark_Mirror_metadata.json,complete
+books/The_Dark_Mirror/tools/build_epub.py,complete
+books/The_Dark_Mirror/tools/create_cover.py,complete
+books/The_Dark_Mirror/reports/final_report.md,complete
+books/The_Dark_Mirror/reports/manifest.csv,complete
+books/The_Dark_Mirror/reports/progress.md,complete
+books/The_Dark_Mirror/README.md,complete

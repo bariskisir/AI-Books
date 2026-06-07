@@ -359,6 +359,11 @@ Books are listed in order of addition — oldest first, newest last. Always appe
 | `books/The_Blue_Ridge_Covenant/` | Appalachian Gothic | 50 | Complete |
 | `books/The_Hammam_of_Shadows/` | Ottoman Mystery | 50 | Complete |
 | `books/The_Fermentation_Master/` | Korean Literary Fiction / Craft Narrative | 50 | Complete |
+| `books/The_Thousand_Faces/` | Psychological Suspense / Clinical Psychology | 50 | Complete |
+| `books/The_Glass_Self/` | Psychological Horror / Cotard Delusion | 50 | Complete |
+| `books/The_Dark_Mirror/` | Psychological Fiction / NPD | 50 | Complete |
+| `books/The_Fragile_Mind/` | Psychological Fiction / DID | 50 | Complete |
+| `books/The_Weight_of_Silence/` | Psychological Thriller / Forensic Psychology | 50 | Complete |
 
 ## Git Workflow
 
