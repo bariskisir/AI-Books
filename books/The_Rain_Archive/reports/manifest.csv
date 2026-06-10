@@ -1,0 +1,11 @@
+filename,type,size_estimate,status,notes
+The_Rain_Archive_outline.md,planning,6KB,complete,50-chapter outline with premise and adult cast
+The_Rain_Archive.txt,manuscript,137KB,complete,50 chapter manuscript
+The_Rain_Archive_metadata.json,metadata,3KB,complete,Full metadata; model gpt-5.5
+The_Rain_Archive.png,cover,76KB,complete,Custom metadata-driven cover imagery
+The_Rain_Archive.epub,ebook,253KB,complete,EPUB 3 built and validated
+build_epub.py,tool,8KB,complete,EPUB build script copied from The_Petrified_Sea
+create_cover.py,tool,11KB,complete,Custom cover generation script
+final_report.md,report,1KB,complete,Final production report
+progress.md,report,1KB,complete,Session progress log
+README.md,documentation,3KB,complete,Per-book README

@@ -374,6 +374,9 @@ Books are listed in order of addition — oldest first, newest last. Always appe
 | `books/The_Ember_Cartographer/` | Volcanic Expedition Adventure | 50 | Complete |
 | `books/The_Petrified_Sea/` | Paleontological Historical Fiction | 50 | Complete |
 
+| `books/The_Rain_Archive/` | Climate Noir / Water Rights Mystery | 50 | Complete |
+| `books/The_Silent_Vowels/` | Forensic Linguistics Mystery / Courtroom Suspense | 50 | Complete |
+
 ## Git Workflow
 
 - Branch from master for new work.

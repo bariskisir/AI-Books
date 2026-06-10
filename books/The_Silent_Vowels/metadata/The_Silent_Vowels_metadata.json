@@ -1,0 +1,44 @@
+{
+  "title": "The Silent Vowels",
+  "author": "Barış Kısır",
+  "genre": "Forensic Linguistics Mystery",
+  "subgenre": "Courtroom Suspense",
+  "language": "en",
+  "status": "complete_txt_epub_available",
+  "published_date": "2026-06-10",
+  "model": "gpt-5.5",
+  "short_description": "A forensic linguist challenges a kidnapping prosecution built on a recording whose missing vowel points to another speaker.",
+  "long_description": "Dr. Leila Arman has spent her career teaching courts that speech is not a fingerprint and certainty is not a virtue. When public defender Jonah Mire brings her a ransom recording from a coastal city trial, she hears a vowel that cannot belong to the accused dock electrician, and a silence where a breath has been cut out.\n\nThe transcript has made one voice clean. The recording is not clean. It carries market cadences, ferry noise, a private lab’s edits, and the pressure placed on an interpreter told to smooth language into evidence. As Leila maps the mouth behind the sound, the case becomes a fight over who gets heard in court and what is lost when dialect is treated as error.",
+  "main_characters": [
+    "Dr. Leila Arman - Adult forensic linguist who measures speech without pretending measurement is certainty.",
+    "Jonah Mire - Adult public defender risking his position on one difficult audio motion.",
+    "Sami Koray - Adult dock electrician accused by a recording he refuses to explain.",
+    "Derya Solak - Adult court interpreter whose private notes preserve the variants police erased.",
+    "Kemal Sayer - Adult prosecutor whose gift for plain speech hides procedural rot.",
+    "Nermin Koray - Adult aunt who hears a family nickname in the disputed tape.",
+    "Rafi Benal - Adult private lab owner whose edits made a second voice look like one."
+  ],
+  "keywords": [
+    "forensic linguistics",
+    "courtroom suspense",
+    "audio evidence",
+    "dialect",
+    "translation",
+    "spectrogram",
+    "public defender",
+    "wrongful accusation",
+    "coastal city",
+    "language justice"
+  ],
+  "word_count": 21202,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Silent_Vowels/txt/The_Silent_Vowels.txt",
+  "EPUB_path": "books/The_Silent_Vowels/epub/The_Silent_Vowels.epub",
+  "paths": {
+    "outline": "books/The_Silent_Vowels/planning/The_Silent_Vowels_outline.md",
+    "manuscript": "books/The_Silent_Vowels/txt/The_Silent_Vowels.txt",
+    "epub": "books/The_Silent_Vowels/epub/The_Silent_Vowels.epub",
+    "cover": "books/The_Silent_Vowels/covers/The_Silent_Vowels.png",
+    "metadata": "books/The_Silent_Vowels/metadata/The_Silent_Vowels_metadata.json"
+  }
+}

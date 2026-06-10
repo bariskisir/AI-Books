@@ -1,0 +1,44 @@
+{
+  "title": "The Rain Archive",
+  "author": "Barış Kısır",
+  "genre": "Climate Noir",
+  "subgenre": "Water Rights Mystery",
+  "language": "en",
+  "status": "complete_txt_epub_available",
+  "published_date": "2026-06-10",
+  "model": "gpt-5.5",
+  "short_description": "A drought-city archivist uncovers falsified rainfall records that have quietly transferred public water to private groves.",
+  "long_description": "In the dry basin city of Las Lomas, rain is not only weather. It is law, debt, ration, memory, and title. Municipal archivist Mara Venn tends eighty years of handwritten gauges and field sheets until a records clerk dies beside an empty rain gauge and the digital archive begins contradicting the jars of roof water citizens bring to her desk.\n\nThe official record says July was dry. The cisterns say otherwise. As Mara follows ledger scars, checksum errors, canal valves, and erased neighborhoods, she uncovers a water-rights fraud large enough to reorder the city under emergency powers. The fight becomes a question of custody: who gets to say whether rain happened, and what a city owes the people who measured it honestly.",
+  "main_characters": [
+    "Mara Venn - Adult municipal archivist who trusts paper records because paper shows damage.",
+    "Tomas Reza - Adult pump mechanic and former canal diver who knows where the city hides its valves.",
+    "Imani Cho - Adult investigative reporter who treats invoices as weather instruments.",
+    "Alma Ruiz - Adult dryland farmer with cistern jars, receipts, and no patience for polished lies.",
+    "Soren Vale - Adult database engineer whose migration work helped conceal the fraud.",
+    "Mayor Celia Marr - Adult city executive protecting an emergency water regime.",
+    "Dr. Elian Park - Adult retired hydrologist who explains the legal memory of rain."
+  ],
+  "keywords": [
+    "climate noir",
+    "water rights",
+    "archive",
+    "drought",
+    "municipal corruption",
+    "rainfall records",
+    "hydrology",
+    "near future",
+    "legal memory",
+    "public evidence"
+  ],
+  "word_count": 24382,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Rain_Archive/txt/The_Rain_Archive.txt",
+  "EPUB_path": "books/The_Rain_Archive/epub/The_Rain_Archive.epub",
+  "paths": {
+    "outline": "books/The_Rain_Archive/planning/The_Rain_Archive_outline.md",
+    "manuscript": "books/The_Rain_Archive/txt/The_Rain_Archive.txt",
+    "epub": "books/The_Rain_Archive/epub/The_Rain_Archive.epub",
+    "cover": "books/The_Rain_Archive/covers/The_Rain_Archive.png",
+    "metadata": "books/The_Rain_Archive/metadata/The_Rain_Archive_metadata.json"
+  }
+}
