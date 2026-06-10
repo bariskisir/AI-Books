@@ -372,6 +372,7 @@ Books are listed in order of addition — oldest first, newest last. Always appe
 | `books/The_Moonlit_Apothecary/` | Botanical Gothic Mystery | 50 | Complete |
 | `books/The_Sundial_Cipher/` | Renaissance Cryptography Thriller | 50 | Complete |
 | `books/The_Ember_Cartographer/` | Volcanic Expedition Adventure | 50 | Complete |
+| `books/The_Petrified_Sea/` | Paleontological Historical Fiction | 50 | Complete |
 
 ## Git Workflow
 

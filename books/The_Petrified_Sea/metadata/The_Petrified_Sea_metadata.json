@@ -1,0 +1,47 @@
+{
+  "title": "The Petrified Sea",
+  "author": "Barış Kısır",
+  "genre": "Paleontological Historical Fiction",
+  "subgenre": "Frontier Science Drama",
+  "language": "en",
+  "status": "complete_txt_epub_available",
+  "published_date": "2026-06-10",
+  "model": "fable-5",
+  "short_description": "In 1870s Kansas, a widowed schoolteacher caught between two feuding fossil barons discovers a complete sea monster in a homesteader's bluff — and must decide whose name the bones will carry.",
+  "long_description": "The chalk bluffs of western Kansas are the floor of a vanished ocean, and in 1876 two famous men are at war over its dead. Professor Hiram Ordway of Aldermont College and Dr. Lucius Pratt of Philadelphia race to strip the badlands of sea-reptile bones — bribing telegraph operators, salting each other's quarries, and naming species by wire. Eleanor \"Nell\" Granger, a widowed schoolteacher who taught herself anatomy from a borrowed book and draws fossils with a surveyor's precision, is hired into Ordway's crew as a field illustrator. Then a storm opens a bluff on a grieving homesteader's land and shows her what neither man has: a complete giant mosasaur, its jaws closed on the paddle of its last meal.\n\nThe find could end the feud or feed it. As the rival camps collide over clouded railroad land titles, flash floods, and a quarry collapse, Nell's honest field journal becomes the only true record in a war of liars — and the ground itself becomes hers to stand on. A novel about deep time and small honesty, about what institutions take and what neighbors build, and about who gets to write the label.",
+  "main_characters": [
+    "Eleanor \"Nell\" Granger - A widowed schoolteacher and self-taught fossil illustrator whose exacting eye and honest journal decide the war",
+    "Professor Hiram Ordway - A cold, wealthy Connecticut paleontologist obsessed with priority of naming",
+    "Dr. Lucius Pratt - A brilliant, hasty Philadelphia naturalist haunted by one famous public blunder",
+    "Silas Decker - Ordway's field foreman, a former buffalo hunter who trusts measurement over glory",
+    "Dane Hollis - A hailed-out homesteader whose land holds the bluff, grieving his wife Martha",
+    "Reverend Jacob Mott - A frontier preacher wrestling deep time into his faith",
+    "August \"Gus\" Tilley - Pratt's young collector, too decent for the feud he serves",
+    "Dr. Emil Brandt - An elderly Philadelphia anatomist, the last courteous man in American science"
+  ],
+  "keywords": [
+    "paleontology",
+    "bone wars",
+    "historical fiction",
+    "Kansas",
+    "fossils",
+    "mosasaur",
+    "frontier",
+    "women in science",
+    "19th century",
+    "museum",
+    "homestead",
+    "deep time"
+  ],
+  "word_count": 36562,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Petrified_Sea/txt/The_Petrified_Sea.txt",
+  "EPUB_path": "books/The_Petrified_Sea/epub/The_Petrified_Sea.epub",
+  "paths": {
+    "outline": "books/The_Petrified_Sea/planning/The_Petrified_Sea_outline.md",
+    "manuscript": "books/The_Petrified_Sea/txt/The_Petrified_Sea.txt",
+    "epub": "books/The_Petrified_Sea/epub/The_Petrified_Sea.epub",
+    "cover": "books/The_Petrified_Sea/covers/The_Petrified_Sea.png",
+    "metadata": "books/The_Petrified_Sea/metadata/The_Petrified_Sea_metadata.json"
+  }
+}
