@@ -1,0 +1,12 @@
+filename,type,status,notes
+The_Ember_Cartographer_outline.md,planning,complete,50-chapter outline
+The_Ember_Cartographer.txt,manuscript,complete,50 chapters
+The_Ember_Cartographer_metadata.json,metadata,complete,Required metadata fields
+The_Ember_Cartographer.png,cover,complete,Custom generated cover
+The_Ember_Cartographer.epub,ebook,complete,EPUB 3 package
+build_epub.py,tool,complete,Metadata-aware EPUB builder
+create_cover.py,tool,complete,Book-specific cover generator
+final_report.md,report,complete,Final report
+progress.md,report,complete,Production log
+manifest.csv,report,complete,Inventory
+README.md,documentation,complete,Per-book README

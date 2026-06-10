@@ -1,0 +1,41 @@
+{
+  "title": "The Sundial Cipher",
+  "author": "Barış Kısır",
+  "genre": "Renaissance Cryptography Thriller",
+  "subgenre": "Historical Mystery / Clockwork Intrigue",
+  "language": "en",
+  "status": "complete_txt_epub_available",
+  "published_date": "2026-06-10",
+  "model": "gpt-5.5",
+  "short_description": "After her former tutor is found beneath the public sundial with a gear clenched in his hand, instrument maker Beatrice Sforza discovers that his last commission hides a cipher readable only by shadow at noon.",
+  "long_description": "After her former tutor is found beneath the public sundial with a gear clenched in his hand, instrument maker Beatrice Sforza discovers that his last commission hides a cipher readable only by shadow at noon. The code points to treasury fraud, a private militia, and a political murder planned for the feast day when every clock in the city will be reset.\n\nThe novel is a spare, dialogue-driven investigation built around adult characters, concrete work, and evidence that changes meaning under pressure. It follows its central investigator through fifty chapters of discovery, argument, pursuit, and public proof, with each chapter turning on a material clue rather than exposition.\n\nThe story emphasizes the ethics of records: who gets named, who gets erased, and what a careful person owes to the dead when institutions prefer a clean account.",
+  "main_characters": [
+    "Beatrice Sforza - an instrument maker whose precision masks a history of exile",
+    "Matteo Orsini - a printer who can set type faster than he can keep secrets",
+    "Captain Livia Renzi - a city guard officer loyal to law rather than faction",
+    "Girolamo Vettori - a banker who buys silence in sealed packets",
+    "Father Neri - a mathematician-priest who understands why the sundial was altered"
+  ],
+  "keywords": [
+    "Renaissance Cryptography Thriller",
+    "Historical Mystery / Clockwork Intrigue",
+    "mystery",
+    "literary suspense",
+    "adult cast",
+    "evidence",
+    "records",
+    "conspiracy"
+  ],
+  "word_count": 36151,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Sundial_Cipher/txt/The_Sundial_Cipher.txt",
+  "EPUB_path": "books/The_Sundial_Cipher/epub/The_Sundial_Cipher.epub",
+  "paths": {
+    "outline": "books/The_Sundial_Cipher/planning/The_Sundial_Cipher_outline.md",
+    "manuscript": "books/The_Sundial_Cipher/txt/The_Sundial_Cipher.txt",
+    "epub": "books/The_Sundial_Cipher/epub/The_Sundial_Cipher.epub",
+    "cover": "books/The_Sundial_Cipher/covers/The_Sundial_Cipher.png",
+    "metadata": "books/The_Sundial_Cipher/metadata/The_Sundial_Cipher_metadata.json"
+  },
+  "cover_scene": "sundial"
+}

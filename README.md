@@ -55,6 +55,7 @@ Click a cover to read online
 <tr><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Norsewoman/epub/The_Norsewoman.epub" target="_blank" title="The Norsewoman"><img src="books/The_Norsewoman/covers/The_Norsewoman.png" alt="The Norsewoman" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Pearl_Lagoon/epub/The_Pearl_Lagoon.epub" target="_blank" title="The Pearl Lagoon"><img src="books/The_Pearl_Lagoon/covers/The_Pearl_Lagoon.png" alt="The Pearl Lagoon" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Blue_Ridge_Covenant/epub/The_Blue_Ridge_Covenant.epub" target="_blank" title="The Blue Ridge Covenant"><img src="books/The_Blue_Ridge_Covenant/covers/The_Blue_Ridge_Covenant.png" alt="The Blue Ridge Covenant" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Hammam_of_Shadows/epub/The_Hammam_of_Shadows.epub" target="_blank" title="The Hammam of Shadows"><img src="books/The_Hammam_of_Shadows/covers/The_Hammam_of_Shadows.png" alt="The Hammam of Shadows" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Fermentation_Master/epub/The_Fermentation_Master.epub" target="_blank" title="The Fermentation Master"><img src="books/The_Fermentation_Master/covers/The_Fermentation_Master.png" alt="The Fermentation Master" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td></tr>
 <tr><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Glass_Self/epub/The_Glass_Self.epub" target="_blank" title="The Glass Self"><img src="books/The_Glass_Self/covers/The_Glass_Self.png" alt="The Glass Self" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Thousand_Faces/epub/The_Thousand_Faces.epub" target="_blank" title="The Thousand Faces"><img src="books/The_Thousand_Faces/covers/The_Thousand_Faces.png" alt="The Thousand Faces" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Dark_Mirror/epub/The_Dark_Mirror.epub" target="_blank" title="The Dark Mirror"><img src="books/The_Dark_Mirror/covers/The_Dark_Mirror.png" alt="The Dark Mirror" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Fragile_Mind/epub/The_Fragile_Mind.epub" target="_blank" title="The Fragile Mind"><img src="books/The_Fragile_Mind/covers/The_Fragile_Mind.png" alt="The Fragile Mind" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Weight_of_Silence/epub/The_Weight_of_Silence.epub" target="_blank" title="The Weight of Silence"><img src="books/The_Weight_of_Silence/covers/The_Weight_of_Silence.png" alt="The Weight of Silence" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td></tr>
 <tr><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Tessera_Bureau/epub/The_Tessera_Bureau.epub" target="_blank" title="The Tessera Bureau"><img src="books/The_Tessera_Bureau/covers/The_Tessera_Bureau.png" alt="The Tessera Bureau" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_House_With_Two_Skies/epub/The_House_With_Two_Skies.epub" target="_blank" title="The House With Two Skies"><img src="books/The_House_With_Two_Skies/covers/The_House_With_Two_Skies.png" alt="The House With Two Skies" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Color_of_Eight_Thoughts/epub/The_Color_of_Eight_Thoughts.epub" target="_blank" title="The Color of Eight Thoughts"><img src="books/The_Color_of_Eight_Thoughts/covers/The_Color_of_Eight_Thoughts.png" alt="The Color of Eight Thoughts" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Understory/epub/The_Understory.epub" target="_blank" title="The Understory"><img src="books/The_Understory/covers/The_Understory.png" alt="The Understory" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Marginalia/epub/The_Marginalia.epub" target="_blank" title="The Marginalia"><img src="books/The_Marginalia/covers/The_Marginalia.png" alt="The Marginalia" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td></tr>
+<tr><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Moonlit_Apothecary/epub/The_Moonlit_Apothecary.epub" target="_blank" title="The Moonlit Apothecary"><img src="books/The_Moonlit_Apothecary/covers/The_Moonlit_Apothecary.png" alt="The Moonlit Apothecary" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Sundial_Cipher/epub/The_Sundial_Cipher.epub" target="_blank" title="The Sundial Cipher"><img src="books/The_Sundial_Cipher/covers/The_Sundial_Cipher.png" alt="The Sundial Cipher" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td><td align="center" style="padding:0;line-height:0;vertical-align:top;"><a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Ember_Cartographer/epub/The_Ember_Cartographer.epub" target="_blank" title="The Ember Cartographer"><img src="books/The_Ember_Cartographer/covers/The_Ember_Cartographer.png" alt="The Ember Cartographer" width="150" loading="lazy" style="display:block;margin:0;border-radius:0;box-shadow:none;"></a></td></tr>
 </table>
 
 </details>
@@ -3519,6 +3520,51 @@ Click a cover to read online
 - [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Marginalia/epub/The_Marginalia.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Marginalia/epub/The_Marginalia.epub)
 - Model: haiku-4.5
+
+</details>
+
+<details>
+<summary><strong>The Moonlit Apothecary</strong></summary>
+
+<p>
+  <a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Moonlit_Apothecary/epub/The_Moonlit_Apothecary.epub">
+    <img src="books/The_Moonlit_Apothecary/covers/The_Moonlit_Apothecary.png" alt="Cover for The Moonlit Apothecary" width="240">
+  </a>
+</p>
+
+- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Moonlit_Apothecary/epub/The_Moonlit_Apothecary.epub)
+- [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Moonlit_Apothecary/epub/The_Moonlit_Apothecary.epub)
+- Model: gpt-5.5
+
+</details>
+
+<details>
+<summary><strong>The Sundial Cipher</strong></summary>
+
+<p>
+  <a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Sundial_Cipher/epub/The_Sundial_Cipher.epub">
+    <img src="books/The_Sundial_Cipher/covers/The_Sundial_Cipher.png" alt="Cover for The Sundial Cipher" width="240">
+  </a>
+</p>
+
+- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Sundial_Cipher/epub/The_Sundial_Cipher.epub)
+- [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Sundial_Cipher/epub/The_Sundial_Cipher.epub)
+- Model: gpt-5.5
+
+</details>
+
+<details>
+<summary><strong>The Ember Cartographer</strong></summary>
+
+<p>
+  <a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Ember_Cartographer/epub/The_Ember_Cartographer.epub">
+    <img src="books/The_Ember_Cartographer/covers/The_Ember_Cartographer.png" alt="Cover for The Ember Cartographer" width="240">
+  </a>
+</p>
+
+- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Ember_Cartographer/epub/The_Ember_Cartographer.epub)
+- [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Ember_Cartographer/epub/The_Ember_Cartographer.epub)
+- Model: gpt-5.5
 
 </details>
 

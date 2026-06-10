@@ -1,0 +1,41 @@
+{
+  "title": "The Ember Cartographer",
+  "author": "Barış Kısır",
+  "genre": "Volcanic Expedition Adventure",
+  "subgenre": "Scientific Adventure / Cartographic Mystery",
+  "language": "en",
+  "status": "complete_txt_epub_available",
+  "published_date": "2026-06-10",
+  "model": "gpt-5.5",
+  "short_description": "Cartographer Sera Halden is hired to revise imperial maps after a new crater opens on the island of Anaga.",
+  "long_description": "Cartographer Sera Halden is hired to revise imperial maps after a new crater opens on the island of Anaga. The old charts show a village officials insist never existed, while ashfall reveals roads, shrines, and survey stones buried by a previous eruption. Sera leads a small expedition through lava fields to recover the truth before the military uses the volcano as cover for annexation.\n\nThe novel is a spare, dialogue-driven investigation built around adult characters, concrete work, and evidence that changes meaning under pressure. It follows its central investigator through fifty chapters of discovery, argument, pursuit, and public proof, with each chapter turning on a material clue rather than exposition.\n\nThe story emphasizes the ethics of records: who gets named, who gets erased, and what a careful person owes to the dead when institutions prefer a clean account.",
+  "main_characters": [
+    "Sera Halden - a cartographer who believes a blank space is never innocent",
+    "Tomas Aru - an island guide whose family history was erased from official maps",
+    "Dr. Celia March - a volcanologist reading danger in tremors and glass",
+    "Major Edwin Pike - an imperial officer turning survey lines into claims",
+    "Nico Vale - a photographer whose plates catch evidence others miss"
+  ],
+  "keywords": [
+    "Volcanic Expedition Adventure",
+    "Scientific Adventure / Cartographic Mystery",
+    "mystery",
+    "literary suspense",
+    "adult cast",
+    "evidence",
+    "records",
+    "conspiracy"
+  ],
+  "word_count": 35574,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Ember_Cartographer/txt/The_Ember_Cartographer.txt",
+  "EPUB_path": "books/The_Ember_Cartographer/epub/The_Ember_Cartographer.epub",
+  "paths": {
+    "outline": "books/The_Ember_Cartographer/planning/The_Ember_Cartographer_outline.md",
+    "manuscript": "books/The_Ember_Cartographer/txt/The_Ember_Cartographer.txt",
+    "epub": "books/The_Ember_Cartographer/epub/The_Ember_Cartographer.epub",
+    "cover": "books/The_Ember_Cartographer/covers/The_Ember_Cartographer.png",
+    "metadata": "books/The_Ember_Cartographer/metadata/The_Ember_Cartographer_metadata.json"
+  },
+  "cover_scene": "volcano"
+}

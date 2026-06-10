@@ -369,6 +369,9 @@ Books are listed in order of addition — oldest first, newest last. Always appe
 | `books/The_Color_of_Eight_Thoughts/` | Literary Fiction / Non-Human POV | 50 | Complete |
 | `books/The_Understory/` | Literary Fiction / Ecological Non-Human POV | 50 | Complete |
 | `books/The_Marginalia/` | Medieval Manuscript Mystery | 50 | Complete |
+| `books/The_Moonlit_Apothecary/` | Botanical Gothic Mystery | 50 | Complete |
+| `books/The_Sundial_Cipher/` | Renaissance Cryptography Thriller | 50 | Complete |
+| `books/The_Ember_Cartographer/` | Volcanic Expedition Adventure | 50 | Complete |
 
 ## Git Workflow
 

@@ -1,0 +1,41 @@
+{
+  "title": "The Moonlit Apothecary",
+  "author": "Barış Kısır",
+  "genre": "Botanical Gothic Mystery",
+  "subgenre": "Apothecary Suspense / Historical Gothic",
+  "language": "en",
+  "status": "complete_txt_epub_available",
+  "published_date": "2026-06-10",
+  "model": "gpt-5.5",
+  "short_description": "In a border town famous for healing waters, apothecary Elian Voss inherits a locked moon garden and a ledger of night-blooming plants.",
+  "long_description": "In a border town famous for healing waters, apothecary Elian Voss inherits a locked moon garden and a ledger of night-blooming plants. When patients recover from impossible ailments and then die in precise lunar intervals, Elian joins a skeptical physician and a disgraced constable to trace a poison through family debt, civic pride, and a charitable hospital built over an older crime.\n\nThe novel is a spare, dialogue-driven investigation built around adult characters, concrete work, and evidence that changes meaning under pressure. It follows its central investigator through fifty chapters of discovery, argument, pursuit, and public proof, with each chapter turning on a material clue rather than exposition.\n\nThe story emphasizes the ethics of records: who gets named, who gets erased, and what a careful person owes to the dead when institutions prefer a clean account.",
+  "main_characters": [
+    "Elian Voss - a careful apothecary who trusts plants more than public men",
+    "Dr. Mara Celyn - a practical physician whose clinic receives the first impossible cures",
+    "Inspector Rowan Vale - a dismissed constable trying to prove his last case was not madness",
+    "Sister Adela Pryce - the hospital matron who knows which records were burned",
+    "Ivor March - a hotel owner whose fortune depends on the town's reputation for health"
+  ],
+  "keywords": [
+    "Botanical Gothic Mystery",
+    "Apothecary Suspense / Historical Gothic",
+    "mystery",
+    "literary suspense",
+    "adult cast",
+    "evidence",
+    "records",
+    "conspiracy"
+  ],
+  "word_count": 35572,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Moonlit_Apothecary/txt/The_Moonlit_Apothecary.txt",
+  "EPUB_path": "books/The_Moonlit_Apothecary/epub/The_Moonlit_Apothecary.epub",
+  "paths": {
+    "outline": "books/The_Moonlit_Apothecary/planning/The_Moonlit_Apothecary_outline.md",
+    "manuscript": "books/The_Moonlit_Apothecary/txt/The_Moonlit_Apothecary.txt",
+    "epub": "books/The_Moonlit_Apothecary/epub/The_Moonlit_Apothecary.epub",
+    "cover": "books/The_Moonlit_Apothecary/covers/The_Moonlit_Apothecary.png",
+    "metadata": "books/The_Moonlit_Apothecary/metadata/The_Moonlit_Apothecary_metadata.json"
+  },
+  "cover_scene": "apothecary"
+}
