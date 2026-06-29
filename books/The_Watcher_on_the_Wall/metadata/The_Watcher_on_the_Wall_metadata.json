@@ -42,5 +42,6 @@
   "short_description": "At a frozen fortress on the edge of alien territory, a watch soldier suspects the enemy is already inside the walls.",
   "long_description": "On the frozen planet Ostrac, Private Elias Kane stands watch at The Spire, a black-ice fortress built to hold the line against the silent alien Hush. When supplies spoil, soldiers whisper in dead languages, and shadows move where nothing should live, Kane realizes the enemy may already be inside the walls.\n\nThe Watcher on the Wall is a military science fiction thriller about siege, paranoia, and the cost of recognizing an infiltrator that learns by becoming human.",
   "cover_path": "books/The_Watcher_on_the_Wall/covers/The_Watcher_on_the_Wall.png",
-  "EPUB_path": "books/The_Watcher_on_the_Wall/epub/The_Watcher_on_the_Wall.epub"
+  "EPUB_path": "books/The_Watcher_on_the_Wall/epub/The_Watcher_on_the_Wall.epub",
+  "TXT_path": "books/The_Watcher_on_the_Wall/txt/The_Watcher_on_the_Wall.txt"
 }

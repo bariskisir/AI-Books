@@ -40,5 +40,6 @@
   "subgenre": "Coastal Literary",
   "short_description": "A marine biologist on Monhegan Island must protect a hidden aquatic species from scientific exploitation.",
   "cover_path": "books/The_Mermaid_of_Monhegan/covers/The_Mermaid_of_Monhegan.png",
-  "EPUB_path": "books/The_Mermaid_of_Monhegan/epub/The_Mermaid_of_Monhegan.epub"
+  "EPUB_path": "books/The_Mermaid_of_Monhegan/epub/The_Mermaid_of_Monhegan.epub",
+  "TXT_path": "books/The_Mermaid_of_Monhegan/txt/The_Mermaid_of_Monhegan.txt"
 }

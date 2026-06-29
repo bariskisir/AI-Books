@@ -17,8 +17,8 @@ FONT_DIR = Path("C:/Windows/Fonts")
 W, H = 1600, 2560
 
 
-PALE = (244, 249, 238)
-MUTED = (184, 215, 207)
+PALE = (50, 48, 42)
+MUTED = (88, 76, 58)
 
 
 def font(name: str, size: int) -> ImageFont.FreeTypeFont:
@@ -331,7 +331,7 @@ SCENES = {
 }
 
 
-def draw_title_block(img: Image.Image, title: str, author: str, book_number: str) -> None:
+def draw_title_block(img: Image.Image, title: str, author: str, book_number: str, model: str = "") -> None:
     draw = ImageDraw.Draw(img, "RGBA")
     title_font = font("arialbd.ttf", 116)
     if len(title) > 28:
@@ -340,14 +340,17 @@ def draw_title_block(img: Image.Image, title: str, author: str, book_number: str
     small_font = font("arial.ttf", 38)
     title_lines = wrap_text(draw, title.upper(), title_font, 1260)
 
-    draw.rectangle((0, 1765, W, H), fill=(4, 8, 14, 176))
-    draw.line((180, 1782, W - 180, 1782), fill=(160, 225, 209, 105), width=3)
+    draw.rectangle((0, 1765, W, H), fill=(235, 229, 214, 255))
+    draw.line((180, 1782, W - 180, 1782), fill=(94, 82, 66, 170), width=3)
     y = 1840
     y = centered_text(draw, y, ["THE MERIDIAN CYCLE", book_number], small_font, MUTED, 18, W)
     y += 70
     y = centered_text(draw, y, title_lines, title_font, PALE, 18, W)
     y += 120
-    centered_text(draw, y, [author], author_font, (210, 229, 221), 12, W)
+    centered_text(draw, y, [author], author_font, (88, 76, 58), 12, W)
+    if model:
+        mf = font("arial.ttf", 24)
+        centered_text(draw, H - 80, [model], mf, (112, 102, 84), 6, W)
 
 
 def make_cover(metadata_path: Path, output_path: Path) -> None:
@@ -362,7 +365,8 @@ def make_cover(metadata_path: Path, output_path: Path) -> None:
     img = background(top, bottom)
     scene(img, rng)
     img = add_glow(img, (360, 465, 1240, 1365), mix(top, bottom, 0.45), 95, 40)
-    draw_title_block(img, title, author, book_number)
+    model = metadata.get("model", "")
+    draw_title_block(img, title, author, book_number, model)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     img.convert("RGB").save(output_path, "PNG", optimize=True)

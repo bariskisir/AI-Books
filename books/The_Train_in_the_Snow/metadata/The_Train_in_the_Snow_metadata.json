@@ -77,5 +77,6 @@
   "subgenre": "Winter Mystery",
   "long_description": "When a luxury train is trapped by an avalanche in the Swiss Alps, a passenger is found dead in a locked compartment and every traveler seems to have an airtight alibi. Cut off from help by snow, suspicion, and old secrets, the stranded passengers must confront the blackmail and betrayals that brought them onto the same train.\n\nThe Train in the Snow is a winter mystery built around isolation, misdirection, and a murder that looks impossible until the storm strips every lie away.",
   "cover_path": "books/The_Train_in_the_Snow/covers/The_Train_in_the_Snow.png",
-  "EPUB_path": "books/The_Train_in_the_Snow/epub/The_Train_in_the_Snow.epub"
+  "EPUB_path": "books/The_Train_in_the_Snow/epub/The_Train_in_the_Snow.epub",
+  "TXT_path": "books/The_Train_in_the_Snow/txt/The_Train_in_the_Snow.txt"
 }

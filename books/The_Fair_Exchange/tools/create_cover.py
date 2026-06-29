@@ -10,6 +10,21 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
+
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
+from tools.cover_utils import (
+    _standard_cover_font,
+    _standard_cover_repair_text,
+    _standard_cover_wrap,
+    _standard_cover_center,
+    _standard_cover_title_font,
+    _standard_cover_metadata_from_locals,
+    _standard_cover_resolve_title,
+    _standard_cover_resolve_author,
+    _draw_standard_cover_title_panel,
+)
+
 WIDTH = 1600
 HEIGHT = 2560
 
@@ -100,27 +115,6 @@ def _standard_cover_resolve_author(local_vars):
             pass
     return "Barış Kısır"
 
-
-def _draw_standard_cover_title_panel(image, title="", author=""):
-    W = int(globals().get("WIDTH", 1600))
-    H = int(globals().get("HEIGHT", 2560))
-    PY = 1765
-    title = _standard_cover_repair_text(str(title or "")).strip()
-    author = _standard_cover_repair_text(str(author or "Barış Kısır")).strip()
-    draw = ImageDraw.Draw(image, "RGBA")
-    draw.rectangle((0, PY, W, H), fill=(3, 5, 8, 255))
-    draw.line((180, PY + 17, W - 180, PY + 17), fill=(160, 225, 209, 105), width=3)
-    tf, lines, tg = _standard_cover_title_font(draw, title, 1260)
-    af = _standard_cover_font("arialbd.ttf", 50)
-    th = sum(
-        draw.textbbox((0, 0), l, font=tf)[3] - draw.textbbox((0, 0), l, font=tf)[1] for l in lines
-    ) + max(0, len(lines) - 1) * tg
-    ab = draw.textbbox((0, 0), author, font=af)
-    ah = ab[3] - ab[1]
-    y = PY + 120 + max(0, (H - PY - 210 - (th + 120 + ah)) // 2)
-    y = _standard_cover_center(draw, y, lines, tf, (244, 249, 238), tg, W)
-    y += 120
-    _standard_cover_center(draw, y, [author], af, (210, 229, 221), 12, W)
 
 
 def create_cover(metadata_path: Path, output_path: Path) -> None:

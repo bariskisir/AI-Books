@@ -21,6 +21,21 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
+from tools.cover_utils import (
+    _standard_cover_font,
+    _standard_cover_repair_text,
+    _standard_cover_wrap,
+    _standard_cover_center,
+    _standard_cover_title_font,
+    _standard_cover_metadata_from_locals,
+    _standard_cover_resolve_title,
+    _standard_cover_resolve_author,
+    _draw_standard_cover_title_panel,
+)
+
+
 WIDTH = 1600
 HEIGHT = 2560
 ART_HEIGHT = 1765
@@ -323,96 +338,12 @@ def create_cover(metadata_path: str, out_path: str) -> None:
 # Standard cover helpers
 # ---------------------------------------------------------------------------
 
-def _standard_cover_font(name, size):
-    candidates = [name, "arial.ttf", "Arial.ttf", "DejaVuSans.ttf"]
-    if "bd" in name.lower() or "bold" in name.lower():
-        candidates = [name, "arialbd.ttf", "Arial Bold.ttf", "DejaVuSans-Bold.ttf", "DejaVuSans.ttf"]
-    for candidate in candidates:
-        try:
-            return ImageFont.truetype(candidate, size)
-        except OSError:
-            continue
-    return ImageFont.load_default()
-
-def _standard_cover_repair_text(text):
-    try:
-        return text.encode("latin1").decode("utf-8")
-    except Exception:
-        return text
-
-def _standard_cover_wrap(draw, text, font, max_width):
-    words = text.split()
-    lines = []
-    current = []
-    for word in words:
-        trial = " ".join(current + [word])
-        box = draw.textbbox((0, 0), trial, font=font)
-        if current and box[2] - box[0] > max_width:
-            lines.append(" ".join(current))
-            current = [word]
-        else:
-            current.append(word)
-    if current:
-        lines.append(" ".join(current))
-    return lines or [text]
-
-def _standard_cover_center(draw, y, lines, font, fill, gap, width):
-    for line in lines:
-        box = draw.textbbox((0, 0), line, font=font)
-        draw.text(((width - (box[2] - box[0])) // 2, y), line, font=font, fill=fill)
-        y += box[3] - box[1] + gap
-    return y
-
-def _standard_cover_title_font(draw, title, max_width):
-    for size in (116, 104, 96, 88, 80, 72, 66, 60):
-        font = _standard_cover_font("arialbd.ttf", size)
-        lines = _standard_cover_wrap(draw, title.upper(), font, max_width)
-        heights = [draw.textbbox((0, 0), line, font=font)[3] - draw.textbbox((0, 0), line, font=font)[1] for line in lines]
-        if len(lines) <= 4 and sum(heights) + max(0, len(lines) - 1) * 18 <= 430:
-            return font, lines, 18
-    font = _standard_cover_font("arialbd.ttf", 58)
-    return font, _standard_cover_wrap(draw, title.upper(), font, max_width), 14
-
-def _standard_cover_resolve_title(local_vars):
-    for key in ("title", "book_title", "TITLE"):
-        value = local_vars.get(key)
-        if value:
-            return value
-    return ""
-
-def _standard_cover_resolve_author(local_vars):
-    for key in ("author", "AUTHOR"):
-        value = local_vars.get(key)
-        if value:
-            return value
-    return "Barış Kısır"
-
-def _draw_standard_cover_title_panel(image, title="", author="", model=""):
-    title = _standard_cover_repair_text(str(title or "")).strip()
-    author = _standard_cover_repair_text(str(author or "Barış Kısır")).strip()
-    draw = ImageDraw.Draw(image, "RGBA")
-    py = 1765
-    draw.rectangle((0, py, 1600, 2560), fill=(12, 10, 8, 255))
-    draw.line((180, py + 17, 1420, py + 17), fill=(80, 100, 160, 125), width=3)
-    title_font, lines, gap = _standard_cover_title_font(draw, title, 1260)
-    author_font = _standard_cover_font("arialbd.ttf", 52)
-    title_height = sum(draw.textbbox((0, 0), line, font=title_font)[3] - draw.textbbox((0, 0), line, font=title_font)[1] for line in lines) + max(0, len(lines) - 1) * gap
-    author_height = draw.textbbox((0, 0), author, font=author_font)[3] - draw.textbbox((0, 0), author, font=author_font)[1]
-    y = py + 120 + max(0, (2560 - py - 230 - (title_height + 118 + author_height)) // 2)
-    y = _standard_cover_center(draw, y, lines, title_font, (200, 210, 230), gap, 1600) + 118
-    _standard_cover_center(draw, y, [author], author_font, (160, 168, 185), 12, 1600)
-    if model:
-        model_font = _standard_cover_font("arial.ttf", 36)
-        _standard_cover_center(draw, 2560 - 110, [model], model_font, (100, 110, 150), 12, 1600)
-
-
-# ---------------------------------------------------------------------------
-# Entry point
-# ---------------------------------------------------------------------------
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Generate cover for The Dark Mirror")
-    parser.add_argument("--metadata", required=True, help="Path to metadata JSON")
-    parser.add_argument("--out", required=True, help="Output PNG path")
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--metadata", required=True, type=Path)
+    parser.add_argument("--out", required=True, type=Path)
     args = parser.parse_args()
     create_cover(args.metadata, args.out)
+
+if __name__ == "__main__":
+    main()

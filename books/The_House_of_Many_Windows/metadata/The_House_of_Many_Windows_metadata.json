@@ -49,5 +49,6 @@
   "subgenre": "Architectural Thriller",
   "short_description": "A young architect discovers that a brutalist tower was designed as a city-sized surveillance instrument.",
   "cover_path": "books/The_House_of_Many_Windows/covers/The_House_of_Many_Windows.png",
-  "EPUB_path": "books/The_House_of_Many_Windows/epub/The_House_of_Many_Windows.epub"
+  "EPUB_path": "books/The_House_of_Many_Windows/epub/The_House_of_Many_Windows.epub",
+  "TXT_path": "books/The_House_of_Many_Windows/txt/The_House_of_Many_Windows.txt"
 }

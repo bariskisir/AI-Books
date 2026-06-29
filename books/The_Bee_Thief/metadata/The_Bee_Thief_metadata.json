@@ -41,5 +41,6 @@
   },
   "status": "complete_txt_epub_available",
   "cover_path": "books/The_Bee_Thief/covers/The_Bee_Thief.png",
-  "EPUB_path": "books/The_Bee_Thief/epub/The_Bee_Thief.epub"
+  "EPUB_path": "books/The_Bee_Thief/epub/The_Bee_Thief.epub",
+  "TXT_path": "books/The_Bee_Thief/txt/The_Bee_Thief.txt"
 }

@@ -11,6 +11,21 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
+from tools.cover_utils import (
+    _standard_cover_font,
+    _standard_cover_repair_text,
+    _standard_cover_wrap,
+    _standard_cover_center,
+    _standard_cover_title_font,
+    _standard_cover_metadata_from_locals,
+    _standard_cover_resolve_title,
+    _standard_cover_resolve_author,
+    _draw_standard_cover_title_panel,
+)
+
+
 WIDTH = 1600
 HEIGHT = 2560
 TITLE = "The Gilded Ferry"
@@ -53,6 +68,7 @@ def create_cover(metadata_path, out_path):
     metadata = json.loads(Path(metadata_path).read_text(encoding="utf-8"))
     title = metadata.get("title", TITLE)
     author = metadata.get("author", "Barış Kısır")
+    model = metadata.get("model", "")
     image = Image.new("RGB", (WIDTH, HEIGHT), PALETTE[0])
     draw = ImageDraw.Draw(image, "RGBA")
     _draw_scene(draw, image)
@@ -60,119 +76,6 @@ def create_cover(metadata_path, out_path):
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)
     image.save(out_path)
 
-
-def _standard_cover_font(name, size):
-    candidates = [name, "arial.ttf", "Arial.ttf", "DejaVuSans.ttf"]
-    if "bd" in name.lower() or "bold" in name.lower():
-        candidates = [name, "arialbd.ttf", "Arial Bold.ttf", "DejaVuSans-Bold.ttf", "DejaVuSans.ttf"]
-    for candidate in candidates:
-        try:
-            return ImageFont.truetype(candidate, size)
-        except OSError:
-            continue
-    return ImageFont.load_default()
-
-
-def _standard_cover_repair_text(text):
-    try:
-        return text.encode("latin1").decode("utf-8")
-    except Exception:
-        return text
-
-
-def _standard_cover_wrap(draw, text, font, max_width):
-    words = text.split()
-    lines = []
-    current = []
-    for word in words:
-        trial = " ".join(current + [word])
-        box = draw.textbbox((0, 0), trial, font=font)
-        if current and box[2] - box[0] > max_width:
-            lines.append(" ".join(current))
-            current = [word]
-        else:
-            current.append(word)
-    if current:
-        lines.append(" ".join(current))
-    return lines or [text]
-
-
-def _standard_cover_center(draw, y, lines, font, fill, gap, width):
-    for line in lines:
-        box = draw.textbbox((0, 0), line, font=font)
-        draw.text(((width - (box[2] - box[0])) // 2, y), line, font=font, fill=fill)
-        y += box[3] - box[1] + gap
-    return y
-
-
-def _standard_cover_title_font(draw, title, max_width):
-    for size in (116, 104, 96, 88, 80, 72, 66, 60):
-        font = _standard_cover_font("arialbd.ttf", size)
-        lines = _standard_cover_wrap(draw, title.upper(), font, max_width)
-        heights = [draw.textbbox((0, 0), line, font=font)[3] - draw.textbbox((0, 0), line, font=font)[1] for line in lines]
-        if len(lines) <= 4 and sum(heights) + max(0, len(lines) - 1) * 18 <= 430:
-            return font, lines, 18
-    font = _standard_cover_font("arialbd.ttf", 58)
-    return font, _standard_cover_wrap(draw, title.upper(), font, max_width), 14
-
-
-def _standard_cover_metadata_from_locals(local_vars):
-    for key in ("metadata", "meta", "data", "book", "book_data"):
-        value = local_vars.get(key)
-        if isinstance(value, dict):
-            return value
-    return {}
-
-
-def _standard_cover_resolve_title(local_vars):
-    for key in ("title", "book_title", "TITLE"):
-        value = local_vars.get(key)
-        if value:
-            return value
-    metadata = _standard_cover_metadata_from_locals(local_vars)
-    return metadata.get("title", "")
-
-
-def _standard_cover_resolve_author(local_vars):
-    for key in ("author", "AUTHOR"):
-        value = local_vars.get(key)
-        if value:
-            return value
-    metadata = _standard_cover_metadata_from_locals(local_vars)
-    return metadata.get("author", "Barış Kısır")
-
-
-def _standard_cover_resolve_model(local_vars):
-    for key in ("model", "mo", "MODEL"):
-        value = local_vars.get(key)
-        if value:
-            return value
-    metadata = _standard_cover_metadata_from_locals(local_vars)
-    value = metadata.get("model")
-    if value:
-        return value
-    return ""
-
-
-def _draw_standard_cover_title_panel(image, title="", author="", model=""):
-    title = _standard_cover_repair_text(str(title or "")).strip()
-    author = _standard_cover_repair_text(str(author or "Bar?? K?s?r")).strip()
-    draw = ImageDraw.Draw(image, "RGBA")
-    py = 1765
-    draw.rectangle((0, py, WIDTH, HEIGHT), fill=(12, 10, 8, 255))
-    draw.line((180, py + 17, WIDTH - 180, py + 17), fill=(218, 181, 107, 125), width=3)
-    title_font, lines, gap = _standard_cover_title_font(draw, title, 1260)
-    author_font = _standard_cover_font("arialbd.ttf", 52)
-    title_height = sum(draw.textbbox((0, 0), line, font=title_font)[3] - draw.textbbox((0, 0), line, font=title_font)[1] for line in lines) + max(0, len(lines) - 1) * gap
-    author_height = draw.textbbox((0, 0), author, font=author_font)[3] - draw.textbbox((0, 0), author, font=author_font)[1]
-    y = py + 120 + max(0, (HEIGHT - py - 230 - (title_height + 118 + author_height)) // 2)
-    y = _standard_cover_center(draw, y, lines, title_font, (242, 228, 198), gap, WIDTH) + 118
-    _standard_cover_center(draw, y, [author], author_font, (208, 190, 154), 12, WIDTH)
-    if not model:
-        model = _standard_cover_resolve_model(locals())
-    if model:
-        model_font = _standard_cover_font("arial.ttf", 36)
-        _standard_cover_center(draw, HEIGHT - 110, [model], model_font, (140, 120, 100), 12, WIDTH)
 
 
 def main():

@@ -4,7 +4,7 @@ This file defines conventions, structure, and rules for AI agents working on the
 
 ## Project Overview
 
-AI-Books is a proprietary English-language fiction project producing original novels. Each book is a standalone work in its own directory, following a consistent structure modeled on `The_Bellweather_Murders`.
+AI-Books is a proprietary English-language fiction project producing original novels. Each book is a standalone work in its own directory, following a consistent structure modeled on `Sample_Book` (the canonical template). See `books/Sample_Book/` for the reference implementation.
 
 **Goal:** 150+ complete novels, one per session.
 
@@ -29,7 +29,6 @@ books/Book_Title/
 │   ├── manifest.csv
 │   └── progress.md
 ├── tools/
-│   ├── build_epub.py               # Copy from template, adjust series line
 │   └── create_cover.py             # Custom per book (different imagery)
 └── README.md                       # Per-book README
 ```
@@ -43,8 +42,20 @@ When the user asks for a new book or multiple new books, produce complete standa
 3. Write `planning/Book_Title_outline.md` first with a premise, adult core cast, and a 50-chapter plan.
 4. Write `txt/Book_Title.txt` with exactly 50 chapter headings matching `Chapter N: Title`, numbered 1 through 50 in order.
 5. Create full metadata before packaging. The metadata `model` field is the single source of truth for model labeling.
-6. Copy/adapt `tools/build_epub.py` from a recent complete book that already writes the metadata `model` field to the EPUB title page.
-7. Write a custom `tools/create_cover.py` for that specific book, regenerate the PNG cover, then build the EPUB.
+6. Use the shared `tools/build_epub.py` at repo root (no per-book copy needed).
+7. Write a custom `tools/create_cover.py` for that specific book. Import shared helpers from `tools/cover_utils.py`:
+   ```python
+   import sys
+   sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
+   from tools.cover_utils import (
+       _standard_cover_font, _standard_cover_repair_text, _standard_cover_wrap,
+       _standard_cover_center, _standard_cover_title_font,
+       _standard_cover_resolve_title, _standard_cover_resolve_author,
+       _draw_standard_cover_title_panel,
+   )
+   ```
+   Then: regenerate the PNG cover, then build the EPUB.
+   The shared `_draw_standard_cover_title_panel` provides a consistent cream-colored title/author/model panel.
 8. Write the per-book README and reports, update the root README catalog and Books list, update AGENTS.md's Existing Books table when appropriate, then commit.
 
 Do not leave partially packaged books. A book is complete only when the outline, TXT, EPUB, cover PNG, metadata, reports, tools, per-book README, root README entries, and validation all exist.
@@ -58,7 +69,7 @@ Do not leave partially packaged books. A book is complete only when the outline,
 ### Cover Specificity
 - Covers must be book-specific, not generic templates with only a changed title. Each `create_cover.py` should contain imagery designed for that book's premise, genre, setting, and mood.
 - Prefer separate drawing functions and scene elements that name or clearly imply the book's subject: e.g., observatory domes for an astronomy mystery, court/harbor forms for a maritime legal mystery, ledgers and rain lines for an agricultural finance thriller.
-- Do not reuse the same composition across a batch with only palette or title changes. Shared standard title-panel helpers are allowed; the upper artwork must be distinct.
+- Do not reuse the same composition across a batch with only palette or title changes. The shared `_draw_standard_cover_title_panel` from `tools/cover_utils.py` provides the standard cream title/author/model panel; only the upper artwork must be distinct.
 - The cover must include the book title, the author name from metadata, and the metadata model label at the bottom.
 - After editing `create_cover.py`, always regenerate the PNG and visually or programmatically verify that the title, author, and model are present.
 
@@ -67,7 +78,7 @@ Do not leave partially packaged books. A book is complete only when the outline,
 - Verify every standalone book folder contains only the standard top-level structure and only the expected file inside each standard subfolder.
 - Verify metadata author is exactly `Barış Kısır`, language is `en`, status is `complete_txt_epub_available`, and all paths are relative to repo root.
 - Verify the EPUB opens as a valid ZIP, contains `mimetype` first, has chapter XHTML files, and has the model on the title page.
-- Verify the cover script contains the standard title-panel helpers, reads author/model from metadata, and the generated PNG is non-empty and unique for that book.
+- Verify the cover script imports shared helpers from `tools/cover_utils.py`, reads author/model from metadata, and the generated PNG is non-empty and unique for that book.
 
 ## Writing Conventions
 
@@ -94,10 +105,10 @@ The build script (`build_epub.py`) uses the regex `^Chapter\s+(\d+):\s+(.+)$` to
 ## Build Pipeline
 
 1. **Write** the manuscript to `txt/Book_Title.txt`
-2. **Generate cover:** `python3 tools/create_cover.py --metadata metadata/... --out covers/...`
-3. **Build EPUB:** `python3 tools/build_epub.py --metadata metadata/... --cover covers/... --out epub/...`
-4. **Update the `## Books` list** in `README.md` — append a new `<details>` block at the end of the list (before the License section) with cover image, read-online link, and EPUB download link. Newest book always goes last.
-5. **Update the Catalog grid** at the top of `README.md` — add the new book's thumbnail to the HTML `<table>` (5 covers per row, 150px wide each). Insert the new `<td>` entry before the closing `</table>` tag as part of the existing last row or as a new `<tr>` row.
+2. **Generate cover:** `python3 books/Book_Title/tools/create_cover.py --metadata books/Book_Title/metadata/... --out books/Book_Title/covers/...`
+3. **Build EPUB:** `python3 tools/build_epub.py --metadata books/Book_Title/metadata/... --cover books/Book_Title/covers/... --out books/Book_Title/epub/...` (shared script at repo root)
+4. **Update the `## Books` list** in `README.md` — insert a new `<details>` block in alphabetical order among existing books (before the License section) with cover image, read-online link, and EPUB download link. Series books always go first; standalone books are sorted A-Z. See `Sample_Book`'s entry for the exact format.
+5. **Update the Catalog grid** at the top of `README.md` — insert the new book's thumbnail `<td>` into the HTML `<table>` (5 covers per row, 150px wide each) in alphabetical order among standalone books. Series (Meridian Cycle Book 0-9) must remain first in the grid, followed by standalone books sorted A-Z. See `books/Sample_Book/` for the reference `<td>` format.
 6. **Commit** all files with a descriptive message.
 
 ### Cover Convention
@@ -107,11 +118,13 @@ The build script (`build_epub.py`) uses the regex `^Chapter\s+(\d+):\s+(.+)$` to
 - Verify the cover renders the correct author name after generation — if it shows "BARIS KISI" instead of "BARIŞ KISIR", fix the script and regenerate.
 
 ### Tool Setup
-- Copy `build_epub.py` and `create_cover.py` from an existing book into the new book's `tools/` directory.
-- Edit the `series` line in `build_epub.py` to use the book directory slug with underscores, e.g. `The_Quiet_Room`.
-- Rewrite `create_cover.py` with imagery appropriate to the new book (different landscape, mood, palette). Use PIL to draw unique shapes, gradients, and lighting for each book's theme.
-- The cover script must end with these standard helpers (they render the title/author panel at the bottom):
-  - `_standard_cover_font`, `_standard_cover_repair_text`, `_standard_cover_wrap`, `_standard_cover_center`, `_standard_cover_title_font`, `_standard_cover_resolve_title`, `_standard_cover_resolve_author`, `_draw_standard_cover_title_panel`
+- EPUB builder: Use the shared `tools/build_epub.py` at repo root. Run from repo root:
+  ```bash
+  python3 tools/build_epub.py --metadata books/Book_Title/metadata/Book_Title_metadata.json \n                              --cover books/Book_Title/covers/Book_Title.png \n                              --out books/Book_Title/epub/Book_Title.epub
+  ```
+- Cover script: Create `tools/create_cover.py` in the book directory. Import shared helpers from `tools/cover_utils.py`. Rewrite the artwork in `make_cover()` with imagery appropriate to the new book (different landscape, mood, palette). Use PIL to draw unique shapes, gradients, and lighting for each book's theme.
+- The cover script does NOT need to define standard helpers locally. They are imported from `tools/cover_utils.py` (see step 7 of Book Production Protocol). The only book-specific code is the artwork drawing function (`make_cover()` or `create_cover()`).
+- The shared `_draw_standard_cover_title_panel` renders the cream-colored title/author/model panel at the bottom of every cover.
 - After writing the script, regenerate the cover even if you think it's correct — this catches any hardcoded wrong author name.
 
 ## Outline Convention
@@ -143,10 +156,11 @@ The key file is `ai-books-project.md` which tracks completed books and the repet
 
 ## Existing Books
 
-Books are listed in order of addition — oldest first, newest last. Always append new books to the end.
+Books are listed alphabetically. Insert new books in their correct A-Z position. Series books (The_Meridian_Cycle) are listed first.
 
 | Directory | Genre | Chapters | Status |
 |-----------|-------|----------|--------|
+| `books/Sample_Book/` | Literary Fiction / Template (canonical reference) | 50 | Complete |
 | `books/The_Bellweather_Murders/` | Crime / Small-town murder mystery | 50 | Complete |
 | `books/The_Meridian_Cycle/` | Sci-fi series (10 books) | 50 each | Complete |
 | `books/Larklight/` | Literary fiction / Family saga | 50 | Complete |

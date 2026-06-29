@@ -11,6 +11,21 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
+from tools.cover_utils import (
+    _standard_cover_font,
+    _standard_cover_repair_text,
+    _standard_cover_wrap,
+    _standard_cover_center,
+    _standard_cover_title_font,
+    _standard_cover_metadata_from_locals,
+    _standard_cover_resolve_title,
+    _standard_cover_resolve_author,
+    _draw_standard_cover_title_panel,
+)
+
+
 
 ROOT = Path(__file__).resolve().parents[3]
 FONTS_DIR = Path("C:/Windows/Fonts")
@@ -381,7 +396,7 @@ def create_cover(metadata_path: Path, output_path: Path) -> None:
     # Soften slightly
     img = img.filter(ImageFilter.SMOOTH)
 
-    _draw_standard_cover_title_panel(img, _standard_cover_resolve_title(locals()), _standard_cover_resolve_author(locals()))
+    _draw_standard_cover_title_panel(img, _standard_cover_resolve_title(locals()), _standard_cover_resolve_author(locals()), metadata.get("model", ""))
     img.save(output_path, "PNG")
     print(f"Cover saved to {output_path}")
 
@@ -517,28 +532,7 @@ def _standard_cover_resolve_author(local_vars):
         return value
     return "Barış Kısır"
 
-def _draw_standard_cover_title_panel(image, title: str = "", author: str = "") -> None:
-    width = int(globals().get("W", globals().get("WIDTH", 1600)))
-    height = int(globals().get("H", globals().get("HEIGHT", 2560)))
-    panel_y = 1765
-    title = _standard_cover_repair_text(str(title or "")).strip()
-    author = _standard_cover_repair_text(str(author or "Barış Kısır")).strip()
 
-    draw = ImageDraw.Draw(image, "RGBA")
-    draw.rectangle((0, panel_y, width, height), fill=(3, 5, 8, 255))
-    draw.line((180, panel_y + 17, width - 180, panel_y + 17), fill=(160, 225, 209, 105), width=3)
-
-    title_font, title_lines, title_gap = _standard_cover_title_font(draw, title, 1260)
-    author_font = _standard_cover_font("arialbd.ttf", 50)
-    title_height = sum(draw.textbbox((0, 0), line, font=title_font)[3] - draw.textbbox((0, 0), line, font=title_font)[1] for line in title_lines)
-    title_height += max(0, len(title_lines) - 1) * title_gap
-    author_bbox = draw.textbbox((0, 0), author, font=author_font)
-    author_height = author_bbox[3] - author_bbox[1]
-    block_height = title_height + 120 + author_height
-    y = panel_y + 120 + max(0, (height - panel_y - 210 - block_height) // 2)
-    y = _standard_cover_center(draw, y, title_lines, title_font, (244, 249, 238), title_gap, width)
-    y += 120
-    _standard_cover_center(draw, y, [author], author_font, (210, 229, 221), 12, width)
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--metadata", required=True, type=Path)

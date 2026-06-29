@@ -14,6 +14,20 @@ try:
 except ImportError:
     sys.exit("Install Pillow: pip install Pillow")
 
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
+from tools.cover_utils import (
+    _standard_cover_font,
+    _standard_cover_repair_text,
+    _standard_cover_wrap,
+    _standard_cover_center,
+    _standard_cover_title_font,
+    _standard_cover_metadata_from_locals,
+    _standard_cover_resolve_title,
+    _standard_cover_resolve_author,
+    _draw_standard_cover_title_panel,
+)
+
 
 WIDTH, HEIGHT = 1600, 2560
 TITLE_PANEL_TOP = 1920
@@ -226,7 +240,7 @@ def generate(metadata_path: Path, output_path: Path) -> None:
 
     # Save
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    _draw_standard_cover_title_panel(img, _standard_cover_resolve_title(locals()), _standard_cover_resolve_author(locals()))
+    _draw_standard_cover_title_panel(img, _standard_cover_resolve_title(locals()), _standard_cover_resolve_author(locals()), _standard_cover_metadata_from_locals(locals()).get("model", ""))
     img.save(output_path, "PNG")
     print(f"Cover saved to {output_path}")
 
@@ -362,7 +376,7 @@ def _standard_cover_resolve_author(local_vars):
         return value
     return "Barış Kısır"
 
-def _draw_standard_cover_title_panel(image, title: str = "", author: str = "") -> None:
+def _draw_standard_cover_title_panel(image, title: str = "", author: str = "", model: str = "") -> None:
     width = int(globals().get("W", globals().get("WIDTH", 1600)))
     height = int(globals().get("H", globals().get("HEIGHT", 2560)))
     panel_y = 1765
@@ -370,8 +384,8 @@ def _draw_standard_cover_title_panel(image, title: str = "", author: str = "") -
     author = _standard_cover_repair_text(str(author or "Barış Kısır")).strip()
 
     draw = ImageDraw.Draw(image, "RGBA")
-    draw.rectangle((0, panel_y, width, height), fill=(3, 5, 8, 255))
-    draw.line((180, panel_y + 17, width - 180, panel_y + 17), fill=(160, 225, 209, 105), width=3)
+    draw.rectangle((0, panel_y, width, height), fill=(235, 229, 214, 255))
+    draw.line((180, panel_y + 17, width - 180, panel_y + 17), fill=(94, 82, 66, 170), width=3)
 
     title_font, title_lines, title_gap = _standard_cover_title_font(draw, title, 1260)
     author_font = _standard_cover_font("arialbd.ttf", 50)
@@ -381,9 +395,13 @@ def _draw_standard_cover_title_panel(image, title: str = "", author: str = "") -
     author_height = author_bbox[3] - author_bbox[1]
     block_height = title_height + 120 + author_height
     y = panel_y + 120 + max(0, (height - panel_y - 210 - block_height) // 2)
-    y = _standard_cover_center(draw, y, title_lines, title_font, (244, 249, 238), title_gap, width)
+    y = _standard_cover_center(draw, y, title_lines, title_font, (50, 48, 42), title_gap, width)
     y += 120
-    _standard_cover_center(draw, y, [author], author_font, (210, 229, 221), 12, width)
+    _standard_cover_center(draw, y, [author], author_font, (88, 76, 58), 12, width)
+    model = _standard_cover_repair_text(str(model or "")).strip()
+    if model:
+        model_font = _standard_cover_font("arial.ttf", 24)
+        _standard_cover_center(draw, height - 80, [model], model_font, (112, 102, 84), 6, width)
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--metadata", type=Path, default=None, help="Metadata JSON path (unused but accepted)")

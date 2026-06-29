@@ -77,5 +77,6 @@
   "subgenre": "Jazz Age Crime",
   "short_description": "A Prohibition-era blues singer in Chicago must decide whether to run or fight after witnessing a gangster murder.",
   "cover_path": "books/The_Sapphire_Throat/covers/The_Sapphire_Throat.png",
-  "EPUB_path": "books/The_Sapphire_Throat/epub/The_Sapphire_Throat.epub"
+  "EPUB_path": "books/The_Sapphire_Throat/epub/The_Sapphire_Throat.epub",
+  "TXT_path": "books/The_Sapphire_Throat/txt/The_Sapphire_Throat.txt"
 }
