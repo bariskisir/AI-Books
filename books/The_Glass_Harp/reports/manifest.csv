@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Glass_Harp/planning/The_Glass_Harp_outline.md,5589,50-chapter outline
+books/The_Glass_Harp/txt/The_Glass_Harp.txt,213536,Expanded full TXT manuscript
+books/The_Glass_Harp/epub/The_Glass_Harp.epub,384433,Rebuilt EPUB export
+books/The_Glass_Harp/covers/The_Glass_Harp.png,121897,Cover image
+books/The_Glass_Harp/metadata/The_Glass_Harp_metadata.json,2971,Production metadata
+books/The_Glass_Harp/reports/final_report.md,1185,Final validation report
+books/The_Glass_Harp/reports/manifest.csv,788,File manifest
+books/The_Glass_Harp/reports/progress.md,1022,Progress log
+books/The_Glass_Harp/tools/build_epub.py,8610,EPUB build script
+books/The_Glass_Harp/tools/create_cover.py,11953,Cover generation script
+books/The_Glass_Harp/README.md,3114,Per-book README

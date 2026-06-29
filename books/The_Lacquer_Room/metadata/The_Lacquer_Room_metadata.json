@@ -1,0 +1,37 @@
+{
+  "title": "The Lacquer Room",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5",
+  "genre": "Art Conservation Mystery",
+  "subgenre": "Museum Repatriation Suspense",
+  "language": "en",
+  "short_description": "An art conservator finds a hidden temple mark beneath a donor's lacquer screen and forces a museum to confront its stolen provenance.",
+  "long_description": "Selin Arda is preparing a monumental lacquer screen for a museum gala when a tiny cleaning window exposes an older inscription under later black lacquer. The donor label says private collection, but resin layers, tool marks, insurance photographs, and temple rubbings point to a wartime removal that the market made beautiful and silent.\n\nAs the museum director protects a campaign gift and the donor foundation demands a flawless opening, Selin works with a curator, materials scientist, provenance attorney, historian, appraiser, and handler to preserve the evidence before cosmetic treatment erases it again. The lacquer room becomes a courtroom of layers, where shine is not the same as truth.\n\nThe Lacquer Room is a spare museum suspense novel about conservation ethics, donor power, restitution, and the records that survive beneath polished surfaces.",
+  "main_characters": [
+    "Selin Arda",
+    "Mina Park",
+    "Dr. Kenji Sato",
+    "Elias Venn",
+    "Tomas Reeve",
+    "Farah Nouri",
+    "Lian Cho",
+    "Greta Solm",
+    "Ivo Marek",
+    "Judge Helena Voss"
+  ],
+  "keywords": [
+    "art conservation",
+    "lacquer screen",
+    "museum provenance",
+    "repatriation",
+    "cultural property",
+    "donor pressure",
+    "wartime looting",
+    "materials science"
+  ],
+  "outline_path": "books/The_Lacquer_Room/planning/The_Lacquer_Room_outline.md",
+  "TXT_path": "books/The_Lacquer_Room/txt/The_Lacquer_Room.txt",
+  "EPUB_path": "books/The_Lacquer_Room/epub/The_Lacquer_Room.epub",
+  "cover_path": "books/The_Lacquer_Room/covers/The_Lacquer_Room.png",
+  "status": "complete_txt_epub_available"
+}

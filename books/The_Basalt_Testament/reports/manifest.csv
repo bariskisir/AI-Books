@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Basalt_Testament/planning/The_Basalt_Testament_outline.md,3443,50-chapter outline
+books/The_Basalt_Testament/txt/The_Basalt_Testament.txt,219920,Expanded full TXT manuscript
+books/The_Basalt_Testament/epub/The_Basalt_Testament.epub,451737,Rebuilt EPUB export
+books/The_Basalt_Testament/covers/The_Basalt_Testament.png,162333,Cover image
+books/The_Basalt_Testament/metadata/The_Basalt_Testament_metadata.json,1782,Production metadata
+books/The_Basalt_Testament/reports/final_report.md,1103,Final validation report
+books/The_Basalt_Testament/reports/manifest.csv,883,File manifest
+books/The_Basalt_Testament/reports/progress.md,432,Progress log
+books/The_Basalt_Testament/tools/build_epub.py,8610,EPUB build script
+books/The_Basalt_Testament/tools/create_cover.py,17325,Cover generation script
+books/The_Basalt_Testament/README.md,1328,Per-book README

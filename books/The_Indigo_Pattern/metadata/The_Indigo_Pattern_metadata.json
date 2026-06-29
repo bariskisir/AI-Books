@@ -1,0 +1,47 @@
+{
+  "title": "The Indigo Pattern",
+  "author": "Barış Kısır",
+  "genre": "Textile Forensics Mystery",
+  "subgenre": "Couture House Suspense",
+  "language": "en",
+  "status": "complete_txt_epub_available",
+  "published_date": "2026-06-24",
+  "model": "gpt-5",
+  "short_description": "A textile forensic analyst investigates a model's backstage poisoning and uncovers a couture house's stolen indigo silhouette.",
+  "long_description": "When Anouk Saye collapses during Maison Arel's revival preview, textile forensic analyst Mina Tor is asked to decide whether a vintage indigo gown carried dangerous old dye or whether someone turned the archive into a weapon. The dust on the latch, the opened seam, and the missing steamer head point away from age and toward modern contamination.\n\nAs Mina works with production manager Oren Vale, toxicologist Elias Morn, and the house's frightened archive staff, the poisoning collides with an older theft: the famous crescent silhouette was cut by a forgotten atelier worker and buried inside family myth. To stop the public show from laundering both crimes, Mina must separate cloth history from chemical violence before the archive is rewritten again.",
+  "main_characters": [
+    "Mina Tor - Adult textile forensic analyst who reads fibers, dyes, wear, and seams as physical testimony.",
+    "Oren Vale - Adult backstage production manager who knows every rack, label, and panic in the fashion house.",
+    "Celia Arel - Adult creative director trying to revive her grandmother's couture empire without preserving its lies.",
+    "Brigitte Arel - Adult board chair and family guardian who controls the archive with ceremonial ruthlessness.",
+    "Luc Renard - Adult investor whose rescue money depends on a triumphant revival and controlled archive myth.",
+    "Anouk Saye - Adult model who collapses after wearing the indigo gown and refuses to be turned into publicity.",
+    "Sabine Holt - Adult retired pattern cutter who claims the house stole its signature cut from her mentor.",
+    "Dr. Elias Morn - Adult toxicologist who helps Mina separate dye chemistry from deliberate contamination.",
+    "Talia Voss - Adult archive assistant whose neat records hide erased loans and substituted labels.",
+    "Jules Fane - Adult fashion journalist whose old interview tapes contain a missing admission."
+  ],
+  "keywords": [
+    "textile forensics",
+    "couture",
+    "fashion house",
+    "indigo dye",
+    "archive mystery",
+    "pattern cutting",
+    "toxicology",
+    "provenance",
+    "runway suspense",
+    "stolen design"
+  ],
+  "word_count": 10601,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Indigo_Pattern/txt/The_Indigo_Pattern.txt",
+  "EPUB_path": "books/The_Indigo_Pattern/epub/The_Indigo_Pattern.epub",
+  "paths": {
+    "outline": "books/The_Indigo_Pattern/planning/The_Indigo_Pattern_outline.md",
+    "manuscript": "books/The_Indigo_Pattern/txt/The_Indigo_Pattern.txt",
+    "epub": "books/The_Indigo_Pattern/epub/The_Indigo_Pattern.epub",
+    "cover": "books/The_Indigo_Pattern/covers/The_Indigo_Pattern.png",
+    "metadata": "books/The_Indigo_Pattern/metadata/The_Indigo_Pattern_metadata.json"
+  }
+}

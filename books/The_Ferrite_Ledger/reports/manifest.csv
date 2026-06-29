@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Ferrite_Ledger/planning/The_Ferrite_Ledger_outline.md,3436,50-chapter outline
+books/The_Ferrite_Ledger/txt/The_Ferrite_Ledger.txt,214897,Expanded full TXT manuscript
+books/The_Ferrite_Ledger/epub/The_Ferrite_Ledger.epub,454893,Rebuilt EPUB export
+books/The_Ferrite_Ledger/covers/The_Ferrite_Ledger.png,170777,Cover image
+books/The_Ferrite_Ledger/metadata/The_Ferrite_Ledger_metadata.json,1711,Production metadata
+books/The_Ferrite_Ledger/reports/final_report.md,1101,Final validation report
+books/The_Ferrite_Ledger/reports/manifest.csv,851,File manifest
+books/The_Ferrite_Ledger/reports/progress.md,430,Progress log
+books/The_Ferrite_Ledger/tools/build_epub.py,8610,EPUB build script
+books/The_Ferrite_Ledger/tools/create_cover.py,17325,Cover generation script
+books/The_Ferrite_Ledger/README.md,1230,Per-book README

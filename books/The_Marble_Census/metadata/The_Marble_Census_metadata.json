@@ -1,0 +1,37 @@
+{
+  "title": "The Marble Census",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5",
+  "genre": "Civic Gothic",
+  "subgenre": "Architectural Magical Realism",
+  "language": "en",
+  "short_description": "A suspended census registrar discovers that the city's public statues are turning toward citizens erased from municipal rolls.",
+  "long_description": "In the old city of Merrow, public statues are counted once a decade because marble remembers civic promises better than officials do. When registrar Elian Voss finds the Meridian Figure pointing toward a tenant erased from the address rolls, a ceremonial census becomes a fight over law, memory, and stone.\n\nAs redevelopment officials price old monuments by weight and mark living apartments vacant, Elian works with a stone conservator, legal aid worker, engraver, night watchman, and retired mason to uncover witness marks hidden in civic marble. The statues do not replace evidence; they point toward what the city tried to remove.\n\nThe Marble Census is a spare civic gothic novel about public memory, housing erasure, redevelopment, and the old laws that survive in stone when paper is made to lie.",
+  "main_characters": [
+    "Elian Voss",
+    "Mara Quill",
+    "Jonas Reed",
+    "Councilor Irena Vale",
+    "Nadia Senn",
+    "Orren Pike",
+    "Talia Morse",
+    "Bram Hesk",
+    "Magistrate Leon Arda",
+    "The Meridian Figure"
+  ],
+  "keywords": [
+    "civic gothic",
+    "living statues",
+    "municipal records",
+    "housing erasure",
+    "marble census",
+    "redevelopment",
+    "magical realism",
+    "public memory"
+  ],
+  "outline_path": "books/The_Marble_Census/planning/The_Marble_Census_outline.md",
+  "TXT_path": "books/The_Marble_Census/txt/The_Marble_Census.txt",
+  "EPUB_path": "books/The_Marble_Census/epub/The_Marble_Census.epub",
+  "cover_path": "books/The_Marble_Census/covers/The_Marble_Census.png",
+  "status": "complete_txt_epub_available"
+}

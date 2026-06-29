@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Quartz_Witness/planning/The_Quartz_Witness_outline.md,6017,50-chapter outline
+books/The_Quartz_Witness/txt/The_Quartz_Witness.txt,206876,Expanded full TXT manuscript
+books/The_Quartz_Witness/epub/The_Quartz_Witness.epub,345573,Rebuilt EPUB export
+books/The_Quartz_Witness/covers/The_Quartz_Witness.png,94595,Cover image
+books/The_Quartz_Witness/metadata/The_Quartz_Witness_metadata.json,1960,Production metadata
+books/The_Quartz_Witness/reports/final_report.md,1104,Final validation report
+books/The_Quartz_Witness/reports/manifest.csv,849,File manifest
+books/The_Quartz_Witness/reports/progress.md,390,Progress log
+books/The_Quartz_Witness/tools/build_epub.py,8610,EPUB build script
+books/The_Quartz_Witness/tools/create_cover.py,12542,Cover generation script
+books/The_Quartz_Witness/README.md,727,Per-book README

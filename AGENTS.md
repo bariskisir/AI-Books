@@ -376,6 +376,31 @@ Books are listed in order of addition — oldest first, newest last. Always appe
 
 | `books/The_Rain_Archive/` | Climate Noir / Water Rights Mystery | 50 | Complete |
 | `books/The_Silent_Vowels/` | Forensic Linguistics Mystery / Courtroom Suspense | 50 | Complete |
+| `books/The_Smoke_Library/` | Rare Book Provenance Mystery / Cultural Property Suspense | 50 | Complete |
+| `books/The_Glass_Harp/` | Acoustic Architecture Mystery / Concert Hall Suspense | 50 | Complete |
+| `books/The_Indigo_Pattern/` | Textile Forensics Mystery / Couture House Suspense | 50 | Complete |
+| `books/The_Red_Line_Survey/` | Cartographic Crime / Border Survey Suspense | 50 | Complete |
+| `books/The_Saffron_Invoice/` | Food Fraud Mystery / Restaurant Supply-Chain Suspense | 50 | Complete |
+| `books/The_Barometer_Room/` | Meteorological Data Fraud / Storm Forecasting Suspense | 50 | Complete |
+| `books/The_Coral_Clock/` | Marine Archaeology Mystery / Reef Restoration Suspense | 50 | Complete |
+| `books/The_Lacquer_Room/` | Art Conservation Mystery / Museum Repatriation Suspense | 50 | Complete |
+| `books/The_Bureau_of_Small_Miracles/` | Bureaucratic Fantasy / Civic Magical Realism | 50 | Complete |
+| `books/The_Gravity_Orchestra/` | Near-Future Science Fiction / Orbital Debris Drama | 50 | Complete |
+| `books/The_Marble_Census/` | Civic Gothic / Architectural Magical Realism | 50 | Complete |
+| `books/The_Aurora_Lease/` | Polar Corporate Eco-Thriller / Energy Field Suspense | 50 | Complete |
+| `books/The_Quartz_Witness/` | Forensic Geology Mystery / Mining Arbitration Suspense | 50 | Complete |
+| `books/The_Luthiers_Cipher/` | Instrument Restoration Mystery / Cultural Property Suspense | 50 | Complete |
+| `books/The_Cloister_Algorithm/` | Digital Humanities Mystery / Monastic Archive Suspense | 50 | Complete |
+| `books/The_Tidal_Pharmacy/` | Pharmaceutical Supply-Chain Mystery / Coastal Medical Suspense | 50 | Complete |
+| `books/The_Cobalt_Kiln/` | Ceramic Provenance Mystery / Archaeological Art Suspense | 50 | Complete |
+| `books/The_Brass_Semaphore/` | Naval Communications Mystery / Harbor Espionage Suspense | 50 | Complete |
+| `books/The_Sable_Equation/` | Actuarial Mathematics Suspense / Insurance Fraud Mystery | 50 | Complete |
+| `books/The_Typefounders_Proof/` | Letterpress Mystery / Industrial Craft Suspense | 50 | Complete |
+| `books/The_Juniper_Docket/` | Botanical Legal Mystery / Conservation Easement Suspense | 50 | Complete |
+| `books/The_Ferrite_Ledger/` | Rail Materials Mystery / Infrastructure Fraud Suspense | 50 | Complete |
+| `books/The_Vellum_Engine/` | Patent Archive Mystery / Mechanical Provenance Suspense | 50 | Complete |
+| `books/The_Oxblood_Cantata/` | Music Provenance Mystery / Concert Hall Foundation Suspense | 50 | Complete |
+| `books/The_Basalt_Testament/` | Geological Probate Mystery / Island Commons Suspense | 50 | Complete |
 
 ## Git Workflow
 

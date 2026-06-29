@@ -1,0 +1,37 @@
+{
+  "title": "The Typefounders Proof",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5",
+  "genre": "Letterpress Mystery",
+  "subgenre": "Industrial Craft Suspense",
+  "language": "en",
+  "short_description": "A type historian proves a disputed foundry proof sheet is a modern forgery built from historic tools, later matrices, and private restoration access.",
+  "long_description": "Type historian Ada Kern is hired to authenticate a proof sheet said to validate the sale of a nineteenth-century letterpress foundry. If genuine, the document lets a developer dissolve a workers' trust and turn the old pressworks into offices.\n\nAda finds the sheet too clean, the type too sharp, and one damaged lowercase e that could not have existed in the year claimed. With a typefounder, a union archivist, a paper chemist, and an ink analyst, she follows matrices, alloy recipes, punch marks, strike circulars, and a hidden galley proof.\n\nThe Typefounders Proof is a spare industrial craft suspense novel about forged documents, labor memory, and the tiny defects that keep history from being sold too easily.",
+  "main_characters": [
+    "Ada Kern",
+    "Theo Mott",
+    "Livia Crane",
+    "Rafe Bell",
+    "Neris Holt",
+    "Hugo Senn",
+    "Celia Ward",
+    "Owen Pike",
+    "Dr. Iman Aral",
+    "Judge Maren Quill"
+  ],
+  "keywords": [
+    "letterpress",
+    "typefounding",
+    "forgery",
+    "industrial craft",
+    "labor trust",
+    "paper forensics",
+    "ink analysis",
+    "museum provenance"
+  ],
+  "outline_path": "books/The_Typefounders_Proof/planning/The_Typefounders_Proof_outline.md",
+  "TXT_path": "books/The_Typefounders_Proof/txt/The_Typefounders_Proof.txt",
+  "EPUB_path": "books/The_Typefounders_Proof/epub/The_Typefounders_Proof.epub",
+  "cover_path": "books/The_Typefounders_Proof/covers/The_Typefounders_Proof.png",
+  "status": "complete_txt_epub_available"
+}

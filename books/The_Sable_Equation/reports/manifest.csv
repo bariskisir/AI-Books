@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Sable_Equation/planning/The_Sable_Equation_outline.md,4723,50-chapter outline
+books/The_Sable_Equation/txt/The_Sable_Equation.txt,245565,Expanded full TXT manuscript
+books/The_Sable_Equation/epub/The_Sable_Equation.epub,453706,Rebuilt EPUB export
+books/The_Sable_Equation/covers/The_Sable_Equation.png,165367,Cover image
+books/The_Sable_Equation/metadata/The_Sable_Equation_metadata.json,1889,Production metadata
+books/The_Sable_Equation/reports/final_report.md,1107,Final validation report
+books/The_Sable_Equation/reports/manifest.csv,851,File manifest
+books/The_Sable_Equation/reports/progress.md,464,Progress log
+books/The_Sable_Equation/tools/build_epub.py,8610,EPUB build script
+books/The_Sable_Equation/tools/create_cover.py,13153,Cover generation script
+books/The_Sable_Equation/README.md,1311,Per-book README

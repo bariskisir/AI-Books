@@ -1,0 +1,37 @@
+{
+  "title": "The Luthiers Cipher",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5",
+  "genre": "Instrument Restoration Mystery",
+  "subgenre": "Cultural Property Suspense",
+  "language": "en",
+  "short_description": "An instrument conservator follows varnish layers, growth rings, and a hidden rib cipher to prove a famed violin was stolen during wartime evacuation.",
+  "long_description": "When a conservatory moves to auction a supposed lost Sorel violin, instrument conservator Amara Venn is asked for a fast certificate. Instead, she finds a hidden cipher inside the rib, a repaired soundpost patch, and material clues that point toward a Beller family instrument entrusted for safekeeping during the war.\n\nAs trustees push for a sale, Amara works with an archivist, a bow maker, a dendrochronologist, and a cultural-property lawyer to follow rosin dust, case labels, varnish chemistry, and missing ledgers. The violin is not merely valuable; it is a voice whose true name was erased for institutional convenience and private debt.\n\nThe Luthiers Cipher is a spare instrument-restoration mystery about craft evidence, provenance, custody, and the obligation to let old wood keep its witness.",
+  "main_characters": [
+    "Amara Venn",
+    "Nico Sorel",
+    "Clara Hesk",
+    "Dorian Vale",
+    "Maud Quill",
+    "Elias Rusk",
+    "Dr. Talia Marr",
+    "Jonas Reed",
+    "Irena Pike",
+    "Judge Olan Senn"
+  ],
+  "keywords": [
+    "instrument restoration",
+    "violin provenance",
+    "luthier",
+    "cultural property",
+    "dendrochronology",
+    "varnish analysis",
+    "wartime evacuation",
+    "music mystery"
+  ],
+  "outline_path": "books/The_Luthiers_Cipher/planning/The_Luthiers_Cipher_outline.md",
+  "TXT_path": "books/The_Luthiers_Cipher/txt/The_Luthiers_Cipher.txt",
+  "EPUB_path": "books/The_Luthiers_Cipher/epub/The_Luthiers_Cipher.epub",
+  "cover_path": "books/The_Luthiers_Cipher/covers/The_Luthiers_Cipher.png",
+  "status": "complete_txt_epub_available"
+}

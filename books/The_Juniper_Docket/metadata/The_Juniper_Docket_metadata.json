@@ -1,0 +1,35 @@
+{
+  "title": "The Juniper Docket",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5",
+  "genre": "Botanical Legal Mystery",
+  "subgenre": "Conservation Easement Suspense",
+  "language": "en",
+  "short_description": "A land-use attorney exposes a forged conservation release through juniper pollen, survey stones, and courthouse docket evidence.",
+  "long_description": "Mara Venn is asked to review a forgotten court docket that releases Juniper Ridge from a conservation easement. The document would let a resort consortium clear the old forest before anyone can object.\n\nThe paper looks official, but the plants disagree. Pollen sits in the wrong fold, cultivated berries appear in an old envelope, and a survey call points to a boundary stone someone tried to bury. With an archivist, a retired surveyor, a beekeeper, and a nursery owner, Mara turns small natural facts into courtroom proof.\n\nThe Juniper Docket is a spare botanical legal mystery about land, memory, and the fragile public record that protects common ground.",
+  "main_characters": [
+    "Mara Venn",
+    "Elias Roake",
+    "Priya Sol",
+    "Tomas Vale",
+    "Leda Marsh",
+    "Judge Ansel Reed",
+    "Ruth Fen",
+    "Niko Hale"
+  ],
+  "keywords": [
+    "botanical forensics",
+    "conservation easement",
+    "land court",
+    "juniper ridge",
+    "survey evidence",
+    "forged docket",
+    "environmental mystery",
+    "courtroom suspense"
+  ],
+  "outline_path": "books/The_Juniper_Docket/planning/The_Juniper_Docket_outline.md",
+  "TXT_path": "books/The_Juniper_Docket/txt/The_Juniper_Docket.txt",
+  "EPUB_path": "books/The_Juniper_Docket/epub/The_Juniper_Docket.epub",
+  "cover_path": "books/The_Juniper_Docket/covers/The_Juniper_Docket.png",
+  "status": "complete_txt_epub_available"
+}

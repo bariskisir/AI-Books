@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Saffron_Invoice/planning/The_Saffron_Invoice_outline.md,6026,50-chapter outline
+books/The_Saffron_Invoice/txt/The_Saffron_Invoice.txt,237746,Expanded full TXT manuscript
+books/The_Saffron_Invoice/epub/The_Saffron_Invoice.epub,468586,Rebuilt EPUB export
+books/The_Saffron_Invoice/covers/The_Saffron_Invoice.png,179583,Cover image
+books/The_Saffron_Invoice/metadata/The_Saffron_Invoice_metadata.json,3243,Production metadata
+books/The_Saffron_Invoice/reports/final_report.md,1214,Final validation report
+books/The_Saffron_Invoice/reports/manifest.csv,868,File manifest
+books/The_Saffron_Invoice/reports/progress.md,1028,Progress log
+books/The_Saffron_Invoice/tools/build_epub.py,8610,EPUB build script
+books/The_Saffron_Invoice/tools/create_cover.py,12698,Cover generation script
+books/The_Saffron_Invoice/README.md,3523,Per-book README

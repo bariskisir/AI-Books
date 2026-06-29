@@ -1,0 +1,37 @@
+{
+  "title": "The Brass Semaphore",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5",
+  "genre": "Naval Communications Mystery",
+  "subgenre": "Harbor Espionage Suspense",
+  "language": "en",
+  "short_description": "A retired signal officer exposes a harbor smuggling route hidden inside a restored brass semaphore's timing, gears, and missing signal books.",
+  "long_description": "In fogbound Lorn Harbor, a naval museum prepares to celebrate a restored brass semaphore and the admiral whose signals supposedly saved ships. Retired signal officer Ada Vey notices the machine moves with the wrong timing, and its brass arms carry scratches that look less like wear than a private code.\n\nWith an archivist, clockmaker, customs lawyer, tug captain, and metallurgist, Ada follows missing signal-book pages, foghorn minutes, hidden counterweights, cargo ledgers, and family archives. The heroic relic becomes evidence of a smuggling route that moved cargo through public fog and private profit.\n\nThe Brass Semaphore is a spare maritime communications mystery about public memory, mechanical evidence, donor power, and the discipline of correcting a signal after a century of silence.",
+  "main_characters": [
+    "Ada Vey",
+    "Jonas Reed",
+    "Mara Quill",
+    "Calder Pike",
+    "Iris Senn",
+    "Bram Vale",
+    "Talia Hesk",
+    "Olan Marr",
+    "Nadia Voss",
+    "Judge Leona Arda"
+  ],
+  "keywords": [
+    "semaphore",
+    "harbor mystery",
+    "naval communications",
+    "signal code",
+    "maritime history",
+    "customs fraud",
+    "museum ethics",
+    "fogbound suspense"
+  ],
+  "outline_path": "books/The_Brass_Semaphore/planning/The_Brass_Semaphore_outline.md",
+  "TXT_path": "books/The_Brass_Semaphore/txt/The_Brass_Semaphore.txt",
+  "EPUB_path": "books/The_Brass_Semaphore/epub/The_Brass_Semaphore.epub",
+  "cover_path": "books/The_Brass_Semaphore/covers/The_Brass_Semaphore.png",
+  "status": "complete_txt_epub_available"
+}

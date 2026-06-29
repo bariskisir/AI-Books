@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Barometer_Room/planning/The_Barometer_Room_outline.md,5996,50-chapter outline
+books/The_Barometer_Room/txt/The_Barometer_Room.txt,228279,Expanded full TXT manuscript
+books/The_Barometer_Room/epub/The_Barometer_Room.epub,399681,Rebuilt EPUB export
+books/The_Barometer_Room/covers/The_Barometer_Room.png,107161,Cover image
+books/The_Barometer_Room/metadata/The_Barometer_Room_metadata.json,1992,Production metadata
+books/The_Barometer_Room/reports/final_report.md,1102,Final validation report
+books/The_Barometer_Room/reports/manifest.csv,852,File manifest
+books/The_Barometer_Room/reports/progress.md,1074,Progress log
+books/The_Barometer_Room/tools/build_epub.py,8610,EPUB build script
+books/The_Barometer_Room/tools/create_cover.py,13768,Cover generation script
+books/The_Barometer_Room/README.md,3117,Per-book README

@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Gravity_Orchestra/planning/The_Gravity_Orchestra_outline.md,5987,50-chapter outline
+books/The_Gravity_Orchestra/txt/The_Gravity_Orchestra.txt,216942,Expanded full TXT manuscript
+books/The_Gravity_Orchestra/epub/The_Gravity_Orchestra.epub,408079,Rebuilt EPUB export
+books/The_Gravity_Orchestra/covers/The_Gravity_Orchestra.png,123609,Cover image
+books/The_Gravity_Orchestra/metadata/The_Gravity_Orchestra_metadata.json,2106,Production metadata
+books/The_Gravity_Orchestra/reports/final_report.md,1104,Final validation report
+books/The_Gravity_Orchestra/reports/manifest.csv,900,File manifest
+books/The_Gravity_Orchestra/reports/progress.md,1081,Progress log
+books/The_Gravity_Orchestra/tools/build_epub.py,8610,EPUB build script
+books/The_Gravity_Orchestra/tools/create_cover.py,11687,Cover generation script
+books/The_Gravity_Orchestra/README.md,2998,Per-book README

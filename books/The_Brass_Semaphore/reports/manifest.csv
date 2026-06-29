@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Brass_Semaphore/planning/The_Brass_Semaphore_outline.md,5075,50-chapter outline
+books/The_Brass_Semaphore/txt/The_Brass_Semaphore.txt,215879,Expanded full TXT manuscript
+books/The_Brass_Semaphore/epub/The_Brass_Semaphore.epub,391687,Rebuilt EPUB export
+books/The_Brass_Semaphore/covers/The_Brass_Semaphore.png,114361,Cover image
+books/The_Brass_Semaphore/metadata/The_Brass_Semaphore_metadata.json,1998,Production metadata
+books/The_Brass_Semaphore/reports/final_report.md,1103,Final validation report
+books/The_Brass_Semaphore/reports/manifest.csv,866,File manifest
+books/The_Brass_Semaphore/reports/progress.md,391,Progress log
+books/The_Brass_Semaphore/tools/build_epub.py,8610,EPUB build script
+books/The_Brass_Semaphore/tools/create_cover.py,12500,Cover generation script
+books/The_Brass_Semaphore/README.md,744,Per-book README

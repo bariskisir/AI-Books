@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Lacquer_Room/planning/The_Lacquer_Room_outline.md,6063,50-chapter outline
+books/The_Lacquer_Room/txt/The_Lacquer_Room.txt,231301,Expanded full TXT manuscript
+books/The_Lacquer_Room/epub/The_Lacquer_Room.epub,412426,Rebuilt EPUB export
+books/The_Lacquer_Room/covers/The_Lacquer_Room.png,132298,Cover image
+books/The_Lacquer_Room/metadata/The_Lacquer_Room_metadata.json,2039,Production metadata
+books/The_Lacquer_Room/reports/final_report.md,1099,Final validation report
+books/The_Lacquer_Room/reports/manifest.csv,820,File manifest
+books/The_Lacquer_Room/reports/progress.md,1070,Progress log
+books/The_Lacquer_Room/tools/build_epub.py,8610,EPUB build script
+books/The_Lacquer_Room/tools/create_cover.py,11794,Cover generation script
+books/The_Lacquer_Room/README.md,2842,Per-book README

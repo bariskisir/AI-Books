@@ -1,0 +1,37 @@
+{
+  "title": "The Sable Equation",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5",
+  "genre": "Actuarial Mathematics Suspense",
+  "subgenre": "Insurance Fraud Mystery",
+  "language": "en",
+  "short_description": "An actuary exposes a life-insurance model that priced policies cheaply in one neighborhood while profiting from the same concentrated losses through reinsurance.",
+  "long_description": "When a burial society reports impossible loss ratios, actuary Dr. Iris Vale is asked to audit Sable Mutual's small life-insurance portfolio. The company calls the losses demographic drift, but the numbers point to something more deliberate.\n\nIris follows address clusters, altered clinic codes, buried validation memos, broker side letters, and reserve gaps. The model never names the neighborhood outright; it lets proxies do the work while reinsurance converts concentrated grief into profit.\n\nThe Sable Equation is a spare actuarial suspense novel about model bias, insurance promises, and the danger of equations that hide the people they are built to price.",
+  "main_characters": [
+    "Dr. Iris Vale",
+    "Mara Senn",
+    "Jonas Quill",
+    "Calder Rusk",
+    "Talia Reed",
+    "Bram Pike",
+    "Nadia Hesk",
+    "Olan Voss",
+    "Leona Marr",
+    "Judge Elian Arda"
+  ],
+  "keywords": [
+    "actuarial science",
+    "insurance fraud",
+    "model bias",
+    "reinsurance",
+    "mortality tables",
+    "proxy discrimination",
+    "burial society",
+    "financial suspense"
+  ],
+  "outline_path": "books/The_Sable_Equation/planning/The_Sable_Equation_outline.md",
+  "TXT_path": "books/The_Sable_Equation/txt/The_Sable_Equation.txt",
+  "EPUB_path": "books/The_Sable_Equation/epub/The_Sable_Equation.epub",
+  "cover_path": "books/The_Sable_Equation/covers/The_Sable_Equation.png",
+  "status": "complete_txt_epub_available"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Oxblood Cantata",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5",
+  "genre": "Music Provenance Mystery",
+  "subgenre": "Concert Hall Foundation Suspense",
+  "language": "en",
+  "short_description": "A music manuscript conservator exposes a forged cantata used to sell a public choir library into private hands.",
+  "long_description": "A donor codicil appears just as a concert hall foundation considers selling its rare choir library. The document names an oxblood-titled cantata as private property, and the manuscript seems to confirm the claim.\n\nMusic conservator Lena Orsay finds modern thread, synthetic red pigment, a copied soprano line, and an accession stamp someone tried to erase. With a choir director, a foundation lawyer, a pigment chemist, and an elderly copyist, she follows the music back to a public gift that was never meant to be sold.\n\nThe Oxblood Cantata is a music provenance mystery about public art, private greed, and the stubborn evidence held in old scores.",
+  "main_characters": [
+    "Lena Orsay",
+    "Mateo Rusk",
+    "Anika Venn",
+    "Felix Marr",
+    "Petra Cole",
+    "Jonas Bell",
+    "Judge Mara Quill",
+    "Elise Rowe"
+  ],
+  "keywords": [
+    "music manuscript",
+    "cantata",
+    "pigment forensics",
+    "concert hall",
+    "foundation dispute",
+    "choir library",
+    "provenance mystery",
+    "forged codicil"
+  ],
+  "outline_path": "books/The_Oxblood_Cantata/planning/The_Oxblood_Cantata_outline.md",
+  "TXT_path": "books/The_Oxblood_Cantata/txt/The_Oxblood_Cantata.txt",
+  "EPUB_path": "books/The_Oxblood_Cantata/epub/The_Oxblood_Cantata.epub",
+  "cover_path": "books/The_Oxblood_Cantata/covers/The_Oxblood_Cantata.png",
+  "status": "complete_txt_epub_available"
+}

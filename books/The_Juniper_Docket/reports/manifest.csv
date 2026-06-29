@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Juniper_Docket/planning/The_Juniper_Docket_outline.md,3873,50-chapter outline
+books/The_Juniper_Docket/txt/The_Juniper_Docket.txt,210160,Expanded full TXT manuscript
+books/The_Juniper_Docket/epub/The_Juniper_Docket.epub,418414,Rebuilt EPUB export
+books/The_Juniper_Docket/covers/The_Juniper_Docket.png,162596,Cover image
+books/The_Juniper_Docket/metadata/The_Juniper_Docket_metadata.json,1817,Production metadata
+books/The_Juniper_Docket/reports/final_report.md,1103,Final validation report
+books/The_Juniper_Docket/reports/manifest.csv,851,File manifest
+books/The_Juniper_Docket/reports/progress.md,430,Progress log
+books/The_Juniper_Docket/tools/build_epub.py,8610,EPUB build script
+books/The_Juniper_Docket/tools/create_cover.py,17325,Cover generation script
+books/The_Juniper_Docket/README.md,1337,Per-book README

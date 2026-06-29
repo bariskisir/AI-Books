@@ -1,0 +1,47 @@
+{
+  "title": "The Saffron Invoice",
+  "author": "Barış Kısır",
+  "genre": "Food Fraud Mystery",
+  "subgenre": "Restaurant Supply-Chain Suspense",
+  "language": "en",
+  "status": "complete_txt_epub_available",
+  "published_date": "2026-06-24",
+  "model": "gpt-5",
+  "short_description": "A food fraud auditor traces a restaurant allergy crisis to forged saffron invoices, adulterated spice oil, and an investor's supply-chain scheme.",
+  "long_description": "When a guest collapses during a private tasting at Marigold Table, food fraud auditor Leona Vey is hired to determine whether the celebrated kitchen cross-contaminated a dish or whether the saffron supply chain failed. The almond smell in the saffron rice, the glossy replacement tins, and the perfect import paperwork point away from the pastry station and toward a forged luxury spice lot.\n\nAs Leona works with chef Rafi Doran, pastry chef Sera Malk, health inspector Mina Calder, and a staff that tried to warn before service, the case widens into investor pressure, altered prep logs, and a blending facility selling cheap dyed petals and allergen-bearing carrier oil as premium saffron. The restaurant may have served the dish, but the invoice made the danger look safe.",
+  "main_characters": [
+    "Leona Vey - Adult food fraud auditor who specializes in spice adulteration, supplier audits, and restaurant traceability.",
+    "Rafi Doran - Adult chef-owner of Marigold Table, brilliant and defensive, with a kitchen built on trust.",
+    "Sera Malk - Adult pastry chef whose allergy controls are strict enough to make her the first suspect and best witness.",
+    "Ilya Noor - Adult spice importer whose saffron lots are pristine on paper and impossible under market conditions.",
+    "Mina Calder - Adult health inspector balancing public safety with political pressure.",
+    "Tomas Reed - Adult guest who survives the reaction and refuses to let the restaurant scapegoat a server.",
+    "Vale Arno - Adult restaurant investor whose expansion deal depends on a clean private tasting.",
+    "Priya Sen - Adult line cook who noticed the saffron oil smelled wrong before service.",
+    "Omar Jale - Adult warehouse manager whose receiving photos show tins that do not match invoices.",
+    "Celeste Wyn - Adult food critic invited to the tasting, carrying more influence than appetite."
+  ],
+  "keywords": [
+    "food fraud",
+    "saffron",
+    "restaurant suspense",
+    "supply chain",
+    "allergen control",
+    "spice adulteration",
+    "forged invoices",
+    "health inspection",
+    "kitchen",
+    "traceability"
+  ],
+  "word_count": 10437,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Saffron_Invoice/txt/The_Saffron_Invoice.txt",
+  "EPUB_path": "books/The_Saffron_Invoice/epub/The_Saffron_Invoice.epub",
+  "paths": {
+    "outline": "books/The_Saffron_Invoice/planning/The_Saffron_Invoice_outline.md",
+    "manuscript": "books/The_Saffron_Invoice/txt/The_Saffron_Invoice.txt",
+    "epub": "books/The_Saffron_Invoice/epub/The_Saffron_Invoice.epub",
+    "cover": "books/The_Saffron_Invoice/covers/The_Saffron_Invoice.png",
+    "metadata": "books/The_Saffron_Invoice/metadata/The_Saffron_Invoice_metadata.json"
+  }
+}

@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Cobalt_Kiln/planning/The_Cobalt_Kiln_outline.md,4895,50-chapter outline
+books/The_Cobalt_Kiln/txt/The_Cobalt_Kiln.txt,216888,Expanded full TXT manuscript
+books/The_Cobalt_Kiln/epub/The_Cobalt_Kiln.epub,336447,Rebuilt EPUB export
+books/The_Cobalt_Kiln/covers/The_Cobalt_Kiln.png,76711,Cover image
+books/The_Cobalt_Kiln/metadata/The_Cobalt_Kiln_metadata.json,1990,Production metadata
+books/The_Cobalt_Kiln/reports/final_report.md,1100,Final validation report
+books/The_Cobalt_Kiln/reports/manifest.csv,801,File manifest
+books/The_Cobalt_Kiln/reports/progress.md,387,Progress log
+books/The_Cobalt_Kiln/tools/build_epub.py,8610,EPUB build script
+books/The_Cobalt_Kiln/tools/create_cover.py,11731,Cover generation script
+books/The_Cobalt_Kiln/README.md,739,Per-book README

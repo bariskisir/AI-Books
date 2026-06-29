@@ -1,0 +1,37 @@
+{
+  "title": "The Cobalt Kiln",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5",
+  "genre": "Ceramic Provenance Mystery",
+  "subgenre": "Archaeological Art Suspense",
+  "language": "en",
+  "short_description": "A ceramic conservator follows glaze chemistry, kiln scars, and hidden storage marks to expose a donor collection built from stolen bowls and modern substitutes.",
+  "long_description": "A museum is preparing to accept a donor's luminous cobalt-glazed bowls as the centerpiece of a new wing. Ceramic conservator Dr. Mara Voss is asked to authenticate them quickly, but the bowls' glaze bubbles, clay inclusions, ash scars, and lacquered foot rings do not match the donor's story.\n\nWith a registrar, archaeological ceramicist, materials scientist, kiln builder, provenance lawyer, and temple storage curator, Mara separates old stolen bowls from modern workshop substitutions. False permits, freeport records, cobalt dust, and hidden crate marks reveal a collection assembled to turn theft into philanthropy.\n\nThe Cobalt Kiln is a spare ceramic provenance mystery about beauty, craft evidence, restitution, and the discipline of refusing a donor's story when the clay says otherwise.",
+  "main_characters": [
+    "Dr. Mara Voss",
+    "Jonas Senn",
+    "Iris Quill",
+    "Calder Rusk",
+    "Talia Reed",
+    "Bram Pike",
+    "Nadia Hesk",
+    "Olan Marr",
+    "Leona Vale",
+    "Judge Elian Arda"
+  ],
+  "keywords": [
+    "ceramic provenance",
+    "cobalt glaze",
+    "kiln forensics",
+    "museum ethics",
+    "cultural property",
+    "restitution",
+    "art fraud",
+    "archaeological suspense"
+  ],
+  "outline_path": "books/The_Cobalt_Kiln/planning/The_Cobalt_Kiln_outline.md",
+  "TXT_path": "books/The_Cobalt_Kiln/txt/The_Cobalt_Kiln.txt",
+  "EPUB_path": "books/The_Cobalt_Kiln/epub/The_Cobalt_Kiln.epub",
+  "cover_path": "books/The_Cobalt_Kiln/covers/The_Cobalt_Kiln.png",
+  "status": "complete_txt_epub_available"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The Quartz Witness",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5",
+  "genre": "Forensic Geology Mystery",
+  "subgenre": "Mining Arbitration Suspense",
+  "language": "en",
+  "short_description": "A forensic geologist proves a mining company moved a quartz sample, a claim line, and a collapse record to seize a spring-fed ridge.",
+  "long_description": "In the mountain town of Graybarrow, a white quartz specimen becomes the central witness in an arbitration between a public spring and a lithium company. Dr. Mira Vale is hired as a neutral forensic geologist, but the crystal's pressure shadows, inclusions, and sawed faces refuse the company's clean story.\n\nAs Mira works with a town solicitor, a mine surveyor, a core shed technician, a hydrologist, and a seismic station operator, the case moves from maps to stone. Reversed trays, erased tags, a missing seismic hour, and a buried boundary cairn reveal a staged sample chain built to move a legal vein across a line.\n\nThe Quartz Witness is a spare technical suspense novel about geology, water rights, evidence custody, and the stubborn testimony of physical things.",
+  "main_characters": [
+    "Dr. Mira Vale",
+    "Jonas Pike",
+    "Leona Senn",
+    "Calder Rusk",
+    "Inez Quill",
+    "Dr. Owen Marr",
+    "Talia Reed",
+    "Bram Noll",
+    "Suri Voss",
+    "Judge Elian Arda"
+  ],
+  "keywords": [
+    "forensic geology",
+    "quartz",
+    "mining arbitration",
+    "water rights",
+    "chain of custody",
+    "seismic evidence",
+    "core samples",
+    "mountain suspense"
+  ],
+  "outline_path": "books/The_Quartz_Witness/planning/The_Quartz_Witness_outline.md",
+  "TXT_path": "books/The_Quartz_Witness/txt/The_Quartz_Witness.txt",
+  "EPUB_path": "books/The_Quartz_Witness/epub/The_Quartz_Witness.epub",
+  "cover_path": "books/The_Quartz_Witness/covers/The_Quartz_Witness.png",
+  "status": "complete_txt_epub_available"
+}

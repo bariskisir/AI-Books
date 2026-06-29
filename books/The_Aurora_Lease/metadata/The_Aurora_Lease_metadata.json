@@ -1,0 +1,37 @@
+{
+  "title": "The Aurora Lease",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5",
+  "genre": "Polar Corporate Eco-Thriller",
+  "subgenre": "Energy Field Suspense",
+  "language": "en",
+  "short_description": "An atmospheric physicist exposes a shifted polar lease boundary after aurora instruments detect illegal ground pulses beneath a protected migration corridor.",
+  "long_description": "On a wind-cut research ridge, Dr. Leda Marr studies auroras for a station that survives by grants, repair tape, and the honesty of its instruments. When the magnetometer records controlled pulses beneath a protected migration corridor, a hydrogen consortium insists the sky itself has made the readings unreliable.\n\nThe claim would be easier to accept if the ice-road permits had not changed, if an old cairn had not been buried, and if every quiet correction did not move the lease line closer to a herd route that belongs to no company. With a field guide, a medic, a driver, a lawyer, and one stubborn auditor beside her, Leda follows the interference down from the green lights into the paperwork under the snow.\n\nThe Aurora Lease is a spare polar corporate eco-thriller about science under pressure, public land, and the danger of letting elegant language cover a boundary moved in the dark.",
+  "main_characters": [
+    "Dr. Leda Marr",
+    "Anik Vale",
+    "Dr. Ro Senn",
+    "Marta Quill",
+    "Evan Pike",
+    "Suri Noll",
+    "Tomas Iver",
+    "Nadia Pell",
+    "Iris Vey",
+    "Judge Olan Rees"
+  ],
+  "keywords": [
+    "aurora",
+    "polar research",
+    "hydrogen energy",
+    "lease boundary",
+    "magnetometer",
+    "wildlife corridor",
+    "corporate pressure",
+    "Arctic suspense"
+  ],
+  "outline_path": "books/The_Aurora_Lease/planning/The_Aurora_Lease_outline.md",
+  "TXT_path": "books/The_Aurora_Lease/txt/The_Aurora_Lease.txt",
+  "EPUB_path": "books/The_Aurora_Lease/epub/The_Aurora_Lease.epub",
+  "cover_path": "books/The_Aurora_Lease/covers/The_Aurora_Lease.png",
+  "status": "complete_txt_epub_available"
+}

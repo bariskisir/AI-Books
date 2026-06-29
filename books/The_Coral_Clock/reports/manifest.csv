@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Coral_Clock/planning/The_Coral_Clock_outline.md,6228,50-chapter outline
+books/The_Coral_Clock/txt/The_Coral_Clock.txt,209145,Expanded full TXT manuscript
+books/The_Coral_Clock/epub/The_Coral_Clock.epub,432756,Rebuilt EPUB export
+books/The_Coral_Clock/covers/The_Coral_Clock.png,162197,Cover image
+books/The_Coral_Clock/metadata/The_Coral_Clock_metadata.json,1877,Production metadata
+books/The_Coral_Clock/reports/final_report.md,1095,Final validation report
+books/The_Coral_Clock/reports/manifest.csv,804,File manifest
+books/The_Coral_Clock/reports/progress.md,1072,Progress log
+books/The_Coral_Clock/tools/build_epub.py,8610,EPUB build script
+books/The_Coral_Clock/tools/create_cover.py,12099,Cover generation script
+books/The_Coral_Clock/README.md,2916,Per-book README

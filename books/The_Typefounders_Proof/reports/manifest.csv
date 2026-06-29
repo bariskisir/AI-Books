@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Typefounders_Proof/planning/The_Typefounders_Proof_outline.md,4905,50-chapter outline
+books/The_Typefounders_Proof/txt/The_Typefounders_Proof.txt,212177,Expanded full TXT manuscript
+books/The_Typefounders_Proof/epub/The_Typefounders_Proof.epub,481241,Rebuilt EPUB export
+books/The_Typefounders_Proof/covers/The_Typefounders_Proof.png,206792,Cover image
+books/The_Typefounders_Proof/metadata/The_Typefounders_Proof_metadata.json,1934,Production metadata
+books/The_Typefounders_Proof/reports/final_report.md,1101,Final validation report
+books/The_Typefounders_Proof/reports/manifest.csv,915,File manifest
+books/The_Typefounders_Proof/reports/progress.md,468,Progress log
+books/The_Typefounders_Proof/tools/build_epub.py,8610,EPUB build script
+books/The_Typefounders_Proof/tools/create_cover.py,12572,Cover generation script
+books/The_Typefounders_Proof/README.md,1380,Per-book README

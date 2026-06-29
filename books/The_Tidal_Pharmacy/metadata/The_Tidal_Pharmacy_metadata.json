@@ -1,0 +1,37 @@
+{
+  "title": "The Tidal Pharmacy",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5",
+  "genre": "Pharmaceutical Supply-Chain Mystery",
+  "subgenre": "Coastal Medical Suspense",
+  "language": "en",
+  "short_description": "An island pharmacist traces spoiled medicine, forged cold-chain data, and altered tide manifests to a private clinic diversion scheme.",
+  "long_description": "On the island chain of Vey Sound, pharmacist Dr. Leda Quill begins an audit after insulin vials cloud, antibiotics vanish, and distributor records blame weather that never happened. The cold-chain paperwork is perfect. The medicine is not.\n\nWith a ferry captain, clinic nurse, harbor clerk, refrigeration mechanic, and retired fisherman, Leda follows salt crystals, seal numbers, copied temperature curves, tide windows, and resort clinic ledgers. What looks like island mishandling becomes a deliberate diversion of public medicine into private care.\n\nThe Tidal Pharmacy is a spare coastal medical suspense novel about cold-chain evidence, public health, and the practical ethics of keeping lifesaving supplies visible from dock to dose.",
+  "main_characters": [
+    "Dr. Leda Quill",
+    "Mara Senn",
+    "Jonas Pike",
+    "Calder Vale",
+    "Iris Noll",
+    "Talia Reed",
+    "Bram Hesk",
+    "Dr. Olan Voss",
+    "Nadia Marr",
+    "Judge Elian Arda"
+  ],
+  "keywords": [
+    "pharmaceutical supply chain",
+    "cold chain",
+    "island medicine",
+    "tide schedules",
+    "insulin",
+    "medical logistics",
+    "coastal suspense",
+    "public health"
+  ],
+  "outline_path": "books/The_Tidal_Pharmacy/planning/The_Tidal_Pharmacy_outline.md",
+  "TXT_path": "books/The_Tidal_Pharmacy/txt/The_Tidal_Pharmacy.txt",
+  "EPUB_path": "books/The_Tidal_Pharmacy/epub/The_Tidal_Pharmacy.epub",
+  "cover_path": "books/The_Tidal_Pharmacy/covers/The_Tidal_Pharmacy.png",
+  "status": "complete_txt_epub_available"
+}

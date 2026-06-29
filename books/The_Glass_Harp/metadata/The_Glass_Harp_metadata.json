@@ -1,0 +1,47 @@
+{
+  "title": "The Glass Harp",
+  "author": "Barış Kısır",
+  "genre": "Acoustic Architecture Mystery",
+  "subgenre": "Concert Hall Suspense",
+  "language": "en",
+  "status": "complete_txt_epub_available",
+  "published_date": "2026-06-24",
+  "model": "gpt-5",
+  "short_description": "An acoustic consultant investigates a shattered concert-hall canopy and discovers a dangerous resonance hidden by forged glass certificates, altered music, and donor pressure.",
+  "long_description": "Dr. Livia Senn is called to Aster Hall after a glass acoustic canopy breaks during the opening rehearsal. The foundation wants a quick finding of unforeseeable resonance, but Livia hears a narrow frequency spike that matches one altered note in the new commission.\n\nWith stage manager Marco Vey, materials engineer Anika Ro, and city inspector Declan Shore, Livia traces the failure through substituted glass, removed inspection memos, hidden speaker presets, and a gala deadline tied to public bonds. The hall was designed to sing, then tuned to flatter patrons, until its most beautiful flourish became evidence.",
+  "main_characters": [
+    "Dr. Livia Senn - Adult acoustic consultant who maps rooms by listening for what polished reports omit.",
+    "Marco Vey - Adult stage manager at Aster Hall who keeps practical records and protects his crew.",
+    "Dr. Anika Ro - Adult materials engineer who tests glass, resin, and stress fractures without theatrics.",
+    "Jasper Cale - Adult star architect whose glass canopy is both monument and liability.",
+    "Mirelle Ardent - Adult foundation chair determined to open the hall before a bond deadline.",
+    "Tomas Ivo - Adult composer whose score is altered to trigger the room's dangerous resonance.",
+    "Pearl Ivo - Adult cellist whose original score and rehearsal memory protect the music from blame.",
+    "Declan Shore - Adult city inspector whose warnings were removed from the permit file.",
+    "Sima Verret - Adult glass fabricator whose forged approval exposes the substituted materials.",
+    "Anton Reeve - Adult acoustics subcontractor paid to hide rattles during donor demonstrations."
+  ],
+  "keywords": [
+    "acoustics",
+    "architecture mystery",
+    "concert hall",
+    "resonance",
+    "glass canopy",
+    "materials engineering",
+    "forged certificates",
+    "public bonds",
+    "stage management",
+    "music suspense"
+  ],
+  "word_count": 11068,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Glass_Harp/txt/The_Glass_Harp.txt",
+  "EPUB_path": "books/The_Glass_Harp/epub/The_Glass_Harp.epub",
+  "paths": {
+    "outline": "books/The_Glass_Harp/planning/The_Glass_Harp_outline.md",
+    "manuscript": "books/The_Glass_Harp/txt/The_Glass_Harp.txt",
+    "epub": "books/The_Glass_Harp/epub/The_Glass_Harp.epub",
+    "cover": "books/The_Glass_Harp/covers/The_Glass_Harp.png",
+    "metadata": "books/The_Glass_Harp/metadata/The_Glass_Harp_metadata.json"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The Coral Clock",
+  "author": "Bar\u0131\u015f K\u0131s\u0131r",
+  "model": "gpt-5",
+  "genre": "Marine Archaeology Mystery",
+  "subgenre": "Reef Restoration Suspense",
+  "language": "en",
+  "short_description": "A marine archaeologist must prove a living reef is also a historic wreck site before a marina dredge cuts through it.",
+  "long_description": "When Mara Venn finds a coral-encrusted marine chronometer inside a disputed dredge channel, the official survey insists the wreck lies safely elsewhere. The reef, the stopped clock, old captain's logs, and raw coordinate files tell a different story.\n\nWith help from a local diver, a coral ecologist, an archivist, and a reluctant survey technician, Mara traces a shifted datum, a softened map, and a developer's pressure campaign. The reef becomes both archive and witness as court, council, and island workers decide whether prosperity must arrive by cutting through the past.\n\nThe Coral Clock is a spare marine suspense novel about living evidence, public maps, island debt, and the stubborn refusal of place to move for money.",
+  "main_characters": [
+    "Mara Venn",
+    "Tavio Cale",
+    "Dr. Lina Sorell",
+    "Nico Arden",
+    "Ada Pike",
+    "Emmett Rhys",
+    "Sela Voss",
+    "Captain Orrin Vale",
+    "Noemi Dar",
+    "Judge Ren Ilya"
+  ],
+  "keywords": [
+    "marine archaeology",
+    "coral reef",
+    "shipwreck",
+    "dredging",
+    "survey fraud",
+    "reef restoration",
+    "island politics",
+    "historic preservation"
+  ],
+  "outline_path": "books/The_Coral_Clock/planning/The_Coral_Clock_outline.md",
+  "TXT_path": "books/The_Coral_Clock/txt/The_Coral_Clock.txt",
+  "EPUB_path": "books/The_Coral_Clock/epub/The_Coral_Clock.epub",
+  "cover_path": "books/The_Coral_Clock/covers/The_Coral_Clock.png",
+  "status": "complete_txt_epub_available"
+}

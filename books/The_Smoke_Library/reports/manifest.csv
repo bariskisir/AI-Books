@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Smoke_Library/planning/The_Smoke_Library_outline.md,6000,50-chapter outline
+books/The_Smoke_Library/txt/The_Smoke_Library.txt,214403,Expanded full TXT manuscript
+books/The_Smoke_Library/epub/The_Smoke_Library.epub,473488,Rebuilt EPUB export
+books/The_Smoke_Library/covers/The_Smoke_Library.png,196729,Cover image
+books/The_Smoke_Library/metadata/The_Smoke_Library_metadata.json,3113,Production metadata
+books/The_Smoke_Library/reports/final_report.md,1204,Final validation report
+books/The_Smoke_Library/reports/manifest.csv,836,File manifest
+books/The_Smoke_Library/reports/progress.md,1028,Progress log
+books/The_Smoke_Library/tools/build_epub.py,8610,EPUB build script
+books/The_Smoke_Library/tools/create_cover.py,12114,Cover generation script
+books/The_Smoke_Library/README.md,3366,Per-book README
