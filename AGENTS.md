@@ -164,6 +164,12 @@ Books are listed alphabetically. Insert new books in their correct A-Z position.
 | `books/The_Bellweather_Murders/` | Crime / Small-town murder mystery | 50 | Complete |
 | `books/The_Meridian_Cycle/` | Sci-fi series (10 books) | 50 each | Complete |
 | `books/Larklight/` | Literary fiction / Family saga | 50 | Complete |
+
+| `books/The_Carbon_Garden/` | Solarpunk / Hopeful Climate Fiction | 50 | Complete |
+| `books/The_Last_Tide/` | Tidalpunk / Coastal Climate Fiction | 50 | Complete |
+| `books/The_Memory_Palace/` | Speculative Fiction / Memory Science Thriller | 50 | Complete |
+| `books/The_Paleolithic_Contract/` | Anthropological Thriller / Deep History Mystery | 50 | Complete |
+| `books/The_Spindle_Kings/` | Nanopunk / Molecular Thriller | 50 | Complete |
 | `books/The_Wintering/` | Literary fiction / Historical survival | 50 | Complete |
 | `books/The_Salt_Road/` | Literary fiction / Contemporary family drama | 50 | Complete |
 | `books/The_Long_Exposure/` | Literary fiction / Quiet mystery (science & memory) | 50 | Complete |

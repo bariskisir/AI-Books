@@ -21,7 +21,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-CHAPTER_RE = re.compile(r"^Chapter\s+(\d+):\s+(.+)$", re.MULTILINE)
+CHAPTER_RE = re.compile(r"^(?:#+\s+)?Chapter\s+(\d+):\s+(.+)$", re.MULTILINE)
 
 
 def rel(path: Path) -> Path:
@@ -73,7 +73,7 @@ def split_chapters(text: str) -> tuple[str, list[tuple[int, str, str]]]:
 
 
 def build(metadata_path: Path, cover_path: Path | None, output_path: Path) -> None:
-    metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
+    metadata = json.loads(metadata_path.read_text(encoding="utf-8-sig"))
     txt_path = rel(Path(metadata["TXT_path"]))
     text = txt_path.read_text(encoding="utf-8")
     front, chapters = split_chapters(text)
@@ -246,7 +246,7 @@ def main() -> None:
     args = parser.parse_args()
 
     metadata_path = rel(args.metadata)
-    metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
+    metadata = json.loads(metadata_path.read_text(encoding="utf-8-sig"))
     output_path = rel(args.out) if args.out else rel(Path(metadata["EPUB_path"]))
     build(metadata_path, args.cover, output_path)
 

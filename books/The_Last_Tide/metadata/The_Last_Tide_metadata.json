@@ -1,0 +1,41 @@
+{
+  "title": "The Last Tide",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Tidalpunk",
+  "subgenre": "Coastal Climate Fiction",
+  "language": "en",
+  "short_description": "A marine biologist assembles an unlikely crew to document vanishing islands, dying languages, and submerged knowledge in the Bay of Bengal before the rising sea erases everything.",
+  "long_description": "In the Bay of Bengal, accelerating sea-level rise is swallowing islands, dialects, and ways of life faster than any archive can preserve them. Dr. Amara Dey, a Bangladeshi marine biologist, assembles an unlikely crew â€” an elder fisherman carrying a dormant coastal dialect, a pragmatic linguistic anthropologist, a data analyst with a dangerous secret, a fierce young climate activist, and a navy captain haunted by a past order he cannot undo â€” to sail from the Sundarbans to the Andaman Sea and document what is being lost.\n\nBureaucratic indifference, criminal climate opportunists, and the crew's own diverging visions of what \"saving\" means threaten the expedition at every turn. David's satellite model has been quietly acquired by a land-speculation consortium; Rafiq's health is failing and with it the last fluent speaker of a language that encodes centuries of tidal knowledge; Noora carries the trauma of a drowned village and searches for her grandmother's submerged birthplace on colonial maps. When a cyclonic storm forces them to shelter on an evacuating island, the expedition's archive â€” and their lives â€” hang in the balance.\n\nThe voyage forces each of them to confront a deeper question: when a place is dying, do you memorialize its past, fight for its future, or help its people find new ground? Spanning from the mudflats of Lohachara to a viral broadcast that reaches the UN, The Last Tide is a novel about what endures when the water takes everything â€” a story of science and grief, resistance and renewal, and the song that continues after the shore is gone.",
+  "main_characters": [
+    "Dr. Amara Dey",
+    "Rafiq",
+    "Priya Sundaram",
+    "David Chen",
+    "Noora",
+    "Captain Zaman"
+  ],
+  "keywords": [
+    "tidalpunk",
+    "climate fiction",
+    "rising sea levels",
+    "Bengal delta",
+    "Sundarbans",
+    "endangered languages",
+    "climate displacement",
+    "marine biology",
+    "Bay of Bengal",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Last_Tide/txt/The_Last_Tide.txt",
+  "EPUB_path": "books/The_Last_Tide/epub/The_Last_Tide.epub",
+  "cover_path": "books/The_Last_Tide/covers/The_Last_Tide.png",
+  "paths": {
+    "outline": "books/The_Last_Tide/planning/The_Last_Tide_outline.md",
+    "manuscript": "books/The_Last_Tide/txt/The_Last_Tide.txt",
+    "epub": "books/The_Last_Tide/epub/The_Last_Tide.epub",
+    "cover": "books/The_Last_Tide/covers/The_Last_Tide.png",
+    "metadata": "books/The_Last_Tide/metadata/The_Last_Tide_metadata.json"
+  },
+  "status": "complete_txt_epub_available"
+}

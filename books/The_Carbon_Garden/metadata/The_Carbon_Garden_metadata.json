@@ -1,0 +1,37 @@
+{
+  "title": "The Carbon Garden",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Solarpunk",
+  "subgenre": "Hopeful Climate Fiction",
+  "language": "en",
+  "short_description": "In a near-future Portugal recovering from climate collapse, biotechnologist Ines Marques and mycelium architect Tomasz Kowalski build a carbon-negative settlement whose revolutionary technology draws the predatory attention of a global conglomerate, forcing the community to choose between protecting their vision and sharing it with the world.",
+  "long_description": "The Carbon Garden is a solarpunk novel set in a near-future Portugal rebuilding from climate catastrophe. Biotechnologist Ines Marques and mycelium architect Tomasz Kowalski have founded Vale das Luzes, a fully carbon-negative settlement in the Alentejo hills powered by algae bioreactors, living fungal architecture, and regenerative social contracts. Their experiment proves that human communities can not only stop harming the planet but actively heal it, drawing down centuries of excess carbon through innovations others called impossible.\n\nWhen Singapore-based conglomerate Ethos Global sends corporate envoy Marcus Chen to acquire their technology, the community faces an existential crisis. As external pressure mounts and internal fractures threaten their founding principles, the settlers must navigate patent wars, legal battles, and their own doubts about whether their vision can survive contact with the world they sought to escape. Characters including elder community leader Dona Rosa, journalist Yuki Tanaka, and Ines's grieving teenage son Rui each carry their own complex relationships with environmental work, sacrifice, and belonging.\n\nAt its heart, The Carbon Garden is about healing â€” of damaged ecosystems, of fractured communities, of people carrying grief and hope in equal measure. It charts the growth of an idea from a single cork-forest hillside into a global replication network, asking what we are willing to sacrifice for the future and whether the most radical act is to build what we believe in, openly and together.",
+  "main_characters": [
+    "Ines Marques",
+    "Tomasz Kowalski",
+    "Dona Rosa",
+    "Marcus Chen",
+    "Yuki Tanaka",
+    "Rui Marques"
+  ],
+  "keywords": [
+    "solarpunk",
+    "climate fiction",
+    "carbon sequestration",
+    "regenerative community",
+    "mycelium architecture",
+    "corporate ethics"
+  ],
+  "TXT_path": "books/The_Carbon_Garden/txt/The_Carbon_Garden.txt",
+  "EPUB_path": "books/The_Carbon_Garden/epub/The_Carbon_Garden.epub",
+  "cover_path": "books/The_Carbon_Garden/covers/The_Carbon_Garden.png",
+  "paths": {
+    "outline": "books/The_Carbon_Garden/planning/The_Carbon_Garden_outline.md",
+    "manuscript": "books/The_Carbon_Garden/txt/The_Carbon_Garden.txt",
+    "epub": "books/The_Carbon_Garden/epub/The_Carbon_Garden.epub",
+    "cover": "books/The_Carbon_Garden/covers/The_Carbon_Garden.png",
+    "metadata": "books/The_Carbon_Garden/metadata/The_Carbon_Garden_metadata.json"
+  },
+  "status": "complete_txt_epub_available"
+}

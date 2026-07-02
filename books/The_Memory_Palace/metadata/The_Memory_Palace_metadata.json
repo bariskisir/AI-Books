@@ -1,0 +1,38 @@
+{
+  "title": "The Memory Palace",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Speculative Fiction",
+  "subgenre": "Memory Science Thriller",
+  "language": "en",
+  "short_description": "When a meticulous memory archivist discovers a 0.4% anomaly in a WWI veteran archive, she uncovers a conspiracy to systematically erase and rewrite humanity's shared past from inside the organization that built the technology to preserve it.",
+  "long_description": "In a near-future world where memory palaces are real â€” architecturally-constructed mental spaces built with neural implants called Loci Nodes â€” Catherine Armitage, a senior archivist at the World Memory Trust, notices something impossible: a cluster of World War I veteran memories has dimmed by 0.4%, their emotional resonance drained while the data remains intact. As she investigates, she discovers the erasures are not random but targeted, clustering around a single suppressed historical thread â€” a forgotten peace treaty that would have redrawn borders and prevented World War II, buried by a powerful bloodline that now controls the WMT itself.\n\nTeaming with Dr. Elias Thorne, the guilt-haunted neuroscientist who invented the Loci Node protocol; Sofia Reyes, a sharp-tongued Spanish memory detective who can read the emotional residue left on memories; and Kai Nakamura, a provocative memory artist who builds false memories indistinguishable from real ones, Catherine races across Europe from London to Barcelona to Geneva, pursued by the Director â€” the digitally-obscured head of the WMT. To stop the erasure of humanity's collective past, she must navigate her own fractured Victorian-library memory palace, sacrifice her most precious personal memory to sever the WMT's tracking tether, and ultimately decide what the past is worth.\n\nAt its heart, The Memory Palace is a story about what we owe to those who came before us and what we risk when we let anyone â€” no matter how well-intentioned â€” decide which voices deserve to be heard. Anchored by Old Tom, an 81-year-old retired postal worker losing his earliest memories to the erasures, the novel asks whether a peaceful world built on a curated past is worth the cost of the truth it buries.",
+  "main_characters": [
+    "Catherine Armitage",
+    "Dr. Elias Thorne",
+    "Sofia Reyes",
+    "Kai Nakamura",
+    "Old Tom",
+    "The Director",
+    "Dr. Mariko Yoshida"
+  ],
+  "keywords": [
+    "memory palace",
+    "neural implant",
+    "memory erasure",
+    "collective memory",
+    "historical revisionism",
+    "dystopian thriller"
+  ],
+  "TXT_path": "books/The_Memory_Palace/txt/The_Memory_Palace.txt",
+  "EPUB_path": "books/The_Memory_Palace/epub/The_Memory_Palace.epub",
+  "cover_path": "books/The_Memory_Palace/covers/The_Memory_Palace.png",
+  "paths": {
+    "outline": "books/The_Memory_Palace/planning/The_Memory_Palace_outline.md",
+    "manuscript": "books/The_Memory_Palace/txt/The_Memory_Palace.txt",
+    "epub": "books/The_Memory_Palace/epub/The_Memory_Palace.epub",
+    "cover": "books/The_Memory_Palace/covers/The_Memory_Palace.png",
+    "metadata": "books/The_Memory_Palace/metadata/The_Memory_Palace_metadata.json"
+  },
+  "status": "complete_txt_epub_available"
+}
