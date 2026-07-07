@@ -1,0 +1,41 @@
+{
+  "title": "The Barometer Room",
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Meteorological Data Fraud",
+  "subgenre": "Storm Forecasting Suspense",
+  "language": "en",
+  "short_description": "A meteorological data auditor investigates a deadly harbor flood after an analog barograph contradicts the official storm record.",
+  "long_description": "When a coastal storm floods the harbor district before the public warning arrives, Tessa Vale is asked to reconcile the official weather archive with field reports that refuse to fit. In an old municipal barometer room, a brass instrument's ink trace shows pressure falling faster and earlier than the city's polished dashboard admits.\n\nAs Tessa follows buoy telemetry, tugboat logs, alert queues, insurance exports, and a torn strip of paper, the disaster resolves into something colder than forecast error. The storm was uncertain, but the record was managed, smoothed, and delayed by people who needed time to look defensible.\n\nThe Barometer Room is a spare technical suspense novel about public systems, private incentives, and the stubborn value of instruments that do not know how to flatter power.",
+  "main_characters": [
+    "Tessa Vale",
+    "Cal Ivers",
+    "June Narek",
+    "Dr. Petra Sloane",
+    "Milo Grant",
+    "Nia Sol",
+    "Arlen Pike",
+    "Elise Mar",
+    "Roan Bell",
+    "Judge Corin Hale"
+  ],
+  "keywords": [
+    "meteorological data",
+    "storm forecasting",
+    "barograph",
+    "harbor flood",
+    "data tampering",
+    "public warning",
+    "insurance fraud",
+    "technical suspense"
+  ],
+  "outline_path": "books/The_Barometer_Room/planning/The_Barometer_Room_outline.md",
+  "TXT_path": "books/The_Barometer_Room/txt/The_Barometer_Room.txt",
+  "EPUB_path": "books/The_Barometer_Room/epub/The_Barometer_Room.epub",
+  "cover_path": "books/The_Barometer_Room/covers/The_Barometer_Room.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 36368
+  }
+}

@@ -1,0 +1,12 @@
+File,Path,Size (bytes),Type,Description,model
+Outline,The_Half_Life_of_Love/planning/The_Half_Life_of_Love_outline.md,5280,text/markdown,50-chapter outline with premise and character descriptions,deepseek-v4-flash
+Manuscript,The_Half_Life_of_Love/txt/The_Half_Life_of_Love.txt,11081,text/plain,Full 50-chapter novel manuscript,deepseek-v4-flash
+Metadata,The_Half_Life_of_Love/metadata/The_Half_Life_of_Love_metadata.json,1752,application/json,Book metadata including title,deepseek-v4-flash, genre, descriptions
+Build Script,The_Half_Life_of_Love/tools/build_epub.py,7164,text/x-python,EPUB 3 generation script,deepseek-v4-flash
+Cover Script,The_Half_Life_of_Love/tools/create_cover.py,10890,text/x-python,PIL-based cover image generation script,deepseek-v4-flash
+Cover Image,The_Half_Life_of_Love/covers/The_Half_Life_of_Love.png,1082086,image/png,1600x2560 book cover,deepseek-v4-flash
+EPUB,The_Half_Life_of_Love/epub/The_Half_Life_of_Love.epub,286287,application/epub+zip,Complete EPUB 3 ebook,deepseek-v4-flash
+README,The_Half_Life_of_Love/README.md,1257,text/markdown,Book-level README,deepseek-v4-flash
+Final Report,The_Half_Life_of_Love/reports/final_report.md,2669,text/markdown,Detailed final report,deepseek-v4-flash
+Manifest,The_Half_Life_of_Love/reports/manifest.csv,1020,text/csv,File manifest,deepseek-v4-flash
+Progress,The_Half_Life_of_Love/reports/progress.md,672,text/markdown,Progress tracking report,deepseek-v4-flash

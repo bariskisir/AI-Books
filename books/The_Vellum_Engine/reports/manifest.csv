@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Vellum_Engine/planning/The_Vellum_Engine_outline.md,3440,50-chapter outline
+books/The_Vellum_Engine/txt/The_Vellum_Engine.txt,220400,Expanded full TXT manuscript
+books/The_Vellum_Engine/epub/The_Vellum_Engine.epub,414945,Rebuilt EPUB export
+books/The_Vellum_Engine/covers/The_Vellum_Engine.png,130082,Cover image
+books/The_Vellum_Engine/metadata/The_Vellum_Engine_metadata.json,1803,Production metadata
+books/The_Vellum_Engine/reports/final_report.md,1101,Final validation report
+books/The_Vellum_Engine/reports/manifest.csv,835,File manifest
+books/The_Vellum_Engine/reports/progress.md,429,Progress log
+books/The_Vellum_Engine/tools/build_epub.py,8610,EPUB build script
+books/The_Vellum_Engine/tools/create_cover.py,17325,Cover generation script
+books/The_Vellum_Engine/README.md,1318,Per-book README

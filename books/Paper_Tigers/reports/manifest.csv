@@ -1,0 +1,12 @@
+file,path,size_bytes,status,model
+Outline,Paper_Tigers/planning/Paper_Tigers_outline.md,3804,complete,deepseek-v4-flash
+Manuscript,Paper_Tigers/txt/Paper_Tigers.txt,58990,complete,deepseek-v4-flash
+Metadata,Paper_Tigers/metadata/Paper_Tigers_metadata.json,4182,complete,deepseek-v4-flash
+Cover,Paper_Tigers/covers/Paper_Tigers.png,873405,complete,deepseek-v4-flash
+EPUB,Paper_Tigers/epub/Paper_Tigers.epub,223116,complete,deepseek-v4-flash
+README,Paper_Tigers/README.md,1055,complete,deepseek-v4-flash
+Build Script,Paper_Tigers/tools/build_epub.py,7079,complete,deepseek-v4-flash
+Cover Script,Paper_Tigers/tools/create_cover.py,8915,complete,deepseek-v4-flash
+Final Report,Paper_Tigers/reports/final_report.md,1886,complete,deepseek-v4-flash
+Manifest,Paper_Tigers/reports/manifest.csv,641,complete,deepseek-v4-flash
+Progress,Paper_Tigers/reports/progress.md,467,complete,deepseek-v4-flash

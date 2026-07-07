@@ -1,0 +1,40 @@
+{
+  "title": "The Jaguar Codex",
+  "author": "Barış Kısır",
+  "genre": "Historical",
+  "subgenre": "Archaeological Thriller",
+  "language": "en",
+  "model": "deepseek-v4-flash",
+  "short_description": "A British archaeologist and a Maya guide race to find a lost pre-Columbian codex in the jungles of 1920s Yucatan, uncovering a chronicle of the Spanish invasion that could rewrite history.",
+  "long_description": "In 1924, British archaeologist Dr. Thomas Ashworth arrives in Mexico's Yucatan Peninsula driven by a single lead: a dying Jesuit archivist's letter describing a hidden Maya codex that was never destroyed by the conquistadors. Local Maya woman Ixchel Ku, descendant of the last priestly scribes of Chichen Itza, is pressed into service as his reluctant guide.\n\nTogether they navigate treacherous jungle, hostile hacienda owners, and a rival archaeologist with his own secret agenda. When they unearth the legendary Codex of Kukulkan, they find not only astronomical tables and ritual calendars but a historical chronicle of the Spanish invasion written by Maya scribes as it happened — including revelations of internecine Maya warfare that made conquest possible.\n\nAs word of the discovery spreads, competing forces converge: a wealthy landowner who wants the codex for his private collection, a European museum scheming through Ashworth's former mentor, and the Mexican federal government asserting national patrimony. Ixchel emerges as the codex's true interpreter, challenging the academic establishment and confronting those who would suppress its uncomfortable truths about colonialism.",
+  "main_characters": [
+    "Dr. Thomas Ashworth",
+    "Ixchel Ku",
+    "Professor Alistair Finch",
+    "Don Rafael Mendoza",
+    "Dr. Eliza Whitcombe"
+  ],
+  "keywords": [
+    "Maya",
+    "codex",
+    "Yucatan",
+    "archaeology",
+    "colonialism",
+    "1920s",
+    "Chichen Itza",
+    "Spanish conquest",
+    "indigenous rights",
+    "epigraphy"
+  ],
+  "status": "completed",
+  "TXT_path": "books/The_Jaguar_Codex/txt/The_Jaguar_Codex.txt",
+  "outline_path": "books/The_Jaguar_Codex/planning/The_Jaguar_Codex_outline.md",
+  "epub_path": "books/The_Jaguar_Codex/epub/The_Jaguar_Codex.epub",
+  "cover_path": "books/The_Jaguar_Codex/covers/The_Jaguar_Codex.png",
+  "word_count": 36485,
+  "EPUB_path": "books/The_Jaguar_Codex/epub/The_Jaguar_Codex.epub",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 36808
+  }
+}

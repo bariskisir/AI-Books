@@ -1,0 +1,12 @@
+file,path,status,notes,model
+Manuscript,txt/The_Elevator.txt,complete,50 chapters,deepseek-v4-flash,500 words
+Metadata,metadata/The_Elevator_metadata.json,complete,,deepseek-v4-flash
+Cover,covers/The_Elevator.png,complete,1600x2560 PNG,deepseek-v4-flash
+EPUB,epub/The_Elevator.epub,complete,EPUB 3 format,deepseek-v4-flash
+Outline,planning/The_Elevator_outline.md,complete,50 chapter plan,deepseek-v4-flash
+Build Script,tools/build_epub.py,complete,Copied from template,deepseek-v4-flash
+Cover Script,tools/create_cover.py,complete,Original PIL script with elevator imagery,deepseek-v4-flash
+README,README.md,complete,Book README,deepseek-v4-flash
+reports/final_report.md,reports/final_report.md,complete,,deepseek-v4-flash
+reports/manifest.csv,reports/manifest.csv,complete,,deepseek-v4-flash
+reports/progress.md,reports/progress.md,complete,,deepseek-v4-flash

@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Last_Pharaohs_Secret/planning/The_Last_Pharaohs_Secret_outline.md,,markdown,deepseek-v4-flash
+The_Last_Pharaohs_Secret/txt/The_Last_Pharaohs_Secret.txt,,text,deepseek-v4-flash
+The_Last_Pharaohs_Secret/metadata/The_Last_Pharaohs_Secret_metadata.json,,,deepseek-v4-flash
+The_Last_Pharaohs_Secret/tools/create_cover.py,,python,deepseek-v4-flash
+The_Last_Pharaohs_Secret/covers/The_Last_Pharaohs_Secret.png,133792,png,deepseek-v4-flash
+The_Last_Pharaohs_Secret/tools/build_epub.py,,python,deepseek-v4-flash
+The_Last_Pharaohs_Secret/epub/The_Last_Pharaohs_Secret.epub,220489,epub,deepseek-v4-flash
+The_Last_Pharaohs_Secret/README.md,,markdown,deepseek-v4-flash
+The_Last_Pharaohs_Secret/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Last_Pharaohs_Secret/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Last_Pharaohs_Secret/reports/progress.md,,markdown,deepseek-v4-flash

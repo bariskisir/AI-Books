@@ -1,0 +1,45 @@
+{
+  "title": "The Thousand Faces",
+  "author": "Barış Kısır",
+  "genre": "Psychological Suspense",
+  "subgenre": "Clinical Psychology / Paranoia Thriller",
+  "language": "en",
+  "model": "sonnet-4.6",
+  "short_description": "When a clinical psychologist at a private psychiatric institute begins experiencing her patients' worst fears as her own, she discovers that the clinic's groundbreaking new treatment is not healing anyone — it is harvesting their terror.",
+  "long_description": "Dr. Sonia Park is a meticulous clinical psychologist at the Harmon Institute, a residential psychiatric clinic in upstate New York. When medical director Dr. Marcus Webb introduces a new neurological treatment protocol combining deep-brain stimulation with an experimental pharmacological preparation, Sonia begins to experience her patients' fears with vivid, physical intensity — vertigo during sessions with a height-phobic patient, claustrophobia in the presence of another. She dismisses these episodes as extreme empathic resonance, a professional hazard. Then one of her patients falls to his death from the institute's fire escape, and the circumstances match her visions exactly.\n\nAs Sonia investigates, she uncovers a research operation designed not to treat patients but to harvest peak neurological fear data for Veridian Cognitive Systems, a private neuroscience firm. The compound in the protocol is a mirror-neuron activator, dissolving the cognitive boundary between clinician and patient to produce richer, more commercially valuable recordings. The patients are being driven toward their worst fears; Sonia has been an unwitting instrument in that process, her own neural responses recorded and sold without her knowledge. With colleagues compromised, the institution's walls closing in, and her own perceptions increasingly uncertain, she must build a case that will survive both external scrutiny and her own compromised judgment.\n\nThe Thousand Faces is a taut psychological thriller about observation, complicity, and the fragile architecture of selfhood — what happens when the instruments we use to understand other minds are turned against our own, and how much we can trust a mind that has been altered to distrust itself.",
+  "main_characters": [
+    "Dr. Sonia Park — clinical psychologist, primary investigator, increasingly unable to trust her own perception",
+    "Dr. Marcus Webb — medical director and architect of the Harmon Protocol, the antagonist",
+    "Devin Chen — patient with height phobia whose death initiates the investigation",
+    "Nurse Agatha Rourke — senior ward nurse and keeper of six years of suppressed evidence",
+    "Dr. Liam Ferris — Sonia's colleague and ambivalent participant in the protocol",
+    "Calista Graves — patient and former Veridian employee who has been monitoring the protocol from inside"
+  ],
+  "keywords": [
+    "psychological thriller",
+    "clinical psychology",
+    "psychiatric clinic",
+    "mirror neurons",
+    "medical ethics",
+    "paranoia",
+    "pharmaceutical experimentation",
+    "deep brain stimulation",
+    "corporate crime",
+    "whistleblower",
+    "perception",
+    "empathy",
+    "unreliable narrator",
+    "institutional corruption",
+    "fear",
+    "neuroscience thriller"
+  ],
+  "status": "completed",
+  "TXT_path": "books/The_Thousand_Faces/txt/The_Thousand_Faces.txt",
+  "EPUB_path": "books/The_Thousand_Faces/epub/The_Thousand_Faces.epub",
+  "cover_path": "books/The_Thousand_Faces/covers/The_Thousand_Faces.png",
+  "planning_path": "books/The_Thousand_Faces/planning/The_Thousand_Faces_outline.md",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 22576
+  }
+}

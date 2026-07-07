@@ -1,0 +1,109 @@
+{
+  "title": "Paper Tigers",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Contemporary Fiction",
+  "subgenre": "Family Drama",
+  "language": "en",
+  "short_description": "Three generations of Chinese-American women in San Francisco confront the secrets that have shaped them during one Lunar New Year.",
+  "long_description": "Lily Chen fled Mao's China at eighteen with nothing but a jade bracelet and a photograph of her father. Now seventy-eight, she rules her family with silence and judgment, the secrets of her past locked in a wooden box she has never opened for anyone. Her daughter June has spent forty years building the perfect American life, only to find that her own daughter is a stranger to her. When June's daughter Mei returns to San Francisco for Lunar New Year, she carries a truth she has been hiding for years. Over the course of two weeks of preparations, reunions, and centuries-old traditions, the secrets that three generations of women have kept from one another finally surface, revealing that the threats they feared were never as real as the love they refused to name. Set against the lantern-lit streets of San Francisco's Chinatown, Paper Tigers is a novel about inheritance, identity, and the courage it takes to break a family's oldest silences.",
+  "main_characters": [
+    {
+      "name": "Lily Chen",
+      "role": "Grandmother",
+      "age": 78,
+      "description": "Born in Guangzhou in 1948. Fled to Hong Kong in 1966 during the Cultural Revolution. Owns a tea and goods shop in Chinatown. Widowed. Carries the trauma of her father's disappearance and a lifetime of unspoken grief."
+    },
+    {
+      "name": "June Chen-Lin",
+      "role": "Mother",
+      "age": 54,
+      "description": "Lily's daughter. Born in Hong Kong, raised in San Francisco. A senior accountant. Married to David Lin for twenty-eight years. Has spent her life building stability and suppressing emotion, only to realize she has passed her silence on to her daughter."
+    },
+    {
+      "name": "Mei Lin",
+      "role": "Daughter",
+      "age": 28,
+      "description": "June's daughter. Born in San Francisco. Graduated from Columbia. Works as a graphic designer in Brooklyn. Has a girlfriend named Zoe whom she has not told her family about. Returns to San Francisco for Lunar New Year determined to finally tell the truth."
+    }
+  ],
+  "side_characters": [
+    {
+      "name": "David Lin",
+      "role": "Father / Husband",
+      "description": "June's husband. A software engineer. Patient, observant, and quietly supportive. Acts as a bridge between the women in his family."
+    },
+    {
+      "name": "Auntie Grace",
+      "role": "June's sister",
+      "description": "June's younger sister. More free-spirited and outspoken. Moves to Seattle with her new boyfriend Kevin during the course of the novel."
+    },
+    {
+      "name": "Kevin",
+      "role": "Grace's boyfriend",
+      "description": "White, loud, earnest. Engages with the family with unselfconscious enthusiasm that disarms some and irritates others."
+    },
+    {
+      "name": "Zoe",
+      "role": "Mei's girlfriend",
+      "description": "A nurse at a Brooklyn hospital. Her grandmother is Korean. Patient, warm, and steady. Earns the family's trust through genuine presence."
+    }
+  ],
+  "keywords": [
+    "Chinese-American",
+    "San Francisco",
+    "Chinatown",
+    "Lunar New Year",
+    "family secrets",
+    "mother-daughter",
+    "cultural identity",
+    "immigrant experience",
+    "generational trauma",
+    "coming out",
+    "three generations",
+    "Contemporary Fiction",
+    "Asian-American literature",
+    "Lantern Festival",
+    "family drama"
+  ],
+  "settings": {
+    "primary": "San Francisco, California",
+    "specific_locations": [
+      "Chinatown",
+      "Waverly Place apartment",
+      "Chen's Tea and Goods shop",
+      "Portsmouth Square",
+      "Lantern Festival"
+    ],
+    "time_period": "Present day",
+    "timeline": "Two weeks during and after Lunar New Year"
+  },
+  "themes": [
+    "Generational silence and its cost",
+    "The courage of being seen",
+    "Cultural assimilation vs. preservation",
+    "Love as a verb, not a feeling",
+    "Fear as a paper tiger"
+  ],
+  "TXT_path": "books/Paper_Tigers/txt/Paper_Tigers.txt",
+  "EPUB_path": "books/Paper_Tigers/epub/Paper_Tigers.epub",
+  "cover_path": "books/Paper_Tigers/covers/Paper_Tigers.png",
+  "paths": {
+    "outline": "books/Paper_Tigers/planning/Paper_Tigers_outline.md",
+    "manuscript": "books/Paper_Tigers/txt/Paper_Tigers.txt",
+    "cover": "books/Paper_Tigers/covers/Paper_Tigers.png",
+    "epub": "books/Paper_Tigers/epub/Paper_Tigers.epub",
+    "metadata": "books/Paper_Tigers/metadata/Paper_Tigers_metadata.json",
+    "readme": "books/Paper_Tigers/README.md"
+  },
+  "statistics": {
+    "chapter_count": 50,
+    "word_count": 11970,
+    "manuscript_format": "txt"
+  },
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11970
+  }
+}

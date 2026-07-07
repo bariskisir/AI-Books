@@ -1,0 +1,12 @@
+asset,path,status,notes,model
+outline,planning/The_Last_Voyage_of_the_Mermaid_outline.md,complete,50-chapter plan with premise and cast,deepseek-v4-flash
+manuscript,txt/The_Last_Voyage_of_the_Mermaid.txt,complete,50 chapters,deepseek-v4-flash
+metadata,metadata/The_Last_Voyage_of_the_Mermaid_metadata.json,complete,All required fields populated,deepseek-v4-flash
+cover,covers/The_Last_Voyage_of_the_Mermaid.png,complete,1600x2560 PNG,deepseek-v4-flash
+epub,epub/The_Last_Voyage_of_the_Mermaid.epub,complete,EPUB 3 with cover and metadata,deepseek-v4-flash
+build_script,tools/build_epub.py,complete,Copied from template,deepseek-v4-flash
+cover_script,tools/create_cover.py,complete,Using PIL with arialbd.ttf,deepseek-v4-flash
+readme,README.md,complete,Book README with cover and download link,deepseek-v4-flash
+final_report,reports/final_report.md,complete,Project summary,deepseek-v4-flash
+manifest,reports/manifest.csv,complete,This file,deepseek-v4-flash
+progress,reports/progress.md,complete,Session progress tracking,deepseek-v4-flash

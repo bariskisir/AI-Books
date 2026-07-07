@@ -1,0 +1,12 @@
+path,size_bytes,type,model
+The_Rust_Maiden/planning/The_Rust_Maiden_outline.md,3657,text/markdown,deepseek-v4-flash
+The_Rust_Maiden/txt/The_Rust_Maiden.txt,52922,text/plain,deepseek-v4-flash
+The_Rust_Maiden/metadata/The_Rust_Maiden_metadata.json,1112,application/json,deepseek-v4-flash
+The_Rust_Maiden/covers/The_Rust_Maiden.png,232521,image/png,deepseek-v4-flash
+The_Rust_Maiden/epub/The_Rust_Maiden.epub,348677,application/epub+zip,deepseek-v4-flash
+The_Rust_Maiden/tools/build_epub.py,6760,text/x-python,deepseek-v4-flash
+The_Rust_Maiden/tools/create_cover.py,4637,text/x-python,deepseek-v4-flash
+The_Rust_Maiden/README.md,255,text/markdown,deepseek-v4-flash
+The_Rust_Maiden/reports/final_report.md,1372,text/markdown,deepseek-v4-flash
+The_Rust_Maiden/reports/manifest.csv,580,text/csv,deepseek-v4-flash
+The_Rust_Maiden/reports/progress.md,31,text/markdown,deepseek-v4-flash

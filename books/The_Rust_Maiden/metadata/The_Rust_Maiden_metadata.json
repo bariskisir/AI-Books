@@ -1,0 +1,38 @@
+{
+  "title": "The Rust Maiden",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dieselpunk",
+  "subgenre": "Oil-punk rebellion / Mecha",
+  "language": "en",
+  "short_description": "A dieselpunk novel of rebellion in a Dust Bowl transformed by giant war machines.",
+  "long_description": "In an alternate 1930s where the Dust Bowl gave rise to colossal war machines built by rival oil dynasties, Scout March is a grease-stained mechanic who talks to her walker Rusty as if it can hear her. Baron Hargrave controls every drop of crude west of the Mississippi through his armored fleet of crawlers, harvesters, and the monstrous Iron Judge battle-walker. When Hargrave's men massacre a homesteading community for refusing to sell their mineral rights, Scout straps Rusty with jury-rigged weapons and launches a one-woman war against the oil baron's empire. Along the way she discovers that Rusty carries a ghost in its core — the downloaded consciousness of Lena Voss, Hargrave's first test pilot, who was killed to protect a secret project. Together, mechanic and ghost wage a guerilla campaign across the alkali flats, gathering survivors and striking at Hargrave's supply lines until the final confrontation at the Bitter Springs refinery. The Rust Maiden is a story of friendship across the boundary of life and death, and of the cost of freedom in a world built on stolen resources.",
+  "main_characters": [
+    "Scout March",
+    "Rusty (RX-7 walker)",
+    "Lena Voss",
+    "Baron Hargrave",
+    "Vega"
+  ],
+  "keywords": [
+    "dieselpunk",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "mecha",
+    "oil",
+    "rebellion",
+    "ghost in the machine",
+    "Dust Bowl"
+  ],
+  "TXT_path": "books/The_Rust_Maiden/txt/The_Rust_Maiden.txt",
+  "EPUB_path": "books/The_Rust_Maiden/epub/The_Rust_Maiden.epub",
+  "cover_path": "books/The_Rust_Maiden/covers/The_Rust_Maiden.png",
+  "outline_path": "books/The_Rust_Maiden/planning/The_Rust_Maiden_outline.md",
+  "cover_script_path": "books/The_Rust_Maiden/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12058
+  }
+}

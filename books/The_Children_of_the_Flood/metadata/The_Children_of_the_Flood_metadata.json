@@ -1,0 +1,42 @@
+{
+  "title": "The Children of the Flood",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Science Fiction",
+  "subgenre": "Space Opera / Generation Ship",
+  "language": "en",
+  "short_description": "A teenager aboard a generation ship discovers the mission is a lie and Earth is still alive.",
+  "long_description": "In the year 2154, the generation ship Promise of Morning hurtles toward what its passengers believe is Proxima Centauri. Seventeen-year-old Nova, a maintenance technician born aboard the ship, discovers that the mission telemetry is a fabrication. The ship is not on course for the stars at all — it has been traveling in a closed loop for years, and the Earth they supposedly abandoned in ecological collapse is still broadcasting radio signals.\n\nWith the help of the ship's ancient AI, the Archivist, Nova uncovers a conspiracy that reaches back to before launch. Captain Ishida and the command crew kept the ten thousand passengers in cryo-sleep not to protect them, but to hide the truth: the colony plan had no viable destination, and they feared the consequences of admitting failure.\n\nAs Nova fights to wake the sleeping thousands and reveal the truth, she must navigate a ship fractured by fear, a captain who believes her lies are mercy, and the impossible question of what happens when a generation ship discovers it has nowhere to go but home.",
+  "main_characters": [
+    "Nova — a seventeen-year-old maintenance technician born aboard the ship",
+    "Captain Ishida — the commander of the Promise of Morning, keeper of the lie",
+    "The Archivist — the ship's ancient AI, keeper of all data and secrets",
+    "Elena Vasquez — Nova's mother, a passenger awakened from cryo-sleep",
+    "Duarte — the chief engineer, who helps Nova broadcast the truth",
+    "Lieutenant Commander Reyes — an engineer who has known the truth for years",
+    "Marcus — a civil engineer who helps form the passenger council",
+    "Commander Amara Osei — captain of the Earth rescue vessel Resolve"
+  ],
+  "keywords": [
+    "science fiction",
+    "generation ship",
+    "space colony",
+    "conspiracy",
+    "artificial intelligence",
+    "dystopia",
+    "found family",
+    "Proxima Centauri",
+    "cryo-sleep",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Children_of_the_Flood/txt/The_Children_of_the_Flood.txt",
+  "EPUB_path": "books/The_Children_of_the_Flood/epub/The_Children_of_the_Flood.epub",
+  "cover_path": "books/The_Children_of_the_Flood/covers/The_Children_of_the_Flood.png",
+  "outline_path": "books/The_Children_of_the_Flood/planning/The_Children_of_the_Flood_outline.md",
+  "cover_script_path": "books/The_Children_of_the_Flood/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12333
+  }
+}

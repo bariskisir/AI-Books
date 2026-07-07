@@ -1,0 +1,39 @@
+{
+  "title": "The Fifth Season",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Romance",
+  "subgenre": "Contemporary Romance on a Greek Island",
+  "language": "en",
+  "short_description": "A grief-stricken meteorologist and a free-diving instructor find each other on a remote Greek island during the quiet winter season.",
+  "long_description": "Dr. Eleni Vakrinos, a meteorologist haunted by her husband's death in a flood, retreats to the remote Greek island of Nissos during its empty winter season. She expects solitude and the clean data of winter weather patterns. She finds Nico Angelidis, a free-diving instructor who spends the off-season alone on the island, still grieving the loss of his dive partner to the sea.\n\nForced into proximity by Maria, the taverna owner who mothers them both, Eleni and Nico begin a slow, reluctant dance. She studies storms for a living but cannot outrun her own. He holds his breath for minutes but cannot hold a conversation about the past. Against the backdrop of the Aegean, during the season when tourists have gone and the island belongs only to the wind, they discover that some losses have no words — and that healing together might be worth the risk.\n\nThe Fifth Season is a literary romance about two people who understand grief in each other's language, set during the quietest months on a Greek island where the only heat comes from a taverna fire and the only way forward is down into the deep water.",
+  "main_characters": [
+    "Dr. Eleni Vakrinos — A Greek-American meteorologist in her late thirties, grieving the loss of her husband in a flood. Precise, guarded, and slowly learning to breathe again.",
+    "Nico Angelidis — A free-diving instructor in his early forties, still searching for his lost dive partner. Patient, observant, and afraid of the shore.",
+    "Maria Petridou — The sixty-year-old owner of the only taverna open in winter. She has buried two husbands and feeds people because feeding is easier than speaking."
+  ],
+  "keywords": [
+    "literary romance",
+    "greek island",
+    "free diving",
+    "meteorologist",
+    "grief",
+    "second chance",
+    "winter",
+    "aegean",
+    "romance",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Fifth_Season/txt/The_Fifth_Season.txt",
+  "EPUB_path": "books/The_Fifth_Season/epub/The_Fifth_Season.epub",
+  "cover_path": "books/The_Fifth_Season/covers/The_Fifth_Season.png",
+  "outline_path": "books/The_Fifth_Season/planning/The_Fifth_Season_outline.md",
+  "cover_script_path": "books/The_Fifth_Season/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11074
+  }
+}

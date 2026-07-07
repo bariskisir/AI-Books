@@ -1,0 +1,42 @@
+{
+  "title": "The Mona Lisa Smile",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Art Mystery",
+  "subgenre": "Heist Thriller",
+  "language": "en",
+  "short_description": "A Louvre security guard notices the Mona Lisa's smile is slightly different and discovers the painting has been replaced by a perfect forgery.",
+  "long_description": "Jean-Paul Dubois has spent twelve years as a security guard in the Louvre's Salle des Etats, watching over the Mona Lisa. He knows every brushstroke, every crack in the varnish, every nuance of her smile. One quiet Tuesday morning, he notices something wrong — the smile is fractionally wider, the shadows softer. The painting hanging in the Louvre is a forgery.\n\nWhen his reports are dismissed by the museum's director, Jean-Paul must risk his career and his life to prove the truth. With the help of his daughter Anouk, an art history student, he uncovers a conspiracy that leads to a shadowy Russian oligarch, a brilliant but bitter forger hiding in Montmartre, and a trail that stretches from Paris to Marrakech.\n\nThe Mona Lisa Smile is a literary art mystery about obsession, perception, and one man's refusal to let the truth be hidden. Set against the hushed galleries of the Louvre and the sun-scorched streets of Marrakech, it asks a simple question: if no one notices the most famous painting in the world has been stolen, was it ever really safe?",
+  "main_characters": [
+    "Jean-Paul Dubois",
+    "Dr. Simone Moreau",
+    "Viktor Orlov",
+    "Captain Luc Roussel",
+    "Anouk Dubois"
+  ],
+  "keywords": [
+    "Mona Lisa",
+    "Louvre",
+    "art forgery",
+    "art theft",
+    "Paris",
+    "Marrakech",
+    "security guard",
+    "mystery",
+    "heist",
+    "Renaissance",
+    "Leonardo da Vinci"
+  ],
+  "TXT_path": "books/The_Mona_Lisa_Smile/txt/The_Mona_Lisa_Smile.txt",
+  "EPUB_path": "books/The_Mona_Lisa_Smile/epub/The_Mona_Lisa_Smile.epub",
+  "cover_path": "books/The_Mona_Lisa_Smile/covers/The_Mona_Lisa_Smile.png",
+  "outline_path": "books/The_Mona_Lisa_Smile/planning/The_Mona_Lisa_Smile_outline.md",
+  "status": "completed",
+  "chapters": 50,
+  "word_count_estimate": "15000",
+  "series": "The_Mona_Lisa_Smile",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11345
+  }
+}

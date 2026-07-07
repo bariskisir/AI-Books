@@ -1,0 +1,12 @@
+file,path,size_bytes,type,model
+outline,The_Perfect_Neighbor/planning/The_Perfect_Neighbor_outline.md,,text/markdown,deepseek-v4-flash
+manuscript,The_Perfect_Neighbor/txt/The_Perfect_Neighbor.txt,,text/plain,deepseek-v4-flash
+metadata,The_Perfect_Neighbor/metadata/The_Perfect_Neighbor_metadata.json,,application/json,deepseek-v4-flash
+cover,The_Perfect_Neighbor/covers/The_Perfect_Neighbor.png,,image/png,deepseek-v4-flash
+epub,The_Perfect_Neighbor/epub/The_Perfect_Neighbor.epub,,application/epub+zip,deepseek-v4-flash
+cover_script,The_Perfect_Neighbor/tools/create_cover.py,,text/x-python,deepseek-v4-flash
+build_script,The_Perfect_Neighbor/tools/build_epub.py,,text/x-python,deepseek-v4-flash
+readme,The_Perfect_Neighbor/README.md,,text/markdown,deepseek-v4-flash
+final_report,The_Perfect_Neighbor/reports/final_report.md,,text/markdown,deepseek-v4-flash
+manifest,The_Perfect_Neighbor/reports/manifest.csv,,text/csv,deepseek-v4-flash
+progress,The_Perfect_Neighbor/reports/progress.md,,text/markdown,deepseek-v4-flash

@@ -1,0 +1,41 @@
+{
+  "title": "The Lighthouse at the End",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Psychological Horror",
+  "subgenre": "Slow-Burn Cosmic Horror",
+  "language": "en",
+  "short_description": "A new lighthouse keeper arrives at a remote station to find the previous keeper dead for months and a diary documenting a descent into something beyond madness.",
+  "long_description": "Daniel Rourke accepts a six-month posting as lighthouse keeper at Cape Ash, the most remote station on the coast. He arrives to find the lighthouse operating perfectly, the kettle warm, the bed made, but the previous keeper nowhere to be found. In the cistern room, behind a rusted grate, Daniel discovers the body of Edwin Marsh, dead for over two months. But the lighthouse has not missed a beat. The lens rotates. The beacon turns. Something has been keeping the light alive.\n\nIn Marsh's diary, Daniel reads a meticulous chronicle of unraveling. The light changes color at 2:47 AM. The hum in the tower is not mechanical. The seabirds have stopped coming. And beneath the water, there is a city of light, waiting. As Daniel reads, he experiences the same phenomena. The boundary between Marsh's experience and his own begins to blur. The diary entries grow shorter, stranger, until the final pages are written in a hand that is not human.\n\nPart psychological horror, part cosmic descent, The Lighthouse at the End is a story about isolation, perception, and what waits at the threshold of human understanding. Daniel must confront the truth that the lighthouse is not a machine. It is a living thing. And every keeper eventually steps through the door.",
+  "main_characters": [
+    "Daniel Rourke — A new lighthouse keeper fleeing a failed marriage and a stalled career",
+    "Edwin Marsh — The previous keeper, dead for months, known only through his diary",
+    "The Light — The beacon, alive and patient, the true presence in the tower",
+    "Anna Rourke — Daniel's estranged wife, a fading tether to the surface world",
+    "Sarah Chen — The third keeper, who follows the same path"
+  ],
+  "keywords": [
+    "psychological horror",
+    "cosmic horror",
+    "lighthouse",
+    "isolation",
+    "slow-burn",
+    "supernatural",
+    "descent into madness",
+    "horror",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "maritime horror"
+  ],
+  "TXT_path": "books/The_Lighthouse_at_the_End/txt/The_Lighthouse_at_the_End.txt",
+  "EPUB_path": "books/The_Lighthouse_at_the_End/epub/The_Lighthouse_at_the_End.epub",
+  "cover_path": "books/The_Lighthouse_at_the_End/covers/The_Lighthouse_at_the_End.png",
+  "outline_path": "books/The_Lighthouse_at_the_End/planning/The_Lighthouse_at_the_End_outline.md",
+  "cover_script_path": "books/The_Lighthouse_at_the_End/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 14592
+  }
+}

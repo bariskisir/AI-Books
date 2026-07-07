@@ -1,0 +1,42 @@
+{
+  "title": "The Understudy",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Theatrical Suspense",
+  "subgenre": "Backstage Thriller",
+  "language": "en",
+  "short_description": "A struggling understudy on Broadway gets her big break when the lead is attacked, but she suspects the attack was meant for her.",
+  "long_description": "Corina Vance has spent three years in the wings, watching Lena Voss command the stage in The Hollow Hour. Night after night, she mouths every line, matching every gesture, waiting for a chance that never comes. When a backstage accident leaves Lena hospitalized with a fractured skull, Corina finally steps into the spotlight.\n\nBut her triumph is shadowed by suspicion. The threatening notes she has been receiving for months escalate into violence. A lighting tech is found dead. The police circle closer. And Corina begins to suspect that the attack on Lena was never meant for the star.\n\nAs she digs into her father's past and the dark history of the Balcony Theatre, Corina uncovers a pattern of deaths reaching back decades. The understudy was always meant to rise. And the understudy was always meant to fall. With her father — the legendary director — hiding secrets behind every curtain, Corina must decide whether the stage is worth dying for.",
+  "main_characters": [
+    "Corina Vance — The understudy who becomes the star, haunted by her mother's death and her father's indifference",
+    "Lena Voss — The lead actress, magnetic and ruthless, whose fall from the stage sets the plot in motion",
+    "Director Vance — Corina's father, a Broadway legend with a hidden past",
+    "Detective Maris — The investigator probing Lena's accident and the deaths surrounding the theatre",
+    "Delia — The stage manager, a thirty-year veteran who knows the theatre's darkest secrets",
+    "Rourke — The lighting tech who sees something he should not"
+  ],
+  "keywords": [
+    "theatrical suspense",
+    "Broadway",
+    "understudy",
+    "backstage thriller",
+    "mystery",
+    "stage",
+    "theatre",
+    "suspense",
+    "novel",
+    "Barış Kısır",
+    "psychological thriller",
+    "family secrets"
+  ],
+  "TXT_path": "books/The_Understudy/txt/The_Understudy.txt",
+  "EPUB_path": "books/The_Understudy/epub/The_Understudy.epub",
+  "cover_path": "books/The_Understudy/covers/The_Understudy.png",
+  "outline_path": "books/The_Understudy/planning/The_Understudy_outline.md",
+  "cover_script_path": "books/The_Understudy/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 9862
+  }
+}

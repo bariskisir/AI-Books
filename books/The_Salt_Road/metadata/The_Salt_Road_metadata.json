@@ -1,0 +1,42 @@
+{
+  "title": "The Salt Road",
+  "number": 5,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Contemporary / Family drama",
+  "language": "en",
+  "target_word_count": 12000,
+  "planned_chapters": 50,
+  "word_count": 12000,
+  "short_description": "An elderly salt merchant makes his final journey along an ancient trade route in Anatolia before his village is flooded by a dam, accompanied by his estranged granddaughter.",
+  "long_description": "Mükerrem Karadağ has walked the salt road for sixty years. His great-grandfather walked it before him, and his grandfather before that — four generations of men carrying salt from the mine at Tuzköy to the markets of Kayseri, following a path that has known human feet since the Hittites. Now the mine is closed, the road is disappearing, and the valley where he was born will soon be underwater. When his granddaughter Derya — a stranger wearing his son's eyes — arrives for one last summer, he asks her to walk the road with him. Over ten days they traverse a vanishing landscape of half-empty villages, drying springs, and flooded mosques. They argue. They are silent. They learn each other. The Salt Road is a novel about what we inherit, what we abandon, and whether a path can survive the people who walked it.",
+  "main_characters": [
+    "Mükerrem Karadağ",
+    "Derya Karadağ",
+    "Hatice",
+    "Yusuf",
+    "Zeynep",
+    "Adil"
+  ],
+  "keywords": [
+    "literary fiction",
+    "Turkey",
+    "Anatolia",
+    "salt trade",
+    "family saga",
+    "dam",
+    "disappearing villages",
+    "grandfather and granddaughter",
+    "journey",
+    "tradition vs modernity"
+  ],
+  "TXT_path": "books/The_Salt_Road/txt/The_Salt_Road.txt",
+  "cover_path": "books/The_Salt_Road/covers/The_Salt_Road.png",
+  "EPUB_path": "books/The_Salt_Road/epub/The_Salt_Road.epub",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11793
+  }
+}

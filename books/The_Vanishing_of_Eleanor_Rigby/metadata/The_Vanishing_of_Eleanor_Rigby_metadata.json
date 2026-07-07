@@ -1,0 +1,69 @@
+{
+  "title": "The Vanishing of Eleanor Rigby",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Psychological Mystery",
+  "subgenre": "Domestic Suspense",
+  "language": "en",
+  "short_description": "A man searches for his wife who disappeared from a locked hotel room, leaving only a Beatles song as a clue.",
+  "long_description": "Tom Caldicott and his wife Eleanor check into the historic Hotel Adair for a weekend getaway. In the morning, she is gone. The door was locked from inside. The chain was on. Security footage shows nothing. No sign of struggle. No forced entry. The only clue: the night before, Eleanor hummed the Beatles song 'Eleanor Rigby.'\n\nDetective Margaret Harris takes the case, but every lead circles back to the same impossible fact: Eleanor walked out of a room she could not have left. As Tom searches for answers, he uncovers a second phone, a hidden past, and a twin sister named Rebecca who has been tracking Eleanor for years.\n\n'The Vanishing of Eleanor Rigby' is a psychological mystery about identity, inheritance, and the lengths we go to protect those we love from who we might become.",
+  "main_characters": [
+    {
+      "name": "Tom Caldicott",
+      "role": "Protagonist",
+      "description": "Husband of Eleanor, early 40s, an architect. Methodical and devoted, he must unravel the mystery of his wife's disappearance."
+    },
+    {
+      "name": "Eleanor Caldicott (born Sarah Rigby)",
+      "role": "Missing woman",
+      "description": "Tom's wife, late 30s. Born Sarah Rigby, adopted at birth. She has been hiding from her past and her twin sister for decades."
+    },
+    {
+      "name": "Detective Margaret Harris",
+      "role": "Investigator",
+      "description": "Veteran detective, mid-50s. Sharp, patient, and evidence-driven. She trusts facts over feelings."
+    },
+    {
+      "name": "Arthur Pence",
+      "role": "Hotel clerk",
+      "description": "Night clerk at the Hotel Adair, mid-60s. Quiet and watchful. He knows more about Eleanor's disappearance than he first admits."
+    },
+    {
+      "name": "Rebecca Rigby",
+      "role": "Antagonist",
+      "description": "Eleanor's twin sister. Institutionalized for schizophrenia for twenty years. Recently released. She has been tracking Eleanor."
+    },
+    {
+      "name": "Claire Bishop",
+      "role": "Supporting character",
+      "description": "Eleanor's best friend. She knew Eleanor was afraid but did not understand why."
+    },
+    {
+      "name": "Linda Morrow",
+      "role": "Supporting character",
+      "description": "Eleanor and Rebecca's birth mother. She gave them up for adoption when they were six months old."
+    }
+  ],
+  "keywords": [
+    "missing wife",
+    "locked room mystery",
+    "psychological suspense",
+    "twins",
+    "identity",
+    "Beatles",
+    "Eleanor Rigby",
+    "adoption",
+    "schizophrenia",
+    "hotel disappearance",
+    "domestic mystery",
+    "marriage secrets"
+  ],
+  "TXT_path": "books/The_Vanishing_of_Eleanor_Rigby/txt/The_Vanishing_of_Eleanor_Rigby.txt",
+  "EPUB_path": "books/The_Vanishing_of_Eleanor_Rigby/epub/The_Vanishing_of_Eleanor_Rigby.epub",
+  "cover_path": "books/The_Vanishing_of_Eleanor_Rigby/covers/The_Vanishing_of_Eleanor_Rigby.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10029
+  }
+}

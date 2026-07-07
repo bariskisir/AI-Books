@@ -1,0 +1,40 @@
+{
+  "title": "The Perennial",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Immortality Utopia",
+  "subgenre": "Philosophical Fiction / Speculative Fiction",
+  "language": "en",
+  "short_description": "A historian investigates why the few people who choose legal death in an immortal society are not unhappy but complete.",
+  "long_description": "No one dies. Cellular regeneration halted aging two centuries ago, and death has become a choice known as Final Exit, requiring months of counseling. In fifty years, only seventeen people have chosen it. When historian Toren Ash investigates the first Final Exit in five years — a prominent architect named Elena Vas — he discovers that she left no note, no explanation, no indication of unhappiness. Her friends describe her as content, even serene.\n\nAs Toren digs deeper, he finds a secret network of rememberers who practice feeling finitude in a world without aging. He discovers that the few who choose death are not the unhappy ones. They are the ones who remember what it felt like to be mortal. And what they remember is something about the nature of completion that the living have learned to forget.\n\nJoined by Lyra, an unregistered natural who has never taken regeneration treatments, Toren publishes his findings and ignites a public debate. As the movement grows, he must face the moral weight of spreading awareness, the government's effort to suppress the truth, and his own evolving understanding of what it means to be truly alive.",
+  "main_characters": [
+    "Toren Ash",
+    "Elena Vas",
+    "Dr. Simone Hart",
+    "Lyra",
+    "Aris",
+    "Ida Vas"
+  ],
+  "keywords": [
+    "immortality",
+    "final exit",
+    "cellular regeneration",
+    "death with dignity",
+    "philosophy",
+    "memory",
+    "completion",
+    "mortality",
+    "eternal life",
+    "the meaning of life"
+  ],
+  "TXT_path": "books/The_Perennial/txt/The_Perennial.txt",
+  "EPUB_path": "books/The_Perennial/epub/The_Perennial.epub",
+  "cover_path": "books/The_Perennial/covers/The_Perennial.png",
+  "outline_path": "books/The_Perennial/planning/The_Perennial_outline.md",
+  "cover_script_path": "books/The_Perennial/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13217
+  }
+}

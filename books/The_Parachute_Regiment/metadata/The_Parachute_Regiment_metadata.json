@@ -1,0 +1,39 @@
+{
+  "title": "The Parachute Regiment",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "War Drama",
+  "subgenre": "Historical Military Fiction",
+  "language": "en",
+  "short_description": "A ragtag company of British paratroopers drops behind enemy lines on D-Day only to discover the intelligence was wrong.",
+  "long_description": "On the night of June 5, 1944, a company of British paratroopers from the 6th Airborne Division drops into Normandy as the vanguard of the D-Day invasion. Their mission: seize a vital bridge and hold it until the commandos arrive. But the intelligence is catastrophically wrong. The bridge is heavily fortified, a Panzer division is billeted in the surrounding countryside, and the company is scattered across the wrong drop zone.\n\nSergeant Tom Miller, a battle-hardened veteran carrying the weight of too many dead men; Private Leo Flynn, a nineteen-year-old replacement from Bethnal Green who has never seen combat; and Lieutenant James Ashford, a newly commissioned officer whose book-learned tactics are tested against the brutal reality of war. Cut off, outnumbered, and running out of time, they must hold together their shattered unit, navigate enemy territory, and find a way to accomplish the mission or die trying.\n\nThe Parachute Regiment is a story about men under pressure, the bonds forged in extreme circumstances, and the cost of doing what must be done when every option has failed. It is a war drama told at ground level, through the eyes of the men who fought and the ones who did not come home.",
+  "main_characters": [
+    "Sergeant Tom Miller",
+    "Private Leo Flynn",
+    "Lieutenant James Ashford",
+    "Sergeant Price"
+  ],
+  "keywords": [
+    "war drama",
+    "military fiction",
+    "historical fiction",
+    "D-Day",
+    "British Army",
+    "paratroopers",
+    "6th Airborne",
+    "World War II",
+    "Normandy",
+    "Barış Kısır",
+    "novel"
+  ],
+  "TXT_path": "books/The_Parachute_Regiment/txt/The_Parachute_Regiment.txt",
+  "EPUB_path": "books/The_Parachute_Regiment/epub/The_Parachute_Regiment.epub",
+  "cover_path": "books/The_Parachute_Regiment/covers/The_Parachute_Regiment.png",
+  "outline_path": "books/The_Parachute_Regiment/planning/The_Parachute_Regiment_outline.md",
+  "cover_script_path": "books/The_Parachute_Regiment/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10811
+  }
+}

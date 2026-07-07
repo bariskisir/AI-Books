@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Noise_Between_Stars/planning/The_Noise_Between_Stars_outline.md,,markdown,deepseek-v4-flash
+The_Noise_Between_Stars/txt/The_Noise_Between_Stars.txt,12955,text,deepseek-v4-flash
+The_Noise_Between_Stars/metadata/The_Noise_Between_Stars_metadata.json,,,deepseek-v4-flash
+The_Noise_Between_Stars/tools/create_cover.py,,python,deepseek-v4-flash
+The_Noise_Between_Stars/covers/The_Noise_Between_Stars.png,168302,png,deepseek-v4-flash
+The_Noise_Between_Stars/tools/build_epub.py,,python,deepseek-v4-flash
+The_Noise_Between_Stars/epub/The_Noise_Between_Stars.epub,293597,epub,deepseek-v4-flash
+The_Noise_Between_Stars/README.md,,markdown,deepseek-v4-flash
+The_Noise_Between_Stars/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Noise_Between_Stars/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Noise_Between_Stars/reports/progress.md,,markdown,deepseek-v4-flash

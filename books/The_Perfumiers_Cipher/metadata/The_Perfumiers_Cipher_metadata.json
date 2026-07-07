@@ -1,0 +1,44 @@
+{
+  "title": "The Perfumier's Cipher",
+  "author": "Barış Kısır",
+  "genre": "Fragrance Mystery",
+  "subgenre": "Provenance Suspense",
+  "language": "en",
+  "model": "glm-5.1",
+  "short_description": "A forensic chemist inherits her grandmother's cipher notebook and uncovers a 500-year-old stolen reliquary hidden in the marble quarries of Carrara.",
+  "long_description": "When legendary perfumier Violette Lasserre dies in her Grasse atelier, her estranged granddaughter Céline Moreau — a forensic chemist from Lyon — inherits a locked cabinet containing a cipher notebook and a single glass vial labeled N° Inconnu. As Céline decodes the double-layered cipher, she discovers that the notebook does not contain perfume formulas at all: it encodes the location of a Renaissance reliquary stolen from a Roman convent during the Sack of 1527 and protected by a chemical authentication system called Lacrima Sancti. The trail leads from Grasse's archives to a decaying Florentine palazzo, the Apuan Alps above Carrara, and a dynasty that has guarded the reliquary for five centuries — and will kill to keep it hidden.",
+  "main_characters": [
+    "Céline Moreau",
+    "Violette Lasserre",
+    "Tommaso Vieri",
+    "Aurelien Blanc",
+    "Marguerite Vieri",
+    "Inspector Nadia Khellil",
+    "Dr. Émile Frossard",
+    "Sofia Vieri"
+  ],
+  "keywords": [
+    "perfume",
+    "cipher",
+    "reliquary",
+    "Grasse",
+    "Florence",
+    "forensic chemistry",
+    "lapis lazuli",
+    "Renaissance",
+    "provenance",
+    "marble quarries",
+    "Carrara",
+    "authentication"
+  ],
+  "TXT_path": "books/The_Perfumiers_Cipher/txt/The_Perfumiers_Cipher.txt",
+  "EPUB_path": "books/The_Perfumiers_Cipher/epub/The_Perfumiers_Cipher.epub",
+  "cover_path": "books/The_Perfumiers_Cipher/covers/The_Perfumiers_Cipher.png",
+  "outline_path": "books/The_Perfumiers_Cipher/planning/The_Perfumiers_Cipher_outline.md",
+  "metadata_path": "books/The_Perfumiers_Cipher/metadata/The_Perfumiers_Cipher_metadata.json",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12959
+  }
+}

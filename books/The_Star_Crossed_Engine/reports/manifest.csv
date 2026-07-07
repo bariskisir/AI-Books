@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+The_Star_Crossed_Engine/planning/The_Star_Crossed_Engine_outline.md,,text/markdown,deepseek-v4-flash
+The_Star_Crossed_Engine/txt/The_Star_Crossed_Engine.txt,,text/plain,deepseek-v4-flash
+The_Star_Crossed_Engine/epub/The_Star_Crossed_Engine.epub,,application/epub+zip,deepseek-v4-flash
+The_Star_Crossed_Engine/covers/The_Star_Crossed_Engine.png,,image/png,deepseek-v4-flash
+The_Star_Crossed_Engine/metadata/The_Star_Crossed_Engine_metadata.json,,application/json,deepseek-v4-flash
+The_Star_Crossed_Engine/tools/build_epub.py,,text/x-python,deepseek-v4-flash
+The_Star_Crossed_Engine/tools/create_cover.py,,text/x-python,deepseek-v4-flash
+The_Star_Crossed_Engine/README.md,,text/markdown,deepseek-v4-flash
+The_Star_Crossed_Engine/reports/final_report.md,,text/markdown,deepseek-v4-flash
+The_Star_Crossed_Engine/reports/manifest.csv,,text/csv,deepseek-v4-flash
+The_Star_Crossed_Engine/reports/progress.md,,text/markdown,deepseek-v4-flash

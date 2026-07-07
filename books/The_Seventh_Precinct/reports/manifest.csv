@@ -1,0 +1,12 @@
+file,size_bytes,status,model
+planning/The_Seventh_Precinct_outline.md,2400,complete,deepseek-v4-flash
+txt/The_Seventh_Precinct.txt,61513,complete,deepseek-v4-flash
+metadata/The_Seventh_Precinct_metadata.json,907,complete,deepseek-v4-flash
+tools/build_epub.py,8140,complete,deepseek-v4-flash
+tools/create_cover.py,6200,complete,deepseek-v4-flash
+covers/The_Seventh_Precinct.png,84787,complete,deepseek-v4-flash
+epub/The_Seventh_Precinct.epub,190101,complete,deepseek-v4-flash
+README.md,320,complete,deepseek-v4-flash
+reports/final_report.md,820,complete,deepseek-v4-flash
+reports/manifest.csv,480,complete,deepseek-v4-flash
+reports/progress.md,30,complete,deepseek-v4-flash

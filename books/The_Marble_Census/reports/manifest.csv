@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Marble_Census/planning/The_Marble_Census_outline.md,5799,50-chapter outline
+books/The_Marble_Census/txt/The_Marble_Census.txt,214938,Expanded full TXT manuscript
+books/The_Marble_Census/epub/The_Marble_Census.epub,367352,Rebuilt EPUB export
+books/The_Marble_Census/covers/The_Marble_Census.png,93073,Cover image
+books/The_Marble_Census/metadata/The_Marble_Census_metadata.json,1985,Production metadata
+books/The_Marble_Census/reports/final_report.md,1089,Final validation report
+books/The_Marble_Census/reports/manifest.csv,835,File manifest
+books/The_Marble_Census/reports/progress.md,1040,Progress log
+books/The_Marble_Census/tools/build_epub.py,8610,EPUB build script
+books/The_Marble_Census/tools/create_cover.py,11560,Cover generation script
+books/The_Marble_Census/README.md,2468,Per-book README

@@ -1,0 +1,12 @@
+file,status
+books/The_House_With_Two_Skies/planning/The_House_With_Two_Skies_outline.md,complete
+books/The_House_With_Two_Skies/txt/The_House_With_Two_Skies.txt,complete
+books/The_House_With_Two_Skies/covers/The_House_With_Two_Skies.png,complete
+books/The_House_With_Two_Skies/epub/The_House_With_Two_Skies.epub,complete
+books/The_House_With_Two_Skies/metadata/The_House_With_Two_Skies_metadata.json,complete
+books/The_House_With_Two_Skies/tools/build_epub.py,complete
+books/The_House_With_Two_Skies/tools/create_cover.py,complete
+books/The_House_With_Two_Skies/reports/final_report.md,complete
+books/The_House_With_Two_Skies/reports/manifest.csv,complete
+books/The_House_With_Two_Skies/reports/progress.md,complete
+books/The_House_With_Two_Skies/README.md,complete

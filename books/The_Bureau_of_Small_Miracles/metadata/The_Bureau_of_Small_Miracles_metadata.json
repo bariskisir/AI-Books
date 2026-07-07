@@ -1,0 +1,41 @@
+{
+  "title": "The Bureau of Small Miracles",
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Bureaucratic Fantasy",
+  "subgenre": "Civic Magical Realism",
+  "language": "en",
+  "short_description": "A municipal miracle clerk exposes a city bureau that diverts small acts of mercy from working districts into luxury spectacle.",
+  "long_description": "In Lumen, small miracles are real, rationed, and processed through a tired municipal office. Senior clerk Mira Thale notices that ordinary petitions for oven heat, one extra hour, a working light, or a final word are being denied while donor districts receive decorative rain and banquet glow.\n\nWith help from a janitor who hears bottled miracles hum, an auditor who built the dashboard that hid the theft, and a street registrar carrying copies of ignored petitions, Mira traces forged priority codes through the Bureau of Small Miracles. The question is no longer whether wonder exists, but who has been allowed to receive it.\n\nThe Bureau of Small Miracles is a spare civic fantasy about mercy, bureaucracy, public ledgers, and the small obligations that keep a city from falling through its own cracks.",
+  "main_characters": [
+    "Mira Thale",
+    "Jon Bell",
+    "Rhea Voss",
+    "Pavel Orin",
+    "Director Senn Vale",
+    "Iris Cal",
+    "Noma Reed",
+    "Ari Fen",
+    "Leven Marr",
+    "Judge Orel Pike"
+  ],
+  "keywords": [
+    "bureaucratic fantasy",
+    "magical realism",
+    "municipal office",
+    "small miracles",
+    "public ledger",
+    "civic ethics",
+    "mercy",
+    "fantasy satire"
+  ],
+  "outline_path": "books/The_Bureau_of_Small_Miracles/planning/The_Bureau_of_Small_Miracles_outline.md",
+  "TXT_path": "books/The_Bureau_of_Small_Miracles/txt/The_Bureau_of_Small_Miracles.txt",
+  "EPUB_path": "books/The_Bureau_of_Small_Miracles/epub/The_Bureau_of_Small_Miracles.epub",
+  "cover_path": "books/The_Bureau_of_Small_Miracles/covers/The_Bureau_of_Small_Miracles.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 35599
+  }
+}

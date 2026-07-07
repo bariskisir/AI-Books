@@ -1,0 +1,42 @@
+{
+  "title": "The Glass Maker",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Fiction",
+  "subgenre": "Historical Fiction",
+  "language": "en",
+  "short_description": "A master glass blower in 17th-century Venice must choose between his art and his life when the Inquisition comes for his secret technique.",
+  "long_description": "In 1658 Venice, Matteo Dandolo is the most celebrated glass blower on Murano, master of a furnace that has belonged to his family for three generations. He has discovered a technique for producing a ruby-red glass so pure and luminous that it seems lit from within — a color the Venetian Republic has pursued for decades. When the Inquisition learns that Matteo's formula involves a process bordering on heresy, they send Father Ambrogio to investigate.\n\nAs Matteo's world narrows from the wide lagoon to a prison cell, he must choose between surrendering his family's secret — the culmination of a lifetime's work — and risking everything to protect it. His assistant and muse, Elena Morosini, urges him to flee, but Matteo is rooted to his furnace, unable to imagine a life apart from his craft.\n\nThe Glass Maker is a story of art and faith, beauty and power, set against the glittering canals and smoky furnaces of 17th-century Venice.",
+  "main_characters": [
+    "Matteo Dandolo — Master glass blower, late 30s, proud and guarded, widower whose secret ruby glass technique draws the Inquisition's attention",
+    "Elena Morosini — Matteo's assistant and muse, mid-20s, sharp and practical, the daughter of a glass merchant who knows the furnaces intimately",
+    "Father Ambrogio Contarini — Inquisitor of the Venetian Holy Office, early 50s, educated and pious, who believes the Church's authority is absolute",
+    "Doge Marco Pesaro — The Doge of Venice, who protects Murano's glass secrets but fears the Inquisition's reach",
+    "Maestro Lorenzo Fuseri — An older glass blower, Matteo's former master, bitter and nursing old grudges",
+    "Brother Michele — Ambrogio's young assistant monk, earnest and conflicted",
+    "Brother Anselmo — A Benedictine hermit and scholar of alchemical manuscripts"
+  ],
+  "keywords": [
+    "Venice",
+    "Murano",
+    "glass blowing",
+    "Inquisition",
+    "17th century",
+    "art vs faith",
+    "historical fiction",
+    "ruby glass",
+    "alchemy",
+    "Italian Renaissance",
+    "craftsmanship",
+    "secrets",
+    "sacrifice"
+  ],
+  "TXT_path": "books/The_Glass_Maker/txt/The_Glass_Maker.txt",
+  "EPUB_path": "books/The_Glass_Maker/epub/The_Glass_Maker.epub",
+  "cover_path": "books/The_Glass_Maker/covers/The_Glass_Maker.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11482
+  }
+}

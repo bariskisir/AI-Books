@@ -1,0 +1,37 @@
+{
+  "title": "The Palermo Exchange",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Crime Thriller",
+  "subgenre": "Mafia Crime",
+  "language": "en",
+  "short_description": "A money launderer in Palermo loses a shipment of the Sicilian mafia's cash and has 72 hours to recover it or die.",
+  "long_description": "Luca Ferrara has spent seven years laundering money for Don Matteo Vitale, one of Palermo's most powerful mafia bosses. When a routine cash handoff goes wrong and two million euros vanish from the trunk of his car, Luca finds himself given an ultimatum: recover the money in seventy-two hours, or face execution.\n\nAs Luca races through Palermo's underworld following a trail of small-time crooks and middlemen, Inspector Chiara Rosi of the Postal Police picks up the same thread and begins closing in. What Luca discovers is that the theft was no accident — someone inside the organization set him up, and the betrayal runs deeper than he ever imagined.\n\nThe Palermo Exchange is a taut crime thriller about loyalty, betrayal, and the cost of surviving in a world where trust is the most dangerous currency. Set against the sun-baked streets of Palermo and the shadowy corridors of Sicilian finance, it follows one man's desperate race against time to save his own life.",
+  "main_characters": [
+    "Luca Ferrara — A money launderer for the Vitale family who has seventy-two hours to recover two million euros in stolen mafia cash.",
+    "Don Matteo Vitale — The head of the Vitale mafia family, old-school Sicilian, who trusts no one and forgives nothing.",
+    "Inspector Chiara Rosi — A Postal Police investigator tracking Vitale's finances who sees Luca's desperation as her way in."
+  ],
+  "keywords": [
+    "crime thriller",
+    "mafia",
+    "Palermo",
+    "Sicily",
+    "organized crime",
+    "money laundering",
+    "suspense",
+    "Barış Kısır",
+    "fiction",
+    "novel"
+  ],
+  "TXT_path": "books/The_Palermo_Exchange/txt/The_Palermo_Exchange.txt",
+  "EPUB_path": "books/The_Palermo_Exchange/epub/The_Palermo_Exchange.epub",
+  "cover_path": "books/The_Palermo_Exchange/covers/The_Palermo_Exchange.png",
+  "outline_path": "books/The_Palermo_Exchange/planning/The_Palermo_Exchange_outline.md",
+  "cover_script_path": "books/The_Palermo_Exchange/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11656
+  }
+}

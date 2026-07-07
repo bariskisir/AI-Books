@@ -1,0 +1,12 @@
+path,type,size,status,model
+The_Botanists_Daughter/planning/The_Botanists_Daughter_outline.md,text/markdown,4469,complete,deepseek-v4-flash
+The_Botanists_Daughter/txt/The_Botanists_Daughter.txt,text/plain,51430,complete,deepseek-v4-flash
+The_Botanists_Daughter/metadata/The_Botanists_Daughter_metadata.json,application/json,1278,complete,deepseek-v4-flash
+The_Botanists_Daughter/tools/build_epub.py,text/x-python,7645,complete,deepseek-v4-flash
+The_Botanists_Daughter/tools/create_cover.py,text/x-python,8758,complete,deepseek-v4-flash
+The_Botanists_Daughter/covers/The_Botanists_Daughter.png,image/png,103518,complete,deepseek-v4-flash
+The_Botanists_Daughter/epub/The_Botanists_Daughter.epub,application/epub+zip,217548,complete,deepseek-v4-flash
+The_Botanists_Daughter/README.md,text/markdown,218,complete,deepseek-v4-flash
+The_Botanists_Daughter/reports/final_report.md,text/markdown,943,complete,deepseek-v4-flash
+The_Botanists_Daughter/reports/manifest.csv,text/csv,642,complete,deepseek-v4-flash
+The_Botanists_Daughter/reports/progress.md,text/markdown,660,complete,deepseek-v4-flash

@@ -1,0 +1,45 @@
+{
+  "title": "The Kitchen Witch",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Cozy Fantasy",
+  "subgenre": "Culinary Fantasy",
+  "language": "en",
+  "short_description": "A truth-witch who can make people confess with her pies opens a bakery in a village where everyone has something to hide.",
+  "long_description": "Hazel Marrow has spent fifteen years wandering from town to town, using her gift as a truth-witch to expose corruption and move on. But when she arrives in the mist-shrouded village of Ashcombe, she decides to stay. She rents the old confectionery shop on Market Lane and begins baking pies with a peculiar magic: whoever eats one cannot tell a lie.\n\nHer pies crack the village wide open. The mayor has been stealing from the village fund. The baker's boy is hiding from a crime he did not commit. A young mother's husband did not leave — he is buried in the mayor's cellar. As secrets spill like hot filling, Hazel must decide whether her gift is a weapon or a balm.\n\nThe Kitchen Witch is a cozy fantasy about community, courage, and the difference between forcing the truth and inviting it. Featuring warm bread, cold justice, and a love story that rises like good dough.",
+  "main_characters": [
+    "Hazel Marrow — A wandering truth-witch who can make people tell the truth with her pies",
+    "Alderman Prickett — The corrupt mayor of Ashcombe",
+    "Finn (Tobias Flint) — The baker's boy, hiding from a false accusation of arson",
+    "Mrs. Hempstock — The village gossip and dry-goods shop owner",
+    "Constable Briggs — The tired, honest village constable",
+    "Larkin — The mayor's fearful clerk",
+    "Old Sallow — A reclusive herb woman who lives at the edge of the woods",
+    "Nell — A young mother whose husband was murdered",
+    "Margaret Prickett — The mayor's wife, who finally leaves him"
+  ],
+  "keywords": [
+    "cozy fantasy",
+    "kitchen witch",
+    "culinary fantasy",
+    "truth magic",
+    "pies",
+    "small village",
+    "mystery",
+    "romance",
+    "found family",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Kitchen_Witch/txt/The_Kitchen_Witch.txt",
+  "EPUB_path": "books/The_Kitchen_Witch/epub/The_Kitchen_Witch.epub",
+  "cover_path": "books/The_Kitchen_Witch/covers/The_Kitchen_Witch.png",
+  "outline_path": "books/The_Kitchen_Witch/planning/The_Kitchen_Witch_outline.md",
+  "cover_script_path": "books/The_Kitchen_Witch/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 8211
+  }
+}

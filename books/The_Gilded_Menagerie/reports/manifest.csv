@@ -1,0 +1,12 @@
+Path,Type,Size (bytes),Status,model
+The_Gilded_Menagerie/planning/The_Gilded_Menagerie_outline.md,outline,5608,complete,deepseek-v4-flash
+The_Gilded_Menagerie/txt/The_Gilded_Menagerie.txt,manuscript,84778,complete,deepseek-v4-flash
+The_Gilded_Menagerie/epub/The_Gilded_Menagerie.epub,epub,336871,complete,deepseek-v4-flash
+The_Gilded_Menagerie/covers/The_Gilded_Menagerie.png,cover,204863,complete,deepseek-v4-flash
+The_Gilded_Menagerie/metadata/The_Gilded_Menagerie_metadata.json,metadata,2812,complete,deepseek-v4-flash
+The_Gilded_Menagerie/tools/build_epub.py,build_script,8531,complete,deepseek-v4-flash
+The_Gilded_Menagerie/tools/create_cover.py,cover_script,15012,complete,deepseek-v4-flash
+The_Gilded_Menagerie/reports/final_report.md,report,2051,complete,deepseek-v4-flash
+The_Gilded_Menagerie/reports/manifest.csv,manifest,0,complete,deepseek-v4-flash
+The_Gilded_Menagerie/reports/progress.md,progress,0,complete,deepseek-v4-flash
+The_Gilded_Menagerie/README.md,readme,2651,complete,deepseek-v4-flash

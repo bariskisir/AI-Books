@@ -1,0 +1,12 @@
+file,path,size_bytes,status,model
+outline,The_Salt_Wife/planning/The_Salt_Wife_outline.md,,present,deepseek-v4-flash
+manuscript,The_Salt_Wife/txt/The_Salt_Wife.txt,,present,deepseek-v4-flash
+metadata,The_Salt_Wife/metadata/The_Salt_Wife_metadata.json,,present,deepseek-v4-flash
+cover,The_Salt_Wife/covers/The_Salt_Wife.png,,present,deepseek-v4-flash
+epub,The_Salt_Wife/epub/The_Salt_Wife.epub,,present,deepseek-v4-flash
+build_script,The_Salt_Wife/tools/build_epub.py,,present,deepseek-v4-flash
+cover_script,The_Salt_Wife/tools/create_cover.py,,present,deepseek-v4-flash
+readme,The_Salt_Wife/README.md,,present,deepseek-v4-flash
+final_report,The_Salt_Wife/reports/final_report.md,,present,deepseek-v4-flash
+manifest,The_Salt_Wife/reports/manifest.csv,,present,deepseek-v4-flash
+progress,The_Salt_Wife/reports/progress.md,,present,deepseek-v4-flash

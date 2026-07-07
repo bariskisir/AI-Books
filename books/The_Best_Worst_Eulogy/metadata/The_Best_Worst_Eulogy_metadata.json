@@ -1,0 +1,16 @@
+{
+  "title": "The Best Worst Eulogy",
+  "author": "Barış Kısır",
+  "language": "en",
+  "model": "deepseek-v4-flash",
+  "status": "completed",
+  "word_count": 19870,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Best_Worst_Eulogy/txt/The_Best_Worst_Eulogy.txt",
+  "EPUB_path": "books/The_Best_Worst_Eulogy/epub/The_Best_Worst_Eulogy.epub",
+  "cover_path": "books/The_Best_Worst_Eulogy/covers/The_Best_Worst_Eulogy.png",
+  "stats": {
+    "total_chapters": 10,
+    "total_words": 6003
+  }
+}

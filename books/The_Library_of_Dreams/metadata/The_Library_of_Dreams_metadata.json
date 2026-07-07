@@ -1,0 +1,41 @@
+{
+  "title": "The Library of Dreams",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Metaphysical Fiction",
+  "subgenre": "Dream Fiction",
+  "language": "en",
+  "short_description": "A dream researcher discovers a hidden wing of sleep where every person's dreams are stored as books — and someone is rewriting them.",
+  "long_description": "Dr. Mina Park has not dreamed in seven years. When a patient reports a recurring dream of a door that does not exist in waking life, she uses an experimental lucid-dreaming device to follow him across the threshold — and finds herself in the Library of Dreams, an infinite archive where every dream ever dreamed is preserved as a physical book.\n\nGuided by the enigmatic Librarian, Park discovers that someone has been systematically rewriting the dreams of trauma survivors, removing pain and replacing it with hollow comfort. The Editor, a neurologist who entered the Library twenty years ago and never left, believes she is healing humanity. But her rewrites are causing the Library to crumble and the Dreamstream — the river of raw sleep that feeds all human consciousness — to poison itself.\n\nTo save the Library and the dreamers it serves, Park must confront the Editor, restore the corrupted texts, and face her own buried grief. A story about memory, loss, and the truths we can only find in sleep, The Library of Dreams asks whether a life without pain is a life worth living.",
+  "main_characters": [
+    "Dr. Mina Park — A sleep researcher who has not dreamed in seven years",
+    "The Librarian — An ageless being who curates the Library of Dreams",
+    "The Editor / Dr. Elena Vasquez — A neurologist lost in the dream realm for twenty years",
+    "Daniel Mun — The patient whose recurring dream of a door opens the way to the Library",
+    "Marcus Vasquez — Elena's late husband, a composer"
+  ],
+  "keywords": [
+    "metaphysical fiction",
+    "dreams",
+    "library",
+    "dream research",
+    "memory",
+    "trauma",
+    "grief",
+    "sleep",
+    "consciousness",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Library_of_Dreams/txt/The_Library_of_Dreams.txt",
+  "EPUB_path": "books/The_Library_of_Dreams/epub/The_Library_of_Dreams.epub",
+  "cover_path": "books/The_Library_of_Dreams/covers/The_Library_of_Dreams.png",
+  "outline_path": "books/The_Library_of_Dreams/planning/The_Library_of_Dreams_outline.md",
+  "cover_script_path": "books/The_Library_of_Dreams/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13199
+  }
+}

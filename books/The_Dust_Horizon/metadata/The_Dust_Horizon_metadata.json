@@ -1,0 +1,37 @@
+{
+  "title": "The Dust Horizon",
+  "number": 8,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Western",
+  "subgenre": "Frontier revenge saga / Survival",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "A former gunslinger dragged back across a dying frontier to save the family he left behind.",
+  "long_description": "Elias Cole buried his revolver with his wife and walked away from the gunslinger's life twenty years ago. Now a drought-scoured ranching town is burning, his daughter's family is missing, and the man who took them is the same outlaw he once called brother. The Dust Horizon follows Cole across a West that is running out of water, out of mercy, and out of time — a journey that forces him to reckon with the violence he renounced and the debt he still owes.",
+  "main_characters": [
+    "Elias Cole",
+    "Mara Cole",
+    "Silas Hooke",
+    "Deputy Ana Reyes"
+  ],
+  "keywords": [
+    "western",
+    "frontier",
+    "revenge",
+    "survival",
+    "drought",
+    "family",
+    "redemption"
+  ],
+  "TXT_path": "books/The_Dust_Horizon/txt/The_Dust_Horizon.txt",
+  "cover_path": "books/The_Dust_Horizon/covers/The_Dust_Horizon.png",
+  "EPUB_path": "books/The_Dust_Horizon/epub/The_Dust_Horizon.epub",
+  "word_count": 15933,
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 15891
+  }
+}

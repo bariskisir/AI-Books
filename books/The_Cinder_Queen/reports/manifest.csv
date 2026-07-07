@@ -1,0 +1,12 @@
+File,Path,Size(bytes),model
+Outline,The_Cinder_Queen/planning/The_Cinder_Queen_outline.md,1961,deepseek-v4-flash
+Manuscript,The_Cinder_Queen/txt/The_Cinder_Queen.txt,70508,deepseek-v4-flash
+Metadata,The_Cinder_Queen/metadata/The_Cinder_Queen_metadata.json,1201,deepseek-v4-flash
+EPUB Build Script,The_Cinder_Queen/tools/build_epub.py,5634,deepseek-v4-flash
+Cover Script,The_Cinder_Queen/tools/create_cover.py,5983,deepseek-v4-flash
+Cover Image,The_Cinder_Queen/covers/The_Cinder_Queen.png,104496,deepseek-v4-flash
+EPUB,The_Cinder_Queen/epub/The_Cinder_Queen.epub,223699,deepseek-v4-flash
+Book README,The_Cinder_Queen/README.md,210,deepseek-v4-flash
+Final Report,The_Cinder_Queen/reports/final_report.md,1383,deepseek-v4-flash
+Manifest CSV,The_Cinder_Queen/reports/manifest.csv,531,deepseek-v4-flash
+Progress,The_Cinder_Queen/reports/progress.md,27,deepseek-v4-flash

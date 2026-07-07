@@ -1,0 +1,18 @@
+file,path,size_bytes,model
+Directory Structure,The_Gaslight_Grimoire/planning/,,deepseek-v4-flash
+Directory Structure,The_Gaslight_Grimoire/txt/,,deepseek-v4-flash
+Directory Structure,The_Gaslight_Grimoire/epub/,,deepseek-v4-flash
+Directory Structure,The_Gaslight_Grimoire/covers/,,deepseek-v4-flash
+Directory Structure,The_Gaslight_Grimoire/metadata/,,deepseek-v4-flash
+Directory Structure,The_Gaslight_Grimoire/reports/,,deepseek-v4-flash
+Directory Structure,The_Gaslight_Grimoire/tools/,,deepseek-v4-flash
+Outline,The_Gaslight_Grimoire/planning/The_Gaslight_Grimoire_outline.md,,deepseek-v4-flash
+Manuscript,The_Gaslight_Grimoire/txt/The_Gaslight_Grimoire.txt,,deepseek-v4-flash
+Metadata,The_Gaslight_Grimoire/metadata/The_Gaslight_Grimoire_metadata.json,,deepseek-v4-flash
+Cover Image,The_Gaslight_Grimoire/covers/The_Gaslight_Grimoire.png,64748,deepseek-v4-flash
+EPUB,The_Gaslight_Grimoire/epub/The_Gaslight_Grimoire.epub,163747,deepseek-v4-flash
+Cover Script,The_Gaslight_Grimoire/tools/create_cover.py,,deepseek-v4-flash
+EPUB Build Script,The_Gaslight_Grimoire/tools/build_epub.py,,deepseek-v4-flash
+README,The_Gaslight_Grimoire/README.md,,deepseek-v4-flash
+Final Report,The_Gaslight_Grimoire/reports/final_report.md,,deepseek-v4-flash
+Progress Report,The_Gaslight_Grimoire/reports/progress.md,,deepseek-v4-flash

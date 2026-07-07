@@ -1,0 +1,12 @@
+Path,Type,Size (bytes),Status,model
+The_Glass_Cockpit/planning/The_Glass_Cockpit_outline.md,outline,5897,complete,deepseek-v4-flash
+The_Glass_Cockpit/txt/The_Glass_Cockpit.txt,manuscript,62218,complete,deepseek-v4-flash
+The_Glass_Cockpit/epub/The_Glass_Cockpit.epub,epub,255700,complete,deepseek-v4-flash
+The_Glass_Cockpit/covers/The_Glass_Cockpit.png,cover,147966,complete,deepseek-v4-flash
+The_Glass_Cockpit/metadata/The_Glass_Cockpit_metadata.json,metadata,3406,complete,deepseek-v4-flash
+The_Glass_Cockpit/tools/build_epub.py,build_script,8528,complete,deepseek-v4-flash
+The_Glass_Cockpit/tools/create_cover.py,cover_script,15851,complete,deepseek-v4-flash
+The_Glass_Cockpit/reports/final_report.md,report,2097,complete,deepseek-v4-flash
+The_Glass_Cockpit/reports/manifest.csv,manifest,763,complete,deepseek-v4-flash
+The_Glass_Cockpit/reports/progress.md,progress,1135,complete,deepseek-v4-flash
+The_Glass_Cockpit/README.md,readme,3009,complete,deepseek-v4-flash

@@ -1,0 +1,12 @@
+filename,size_bytes,description,model
+Red_Phoenix_Rising/planning/Red_Phoenix_Rising_outline.md,2668,50-chapter outline with premise,deepseek-v4-flash, and chapter summaries
+Red_Phoenix_Rising/txt/Red_Phoenix_Rising.txt,57600,Complete manuscript — 50 chapters,deepseek-v4-flash,258 words
+Red_Phoenix_Rising/metadata/Red_Phoenix_Rising_metadata.json,1022,Production metadata JSON,deepseek-v4-flash
+Red_Phoenix_Rising/tools/build_epub.py,5828,EPUB 3 build script (adapted from template),deepseek-v4-flash
+Red_Phoenix_Rising/tools/create_cover.py,5145,PIL cover generation script (sunset city skyline),deepseek-v4-flash
+Red_Phoenix_Rising/covers/Red_Phoenix_Rising.png,136265,Cover image (1600x2560 PNG),deepseek-v4-flash
+Red_Phoenix_Rising/epub/Red_Phoenix_Rising.epub,248394,EPUB 3 publication,deepseek-v4-flash
+Red_Phoenix_Rising/README.md,275,Book README with cover image and download link,deepseek-v4-flash
+Red_Phoenix_Rising/reports/final_report.md,1117,Summary of book and production,deepseek-v4-flash
+Red_Phoenix_Rising/reports/manifest.csv,700,This file — list of all files,deepseek-v4-flash
+Red_Phoenix_Rising/reports/progress.md,25,Progress status,deepseek-v4-flash

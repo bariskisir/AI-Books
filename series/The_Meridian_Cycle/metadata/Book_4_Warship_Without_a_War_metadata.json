@@ -1,0 +1,41 @@
+{
+  "title": "Warship Without a War",
+  "number": 4,
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Science Fiction",
+  "subgenre": "Military SF",
+  "word_count": 160046,
+  "short_description": "A demilitarized battleship framed for piracy must survive pursuit through the Ash Belt without becoming the weapon its enemies claim it is.",
+  "long_description": "In 2432, the Ash Belt's convoy lanes are held together by fragile law, damaged stations, salvage custom, and old warships converted into civilian rescue hulks. When the demilitarized battleship Mercy of Kaln is framed for a convoy massacre near Avar Break, restraint officer Tovin Rees must keep its frightened crew from rearming while Admiral Jaya Soth hunts the ship under a lawful but corrupted warrant. With Ixo Continuant, a machine-person witness who recognizes a hidden wartime authority behind the forged evidence, Tovin races to expose the frame before pursuit, fear, and emergency command turn an accusation into a new war.",
+  "main_characters": [
+    "Tovin Rees",
+    "Admiral Jaya Soth",
+    "Ixo Continuant",
+    "Captain Mer Anik",
+    "Sela Marr",
+    "Noor Venn",
+    "Commodore Renn Valech"
+  ],
+  "keywords": [
+    "military science fiction",
+    "demilitarized warship",
+    "convoy law",
+    "Ash Belt",
+    "machine personhood",
+    "restraint",
+    "piracy frame",
+    "naval ethics",
+    "salvage law",
+    "The Meridian Cycle"
+  ],
+  "TXT_path": "series/The_Meridian_Cycle/txt/Book_4_Warship_Without_a_War.txt",
+  "cover_path": "series/The_Meridian_Cycle/covers/Book_4_Warship_Without_a_War.png",
+  "EPUB_path": "series/The_Meridian_Cycle/epub/Book_4_Warship_Without_a_War.epub",
+  "status": "completed",
+  "language": "en",
+  "stats": {
+    "total_chapters": 60,
+    "total_words": 158795
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "The Winter Garden",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dual Timeline",
+  "subgenre": "Historical Romance",
+  "language": "en",
+  "short_description": "A modern landscape architect restoring a ruined Suffolk garden discovers it was designed in 1916 by a WWI soldier who never came home.",
+  "long_description": "Alice March is a landscape architect in retreat. Her marriage has failed, her career has stalled, and she has fled London for a derelict walled garden in Suffolk. The Wynchwood estate has been locked since 1919, and no one has touched the garden in a hundred years.\n\nAs Alice clears the brambles and restores the paths, she uncovers a hidden history. The garden was designed by Captain James Ashford, a young soldier on his final leave before returning to the Western Front. He built it as a gift for his fiancee, Eleanor Grey — a winter garden, filled with plants that bloom in the cold.\n\nJames never came home. Eleanor vanished from the records. But the garden remembers.\n\nThrough buried letters, a forgotten diary, and the garden's own coded plantings — a calendar of beds pointing to a single date — Alice pieces together a love story cut short by war. And in completing what James and Eleanor started, she finds her own path back to the world.\n\nThe Winter Garden is a dual-timeline novel about love that outlives loss, the stories hidden in soil, and the things we build that outlast us.",
+  "main_characters": [
+    "Alice March — A landscape architect in her late thirties, recovering from divorce and professional burnout",
+    "Captain James Ashford — A young soldier and amateur botanist who designed the winter garden in 1916",
+    "Eleanor Grey — James's fiancee, a botanist's daughter who tended the garden for eight years after his death",
+    "General Charles Ashford — James's father, a cold retired general who sealed the garden after the war",
+    "Tom Wainwright — A local historian who helps Alice decipher the garden's secrets",
+    "Margaret Holt — The elderly estate housekeeper who remembers fragments of the old story",
+    "Nigel Ashford — The current heir, who commissions the restoration for a heritage grant"
+  ],
+  "keywords": [
+    "dual timeline",
+    "historical romance",
+    "WWI",
+    "garden",
+    "landscape architecture",
+    "Suffolk",
+    "love story",
+    "grief",
+    "restoration",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Winter_Garden/txt/The_Winter_Garden.txt",
+  "EPUB_path": "books/The_Winter_Garden/epub/The_Winter_Garden.epub",
+  "cover_path": "books/The_Winter_Garden/covers/The_Winter_Garden.png",
+  "outline_path": "books/The_Winter_Garden/planning/The_Winter_Garden_outline.md",
+  "cover_script_path": "books/The_Winter_Garden/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10021
+  }
+}

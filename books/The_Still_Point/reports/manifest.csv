@@ -1,0 +1,12 @@
+File,Path,Size (bytes),model
+Outline,The_Still_Point/planning/The_Still_Point_outline.md,,deepseek-v4-flash
+Manuscript,The_Still_Point/txt/The_Still_Point.txt,,deepseek-v4-flash
+Metadata,The_Still_Point/metadata/The_Still_Point_metadata.json,,deepseek-v4-flash
+Build Script,The_Still_Point/tools/build_epub.py,,deepseek-v4-flash
+Cover Script,The_Still_Point/tools/create_cover.py,,deepseek-v4-flash
+Cover Image,The_Still_Point/covers/The_Still_Point.png,,deepseek-v4-flash
+EPUB,The_Still_Point/epub/The_Still_Point.epub,,deepseek-v4-flash
+README,The_Still_Point/README.md,,deepseek-v4-flash
+Final Report,The_Still_Point/reports/final_report.md,,deepseek-v4-flash
+Manifest CSV,The_Still_Point/reports/manifest.csv,,deepseek-v4-flash
+Progress,The_Still_Point/reports/progress.md,,deepseek-v4-flash

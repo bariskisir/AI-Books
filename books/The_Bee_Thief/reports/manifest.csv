@@ -1,0 +1,12 @@
+file,size,sha256,description,model
+planning/The_Bee_Thief_outline.md,,,Outline with premise,deepseek-v4-flash, and 50 chapter plan
+txt/The_Bee_Thief.txt,12939,,Full manuscript (50 chapters),deepseek-v4-flash
+metadata/The_Bee_Thief_metadata.json,,,Production metadata,deepseek-v4-flash
+tools/create_cover.py,,,PIL cover generation script,deepseek-v4-flash
+tools/build_epub.py,,,EPUB 3 build script,deepseek-v4-flash
+covers/The_Bee_Thief.png,32309,,Cover image (1600x2560),deepseek-v4-flash
+epub/The_Bee_Thief.epub,163679,,EPUB 3 ebook,deepseek-v4-flash
+README.md,,,Book README,deepseek-v4-flash
+reports/final_report.md,,,Final production report,deepseek-v4-flash
+reports/manifest.csv,,,File manifest,deepseek-v4-flash
+reports/progress.md,,,Progress tracking,deepseek-v4-flash

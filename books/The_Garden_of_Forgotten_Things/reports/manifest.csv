@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Garden_of_Forgotten_Things/planning/The_Garden_of_Forgotten_Things_outline.md,,markdown,deepseek-v4-flash
+The_Garden_of_Forgotten_Things/txt/The_Garden_of_Forgotten_Things.txt,,text,deepseek-v4-flash
+The_Garden_of_Forgotten_Things/metadata/The_Garden_of_Forgotten_Things_metadata.json,,,deepseek-v4-flash
+The_Garden_of_Forgotten_Things/tools/create_cover.py,,python,deepseek-v4-flash
+The_Garden_of_Forgotten_Things/covers/The_Garden_of_Forgotten_Things.png,127466,png,deepseek-v4-flash
+The_Garden_of_Forgotten_Things/tools/build_epub.py,,python,deepseek-v4-flash
+The_Garden_of_Forgotten_Things/epub/The_Garden_of_Forgotten_Things.epub,227497,epub,deepseek-v4-flash
+The_Garden_of_Forgotten_Things/README.md,,markdown,deepseek-v4-flash
+The_Garden_of_Forgotten_Things/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Garden_of_Forgotten_Things/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Garden_of_Forgotten_Things/reports/progress.md,,markdown,deepseek-v4-flash

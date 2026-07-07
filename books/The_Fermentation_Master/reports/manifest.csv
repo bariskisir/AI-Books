@@ -1,0 +1,12 @@
+file,path,size_bytes,notes
+The_Fermentation_Master_outline.md,books/The_Fermentation_Master/planning/The_Fermentation_Master_outline.md,7762,50-chapter outline in 5 acts
+The_Fermentation_Master.txt,books/The_Fermentation_Master/txt/The_Fermentation_Master.txt,125362,Full manuscript 50 chapters 21732 words
+The_Fermentation_Master.epub,books/The_Fermentation_Master/epub/The_Fermentation_Master.epub,272567,EPUB 3 with cover and all 50 chapters
+The_Fermentation_Master.png,books/The_Fermentation_Master/covers/The_Fermentation_Master.png,93763,Cover 1600x2560 px Korean fermentation scene
+The_Fermentation_Master_metadata.json,books/The_Fermentation_Master/metadata/The_Fermentation_Master_metadata.json,3358,Production metadata model=opus-4.8
+build_epub.py,books/The_Fermentation_Master/tools/build_epub.py,8361,EPUB build script copied from template
+create_cover.py,books/The_Fermentation_Master/tools/create_cover.py,22444,Custom cover script Korean onggi jar scene
+final_report.md,books/The_Fermentation_Master/reports/final_report.md,2205,Production summary report
+manifest.csv,books/The_Fermentation_Master/reports/manifest.csv,0,This file
+progress.md,books/The_Fermentation_Master/reports/progress.md,0,Status tracking
+README.md,books/The_Fermentation_Master/README.md,2331,Per-book README

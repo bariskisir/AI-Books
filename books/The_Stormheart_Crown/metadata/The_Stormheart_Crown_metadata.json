@@ -1,0 +1,42 @@
+{
+  "title": "The Stormheart Crown",
+  "author": "Barış Kısır",
+  "genre": "Fantasy Romance",
+  "subgenre": "Romantic Fantasy",
+  "language": "en",
+  "status": "completed",
+  "model": "deepseek-v4-flash",
+  "TXT_path": "books/The_Stormheart_Crown/txt/The_Stormheart_Crown.txt",
+  "EPUB_path": "books/The_Stormheart_Crown/epub/The_Stormheart_Crown.epub",
+  "cover_path": "books/The_Stormheart_Crown/covers/The_Stormheart_Crown.png",
+  "paths": {
+    "outline": "books/The_Stormheart_Crown/planning/The_Stormheart_Crown_outline.md",
+    "manuscript": "books/The_Stormheart_Crown/txt/The_Stormheart_Crown.txt",
+    "epub": "books/The_Stormheart_Crown/epub/The_Stormheart_Crown.epub",
+    "cover": "books/The_Stormheart_Crown/covers/The_Stormheart_Crown.png",
+    "metadata": "books/The_Stormheart_Crown/metadata/The_Stormheart_Crown_metadata.json"
+  },
+  "short_description": "A royal cartographer and a reclusive storm mage must find a legendary artifact before a fanatical inquisitor destroys them both.",
+  "long_description": "Serina Vex, a royal cartographer from the mainland kingdom of Valdris, is dispatched to the Stormreach Archipelago to chart dangerous sea routes that have swallowed a dozen ships in as many months. She expects treacherous currents and unpredictable squalls. She does not expect Kaelen Stormriven — a reclusive storm mage whose volatile power can call lightning from a clear sky and raise waterspouts from calm seas. When a religious inquisitor arrives with orders to execute all weather-workers, Serina and Kaelen must flee into the uncharted Forgotten Isles to find the legendary Stormheart Crown, an ancient artifact said to either stabilize or destroy anyone who wields storm magic. Their hunt becomes a race against the inquisitor's soldiers, the archipelago's savage weather, and Kaelen's own deteriorating control — while an unexpected love grows between the cartographer who measures everything and the storm mage who cannot be measured.",
+  "main_characters": [
+    "Serina Vex",
+    "Kaelen Stormriven",
+    "Commander Heston Vane",
+    "Lyra Deepwater",
+    "Aldric Norwood"
+  ],
+  "keywords": [
+    "storm mage",
+    "cartographer",
+    "inquisitor",
+    "forgotten isles",
+    "magical artifact",
+    "enemies to lovers",
+    "slow burn romance",
+    "fantasy romance"
+  ],
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25129
+  }
+}

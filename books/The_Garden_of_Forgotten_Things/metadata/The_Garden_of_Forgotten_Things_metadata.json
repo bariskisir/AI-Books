@@ -1,0 +1,40 @@
+{
+  "title": "The Garden of Forgotten Things",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Magical Realism",
+  "subgenre": "Contemporary Magical Realism",
+  "language": "en",
+  "short_description": "A grieving widower inherits his grandmother's walled garden where plants from his memories grow in impossible seasons.",
+  "long_description": "Tom Mercer, a middle-aged widower still hollowed by the death of his wife Lily three years earlier, inherits his late grandmother's walled garden in a small coastal town. The garden is wild, overgrown, and impossibly in bloom with plants that belong to specific memories from Tom's past: the peonies Lily carried on their wedding day, the rosemary from his mother's kitchen, the night-blooming jasmine from the summer he fell in love. Seasons do not apply here. Winter frost touches nothing. A cryptic old Gardener tends the plot with quiet purpose, and a sharp-eyed neighbor, Mrs. Birch, watches from her window.\n\nAs Tom begins to work the soil alongside the Gardener, he discovers that the garden is more than strange — it is a reckoning. Every plant corresponds to a memory he has buried, and tending the garden forces him to face the loss he has refused to feel. Through the slow work of weeding, planting, and grieving, Tom learns that memories, like gardens, must be tended to grow. And that some things, after the deepest loss, can still bloom again.",
+  "main_characters": [
+    "Tom Mercer — A 47-year-old widower and architect who inherits the walled garden",
+    "Mrs. Eleanor Birch — The next-door neighbor, 74, who knew Tom's grandmother",
+    "The Gardener — A cryptic old man who has tended the garden for decades",
+    "Lily Mercer — Tom's late wife, a botanist (in memory)",
+    "Grandmother Rose — Tom's maternal grandmother, former owner of the garden"
+  ],
+  "keywords": [
+    "magical realism",
+    "grief",
+    "memory",
+    "garden",
+    "widower",
+    "healing",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "contemporary fiction",
+    "literary fiction"
+  ],
+  "TXT_path": "books/The_Garden_of_Forgotten_Things/txt/The_Garden_of_Forgotten_Things.txt",
+  "EPUB_path": "books/The_Garden_of_Forgotten_Things/epub/The_Garden_of_Forgotten_Things.epub",
+  "cover_path": "books/The_Garden_of_Forgotten_Things/covers/The_Garden_of_Forgotten_Things.png",
+  "outline_path": "books/The_Garden_of_Forgotten_Things/planning/The_Garden_of_Forgotten_Things_outline.md",
+  "cover_script_path": "books/The_Garden_of_Forgotten_Things/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10447
+  }
+}

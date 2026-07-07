@@ -1,0 +1,50 @@
+{
+  "title": "The Truth About Monsters",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Children's Fantasy",
+  "subgenre": "Magical Realism",
+  "language": "en",
+  "short_description": "A ten-year-old girl who can see other people's monster fears must help the creatures find new hosts when their humans outgrow them.",
+  "long_description": "Ten-year-old Elodie has a secret: she can see the monsters that live under other people's beds. These creatures are not imaginary — they are living embodiments of human fears, born from darkness and sustained by the people who need them. When a person outgrows a fear, their monster begins to fade away. With the help of her own gentle monster Grumble, Elodie must find new hosts for the fading creatures before they vanish forever.\n\nBut a shadowy figure called The Collector hunts the same monsters, trapping them in glass jars to keep them from fading. As Elodie navigates a hidden world of fear and courage, she discovers that the monsters are not what she thought, friends come in unexpected forms, and sometimes the bravest thing you can do is let go.\n\nThe Truth About Monsters is a warm, imaginative children's fantasy about empathy, growing up, and the fears that make us who we are.",
+  "main_characters": [
+    {
+      "name": "Elodie",
+      "role": "Protagonist",
+      "age": 10,
+      "description": "A brave girl who can see other people's monster fears. She learns to help monsters find new hosts."
+    },
+    {
+      "name": "Grumble",
+      "role": "Elodie's monster",
+      "age": "Unknown",
+      "description": "A large, gentle monster who lives under Elodie's bed. He is fading as Elodie outgrows her childhood fears."
+    },
+    {
+      "name": "The Collector",
+      "role": "Antagonist turned ally",
+      "age": "Adult",
+      "description": "A man in a gray coat who traps monsters in jars, driven by his own fear of losing his monster."
+    }
+  ],
+  "keywords": [
+    "childrens fantasy",
+    "monsters",
+    "fear",
+    "growing up",
+    "letting go",
+    "empathy",
+    "magical realism",
+    "friendship",
+    "courage",
+    "bedtime monsters"
+  ],
+  "TXT_path": "books/The_Truth_About_Monsters/txt/The_Truth_About_Monsters.txt",
+  "EPUB_path": "books/The_Truth_About_Monsters/epub/The_Truth_About_Monsters.epub",
+  "cover_path": "books/The_Truth_About_Monsters/covers/The_Truth_About_Monsters.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12849
+  }
+}

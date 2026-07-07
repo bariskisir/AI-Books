@@ -1,0 +1,39 @@
+{
+  "title": "The Dead Letter Office",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Epistolary Mystery",
+  "subgenre": "Supernatural Mystery",
+  "language": "en",
+  "short_description": "A postal worker in the dead letter office discovers undelivered letters that describe events that haven't happened yet.",
+  "long_description": "Arthur Finch sorts undeliverable mail in the dead letter office of the Central Post Office — letters addressed to nowhere, to the departed, to people who never existed. It is quiet, lonely work. Then he opens an envelope postmarked next Thursday and finds a letter describing a lost cat that he later finds, exactly as written. More letters follow: love letters, warnings, confessions, all postmarked in the future, all true.\n\nAs Arthur pieces together the growing correspondence, he maps the letters and discovers they all point to the same location — St. Jude's Hospital. A disaster is coming. The letters might be the only warning. With the cryptic guidance of his supervisor, Postmaster Elias Graves, and the lingering voice of a woman named Clara Dean who worked the same room forty years ago, Arthur must decide whether to intervene in events that haven't happened yet — and face the truth that changing the future has consequences no letter can predict.\n\nThe Dead Letter Office is a mystery about time, connection, and the words that find us when we least expect them. It asks: if you could read a letter from the future, would you open it?",
+  "main_characters": [
+    "Arthur Finch — A postal clerk in the dead letter office who discovers future-dated letters",
+    "The Letters — Undelivered messages from the future that describe events waiting to happen",
+    "Postmaster Elias Graves — Arthur's supervisor, who has kept the secret of the future letters for twenty-three years",
+    "Clara Dean — The postal clerk who worked the dead letter office before Arthur, now deceased but still writing"
+  ],
+  "keywords": [
+    "epistolary mystery",
+    "postal service",
+    "dead letter office",
+    "time",
+    "letters",
+    "future",
+    "supernatural mystery",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "mystery"
+  ],
+  "TXT_path": "books/The_Dead_Letter_Office/txt/The_Dead_Letter_Office.txt",
+  "EPUB_path": "books/The_Dead_Letter_Office/epub/The_Dead_Letter_Office.epub",
+  "cover_path": "books/The_Dead_Letter_Office/covers/The_Dead_Letter_Office.png",
+  "outline_path": "books/The_Dead_Letter_Office/planning/The_Dead_Letter_Office_outline.md",
+  "cover_script_path": "books/The_Dead_Letter_Office/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12540
+  }
+}

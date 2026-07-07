@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+The_Bone_Garden/planning/The_Bone_Garden_outline.md,3993,text/markdown,deepseek-v4-flash
+The_Bone_Garden/txt/The_Bone_Garden.txt,65728,text/plain,deepseek-v4-flash
+The_Bone_Garden/metadata/The_Bone_Garden_metadata.json,1242,application/json,deepseek-v4-flash
+The_Bone_Garden/covers/The_Bone_Garden.png,163404,image/png,deepseek-v4-flash
+The_Bone_Garden/epub/The_Bone_Garden.epub,264032,application/epub+zip,deepseek-v4-flash
+The_Bone_Garden/tools/build_epub.py,7142,text/x-python,deepseek-v4-flash
+The_Bone_Garden/tools/create_cover.py,4594,text/x-python,deepseek-v4-flash
+The_Bone_Garden/README.md,219,text/markdown,deepseek-v4-flash
+The_Bone_Garden/reports/final_report.md,1398,text/markdown,deepseek-v4-flash
+The_Bone_Garden/reports/manifest.csv,610,text/csv,deepseek-v4-flash
+The_Bone_Garden/reports/progress.md,28,text/markdown,deepseek-v4-flash

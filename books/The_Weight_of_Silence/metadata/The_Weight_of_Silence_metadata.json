@@ -1,0 +1,45 @@
+{
+  "title": "The Weight of Silence",
+  "author": "Barış Kısır",
+  "genre": "Psychological Thriller",
+  "subgenre": "Forensic Psychology / Mute Witness",
+  "language": "en",
+  "model": "sonnet-4.6",
+  "short_description": "A forensic psychologist evaluates a sixteen-year-old boy who witnessed his mother's murder and has not spoken in six weeks — and discovers his silence is not trauma but a carefully constructed strategy of survival.",
+  "long_description": "Dr. Iris Vane is brought in to evaluate Jamie Dowd, a teenager who has not spoken since witnessing his mother's violent death. The police need his testimony, the court has ordered an assessment, and Jamie — calm, attentive, profoundly strategic — sits across from Iris in the evaluation room and says nothing. Over fifteen sessions, using drawings, sand trays, and close observation, Iris begins to understand that Jamie's silence is not the absence of communication but its most precise form: he knows exactly who killed his mother, and he has decided that naming the killer is more dangerous than silence.\n\nAs Iris works to earn Jamie's trust, she discovers that the threat reaches into her own life. The killer has a connection inside the facility where Jamie is housed, and both of them are being watched by forces with every reason to keep Jamie silent permanently. Iris must protect Jamie not just as a psychologist but as the only adult in his orbit who has learned to read what he is actually saying.\n\nThe Weight of Silence is a slow-burn psychological thriller about the uses of silence, the ethics of trust, and the intelligence required to survive when the system meant to protect you is compromised. At its center is a remarkable portrait of a teenager who, in the thirteen minutes before he called 911, made the most strategically sound — and most terrifying — decision of his life.",
+  "main_characters": [
+    "Dr. Iris Vane — forensic psychologist, 40, returned from a leave of absence with unresolved professional guilt",
+    "Jamie Dowd — 16, the silent witness; intelligent, observant, and deliberately strategic in his silence",
+    "Detective Rosa Garza — 44, lead investigator; methodical and increasingly aware the case is more dangerous than it appears",
+    "Warren Crane — 52, the social worker assigned to Jamie; warm and institutional, concealing an active complicity",
+    "Milo Vane — 42, Iris's estranged husband and attorney; connected to the victim through a sealed custody case",
+    "Christine Holt — 38, Iris's supervisor; skeptical of unconventional methods and protective of institutional reputation",
+    "Gerald Ames — 50, the killer; a man with a history of harassment who believed his access to the system would protect him"
+  ],
+  "keywords": [
+    "forensic psychology",
+    "psychological thriller",
+    "mute witness",
+    "selective mutism",
+    "art therapy",
+    "juvenile witness",
+    "murder investigation",
+    "trust",
+    "silence",
+    "survival",
+    "institutional corruption",
+    "female protagonist",
+    "court-ordered evaluation",
+    "trauma",
+    "complicity"
+  ],
+  "status": "completed",
+  "TXT_path": "books/The_Weight_of_Silence/txt/The_Weight_of_Silence.txt",
+  "EPUB_path": "books/The_Weight_of_Silence/epub/The_Weight_of_Silence.epub",
+  "cover_path": "books/The_Weight_of_Silence/covers/The_Weight_of_Silence.png",
+  "planning_path": "books/The_Weight_of_Silence/planning/The_Weight_of_Silence_outline.md",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20761
+  }
+}

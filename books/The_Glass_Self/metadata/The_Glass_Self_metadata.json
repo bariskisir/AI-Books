@@ -1,0 +1,43 @@
+{
+  "title": "The Glass Self",
+  "author": "Barış Kısır",
+  "genre": "Psychological Horror",
+  "subgenre": "Cotard Delusion / Existential Fiction",
+  "language": "en",
+  "model": "sonnet-4.6",
+  "short_description": "A psychiatrist who spent twenty years treating Cotard's delusion must confront the condition from inside it after a near-fatal car accident leaves him certain he is dead.",
+  "long_description": "Dr. Vincent Crane has spent twenty years at the forefront of psychiatric practice, authoring papers on Cotard's syndrome and treating patients who believe they are dead with clinical authority and professional distance. When a truck strikes his car on the Westbrook bypass and his heart stops for forty-three seconds, something changes — not his body, which heals, but his conviction of his own existence, which does not. He is certain he died in the accident. The man walking the hospital corridors, checking his reflection in polished floors, lying in the spare room rather than beside his wife, is something else: a process, a residue, a glass self with no interior warmth.\n\nHis colleague Dr. Sarah Ng must become his treating psychiatrist — a role complicated by the fact that she trained partly under him, that he understands every clinical move she will make before she makes it, and that his engagement with treatment is perfectly willing and perfectly opaque. His wife Elena holds the marriage together with the precision of an architect reading a structure for its weak points, while their son Patrick comes home from university to find a father who describes the living world with the detachment of an observer rather than a participant. Department head Oliver Marsh watches all of this through the lens of institutional responsibility and does what he can.\n\nThe Glass Self is a novel about the irony of expertise turned inward, about the gap between describing a condition and inhabiting it, and about the question that Cotard's poses with terrible clarity: if the self is a construction, what remains when the construction fails? Vincent Crane is not suffering. That, as his own literature would note, is the symptom.",
+  "main_characters": [
+    "Dr. Vincent Crane — consultant psychiatrist, 48, believes he died in a car accident",
+    "Elena Crane — architect, 45, Vincent's wife, holding the family together",
+    "Dr. Sarah Ng — psychiatrist, 38, Vincent's colleague and treating physician",
+    "Patrick Crane — history student, 22, Vincent and Elena's son",
+    "Dr. Oliver Marsh — department head, 65, managing the professional fallout"
+  ],
+  "keywords": [
+    "Cotard's delusion",
+    "psychiatric fiction",
+    "existential horror",
+    "medical thriller",
+    "identity",
+    "consciousness",
+    "near-death experience",
+    "psychiatrist",
+    "psychological fiction",
+    "existential crisis",
+    "nihilism",
+    "recovery",
+    "British fiction",
+    "literary horror",
+    "selfhood"
+  ],
+  "status": "completed",
+  "TXT_path": "books/The_Glass_Self/txt/The_Glass_Self.txt",
+  "EPUB_path": "books/The_Glass_Self/epub/The_Glass_Self.epub",
+  "cover_path": "books/The_Glass_Self/covers/The_Glass_Self.png",
+  "planning_path": "books/The_Glass_Self/planning/The_Glass_Self_outline.md",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 18057
+  }
+}

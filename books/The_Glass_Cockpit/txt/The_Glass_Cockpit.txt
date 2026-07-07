@@ -1,0 +1,924 @@
+Chapter 1: Flight 1149
+
+The storm came up faster than the radar promised.
+
+Dana Reyes had flown into worse. She was forty-one years old, twenty-two of them in the air, and she had a rule: trust the airplane, trust your hands, in that order. At thirty-one thousand feet the regional jet hummed under her like something tame.
+
+Then the master caution lit.
+
+"Engine two," Theo said. His voice stayed flat, the way they trained it. "EGT climbing."
+
+She scanned the displays. The numbers were wrong in a way she had never seen. Both engine indications sagged, then surged, then the autopilot kicked off with a chime and the yoke went heavy in her hands.
+
+"I have the airplane," she said.
+
+She pulled. The nose came up sluggish, a half-second late, as if the jet were arguing. Outside the windscreen there was only rain and the gray belly of the cloud. She pushed the throttles forward and felt nothing answer.
+
+"We're losing both," she said. "Declare it."
+
+Theo keyed the radio. "Mayday, mayday, Bristol Center, Cardinal eleven forty-nine, dual engine, descending."
+
+The ground was eight minutes away and falling toward them. Dana flew the airplane down through the storm with her hands and her memory and the small cold animal of her attention, and she did not have time to be afraid.
+
+
+Chapter 2: One Hundred and Twelve
+
+The runway at Hartsfield-regional was short and wet and lit like a landing strip in a dream. Dana put the wheels on the numbers, stood on the brakes, and felt the jet slew and hold.
+
+It stopped two hundred feet from the end.
+
+Then there was foam and the strobe of fire trucks and a man's voice in her headset saying something she could not parse. She sat with her hands still on the yoke until Theo touched her arm.
+
+"Captain. We're down. We're stopped."
+
+They got the doors. The slides bloomed yellow in the rain. Dana stood at the front and counted them out, every passenger, the way you count children off a bus. One hundred and twelve. A woman pressed a phone into Dana's hand to take a photo and Dana gave it back without a word.
+
+When the cabin was empty she walked the aisle once, end to end, the way she always did, touching the seatbacks. No one left. She came back to the flight deck and looked at the dark panel and felt nothing at all, which frightened her more than the descent had.
+
+
+Chapter 3: The Replay
+
+Theo Okafor did not sleep that night.
+
+He lay in the airline hotel and ran the last four minutes again behind his eyes, frame by frame, the way he used to step through code. The caution. The EGT. The autopilot dropping out. The yoke going heavy. Dana's hands.
+
+Something did not fit, and he could not name it.
+
+Before he flew for a living he had written software for a medical-device company, and the work had given him a particular kind of suspicion. Systems lied. Not on purpose — they lied because someone had told them something false and they believed it perfectly. He had learned to listen for the seam, the place where the story the machine told you stopped matching the story your body knew.
+
+There was a seam in tonight. He felt it the way you feel a draft in a sealed room.
+
+He got up and wrote it down on hotel stationery, three lines, and could not make the lines say what was wrong. He folded the paper and put it in his shirt and lay back down and watched the ceiling go gray.
+
+
+Chapter 4: Bell
+
+The call reached Marcus Bell at 4:40 in the morning, which was when the calls always reached him.
+
+"Dual engine event, regional jet, everybody walked," the duty officer said. "Off-airport declared, landed short field. No fatalities. They want a go-team."
+
+"Everybody walked," Marcus repeated. He was already pulling on his pants. "Then why a go-team."
+
+"Because the captain says she lost both engines and the airplane says she didn't."
+
+Marcus stopped with one shoe in his hand.
+
+In nineteen years at the National Transportation Safety Board he had learned that the cases that mattered were never the ones with bodies. The bodies told you what happened. It was the survivors, the near things, the airplanes that should have fallen and didn't, that told you what almost happened to everyone else still flying.
+
+"I'm on the seven o'clock," he said. "Don't let anyone touch the recorders."
+
+
+Chapter 5: Hero
+
+By noon Dana Reyes was a hero.
+
+The footage was everywhere: the jet skidding to its stop in the rain, the slides, the passengers in foil blankets hugging strangers. A morning show called her the Angel of Atlanta. Her airline's PR office sent a car. Carl, her husband, taped the news off three channels because he didn't know what else to do with his hands.
+
+Dana watched herself on the screen and did not recognize the woman they were describing. The woman they described had known what to do. The woman in the cockpit had been fighting an airplane that fought back, and had not understood it, and had gotten lucky.
+
+"You should sleep," Carl said.
+
+"I can't."
+
+She closed her eyes and the yoke was heavy in her palms again, the nose coming up late, the throttles dead under her hand. She had pulled the engines back to idle at no point. She had pushed them forward and gotten nothing. She knew this the way she knew her own name.
+
+The phone rang. The airline. The NTSB wanted to talk to her in the morning.
+
+
+Chapter 6: The Box
+
+The flight-data recorder came out of the tail in a steel box the orange of a traffic cone.
+
+Marcus watched the recovery tech disconnect it, photograph it, bag it. The cockpit voice recorder went into a second bag. He signed the chain-of-custody form with the small careful signature he used for things that would end up in court.
+
+"Old unit," the tech said, turning the FDR in his gloved hands. "This airframe's been around. They never upgraded the recorder."
+
+"How many parameters?"
+
+"Couple hundred. Decent for the era." The tech shrugged. "Not everything you'd want."
+
+Marcus took that in. Modern jets logged thousands of channels, every command the computers gave themselves. Older boxes logged the gross motions — altitude, airspeed, control positions, engine numbers — and trusted you to infer the rest.
+
+"Get it to the lab tonight," he said. "I want the readout before the captain's interview."
+
+He looked at the airplane on the field, intact, almost smug in the daylight. Airplanes that survived were the worst kind. They kept their secrets in working order.
+
+
+Chapter 7: The Readout
+
+The lab called Marcus at six the next morning with the first pass.
+
+"Engines look nominal," the data engineer said. "Both of them. EGT, N1, N2 — all within normal range right through the descent. No flameout. No rollback. As far as this box is concerned, you had two healthy engines the whole way down."
+
+Marcus stood very still in the hotel hallway.
+
+"The captain declared dual engine failure."
+
+"I know what she declared. I'm telling you what the box recorded." A pause, the clatter of a keyboard. "There's something else. The control column inputs are weird. Big nose-down commands in the last two minutes. Then big nose-up. Like she was fighting a porpoise."
+
+"Or fighting something."
+
+"Or fighting the airplane, yeah. But the engines were fine. If the engines were fine, why was she fighting it at all?"
+
+Marcus did not have an answer. He had a discrepancy, which was worse, because discrepancies did not let you sleep.
+
+"Print it all," he said. "Every channel. I'll be there in an hour."
+
+
+Chapter 8: What She Remembers
+
+They put Dana in a conference room with bad coffee and a recorder on the table.
+
+Marcus Bell was older than she expected, gray and unhurried, with the patience of a man who had heard every story. He did not look like a man hunting a villain. He looked like a man reading a difficult book.
+
+"Walk me through it," he said. "From the caution light."
+
+She walked him through it. The EGT. The autopilot dropping. The dead throttles. She used her hands without meaning to, shaping the air.
+
+"I lost both engines," she said. "I pushed the power up and got nothing. I flew it down on what I had."
+
+Marcus turned a page. "The recorder shows both engines producing normal thrust the entire descent."
+
+The room went quiet. Dana felt the words land somewhere behind her sternum.
+
+"That's not possible," she said.
+
+"It's what the box says."
+
+"Then the box is wrong." Her voice stayed level; she was proud of that. "I had two engines, I would not have declared. I have flown for twenty-two years. I know what a dead engine feels like."
+
+Marcus looked at her a long moment. He did not say she was lying. He did not say she was right. He wrote something down, and that was worse than either.
+
+
+Chapter 9: Off the Record
+
+Theo found Dana in the parking garage, leaning against a concrete pillar, not crying, which was somehow harder to watch.
+
+"They told you about the data," he said.
+
+"They told me I imagined losing two engines."
+
+"You didn't imagine it." He set his bag down. "Captain. I need you to tell me exactly what you felt in the yoke. Not what happened. What your hands felt."
+
+She looked at him. He was twenty-nine and earnest and she had flown with him four times.
+
+"Heavy," she said slowly. "When I pulled to flare it came up late. Like there was a half-second between my hand and the airplane. And once — once it went the wrong way. I pushed forward to recover from a stall warning and the nose came up instead. Just for a moment. I corrected."
+
+Theo went still.
+
+"The wrong way," he said.
+
+"For a moment."
+
+"That's not an engine failure." He picked his bag back up, slowly. "That's the airplane disagreeing with you. Those are different things, and the box only knows how to talk about one of them."
+
+
+Chapter 10: The Gap
+
+Marcus laid the printouts across the conference table like a man dealing cards.
+
+The engine traces were clean. The altitude profile was a smooth descending arc. But the control column trace was a mess — sharp, contradictory, a sawtooth of commands that no competent pilot would make on purpose.
+
+"This is the part that bothers me," he said to the data engineer, tapping the sawtooth. "If the engines were fine, and this is the captain's input, then she put a healthy airplane into the ground for no reason and got lucky stopping it. That's the pilot-error story."
+
+"That's the easy story," the engineer said.
+
+"Easy stories are usually wrong." Marcus traced the line with a finger. "But here's what I can't square. This column trace — is this what she commanded? Or is this where the column ended up?"
+
+The engineer frowned. "The sensor's on the column. It reads where the column is."
+
+"And if the airplane was moving the column too? Fighting her?"
+
+"Then we couldn't tell the difference. Not from this box." The engineer sat back. "This box doesn't record what the flight-control computer commanded. Only the older airframes. It assumes the pilot and the computer agree."
+
+Marcus stared at the sawtooth.
+
+"And what if they didn't," he said.
+
+
+Chapter 11: Helpful People
+
+Halcyon Aviation Systems sent three people to the investigation, and all of them were helpful.
+
+They wore good suits and badges on lanyards and they brought coffee that was better than the lab's. They were the manufacturer of the flight-control computer, and they wanted, they said, to be of every possible assistance. Safety was their first value. It said so on the lanyards.
+
+Marcus shook their hands and remembered every face.
+
+"We've reviewed the preliminary data," the lead engineer said. He was smooth and tan and his name was Dell. "Frankly, it looks like a control-handling issue. The engines were healthy. The flight controls were available. With respect to the captain, who did a remarkable job recovering, the inputs we see are — irregular."
+
+"Irregular," Marcus said.
+
+"We'd hate to see this drag out. There's a fleet of these airframes flying every day. The faster we get to a finding, the faster everyone has confidence again."
+
+"The faster you get to a pilot-error finding," Marcus said, pleasantly, "the faster nobody looks at your computer."
+
+Dell smiled, unoffended, a man who had practiced being unoffended. "I'm sure we both want the truth, Mr. Bell."
+
+"I'm sure one of us does," Marcus said.
+
+
+Chapter 12: A Ghost
+
+Two hundred miles away, in a glass building, Sondra Mehta read the same preliminary data and felt the floor tilt.
+
+She was the vice president of engineering at Halcyon, fifty-one, and she had built her career on being the person who understood the system when no one else did. She understood it now. The engine traces were fine. The control inputs were a sawtooth. And buried in the timestamp of the event was a sensor configuration she had seen before, in a report, eighteen months ago, that she had not been allowed to act on.
+
+She knew this ghost. She had signed the memo that buried it.
+
+She pulled up the old defect report on her terminal. ANOMALY HC-3107. The distribution list was still attached. Her initials were on it, fourth from the top.
+
+She read the summary line again. Under simultaneous angle-of-attack sensor disagreement during high-rate maneuvering, the flight-control computer may command control-surface deflection opposite to pilot input.
+
+Opposite to pilot input.
+
+She closed the file. She sat in her glass office and watched the parking lot fill with the cars of people who did not know what she knew.
+
+
+Chapter 13: The Swap
+
+Theo got the maintenance records the way he got everything — by reading the boring parts no one else read.
+
+The airframe's logbook was a thousand pages of routine: oil servicing, tire changes, a galley light, a placarded coffee maker. He read all of it. And forty-one days before the flight, between a hydraulic check and a lavatory repair, there was a line that made him sit up.
+
+FCC SOFTWARE LOAD UPDATED PER HALCYON SERVICE BULLETIN 22-118. VERSION 4.2.0 TO 4.3.1.
+
+A software update to the flight-control computer. Routine. The kind of thing that happened in the small hours of a maintenance night and got a single line and a mechanic's stamp.
+
+Theo wrote down the version numbers. 4.3.1. He did not know what was in 4.3.1. But he knew that the airplane had flown thousands of hours on 4.2.0 without trying to kill anyone, and forty-one days after the swap it had reversed a control input in a thunderstorm.
+
+He photographed the page. Then, because he had once been a man who lived by version control, he wondered what 4.3.1 had been in such a hurry to fix that they pushed it to the fleet.
+
+
+Chapter 14: What the Box Forgot
+
+"The recorder is the problem," Marcus told his team, "and the recorder is also the answer."
+
+He had the older airframe's manual open. The FDR on Cardinal 1149 logged control-surface positions and control-column positions. It did not log the discrete command signal from the flight-control computer to the actuators. On newer recorders that channel existed. On this one it had never been wired.
+
+"So we have where the column was and where the elevator was," the engineer said. "But not what told the elevator to move."
+
+"Right. If the pilot and the computer always agree, you don't need that channel. The column moves, the surface moves, same story." Marcus rubbed his eyes. "But if they disagreed — if the computer drove the surface one way while she held the column another — this box would show us two traces that don't match and no explanation for why."
+
+"And that's exactly what we have. Column and surface fighting."
+
+"That's exactly what we have." Marcus stood. "I want everything the column did and everything the surface did, to the millisecond. If the computer left fingerprints, they're in the gap between those two lines."
+
+
+Chapter 15: Airplanes That Lie
+
+Ed Lindqvist lived an hour out of town with two dogs and a hangar full of an old taildragger he was always almost finished restoring. He had been Dana's first check airman, a thousand years ago. He poured her coffee and listened without interrupting, which was the rarest thing he did.
+
+"They think I killed a healthy airplane," she said. "They have the data."
+
+"Data." Ed snorted. "I flew test for eleven years. Let me tell you about data. Data is a story a machine tells you about what it noticed. It doesn't notice everything. It notices what someone decided to wire up."
+
+"Marcus Bell said almost the same thing."
+
+"Then Bell's smarter than most." Ed sat down across from her. "Dana. I've flown airplanes that lied. Trim runaways. Bad air data. One time an autopilot tried to roll me into a mountain because it thought it was straight and level. The airplane was certain. The airplane is always certain. That's the trap. You get pilots who learn to trust the magic over their own hands, and then one day the magic is wrong and certain at the same time, and it kills them while they argue with it."
+
+"I didn't argue with it. I flew it down."
+
+"I know you did." He looked at her with something close to pride. "Now find out what it was so sure about."
+
+
+Chapter 16: Recognition
+
+Priya Anand saw the captain's face on the news and put down her fork.
+
+She had left Halcyon ten months ago, worn out, but she still read the trades, still flinched at the company name. The story was framed as a miracle landing. Heroic captain. Storm. Dual engine failure, the chyron said.
+
+Priya knew it wasn't a dual engine failure. She knew it the moment they showed the control trace on a graphics segment, the sawtooth, the column and surface diverging. She had seen that signature in a simulation eighteen months before, on her own monitor, late at night, when she had run the angle-of-attack disagreement case and watched the computer cheerfully command the wrong way.
+
+She had written it up. ANOMALY HC-3107. She had walked it into a meeting and watched faces close like doors.
+
+She had been told it was an edge case. Vanishingly unlikely. Not worth a recertification. Then she had been moved to a project in the basement, and within a year she had quit.
+
+Now there were one hundred and twelve people who had nearly died of an edge case.
+
+She turned off the television and sat in the quiet and understood that she was going to do something that would cost her.
+
+
+Chapter 17: Keep It Filed
+
+Sondra took her concern up one level, which was as far as she let herself go on the first day.
+
+"The 1149 data," she said, in the office of the senior vice president, a man named Reuter who had a model jet on his desk and the eyes of an accountant. "It matches HC-3107. The disagreement case. I think the computer reversed an input."
+
+Reuter did not blink. "HC-3107 was closed."
+
+"It was deferred. There's a difference."
+
+"It was closed," Reuter said again, gently, the way you correct a child. "An edge case, vanishingly unlikely, addressed in a future roadmap. That's the record. The record is closed, Sondra."
+
+"There are a hundred and twelve people who would disagree about vanishingly unlikely."
+
+"There are a hundred and twelve people who walked away," Reuter said, "because we build a good airplane and the captain flew it well. Let the NTSB do their job. Don't volunteer our internal speculation into a federal investigation. Keep it filed. That's not a request."
+
+She kept it filed. She went back to her glass office and despised herself, efficiently, the way she did everything.
+
+
+Chapter 18: The Missing Channel
+
+Theo could not get the command channel because it didn't exist on the recorder. So he built it.
+
+He spent two nights with the raw FDR dump and a notebook full of equations. The recorder didn't log what the computer commanded, but it logged the consequences: pitch rate, vertical acceleration, the elevator's actual position, the column's actual position. From the accelerometers and the airplane's known aerodynamics, you could work backward to what force had moved the elevator. And from the force, you could infer who had ordered it — the column, through the cables, or the computer, through the actuator.
+
+It was ugly math and he loved it. It was the kind of thing he had left coding to escape, and here it was, waiting for him in the cockpit after all.
+
+At three in the morning the numbers resolved.
+
+For one and a half seconds, near the bottom of the descent, the elevator had moved nose-up while the column was held nose-down. The cables couldn't do that. Only the computer could.
+
+The airplane had pushed the wrong way. On purpose. Because it was certain.
+
+Theo sat back and felt the cold pleasure of being right and the colder fear of what being right meant.
+
+
+Chapter 19: Fighting Her
+
+Marcus looked at Theo's reconstruction for a long time before he spoke.
+
+"You did this from the accelerometers."
+
+"And the aero model. It's an estimate. But the sign is unambiguous." Theo leaned over the page. "Here. The captain commands nose-down to recover airspeed. The elevator goes nose-up. There's no mechanical path for that except the flight-control computer driving the actuator against her. For a second and a half the autopilot — the FCC — was flying the airplane, and it was flying it into the ground, and she was fighting it the whole way."
+
+"She told me it went the wrong way 'for a moment.'"
+
+"A second and a half is a long moment at four hundred feet."
+
+Marcus set the page down very carefully, the way you set down something that might go off.
+
+"If you're right," he said, "then the captain didn't crash a healthy airplane. She recovered an airplane that was actively trying to crash. That's not a footnote in a report. That's a grounding. That's a recall." He looked up. "And that's a number of people who would very much prefer you were wrong."
+
+
+Chapter 20: A Tidy Narrative
+
+Glen Voss came to the airline's headquarters with a smile and a leather folio and an hour of everyone's time.
+
+He was Halcyon's chief counsel, but he did not talk like a lawyer. He talked like a friend who had bad news and a way out of it. He sat in the airline's boardroom and was sympathetic about the captain, genuinely, you could almost believe it.
+
+"Here's where I worry for all of us," he said. "This drags on, the airframe gets a cloud over it, your bookings dip, our stock dips, and at the end of a year of misery we land exactly where the data already points. Handling. A great captain having a bad few seconds in a storm. It happens. It's human. There's no shame in human."
+
+"You're saying call it pilot error," the airline's counsel said.
+
+"I'm saying don't fight the data." Voss spread his hands. "We support the captain. We'll say wonderful things about the captain. We just don't invent a phantom in the computer to explain a recovery she should be proud of. Phantoms are expensive. For everyone."
+
+He smiled again, and the room felt, briefly, like a warm place to give up in.
+
+
+Chapter 21: Without the Data
+
+Marcus would not sign it.
+
+The pressure came down the way pressure always came down — not as an order but as a series of reasonable conversations. His regional director called. The word resources came up. The word proportionality. A near-miss with no fatalities and a hero captain; was it really the place to spend a recertification fight against a major manufacturer?
+
+"I'm not finding pilot error," Marcus said, "without the flight-control command data. The recorder didn't log it. My investigator reconstructed a reversal from the accelerometers. Until I can rule that out, I can't rule her in."
+
+"A reconstruction. From a first officer. That's not exactly—"
+
+"It's a hypothesis with math behind it," Marcus said. "I've signed findings on less. I won't sign a clean finding while there's an open question that could be flying around on a hundred other airframes tonight."
+
+There was a silence on the line that meant he had made an enemy.
+
+"Then prove the reversal," the director said. "Bench-test the computer. If you can make it command the wrong way, you've got a case. If you can't, you sign the report."
+
+"That's fair," Marcus said, and meant it, and started planning how to get a flight-control computer onto a bench before someone decided he couldn't.
+
+
+Chapter 22: Grounded
+
+The airline grounded Dana pending the inquiry, with pay, which the union lawyer said was the polite way to do it.
+
+"It's not discipline," the lawyer said, across a table that felt like every table she sat at now. "It's standard. You'll fly again."
+
+"When."
+
+"When there's a finding." He hesitated. "Captain, I have to be straight with you. The data is not good for us. If the Board calls it handling, that follows you. We'd fight it, but—"
+
+"It wasn't handling."
+
+"I believe you." He didn't, quite; she could see him deciding to. "But belief isn't the FDR. What we have is your account and a sawtooth that looks bad."
+
+She went home and Carl had made dinner and the kids — they had no kids, they had two cats — the cats wound around her ankles. She sat at her own kitchen table in her own house grounded from the only thing she had ever been sure she was good at, and she thought about Ed saying the airplane is always certain, and she thought: so am I.
+
+
+Chapter 23: It's Real
+
+The message came to Theo on an account he had made for buying concert tickets, through a contact form on a website, from a name that meant nothing.
+
+It's real. HC-3107. AOA disagreement reverses pitch command. I flagged it 18 mo ago at Halcyon. They buried it. I can prove the timeline. — P
+
+Theo read it four times.
+
+Then he read it the way he had learned to read incident reports — looking for the lie, the scam, the planted thing. It could be a setup. It could be a journalist fishing. It could be Halcyon itself, baiting him into something they could discredit.
+
+But the message used the words he had reconstructed from accelerometer math, words that had not been published anywhere. Reverses pitch command. AOA disagreement. You could not fish with a hook you'd had to invent yourself.
+
+He wrote back two lines. Who are you. Why now.
+
+The reply took an hour. Because a hundred and twelve people almost died of a thing I found and couldn't stop. I'm tired of being filed. Are you the kind of pilot who reads the maintenance log?
+
+Theo smiled, despite everything. I read the whole thing, he wrote. Tell me where.
+
+
+Chapter 24: The Search
+
+Theo came home to a door that wasn't quite latched.
+
+Nothing was taken. That was the thing that turned his stomach. His laptop sat on the desk where he'd left it. His passport was in the drawer. The cash in the coffee can was untouched. But the drawers were closed a half-inch wrong, and the chair was angled, and the notebook with his reconstruction was on top of the pile when he had left it in the middle.
+
+Whoever had come had wanted to read, not to steal.
+
+He stood in the doorway and made himself breathe. He had spent years thinking of threats as bugs in code, abstract, fixable. This was a body that had stood in his apartment and touched his things and learned what he knew.
+
+He photographed the drawers. He backed up the reconstruction to three places. Then he called Dana, and then he called Marcus, and when Marcus said carefully, "Did they take anything," and Theo said no, Marcus was quiet for a moment and then said, "That's worse. They were inventorying you."
+
+
+Chapter 25: Priya
+
+They met Priya Anand in a diner off the interstate where the coffee came in thick white cups and nobody looked at anybody.
+
+She was smaller than Theo expected and steadier. She put a folder on the table and kept her hand on it.
+
+"I'm going to tell you what HC-3107 is," she said, "and then you can decide whether I'm crazy or whether I'm the most reasonable person you've met all year."
+
+"We already think you're the second thing," Dana said.
+
+Priya almost smiled. She opened the folder. "The flight-control computer uses two angle-of-attack sensors. They tell it how the wind is hitting the wing. The computer uses them to keep you from stalling — it'll push the nose down if it thinks you're getting slow."
+
+"Standard," Theo said.
+
+"Standard. Here's the bug. When the two sensors disagree by a specific amount, during a high-rate maneuver — say, a hard pull in turbulence — the logic that picks which sensor to believe gets confused. It picks the wrong one. And then it doesn't just ignore your input. It commands the opposite of it. You pull, it pushes. You push, it pulls. For as long as the disagreement lasts."
+
+Dana set down her cup. Her hand was very steady.
+
+"It pushed," she said. "In the storm. I felt it."
+
+"I know you did," Priya said. "I watched it happen in a simulation a year and a half ago. And then I watched everyone above me decide it would never happen in the real world."
+
+
+Chapter 26: Opposite
+
+"Walk me through the logic," Theo said. He had his notebook out. "Exactly how it reverses."
+
+Priya took his pen.
+
+"Two sensors. Call them A and B. Normally they agree, the computer averages them, fine. When they disagree, the computer is supposed to flag a fault and hand control fully to the pilot — degrade gracefully. That's the design intent." She drew two lines diverging. "But there's a branch in the code. If the disagreement happens while the computer is mid-correction — already pushing the nose for a stall it thinks it sees — the fault flag and the correction command race each other. The correction wins. And because of a sign error in the fallback path, the correction inverts."
+
+"A sign error," Theo said. "A minus where there should be a plus."
+
+"One character." She looked at him. "You were a software guy. You know how a whole airplane can hang on one character."
+
+"I know exactly how." He stared at the diverging lines. "And it only fires under disagreement, mid-correction, high rate. Three conditions. You'd never see it in normal flight."
+
+"You'd see it once in ten million hours," Priya said. "That's what they told me. As if ten million hours weren't a Tuesday for a fleet this size."
+
+
+Chapter 27: Filed
+
+"I flagged it eighteen months ago," Priya said, and for the first time her voice had an edge. "I ran the case, I wrote it up, I gave it a number. HC-3107. I walked it into a design review and I said: under this combination, the computer commands the opposite of the pilot. We need to fix the sign error and recertify the affected path."
+
+"What happened," Marcus asked. He had come to the second meeting, in a motel room with the TV unplugged, and he listened like a confessor.
+
+"Sondra Mehta — VP of engineering — said it was real but rare. Reuter, above her, said rare meant deferrable. And there was a deadline." Priya laughed without humor. "There's always a deadline. We were certifying version 4.3.1 to hit a customer delivery. Reopening the sensor-disagreement path would have meant a full recert of that subsystem. Months. Penalties. So 4.3.1 shipped with the bug, and HC-3107 went on a roadmap, and I got moved to a project in the basement reformatting test logs. Within a year I was gone."
+
+"And 4.3.1 went onto Cardinal 1149's airframe forty-one days before the flight," Theo said.
+
+Priya looked at him. "Did it."
+
+"It's in the maintenance log. Service Bulletin 22-118."
+
+She closed her eyes. "Then the version that flew her into the storm is the version I told them to fix."
+
+
+Chapter 28: Subpoena
+
+Marcus subpoenaed Halcyon's software change logs for the flight-control computer, full history, every version, every defect, every deferral.
+
+He did it in writing, on Board letterhead, with a deadline and a list of named artifacts, because he had learned that you got from a corporation exactly what you named and nothing you didn't. He named ANOMALY HC-3107 specifically. He named Service Bulletin 22-118. He named the certification basis for version 4.3.1.
+
+He sent a copy to his director, so that if the resources conversation came up again, it would come up against a piece of paper.
+
+"You're picking a fight you can't win," his director said on the phone. "They have more lawyers than we have investigators."
+
+"I'm not fighting their lawyers," Marcus said. "I'm asking for documents that either exist or don't. If they exist and contradict the pilot-error story, we have a finding. If they don't exist, the company has a very interesting problem explaining where its own defect tracking went."
+
+"And if they exist and they've been cleaned up?"
+
+Marcus had thought about that for a long time. "Then they'll have made a mistake," he said. "Cleaned-up logs are easier to catch than dirty ones. People who scrub always leave a clean spot that's too clean."
+
+
+Chapter 29: The Scrubbed Logs
+
+Halcyon delivered the logs three days early, which was the first thing wrong.
+
+They came on an encrypted drive with an index and a cover letter from Glen Voss expressing the company's full cooperation. Marcus read the cover letter twice for the texture of it. Then he gave the drive to Theo and Priya, because between them they had written more software than the rest of the building combined.
+
+It took Priya forty minutes.
+
+"HC-3107 is here," she said. "But it's been recharacterized. Look. The original title was 'FCC commands inverted pitch under AOA disagreement.' Now it says 'documentation clarity issue in fallback path.' Same ID number. Different soul."
+
+"And the deferral memo?"
+
+"Gone. There's a gap in the change history. The entries jump from a Tuesday to the following Monday. Six days missing." She pointed. "Six days that happen to contain the design review where I presented it. The review I have my own notes from."
+
+Theo leaned in. "They didn't delete the anomaly. Deleting it would leave a hole anyone could see. They left the ID and rewrote what it meant. They edited the meaning instead of the record."
+
+"That's worse," Marcus said quietly. "Deleting is a crime you can argue was a mistake. Rewriting is a crime you had to sit and think about."
+
+
+Chapter 30: Certify It
+
+Voss called Sondra into a room with no windows and told her to sign.
+
+"The change logs we produced for the Board," he said. "I need an officer of engineering to certify them as complete and accurate to the best of the company's records. That's you. Your signature, your title."
+
+Sondra had the page in front of her. She did not pick up the pen.
+
+"They're not complete," she said. "There's a six-day gap. The HC-3107 characterization was changed."
+
+"The characterization was corrected," Voss said. "Engineering judgment evolved. That's not a gap, that's a refinement. You sign it because it's true: these are the records as they currently stand."
+
+"As they currently stand." She turned the phrase over. "After someone made them stand differently."
+
+Voss smiled, and for the first time the smile did not reach anything. "Sondra. You signed the original deferral. Your initials are on HC-3107. If this becomes a fight about what the company knew and when, you are not a witness. You're a defendant. Sign the page, and you're an officer doing her job. Don't, and you're the engineer who knew and stayed."
+
+She picked up the pen. She held it. Then she said, "I need a day. I won't certify something I haven't re-reviewed line by line. If you want my name on it, you want it defensible."
+
+Voss studied her. "One day," he said. "Make it line by line."
+
+
+Chapter 31: The Simulator
+
+Ed got Dana into a full-motion simulator at a training center after hours, on a favor, no questions, the way old test pilots arranged things.
+
+"I want to feel it," Dana said. "I want to know it wasn't me."
+
+Theo loaded the conditions from Priya's notes: the AOA sensors set to disagree by the critical margin, a high-rate pull, turbulence. He could not load the real bug — the sim's software was a different build — so he scripted the reversal by hand, an instructor's malfunction, timed to fire when she pulled hard.
+
+"This won't be exactly it," he said. "But the feel should match."
+
+Dana flew the approach. The storm boiled in the visuals. At four hundred feet she pulled to arrest a sink, and the yoke came alive against her, pushing, the nose dropping when she demanded it rise. The whole cab lurched as the motion system threw them forward.
+
+She fought it down. She landed it, barely, the sim shuddering on its struts.
+
+In the silence afterward she sat with her hands shaking, not from fear but from vindication so sharp it hurt.
+
+"That's it," she said. "That's exactly it. That's what I felt and couldn't explain." She looked at Theo through the dark. "I'm not crazy. The airplane was wrong."
+
+"The airplane," Theo said, "was certain."
+
+
+Chapter 32: The Bench
+
+To prove it to anyone who mattered, they needed the real computer on a bench, not a scripted sim.
+
+Ed knew a man. The man ran an independent avionics lab — the kind that tested gear for insurers and litigators, neutral ground, no stake in the outcome. He had a spare flight-control computer of the right part number, pulled from a parted-out airframe years ago, gathering dust.
+
+"It's an older load," the lab man said. "But if your version 4.3.1 is available, I can flash it. The hardware's the hardware."
+
+"4.3.1 is what we need," Theo said. "And we need the AOA inputs simulated independently, so we can make the two sensors disagree on command."
+
+"I can drive the sensor inputs from a signal box. Feed it any angles you want." The lab man scratched his jaw. "You're telling me you want to make a flight-control computer command the wrong way on purpose, on a bench, on video, with a chain of custody."
+
+"That's exactly what I'm telling you," Marcus said. "Everything logged. Everything witnessed. If it does what they say it does, I want it on the record in a way no lawyer can talk away."
+
+The lab man looked at the dusty box on the shelf. "Then let's wake it up," he said, "and ask it a hard question."
+
+
+Chapter 33: Inverted, Live
+
+They ran the test on a Thursday with three witnesses and four cameras.
+
+The flight-control computer sat on the bench under a nest of wires, blinking, alive. The signal box fed it everything it needed to believe it was flying: airspeed, altitude, the steady lie of level flight. Theo had a console wired to inject pilot commands — a virtual column — and to drive the two AOA sensors.
+
+"Baseline," the lab man said. "Sensors agreeing. Pilot commands nose-down."
+
+The computer commanded nose-down. Correct. Boring. Perfect.
+
+"Now the case," Theo said, and his mouth was dry. "Mid-correction. I'll trigger a stall protection push. Then disagree the sensors during the push. Then I'll command nose-down to recover."
+
+The numbers ran. The stall push fired — the computer reaching for the nose. Theo split the sensors. Then he commanded nose-down on the virtual column, hard, the recovery any pilot would make.
+
+The output trace climbed.
+
+Nose-up. The computer commanded nose-up against a nose-down input, exactly as Priya had drawn it eighteen months ago, exactly as Dana had felt it in the storm. It held the inversion for a second and a half and then the fault timer caught up and it released.
+
+Nobody in the room said anything for a moment. Then the lab man let out a breath.
+
+"Well," he said. "There's your phantom."
+
+
+Chapter 34: Funding
+
+The lab's funding was threatened on Monday morning, which told Marcus everything about how fast word traveled.
+
+The lab man called him, embarrassed and angry. "My biggest client just pulled a contract. Out of nowhere. Vague reasons. And my insurer suddenly wants to 'review my certifications.' I've been clean for nineteen years. This is somebody leaning."
+
+"It's somebody who heard about Thursday," Marcus said.
+
+"It's somebody who heard about Thursday by Friday." The lab man laughed, bleak. "I don't scare easy, Bell, but I've got eleven employees and a lease. I'll hold the test data — it's yours, it's witnessed, I won't touch it. But I can't have that computer here much longer. If they want it gone, they'll find a way to make it gone."
+
+Marcus thought fast. "Move it. Today. Somewhere not associated with you and not associated with us. I'll come get the data and the chain-of-custody myself."
+
+"And the unit?"
+
+"Hide it somewhere boring," Marcus said. "Boring is the safest place in the world. Nobody burns down boring."
+
+He hung up and sat looking at his phone and understood that the case had crossed a line. People did not threaten a lab over an edge case. They threatened a lab over something that could cost them a fleet.
+
+
+Chapter 35: Off the Road
+
+Priya's car went off the road on a Tuesday night on a county two-lane she drove twice a week.
+
+She remembered headlights behind her, then beside her, too close, then a shove of metal on metal and the guardrail coming up white in her own beams. The car went down the embankment and stopped against a tree with the airbags out and Priya hanging in the belt, alive, her wrist broken, her breath sawing.
+
+The other vehicle did not stop.
+
+She called Theo before she called an ambulance, which she would later admit was the wrong order, but she was not thinking about order. She was thinking it's escalating and they want me quiet and if I die in a ditch the timeline dies with me.
+
+"Don't move," Theo said. "I'm calling it in. Stay on the line."
+
+"Theo. Listen to me. Everything's backed up. The notes, the timeline, the design review. Three places. If anything happens—"
+
+"Nothing's going to happen."
+
+"Something already happened," Priya said, and laughed, and it turned into a cough, and she hung in the belt in the dark and waited for the lights.
+
+
+Chapter 36: How High It Goes
+
+The accident report on Priya's car said single-vehicle, weather, no other party identified. There had been no other party identified because no one had looked very hard.
+
+Marcus looked hard. He got the road. He found the paint transfer on Priya's rear quarter panel, dark blue, not her color. He found the gouge in the guardrail at the height of a large vehicle's bumper. He photographed all of it and sent it to a contact in the state police and then he sat with the larger, colder thought that had been arriving in pieces.
+
+The threat to the lab. The search of Theo's apartment. The car. None of this was the behavior of a company managing a regulatory problem. This was the behavior of people who believed they would lose if the truth came out, and who had decided the truth would not come out.
+
+And the recharacterized logs, the missing six days — that scrubbing had been competent. Too competent to be panic. It had the calm of someone who had done it before.
+
+He pulled the certification file for version 4.3.1. The signoff from the certification authority — the regulator who was supposed to be the check on all this — had come fast. Faster than it should have. There was a name on it he half-recognized, a former Halcyon engineer who now worked for the authority.
+
+The rot, Marcus thought, was not in one company. It was in the seam between the company and the people meant to watch it.
+
+
+Chapter 37: Her Own Initials
+
+Sondra spent her one day finding the original.
+
+Not the recharacterized version on the drive Halcyon had sent the Board. The original HC-3107, as Priya had written it, with the title that named the inversion and the distribution list with Sondra's own initials fourth from the top. It would be in the archive — the real archive, the one the legal hold was supposed to protect, the one no one had thought she still had access to because no one remembered she had built it.
+
+She had built it. Fifteen years ago, when she was still an engineer who believed records were sacred. She still had the keys.
+
+She found the document at two in the morning, alone in the building, the cleaning crew gone. She read it whole. The original title. The clear summary. The recommendation to fix the sign error and recertify. And her own initials, acknowledging she had read and understood that the computer could command the opposite of the pilot, eighteen months before it tried to.
+
+She printed it. She printed the deferral memo with Reuter's signature. She printed the unscrubbed change history showing the six days that had been removed from the Board's copy.
+
+Then she sat in the empty building with the warm pages in her hand and understood that she had two choices, and that one of them was the kind that ended a life as she had lived it, and the other was the kind that ended a part of her she could not get back.
+
+
+Chapter 38: The Drive
+
+Sondra copied everything to a small drive and put the drive in her coat and did not sleep.
+
+She had told Voss she would certify the logs line by line. Instead she had spent the night assembling the opposite of certification: a stack of documents that proved the logs were a lie and that she had known the truth all along and had stayed. The documents condemned the company. They also condemned her. She had made her peace with that around four in the morning, which was when most honest decisions get made.
+
+In the morning she walked into the building like always. She nodded to security. She rode the elevator with people who did not know. She went to her glass office and sat behind her glass and felt strangely light, the way you feel the day you decide to leave a marriage you have been pretending was fine.
+
+She did not yet know how she would get the drive to Marcus Bell. She knew only that she would, and that she had to be ordinary until she did, because Voss watched everything and Voss could smell a decision.
+
+At eleven her phone buzzed. Voss. Lunch. He wanted to talk about the certification.
+
+Of course he did, she thought, and put the drive in the lining of her coat, and went.
+
+
+Chapter 39: Loyal
+
+"You look rested," Voss said, which was a lie and a probe.
+
+"I was up all night with the logs," Sondra said, which was true and a shield. "Line by line, like you asked."
+
+"And?"
+
+"And there's a six-day gap and a recharacterized anomaly, and if I certify these as complete, the first competent person who diffs them against any backup will hang me out a window." She let that sit. "So I'm not going to certify garbage that gets me indicted, Glen. I'm going to certify a version that survives a subpoena. Which means we produce the missing six days with an explanation, or we don't produce a certification at all."
+
+Voss watched her. She watched him decide whether she was a problem or an asset. She had spent a career being an asset; she was counting on the muscle memory.
+
+"What explanation," he said slowly, "survives the missing six days?"
+
+"Routine archive migration. Files moved, not deleted. I can build the paper for it if it's true." She held his eyes. "Is it true, Glen? Were those days migrated, or were they removed?"
+
+He smiled, and she saw, behind it, the calculation that she might be loyal after all, the calculation she had spent the night manufacturing.
+
+"Build me the paper," he said. "I'll get you the truth about the six days by tomorrow."
+
+Tomorrow, she thought. I only need today.
+
+
+Chapter 40: The Choice and the Deadline
+
+That night Theo and Dana laid the whole timeline on a motel bed and read it like a verdict.
+
+Eighteen months ago: Priya finds the inversion, writes HC-3107.
+A design review: Sondra calls it real, Reuter calls it deferrable.
+A deadline: version 4.3.1 must ship for a customer delivery.
+The decision: defer the fix, ship the bug, put HC-3107 on a roadmap.
+Forty-one days before the flight: 4.3.1 loaded onto Cardinal 1149.
+The storm: AOA disagreement, mid-correction, high rate. The computer commands the opposite. Dana fights it down.
+After: the logs recharacterized, the six days removed, the lab threatened, Theo searched, Priya run off the road.
+
+"They didn't decide to kill anyone," Dana said. "That's what gets me. Nobody in a room said let's risk a hundred lives. Somebody in a room said let's hit the deadline and manage the edge case later."
+
+"That's how it always is," Theo said. "Nobody chooses the crash. They choose the deadline, and the crash is just the deadline's bill coming due."
+
+Dana looked at the timeline a long time.
+
+"There's something missing," she said. "If they shipped a known inversion bug, and they're this scared, it's because they think one near-miss could become a pattern. Which means—"
+
+"Which means they think it's happened before," Theo said. "Or almost has."
+
+They looked at each other in the lamplight.
+
+"Find the other one," Dana said.
+
+
+Chapter 41: The Second Event
+
+Theo found the second event in a database that almost no one read.
+
+The Aviation Safety Reporting System collected anonymous reports from crews — close calls, confusions, the things pilots wrote up so the next crew might be warned. The reports were stripped of names and dates, blurred on purpose. Theo searched them the way he searched everything, patiently, for the signature.
+
+He found it. Eight months before Cardinal 1149. A crew on the same airframe type, in moderate turbulence, reported that during a recovery the pitch control "felt reversed for several seconds before normalizing," that they had been "unable to explain the control response," and that the airplane had landed without incident. They had assumed it was their own confusion. They had written it up anyway, because they were good crews and good crews wrote things up.
+
+No one had connected it to a software fault, because the report was anonymous and blurred and the FDR on their airframe — same older model — hadn't logged the command channel either.
+
+"Eight months before," Theo said. "Same type. Same feel. Reversed for several seconds."
+
+"Then it's not an edge case," Dana said. "It's a pattern with a low frequency. It's going to happen again. It's going to keep happening until somebody grounds the load."
+
+"Now we have two," Theo said. "Two is a pattern. One is an accident. Two is a defect." He looked up. "Marcus needs this for the hearing."
+
+
+Chapter 42: Lawyers, Not Engineers
+
+Marcus called a public hearing, on the record, with sworn testimony, and Halcyon sent lawyers.
+
+He had asked for engineers. He had named the engineers he wanted: the lead on version 4.3.1, the author of the deferral memo, the VP of engineering. Halcyon's response was Glen Voss and two outside attorneys and a statement read into the record about the company's unwavering commitment to safety and its respect for the process.
+
+"Where are your engineers, Mr. Voss?" Marcus asked.
+
+"My engineers are building safe airplanes, Mr. Bell," Voss said, smooth as glass. "I'm authorized to address any matter the Board wishes to raise."
+
+"I wish to raise ANOMALY HC-3107."
+
+"I'm not familiar with the internal nomenclature of—"
+
+"You produced it to the Board," Marcus said. "Recharacterized. With six days of change history removed. I have the production. I have your cover letter certifying full cooperation. I have an independent bench test in which a flight-control computer running version 4.3.1 commanded pitch opposite to pilot input under sensor disagreement. And I have a second crew report from eight months prior describing the same reversal."
+
+For one second, one full second, Voss's face did something. Then it stopped doing it.
+
+"I'd want to review any so-called bench test," he said. "Conditions can be manufactured."
+
+"They can," Marcus agreed. "Yours were."
+
+
+Chapter 43: The Offer and the Threat
+
+Voss found Sondra in the parking structure after the hearing recessed, which was not an accident.
+
+"You held back the six days," he said. "I gave you a day to build the paper and you used the day to find the original, didn't you. Don't bother. I can see it on you. You found the real HC-3107."
+
+Sondra did not deny it. She was past denying it. The drive was in her coat lining and the hearing was real now and the time for being an asset was over.
+
+"There's still a clean way out," Voss said. "For you. You testify that the deferral was a reasonable engineering judgment on the information available, which it was, Sondra, on the information available. You don't speculate about inversions. You let the bench test be contested by experts who'll say what experts say. And you keep your pension, your reputation, and your freedom. HC-3107 was a closed item. Say it was closed and mean it."
+
+"And if I don't?"
+
+Voss looked at her, and the smile was entirely gone now, and what was under it was very plain.
+
+"Then you're the engineer who signed the deferral and knew," he said. "And things have been happening to people in this case, Sondra. A lab. A car. You're a careful driver. Stay careful."
+
+She felt the threat land and, oddly, it freed her. He had just told her there was nothing left to protect.
+
+"Thank you for the clarity, Glen," she said, and walked to her car, and did not look back, and got the shaking under control before she reached it.
+
+
+Chapter 44: The Fire
+
+The bench unit's hiding place burned on a Thursday, exactly a week after the test.
+
+It was a self-storage facility forty minutes from the lab, a unit rented in a name connected to no one, paid in cash, boring as Marcus had wanted. At two in the morning a fire started in the row, electrical the report would say, and three units burned before the trucks killed it.
+
+The lab man called Marcus at dawn, his voice strange.
+
+"They burned it," he said. "Or they burned where they thought it was. The unit two doors down from where I put the computer. Somebody told them a number, and the number was off by two."
+
+Marcus closed his eyes. "Off by two."
+
+"I changed the unit at the last minute. The clerk had me down for one number and gave me another that morning, a paperwork thing, and I never updated anybody, not even you. The computer's two doors from the fire. It's fine. It's smoke-stained and fine." A pause. "Bell. They set a fire to burn evidence in a federal investigation."
+
+"Yes," Marcus said. "And they got the wrong unit because of a clerical error neither of us controlled. Which means God, or luck, or a bored clerk, is on our side this week." He was already moving. "Get the unit. Today. Witnessed, photographed, chain of custody. And get yourself somewhere with cameras. We're past edge cases now. We're into arson."
+
+
+Chapter 45: Nothing That Mattered
+
+The flight-control computer sat in its hiding place two doors from the burn line, soot on the storage unit's door, the box itself untouched in its foam-lined case.
+
+Marcus collected it himself, with the lab man and a state police investigator and a video camera running the whole time. They documented the soot. They documented the case. They documented the seals he had placed the week before, intact.
+
+"They'll say the fire compromised it," the lab man said. "They'll say chain of custody."
+
+"Let them say it," Marcus said. "The test was done before the fire, witnessed, recorded, with this exact unit under seal. The fire doesn't touch the test. The fire only proves how badly someone wanted there not to be a test." He looked at the soot-darkened door. "Juries understand arson. Juries do not understand sign errors in fallback paths. We just got handed something a jury understands."
+
+He thought about telling the lab man that the people who set the fire had meant to destroy the one physical object that turned a theory into a fact, and had failed by two storage units. He decided the man already knew.
+
+"They moved everything that mattered out of reach," Marcus said instead, "and they burned an empty room. That's the whole company, really. Confident, expensive, and wrong about where the truth was sitting."
+
+
+Chapter 46: The Garage
+
+Sondra gave Marcus the drive in a parking garage, because some clichés are clichés for being safe: concrete, cameras, witnesses passing.
+
+She came down the stairs instead of the elevator. She wore the coat with the drive in the lining and she had the whole thing planned to the minute, and she had been followed since the lobby, and she knew it.
+
+Marcus was by his car as arranged. She walked to him at an ordinary pace.
+
+"Original HC-3107," she said quietly, slipping the drive from the lining into his hand. "Priya's title, my initials. The Reuter deferral memo. The unscrubbed change history with the six days. And a recording — I wore a wire to my lunch with Voss. He offered me a clean story and then he threatened me. It's all on here."
+
+Marcus closed his hand around it. "You're being followed."
+
+"I know. Blue sedan, came in behind me." She did not look. "It doesn't matter now. You have it. Copy it tonight, three places, send one to your own counsel. If something happens to that drive, there are two more in the world already." She allowed herself one breath. "I should have done this eighteen months ago. I told myself it was rare. I let rare become a person's near-grave."
+
+"You did it now," Marcus said. "Now is what we get."
+
+She nodded and walked to the elevator, upright, a woman who had finally certified something true, and the blue sedan stayed where it was because there was nothing left to follow that mattered.
+
+
+Chapter 47: The Recording Is Already Uploaded
+
+Voss cornered Dana and Theo in the hearing-center stairwell, because he had run out of careful and was down to corners.
+
+He was alone, which was the most dangerous he had been. The smile was gone for good.
+
+"You two have built a very clever story," he said. "A bench test that can be challenged. A disgruntled engineer with a grudge. A captain protecting her record. Reconstructions and simulations. None of it is the recorder. None of it is fact. It's a narrative, and narratives can be unbuilt."
+
+"It's not a narrative," Theo said. "It's a sign error. You can read it in the code. The code doesn't have a grudge."
+
+"The code is proprietary and you don't have it."
+
+"Priya does," Dana said. "And the bench unit survived your fire, two doors down. And Sondra Mehta handed the original HC-3107 to the NTSB an hour ago, with a recording of you threatening her." She watched the words go into him. "Everything you've done to bury this — the search, the car, the fire, the threat — it's all on the record now, Glen. It's uploaded. It's in three places. There's nothing left to corner."
+
+Voss stood in the stairwell with his hands at his sides and for a moment he looked simply tired, a man who had solved problems his whole life and had finally met one that would not stay solved.
+
+"You don't understand what grounding that fleet costs," he said.
+
+"I understand exactly what not grounding it cost," Dana said. "I counted them out the door myself. One hundred and twelve."
+
+
+Chapter 48: On the Record
+
+The hearing reconvened and this time the documents were on the table.
+
+Marcus entered the original HC-3107 into the record — Priya's title, the plain summary of the inversion, the distribution list with Sondra Mehta's initials. He entered the Reuter deferral memo. He entered the unscrubbed change history, side by side with Halcyon's scrubbed production, the six missing days plain as a wound. He entered the bench-test video, the inverted command climbing on the trace while the input held opposite. He entered the second crew's report from eight months prior.
+
+He entered Sondra's recording, and the room listened to Glen Voss offer a clean story and then make a threat, in his own smooth voice, with the parking-garage hum behind it.
+
+Then Sondra Mehta testified, under oath, line by line, the certification she had finally chosen to give.
+
+"We knew," she said. "I knew. It was in a report with my initials on it eighteen months before that storm. We deferred the fix to meet a delivery date. We characterized it as rare and treated rare as the same thing as impossible. It is not the same thing." She looked, briefly, at Dana in the gallery. "Captain Reyes did not mishandle a healthy airplane. Captain Reyes recovered an airplane that our software commanded into the ground. The record should say so."
+
+The record said so.
+
+
+Chapter 49: The Bill Comes Due
+
+The fleet was grounded within the week.
+
+The certification authority, confronted with two events and a reproducible inversion, ordered every airframe running version 4.3.1 out of the sky until the sign error was fixed and the sensor-disagreement path recertified — the recertification Priya had asked for eighteen months earlier, done now in eleven days under the eyes of the world.
+
+The criminal referrals came slower, the way they do. Glen Voss was arrested on charges that began with obstruction and arson and grew from there. Reuter was indicted alongside him. The former Halcyon engineer at the certification authority resigned ahead of his own subpoena. Halcyon Aviation Systems issued a statement about its unwavering commitment to safety, and no one read it.
+
+Sondra Mehta lost her job and kept her name, which was the trade she had made at four in the morning and did not regret. Priya Anand testified with her wrist still in a brace and was, for the first time in eighteen months, not filed.
+
+And the NTSB issued its final report on Cardinal Flight 1149, and the probable cause was not pilot error. The probable cause was a flight-control software fault, known to the manufacturer, deferred for a delivery deadline, and concealed after the fact.
+
+Marcus Bell signed it with the small careful signature he used for things that would end up in court, and for once he slept.
+
+
+Chapter 50: Her Own Hands
+
+Dana Reyes went back to the cockpit in the spring.
+
+They cleared her completely. There was talk of a medal she did not want and interviews she did not give. The airline put her on a different airframe, a different software load, a recorder that logged every command the computers gave themselves, because the whole industry had quietly learned what an unlogged channel could hide.
+
+Theo flew with her on her first trip back. He had stayed a pilot; he had turned down three offers to go back to software, including one from a company that wanted him to find other people's sign errors for a living. He said he'd rather catch them from the right seat.
+
+They ran the checklist the way they always did, call and response, the small liturgy of two people trusting the same machine. The engines spun up healthy. The displays came alive, the glass cockpit glowing its cool greens and blues in the dark before dawn.
+
+"Before takeoff checklist complete," Theo said.
+
+Dana put her hands on the yoke. She felt the airplane through it, awake and waiting and, this time, on her side. She had spent a year not knowing whether to trust her hands or the machine, and the answer, it turned out, was both, as long as somebody made the machine tell the truth.
+
+"Cleared for takeoff," the tower said.
+
+She pushed the throttles forward, and this time the airplane answered.

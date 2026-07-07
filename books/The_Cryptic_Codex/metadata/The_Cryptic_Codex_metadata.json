@@ -1,0 +1,16 @@
+{
+  "title": "The Cryptic Codex",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "language": "en",
+  "word_count": 25624,
+  "chapter_count": 50,
+  "cover_path": "books\\The_Cryptic_Codex\\covers\\The_Cryptic_Codex.png",
+  "EPUB_path": "books\\The_Cryptic_Codex\\epub\\The_Cryptic_Codex.epub",
+  "TXT_path": "books/The_Cryptic_Codex/txt/The_Cryptic_Codex.txt",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25624
+  }
+}

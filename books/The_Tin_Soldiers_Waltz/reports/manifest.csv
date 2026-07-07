@@ -1,0 +1,12 @@
+Path,Type,Size (bytes),Status,model
+The_Tin_Soldiers_Waltz/planning/The_Tin_Soldiers_Waltz_outline.md,outline,5356,complete,deepseek-v4-flash
+The_Tin_Soldiers_Waltz/txt/The_Tin_Soldiers_Waltz.txt,manuscript,101004,complete,deepseek-v4-flash
+The_Tin_Soldiers_Waltz/epub/The_Tin_Soldiers_Waltz.epub,epub,315196,complete,deepseek-v4-flash
+The_Tin_Soldiers_Waltz/covers/The_Tin_Soldiers_Waltz.png,cover,165186,complete,deepseek-v4-flash
+The_Tin_Soldiers_Waltz/metadata/The_Tin_Soldiers_Waltz_metadata.json,metadata,2758,complete,deepseek-v4-flash
+The_Tin_Soldiers_Waltz/tools/build_epub.py,build_script,8287,complete,deepseek-v4-flash
+The_Tin_Soldiers_Waltz/tools/create_cover.py,cover_script,11977,complete,deepseek-v4-flash
+The_Tin_Soldiers_Waltz/reports/final_report.md,report,2010,complete,deepseek-v4-flash
+The_Tin_Soldiers_Waltz/reports/manifest.csv,manifest,0,complete,deepseek-v4-flash
+The_Tin_Soldiers_Waltz/reports/progress.md,progress,0,complete,deepseek-v4-flash
+The_Tin_Soldiers_Waltz/README.md,readme,2579,complete,deepseek-v4-flash

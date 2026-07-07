@@ -1,0 +1,52 @@
+{
+  "title": "The Red Line Survey",
+  "author": "Barış Kısır",
+  "genre": "Cartographic Crime",
+  "subgenre": "Border Survey Suspense",
+  "language": "en",
+  "status": "completed",
+  "published_date": "2026-06-24",
+  "model": "gpt-5.5",
+  "short_description": "A cadastral surveyor proves a mountain county boundary was moved through a reset monument, a spoofed GPS base point, and a staged deed queue.",
+  "long_description": "When a new digital county line cuts through a cemetery, a protected spring, and a dormant lithium claim, surveyor Elian Marr is hired to determine whether the change is correction or theft. The state map looks precise, but the ground tells another story: fresh soil around a boundary stone, a rotated chisel mark, a missing base station log, and old monuments that still agree with the ridge.\n\nWorking with county clerk Nora Vale, tribal land officer Mara Dace, caretaker Alma Rusk, and retired chainman Silas Quern, Elian follows the red line through deeds, water records, drone metadata, and contractor files. The case becomes a fight over whether coordinates can be used to make old land forget who has stood on it.",
+  "main_characters": [
+    "Elian Marr - Adult cadastral surveyor known for treating old monuments as witnesses, not obstacles.",
+    "Nora Vale - Adult county clerk whose land records are being overwritten by a state modernization project.",
+    "Silas Quern - Adult retired chainman who helped survey the ridge forty years earlier and remembers the old line by scars on trees.",
+    "Mara Dace - Adult tribal land officer whose community's spring is shifted outside protection by the new map.",
+    "Hollis Pike - Adult mining investor whose dormant claim becomes valuable if the line moves.",
+    "Alma Rusk - Adult cemetery caretaker whose family graves become subject to transfer.",
+    "Bennet Shaw - Adult state GIS director defending the digital survey as objective.",
+    "Kira Venn - Adult drone mapper whose flight data contradicts the official model.",
+    "Owen Tarl - Adult field technician who vanished after logging the disputed base station.",
+    "Judge Irena Holt - Adult circuit judge asked to freeze the red line before deeds change hands."
+  ],
+  "keywords": [
+    "cartographic crime",
+    "boundary survey",
+    "cadastral records",
+    "GIS fraud",
+    "GPS spoofing",
+    "mining claim",
+    "cemetery access",
+    "water rights",
+    "county clerk",
+    "field monuments"
+  ],
+  "word_count": 10757,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Red_Line_Survey/txt/The_Red_Line_Survey.txt",
+  "EPUB_path": "books/The_Red_Line_Survey/epub/The_Red_Line_Survey.epub",
+  "paths": {
+    "outline": "books/The_Red_Line_Survey/planning/The_Red_Line_Survey_outline.md",
+    "manuscript": "books/The_Red_Line_Survey/txt/The_Red_Line_Survey.txt",
+    "epub": "books/The_Red_Line_Survey/epub/The_Red_Line_Survey.epub",
+    "cover": "books/The_Red_Line_Survey/covers/The_Red_Line_Survey.png",
+    "metadata": "books/The_Red_Line_Survey/metadata/The_Red_Line_Survey_metadata.json"
+  },
+  "cover_path": "books/The_Red_Line_Survey/covers/The_Red_Line_Survey.png",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 35504
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "The Paleolithic Contract",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Anthropological Thriller",
+  "subgenre": "Deep History Mystery",
+  "language": "en",
+  "release_date": "2026-07-02",
+  "short_description": "A paleoanthropologist discovers 42,000-year-old human remains on a remote Indonesian island that do not fit the known tree of human evolution -- and finds herself fighting corporate, political, and religious interests who would bury the truth along with the bones.",
+  "long_description": "When Dr. Maya Renata, an Indonesian-Australian paleoanthropologist, receives a photograph of a fossilized mandible from a regional museum curator, she knows immediately that something is wrong -- the teeth belong to no known hominin species. Traveling to a remote island in the Indonesian archipelago, she and her team uncover a sealed cave containing remains dated to 42,000 years before present, with morphological features that contradict the established Out of Africa migration timeline. As they excavate deeper, they find evidence of a previously unknown Denisovan-modern human hybrid population with an ancestral component absent from the global genomic database -- a discovery that could rewrite the story of human origins.\n\nBut Maya's discovery draws immediate opposition from every direction. Her former mentor turns rival, a Saudi venture capitalist with a hidden agenda controls her funding, and powerful institutional and political forces move to suppress the findings. When sabotage destroys her excavation, a fire consumes her samples, and a legal injunction blocks publication, Maya must fight not just for her scientific reputation but for the truth itself -- a truth that threatens nationalist narratives, creationist doctrines, and corporate interests across the Indo-Pacific region.\n\nWith the help of Sari, a self-taught local field assistant who carries the oral traditions of the \"stone sleepers\"; Johan, a quiet Dutch geoarchaeologist who trusts the earth more than people; and Kadek, the aging fisherman who first discovered the cave, Maya races to reconstruct her data and publish before the evidence is destroyed forever. The Paleolithic Contract is a gripping anthropological thriller about the stories we tell about our origins -- and the forces that would kill to keep those stories unchanged.",
+  "main_characters": [
+    "Dr. Maya Renata",
+    "Johan van der Meer",
+    "Sari Wulandari",
+    "Prof. Robert Chen",
+    "Fatima Al-Rashid",
+    "Kadek"
+  ],
+  "keywords": [
+    "paleoanthropology",
+    "deep history",
+    "hominin discovery",
+    "Wallacean migration",
+    "Indonesian archaeology",
+    "scientific conspiracy"
+  ],
+  "TXT_path": "books/The_Paleolithic_Contract/txt/The_Paleolithic_Contract.txt",
+  "EPUB_path": "books/The_Paleolithic_Contract/epub/The_Paleolithic_Contract.epub",
+  "cover_path": "books/The_Paleolithic_Contract/covers/The_Paleolithic_Contract.png",
+  "paths": {
+    "outline": "books/The_Paleolithic_Contract/planning/The_Paleolithic_Contract_outline.md",
+    "manuscript": "books/The_Paleolithic_Contract/txt/The_Paleolithic_Contract.txt",
+    "epub": "books/The_Paleolithic_Contract/epub/The_Paleolithic_Contract.epub",
+    "cover": "books/The_Paleolithic_Contract/covers/The_Paleolithic_Contract.png",
+    "metadata": "books/The_Paleolithic_Contract/metadata/The_Paleolithic_Contract_metadata.json"
+  },
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 49342
+  }
+}

@@ -1,0 +1,12 @@
+File,Path,Size (bytes),model
+Outline,planning/The_Last_Caravan_outline.md,,deepseek-v4-flash
+Manuscript,txt/The_Last_Caravan.txt,,deepseek-v4-flash
+Metadata,metadata/The_Last_Caravan_metadata.json,,deepseek-v4-flash
+Cover Script,tools/create_cover.py,,deepseek-v4-flash
+Cover Image,covers/The_Last_Caravan.png,,deepseek-v4-flash
+EPUB Builder,tools/build_epub.py,,deepseek-v4-flash
+EPUB,epub/The_Last_Caravan.epub,,deepseek-v4-flash
+Book README,README.md,,deepseek-v4-flash
+Final Report,reports/final_report.md,,deepseek-v4-flash
+Manifest,reports/manifest.csv,,deepseek-v4-flash
+Progress,reports/progress.md,,deepseek-v4-flash

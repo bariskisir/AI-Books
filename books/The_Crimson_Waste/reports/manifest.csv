@@ -1,0 +1,12 @@
+file,size_bytes,description,model
+The_Crimson_Waste/planning/The_Crimson_Waste_outline.md,4485,50-chapter outline,deepseek-v4-flash
+The_Crimson_Waste/txt/The_Crimson_Waste.txt,70128,Full manuscript (12,deepseek-v4-flash, 50 chapters)
+The_Crimson_Waste/metadata/The_Crimson_Waste_metadata.json,2140,Book metadata JSON,deepseek-v4-flash
+The_Crimson_Waste/tools/build_epub.py,8282,EPUB 3 build script,deepseek-v4-flash
+The_Crimson_Waste/tools/create_cover.py,10507,PIL cover generation script,deepseek-v4-flash
+The_Crimson_Waste/covers/The_Crimson_Waste.png,127800,1600x2560 cover image,deepseek-v4-flash
+The_Crimson_Waste/epub/The_Crimson_Waste.epub,244447,Compiled EPUB file,deepseek-v4-flash
+The_Crimson_Waste/README.md,331,Book readme,deepseek-v4-flash
+The_Crimson_Waste/reports/final_report.md,1022,Final report,deepseek-v4-flash
+The_Crimson_Waste/reports/manifest.csv,509,File manifest,deepseek-v4-flash
+The_Crimson_Waste/reports/progress.md,26,Progress tracker,deepseek-v4-flash

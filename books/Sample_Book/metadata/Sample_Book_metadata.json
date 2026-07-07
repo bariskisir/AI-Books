@@ -1,0 +1,37 @@
+{
+  "title": "Sample Book",
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Literary Fiction",
+  "subgenre": "Template / Sample",
+  "language": "en",
+  "short_description": "A sample novel demonstrating the standard AI-Books structure.",
+  "long_description": "In the quiet coastal town of Port Mercy, librarian Elena Marchetti discovers a hidden archive beneath the old library floor. As she sifts through letters, diaries, and photographs spanning over a century, the intertwined stories of the town's residents come alive. With the help of retired fisherman Thomas Webb, visiting historian Dr. Amina Shah, and carpenter Leo Costa, Elena pieces together a tapestry of love, loss, and resilience that reshapes her understanding of home. A meditation on memory and community, this novel shows how every life leaves its mark.",
+  "main_characters": [
+    "Elena Marchetti",
+    "Thomas Webb",
+    "Dr. Amina Shah",
+    "Leo Costa"
+  ],
+  "keywords": [
+    "library",
+    "archive",
+    "coastal town",
+    "memory",
+    "community",
+    "generations",
+    "letters",
+    "oral history"
+  ],
+  "TXT_path": "books/Sample_Book/txt/Sample_Book.txt",
+  "EPUB_path": "books/Sample_Book/epub/Sample_Book.epub",
+  "cover_path": "books/Sample_Book/covers/Sample_Book.png",
+  "paths": {
+    "outline": "books/Sample_Book/planning/Sample_Book_outline.md",
+    "manuscript": "books/Sample_Book/txt/Sample_Book.txt",
+    "epub": "books/Sample_Book/epub/Sample_Book.epub",
+    "cover": "books/Sample_Book/covers/Sample_Book.png",
+    "metadata": "books/Sample_Book/metadata/Sample_Book_metadata.json"
+  },
+  "status": "complete_txt_epub_available"
+}

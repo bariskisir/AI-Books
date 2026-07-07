@@ -1,0 +1,39 @@
+{
+  "TXT_path": "books/The_Phantom_Theatre/txt/The_Phantom_Theatre.txt",
+  "title": "The Phantom Theatre",
+  "author": "Barış Kısır",
+  "genre": "Psychological Thriller",
+  "subgenre": "Medical Thriller / Supernatural Suspense",
+  "language": "en",
+  "status": "completed",
+  "model": "deepseek-v4-flash",
+  "short_description": "A haunted psychodrama therapist discovers that her four phantom-limb patients share visions of a mysterious Man in Grey, leading her to confront a psychic fragment created by her father thirty years ago.",
+  "long_description": "Dr. Elara Voss, a brilliant but haunted psychodrama therapist, is invited to the remote Kaltwasser Clinic in the Austrian Alps to implement her controversial treatment for phantom limb pain. Her four patients -- a former rescue pilot, a concert pianist, a war photographer, and a dancer -- all suffer from excruciating phantom pain that conventional medicine cannot touch. As Elara guides them through therapeutic role-play, a disturbing pattern emerges: all four describe the same mysterious figure, a Man in Grey, present at the moment of their accidents. When Elara discovers that her own estranged father, Karl Voss, was a patient at Kaltwasser thirty years ago and disappeared during an experimental psychodrama session, she realizes the Man in Grey is not a collective hallucination but a psychic splinter -- a fragment of her father's psyche that has been witnessing trauma for three decades. To save her patients and reclaim her own history, Elara must stage the most dangerous psychodrama of her life.",
+  "main_characters": [
+    "Dr. Elara Voss",
+    "Lukas Brenner",
+    "Maya Reinhardt",
+    "Leo Vasquez",
+    "Diana Novak",
+    "Dr. Henrik Frost",
+    "Karl Voss",
+    "Greta Hoffmann"
+  ],
+  "keywords": [
+    "psychodrama",
+    "phantom limb pain",
+    "psychological thriller",
+    "Vienna",
+    "Alps",
+    "psychiatric clinic",
+    "trauma",
+    "psychic fragment",
+    "experimental therapy"
+  ],
+  "EPUB_path": "books/The_Phantom_Theatre/epub/The_Phantom_Theatre.epub",
+  "cover_path": "books/The_Phantom_Theatre/covers/The_Phantom_Theatre.png",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25000
+  }
+}

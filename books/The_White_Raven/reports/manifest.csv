@@ -1,0 +1,12 @@
+Path,Type,Size (bytes),Status,model
+The_White_Raven/planning/The_White_Raven_outline.md,outline,2728,complete,deepseek-v4-flash
+The_White_Raven/txt/The_White_Raven.txt,manuscript,54997,complete,deepseek-v4-flash
+The_White_Raven/epub/The_White_Raven.epub,epub,310737,complete,deepseek-v4-flash
+The_White_Raven/covers/The_White_Raven.png,cover,197490,complete,deepseek-v4-flash
+The_White_Raven/metadata/The_White_Raven_metadata.json,metadata,1641,complete,deepseek-v4-flash
+The_White_Raven/tools/build_epub.py,build_script,6766,complete,deepseek-v4-flash
+The_White_Raven/tools/create_cover.py,cover_script,11223,complete,deepseek-v4-flash
+The_White_Raven/reports/final_report.md,report,1402,complete,deepseek-v4-flash
+The_White_Raven/reports/manifest.csv,manifest,612,complete,deepseek-v4-flash
+The_White_Raven/reports/progress.md,progress,489,complete,deepseek-v4-flash
+The_White_Raven/README.md,readme,1941,complete,deepseek-v4-flash

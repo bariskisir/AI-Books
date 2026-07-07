@@ -1,0 +1,45 @@
+{
+  "title": "The Alchemist's Wife",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Tudor Historical",
+  "subgenre": "Elizabethan Historical Fiction",
+  "language": "en",
+  "short_description": "In Elizabethan London, the wife of a disgraced alchemist must complete his final formula to save him from execution — but the formula is poison.",
+  "long_description": "Elizabethan London, 1589. Margaret Dee has spent fifteen years as the wife of Dr. John Dee, the Queen's former astrologer and alchemist — a man now disgraced, his patron dead, his name whispered in taverns as a sorcerer. When Sir Francis Walsingham, the Queen's spymaster, arrests Dee for treason, Margaret learns her husband has one chance: a final formula he claims will prove his worth to the Crown.\n\nBut as she searches for the hidden manuscript, Margaret discovers the formula is not transmutation but a slow poison — and that Walsingham wants it not for its science but as a weapon. Caught between powerful men who want the same death, Margaret must learn to read her husband's coded journal, navigate the treacherous streets of London, and decide whether to complete his work or let him hang for a secret he refused to surrender.\n\nWith the help of a widow printer, a Venetian merchant, and the aging Lord Burghley, Margaret uncovers a conspiracy that reaches the highest levels of the Elizabethan court. The formula is meant to kill Mary Queen of Scots without leaving a trace — but its completion could plunge England into war. In a world where knowledge is power and poison is politics, Margaret must become something the alchemists never expected: a woman who decides her own fate.",
+  "main_characters": [
+    "Margaret Dee — Wife of Dr. John Dee, a practical woman who learns to read men better than books",
+    "Dr. John Dee — Disgraced alchemist and former court philosopher, brilliant and broken",
+    "Sir Francis Walsingham — The Queen's Principal Secretary and spymaster, ruthless and devout",
+    "Thomas Finch — Dee's young apprentice, loyal but afraid",
+    "Eleanor Graves — A widow who runs a print shop, Margaret's only friend",
+    "Lord Burghley — William Cecil, the Lord Treasurer, Walsingham's rival",
+    "Marco Venier — A Venetian merchant with an interest in the formula",
+    "Alice of Blackfriars — A widow who teaches Margaret the arts of survival"
+  ],
+  "keywords": [
+    "Tudor historical",
+    "Elizabethan",
+    "alchemy",
+    "poison",
+    "John Dee",
+    "Walsingham",
+    "historical fiction",
+    "conspiracy",
+    "Tower of London",
+    "Elizabeth I",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Alchemists_Wife/txt/The_Alchemists_Wife.txt",
+  "EPUB_path": "books/The_Alchemists_Wife/epub/The_Alchemists_Wife.epub",
+  "cover_path": "books/The_Alchemists_Wife/covers/The_Alchemists_Wife.png",
+  "outline_path": "books/The_Alchemists_Wife/planning/The_Alchemists_Wife_outline.md",
+  "cover_script_path": "books/The_Alchemists_Wife/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10262
+  }
+}

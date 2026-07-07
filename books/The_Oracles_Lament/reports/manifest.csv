@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+The_Oracles_Lament/README.md,285,text/markdown,deepseek-v4-flash
+The_Oracles_Lament/planning/The_Oracles_Lament_outline.md,5235,text/markdown,deepseek-v4-flash
+The_Oracles_Lament/txt/The_Oracles_Lament.txt,73604,text/plain,deepseek-v4-flash
+The_Oracles_Lament/epub/The_Oracles_Lament.epub,233937,application/epub+zip,deepseek-v4-flash
+The_Oracles_Lament/covers/The_Oracles_Lament.png,114230,image/png,deepseek-v4-flash
+The_Oracles_Lament/metadata/The_Oracles_Lament_metadata.json,2402,application/json,deepseek-v4-flash
+The_Oracles_Lament/tools/build_epub.py,8283,text/x-python,deepseek-v4-flash
+The_Oracles_Lament/tools/create_cover.py,9959,text/x-python,deepseek-v4-flash
+The_Oracles_Lament/reports/final_report.md,1202,text/markdown,deepseek-v4-flash
+The_Oracles_Lament/reports/manifest.csv,735,text/csv,deepseek-v4-flash
+The_Oracles_Lament/reports/progress.md,451,text/markdown,deepseek-v4-flash

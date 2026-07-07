@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Glass_Prison/planning/The_Glass_Prison_outline.md,7440,markdown,deepseek-v4-flash
+The_Glass_Prison/txt/The_Glass_Prison.txt,58895,text,deepseek-v4-flash
+The_Glass_Prison/metadata/The_Glass_Prison_metadata.json,3927,json,deepseek-v4-flash
+The_Glass_Prison/tools/create_cover.py,4631,python,deepseek-v4-flash
+The_Glass_Prison/covers/The_Glass_Prison.png,52541,png,deepseek-v4-flash
+The_Glass_Prison/tools/build_epub.py,8281,python,deepseek-v4-flash
+The_Glass_Prison/epub/The_Glass_Prison.epub,160468,epub,deepseek-v4-flash
+The_Glass_Prison/README.md,298,markdown,deepseek-v4-flash
+The_Glass_Prison/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Glass_Prison/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Glass_Prison/reports/progress.md,,markdown,deepseek-v4-flash

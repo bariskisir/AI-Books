@@ -1,0 +1,39 @@
+{
+  "title": "The Ferrite Ledger",
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Rail Materials Mystery",
+  "subgenre": "Infrastructure Fraud Suspense",
+  "language": "en",
+  "short_description": "A materials auditor exposes phantom rail-bridge repairs through ferrite steel tests, false ledgers, and missing bolt crates.",
+  "long_description": "When a commuter rail bridge sheds a critical bolt, materials auditor Sera Kade is handed a ledger proving the structure was repaired years ago. The bridge itself disagrees.\n\nThe installed bolts are old, brittle, and magnetically wrong. The invoices point to ferrite steel that never reached the piers, while a contractor, a transit treasurer, and a frightened inspector all have reasons to keep the repair history vague.\n\nThe Ferrite Ledger is an infrastructure fraud mystery about steel, public trust, and the quiet danger hidden inside ordinary maintenance accounts.",
+  "main_characters": [
+    "Sera Kade",
+    "Malik Orin",
+    "Dana Thorne",
+    "Ivo Pike",
+    "Celeste Rusk",
+    "Reuben Shaw",
+    "Clara Voss",
+    "Bren Vale"
+  ],
+  "keywords": [
+    "rail bridge",
+    "materials forensics",
+    "ferrite steel",
+    "infrastructure fraud",
+    "public transit",
+    "ledger mystery",
+    "metallurgy",
+    "contractor corruption"
+  ],
+  "outline_path": "books/The_Ferrite_Ledger/planning/The_Ferrite_Ledger_outline.md",
+  "TXT_path": "books/The_Ferrite_Ledger/txt/The_Ferrite_Ledger.txt",
+  "EPUB_path": "books/The_Ferrite_Ledger/epub/The_Ferrite_Ledger.epub",
+  "cover_path": "books/The_Ferrite_Ledger/covers/The_Ferrite_Ledger.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 35002
+  }
+}

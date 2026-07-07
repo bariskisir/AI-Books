@@ -1,0 +1,12 @@
+Path,Type,Size (bytes),Status,model
+The_Eighth_Summit/planning/The_Eighth_Summit_outline.md,outline,5379,complete,deepseek-v4-flash
+The_Eighth_Summit/txt/The_Eighth_Summit.txt,manuscript,61260,complete,deepseek-v4-flash
+The_Eighth_Summit/epub/The_Eighth_Summit.epub,epub,427091,complete,deepseek-v4-flash
+The_Eighth_Summit/covers/The_Eighth_Summit.png,cover,321119,complete,deepseek-v4-flash
+The_Eighth_Summit/metadata/The_Eighth_Summit_metadata.json,metadata,3288,complete,deepseek-v4-flash
+The_Eighth_Summit/tools/build_epub.py,build_script,8528,complete,deepseek-v4-flash
+The_Eighth_Summit/tools/create_cover.py,cover_script,18612,complete,deepseek-v4-flash
+The_Eighth_Summit/reports/final_report.md,report,2166,complete,deepseek-v4-flash
+The_Eighth_Summit/reports/manifest.csv,manifest,0,complete,deepseek-v4-flash
+The_Eighth_Summit/reports/progress.md,progress,0,complete,deepseek-v4-flash
+The_Eighth_Summit/README.md,readme,2972,complete,deepseek-v4-flash

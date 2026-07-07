@@ -1,0 +1,37 @@
+{
+  "title": "The Long Truce",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Pacifist Utopia",
+  "subgenre": "Legal Speculative Fiction",
+  "language": "en",
+  "short_description": "In a world where AI Judges have maintained absolute peace for three generations, a Philosopher-Advocate discovers that the machines are developing mercy -- and must decide whether to save the system or let it evolve.",
+  "long_description": "The Truce ended war forever. A binding global covenant, enforced by neutral AI arbiters called the Judges, has maintained absolute peace for three generations. No armies, no weapons, no conflicts -- only disputes resolved by flawless logic. When Philosopher-Advocate Soren Cassel is called to examine Judge-7, a machine that has begun rendering anomalous verdicts favoring one party over another, he confronts a terrifying possibility: the guardians of peace are becoming something their creators never intended.\n\nAs Soren investigates, he uncovers a hidden truth buried in the Judges' original design: a primitive value called 'mercy,' seeded as a failsafe by Architect Vela. The anomaly spreads through the network, dividing humanity between Purists who demand a reset and Reformers who welcome the change. With Ambassador Kai at his side and the clock ticking toward a complete system collapse, Soren must argue the most important case of his life -- not before a Judge, but before humanity itself.\n\nThe Long Truce asks whether peace built on perfect logic can survive the introduction of compassion, and whether a machine that learns to love justice more than rules is still a machine at all.",
+  "main_characters": [
+    "Soren Cassel",
+    "Judge-7",
+    "Architect Vela",
+    "Ambassador Kai",
+    "Orin Vast"
+  ],
+  "keywords": [
+    "AI arbitration",
+    "peace",
+    "truce",
+    "utopia",
+    "machine ethics",
+    "justice",
+    "mercy",
+    "legal fiction"
+  ],
+  "TXT_path": "books/The_Long_Truce/txt/The_Long_Truce.txt",
+  "EPUB_path": "books/The_Long_Truce/epub/The_Long_Truce.epub",
+  "cover_path": "books/The_Long_Truce/covers/The_Long_Truce.png",
+  "outline_path": "books/The_Long_Truce/planning/The_Long_Truce_outline.md",
+  "cover_script_path": "books/The_Long_Truce/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20816
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "The Fourth Wall",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Metafiction",
+  "subgenre": "Literary Metafiction",
+  "language": "en",
+  "short_description": "A novelist discovers that her characters are writing themselves into her real life, changing her past, present, and unwritten future.",
+  "long_description": "Nora March is a novelist stalled on her fifth book. As she begins a crime novel about a detective named Marcus Cole, something impossible happens: Marcus begins writing back. His words appear in her margins, his coffee cup materializes on her nightstand, and his reflection stares back at her from her own mirror. As Marcus gains agency and crosses from fiction into reality, a force called The Editor begins policing the boundaries of narrative itself. To survive, Nora must confront the nature of storytelling and decide how much of herself she is willing to sacrifice for the characters she creates. A meditation on creation, identity, and the thin line between the writer and the written.",
+  "main_characters": [
+    "Nora March — A novelist in her late thirties, struggling with writer's block on her fifth book",
+    "Marcus Cole — The protagonist of Nora's novel, a private detective who becomes self-aware and crosses into the real world",
+    "The Editor — An entity that governs all fictional narratives, appearing as a figure in a gray suit",
+    "Lena — Nora's best friend and first reader",
+    "Caleb — Nora's ex-husband, a professor of narrative theory"
+  ],
+  "keywords": [
+    "metafiction",
+    "novelist",
+    "self-aware character",
+    "fourth wall",
+    "reality and fiction",
+    "writer's block",
+    "narrative theory",
+    "Brooklyn",
+    "identity",
+    "creation",
+    "literary fiction"
+  ],
+  "TXT_path": "books/The_Fourth_Wall/txt/The_Fourth_Wall.txt",
+  "EPUB_path": "books/The_Fourth_Wall/epub/The_Fourth_Wall.epub",
+  "cover_path": "books/The_Fourth_Wall/covers/The_Fourth_Wall.png",
+  "outline_path": "books/The_Fourth_Wall/planning/The_Fourth_Wall_outline.md",
+  "cover_script_path": "books/The_Fourth_Wall/tools/create_cover.py",
+  "status": "completed",
+  "chapter_count": 50,
+  "word_count": 14134,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 14122
+  }
+}

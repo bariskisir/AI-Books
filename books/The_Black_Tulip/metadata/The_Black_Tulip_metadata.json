@@ -1,0 +1,40 @@
+{
+  "title": "The Black Tulip",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Romance",
+  "subgenre": "Tulip Mania Romance",
+  "language": "en",
+  "short_description": "A flower merchant and a Jewish botanist fall in love while racing to grow the first black tulip during Amsterdam's tulip mania.",
+  "long_description": "Amsterdam, 1637. Tulip mania has seized the city — bulbs sell for the price of houses, fortunes are made and lost overnight. Pieter Visser, a flower merchant who built his trade honestly, watches as the city descends into speculative madness. When a mysterious Patron commissions the first truly black tulip, Pieter must collaborate with Rebecca Silva, a Jewish botanist whose family fled the Inquisition. As their shared work deepens into love, the tulip market crashes, the Patron's true motives emerge, and the black tulip becomes both a symbol of their bond and a threat to their lives. Literary, spare prose. Short sentences. No repeated refrains. A novel of love, obsession, and the beauty that survives greed.",
+  "main_characters": [
+    "Pieter Visser — A flower merchant of Amsterdam, practical and steady, a widower carrying quiet grief",
+    "Rebecca Silva — A Jewish botanist and horticulturalist, sharp, guarded, driven to prove her worth",
+    "The Patron — A wealthy anonymous figure who commissions the black tulip, speaking through intermediaries",
+    "Dirck van der Meer — Pieter's former friend and rival merchant, embodiment of the mania's greed",
+    "Hannah Visser — Pieter's younger sister, pragmatic and loyal",
+    "Rabbi Joseph Silva — Rebecca's father, a scholar who values invisibility over ambition"
+  ],
+  "keywords": [
+    "historical romance",
+    "tulip mania",
+    "Amsterdam",
+    "1637",
+    "botanist",
+    "black tulip",
+    "flower merchant",
+    "romance",
+    "historical fiction",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Black_Tulip/txt/The_Black_Tulip.txt",
+  "EPUB_path": "books/The_Black_Tulip/epub/The_Black_Tulip.epub",
+  "cover_path": "books/The_Black_Tulip/covers/The_Black_Tulip.png",
+  "outline_path": "books/The_Black_Tulip/planning/The_Black_Tulip_outline.md",
+  "cover_script_path": "books/The_Black_Tulip/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12855
+  }
+}

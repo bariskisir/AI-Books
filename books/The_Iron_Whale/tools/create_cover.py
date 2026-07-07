@@ -1,0 +1,426 @@
+#!/usr/bin/env python3
+"""Cover: The Iron Whale — Submarine silhouette under black water, cold blue searchlight beams, abyssal black/searchlight blue/alert red."""
+
+from __future__ import annotations
+
+import argparse
+import json
+import math
+from pathlib import Path
+
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
+
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
+from tools.cover_utils import (
+    _standard_cover_font,
+    _standard_cover_repair_text,
+    _standard_cover_wrap,
+    _standard_cover_center,
+    _standard_cover_title_font,
+    _standard_cover_metadata_from_locals,
+    _standard_cover_resolve_title,
+    _standard_cover_resolve_author,
+    _draw_standard_cover_title_panel,
+)
+
+
+
+ROOT = Path(__file__).resolve().parents[3]
+FONTS_DIR = Path("C:/Windows/Fonts")
+
+WIDTH, HEIGHT = 1600, 2560
+TITLE_PANEL_TOP = 1920
+
+
+def rel(path: str | Path) -> Path:
+    p = Path(path)
+    return ROOT / p if not p.is_absolute() else p
+
+
+def lerp_color(c1: tuple[int, int, int], c2: tuple[int, int, int], t: float) -> tuple[int, int, int]:
+    return tuple(int(a + (b - a) * t) for a, b in zip(c1, c2))
+
+
+def draw_gradient(draw: ImageDraw, width: int, height: int) -> None:
+    """Ocean column: faint teal light near the surface fading down into abyssal black."""
+    for y in range(height):
+        if y < height * 0.18:
+            t = y / (height * 0.18)
+            c = lerp_color((18, 58, 70), (12, 44, 58), t)
+        elif y < height * 0.45:
+            t = (y - height * 0.18) / (height * 0.27)
+            c = lerp_color((12, 44, 58), (8, 28, 42), t)
+        elif y < height * 0.72:
+            t = (y - height * 0.45) / (height * 0.27)
+            c = lerp_color((8, 28, 42), (5, 16, 26), t)
+        else:
+            t = (y - height * 0.72) / (height * 0.28)
+            c = lerp_color((5, 16, 26), (2, 6, 12), t)
+        draw.line([(0, y), (width, y)], fill=c)
+
+
+def draw_surface_light(draw: ImageDraw, width: int, height: int) -> None:
+    """Faint shafts of light filtering down from the unseen surface above."""
+    overlay = Image.new("RGBA", (width, height), (0, 0, 0, 0))
+    od = ImageDraw.Draw(overlay)
+    rng = __import__("random").Random(7)
+    for _ in range(9):
+        x_top = rng.randint(-200, width)
+        spread = rng.randint(60, 160)
+        depth = rng.randint(int(height * 0.30), int(height * 0.55))
+        for i in range(spread):
+            xa = x_top + i
+            xb = x_top + i + int(depth * 0.25)
+            alpha = max(0, 22 - abs(i - spread // 2) // 4)
+            if alpha > 0:
+                od.line([(xa, 0), (xb, depth)], fill=(90, 170, 180, alpha), width=1)
+    draw._image.paste(Image.alpha_composite(draw._image.convert("RGBA"), overlay), (0, 0))
+
+
+def draw_particles(draw: ImageDraw, width: int, height: int) -> None:
+    """Marine snow and suspended grit drifting in the water column."""
+    rng = __import__("random").Random(23)
+    for _ in range(420):
+        x = rng.randint(0, width)
+        y = rng.randint(0, int(height * 0.88))
+        depth_t = y / height
+        size = rng.choice([1, 1, 1, 2])
+        alpha = int(rng.randint(20, 80) * (1.0 - depth_t * 0.6))
+        if alpha > 4:
+            draw.ellipse([x - size, y - size, x + size, y + size], fill=(150, 185, 195, alpha))
+
+
+def draw_submarine(draw: ImageDraw, width: int, height: int) -> None:
+    """A dark steel hull descending bow-down into the abyss, sail and planes in silhouette."""
+    cx = width * 0.50
+    cy = height * 0.46
+    length = width * 0.95
+    half_h = height * 0.075
+
+    hull_dark = (16, 26, 34)
+    hull_mid = (24, 38, 48)
+    hull_light = (40, 60, 70)
+
+    # Hull body: a long tapered cylinder, tilted slightly bow-down to the right.
+    angle = math.radians(11)
+    ca, sa = math.cos(angle), math.sin(angle)
+
+    def pt(u: float, v: float) -> tuple[float, float]:
+        # u along hull (-1 bow .. +1 stern), v across (-1 top .. +1 bottom)
+        x = u * (length / 2)
+        y = v * half_h
+        return (cx + x * ca - y * sa, cy + x * sa + y * ca)
+
+    # Build the hull outline from bow (right) to stern (left).
+    top_pts = []
+    bot_pts = []
+    steps = 60
+    for i in range(steps + 1):
+        u = -1.0 + 2.0 * i / steps
+        # taper toward both ends
+        taper = (1.0 - u * u) ** 0.5
+        # sharper, longer bow on the right
+        if u < 0:
+            taper *= 1.0
+        top_pts.append(pt(u, -taper))
+        bot_pts.append(pt(u, taper))
+
+    hull_poly = top_pts + list(reversed(bot_pts))
+    draw.polygon(hull_poly, fill=hull_dark)
+
+    # Upper highlight band along the curved back of the hull.
+    hi = []
+    for i in range(steps + 1):
+        u = -1.0 + 2.0 * i / steps
+        taper = (1.0 - u * u) ** 0.5
+        hi.append(pt(u, -taper * 0.92))
+    lo = []
+    for i in range(steps + 1):
+        u = 1.0 - 2.0 * i / steps
+        taper = (1.0 - u * u) ** 0.5
+        lo.append(pt(u, -taper * 0.55))
+    draw.polygon(hi + lo, fill=hull_mid)
+
+    # Thin crest highlight catching the last surface light.
+    crest = []
+    for i in range(steps + 1):
+        u = -1.0 + 2.0 * i / steps
+        taper = (1.0 - u * u) ** 0.5
+        crest.append(pt(u, -taper * 0.97))
+    if len(crest) > 1:
+        draw.line(crest, fill=hull_light, width=2)
+
+    # Conning tower (sail) rising from the upper hull.
+    s_u = -0.06
+    sail_base_l = pt(s_u - 0.16, -0.95)
+    sail_base_r = pt(s_u + 0.16, -0.95)
+    sail_top_l = pt(s_u - 0.11, -2.6)
+    sail_top_r = pt(s_u + 0.11, -2.6)
+    draw.polygon([sail_base_l, sail_top_l, sail_top_r, sail_base_r], fill=hull_mid)
+    draw.line([sail_top_l, sail_base_l], fill=hull_light, width=2)
+    # Periscope / mast.
+    mast_b = pt(s_u, -2.6)
+    mast_t = pt(s_u, -3.5)
+    draw.line([mast_b, mast_t], fill=(50, 70, 78), width=4)
+
+    # Bow plane (fairwater plane) jutting from the sail.
+    bp_a = pt(s_u + 0.10, -1.9)
+    bp_b = pt(s_u + 0.55, -1.75)
+    bp_c = pt(s_u + 0.55, -1.55)
+    bp_d = pt(s_u + 0.10, -1.5)
+    draw.polygon([bp_a, bp_b, bp_c, bp_d], fill=hull_dark)
+
+    # Stern planes / rudder at the left tail.
+    st_top = pt(0.95, -1.7)
+    st_root = pt(0.78, -0.5)
+    st_bot = pt(0.95, 1.7)
+    draw.polygon([st_root, st_top, pt(1.02, -1.2)], fill=hull_dark)
+    draw.polygon([st_root, st_bot, pt(1.02, 1.2)], fill=hull_dark)
+
+    # A line of faint rivets running the length of the hull.
+    for i in range(2, steps - 1, 2):
+        u = -1.0 + 2.0 * i / steps
+        taper = (1.0 - u * u) ** 0.5
+        rx, ry = pt(u, -taper * 0.35)
+        draw.ellipse([rx - 1, ry - 1, rx + 1, ry + 1], fill=(60, 82, 90))
+
+    # A single faint porthole glow on the sail — small sliver of warm interior light.
+    px, py = pt(s_u - 0.02, -2.0)
+    draw.ellipse([px - 4, py - 4, px + 4, py + 4], fill=(70, 90, 95))
+
+
+def draw_emergency_light(draw: ImageDraw, width: int, height: int) -> None:
+    """A sliver of red emergency light bleeding from a hatch on the hull."""
+    overlay = Image.new("RGBA", (width, height), (0, 0, 0, 0))
+    od = ImageDraw.Draw(overlay)
+    gx = int(width * 0.42)
+    gy = int(height * 0.455)
+    # Soft red glow.
+    for r in range(120, 6, -10):
+        alpha = max(0, 40 - r // 4)
+        od.ellipse([gx - r, gy - int(r * 0.6), gx + r, gy + int(r * 0.6)],
+                   fill=(140, 30, 25, alpha))
+    # Hot red core.
+    od.ellipse([gx - 10, gy - 6, gx + 10, gy + 6], fill=(220, 60, 45, 180))
+    od.ellipse([gx - 4, gy - 3, gx + 4, gy + 3], fill=(255, 120, 100, 220))
+    draw._image.paste(Image.alpha_composite(draw._image.convert("RGBA"), overlay), (0, 0))
+
+
+def draw_sonar_arcs(draw: ImageDraw, width: int, height: int) -> None:
+    """Faint concentric sonar/ping arcs radiating through the dark water."""
+    overlay = Image.new("RGBA", (width, height), (0, 0, 0, 0))
+    od = ImageDraw.Draw(overlay)
+    ox, oy = int(width * 0.16), int(height * 0.20)
+    for r in range(120, 900, 120):
+        alpha = max(0, 34 - r // 40)
+        if alpha > 0:
+            od.arc([ox - r, oy - r, ox + r, oy + r], start=20, end=120,
+                   fill=(70, 200, 190, alpha), width=2)
+    draw._image.paste(Image.alpha_composite(draw._image.convert("RGBA"), overlay), (0, 0))
+
+
+def draw_depth_haze(draw: ImageDraw, width: int, height: int) -> None:
+    """Darken the lower abyss so the hull seems to descend out of light into black."""
+    overlay = Image.new("RGBA", (width, height), (0, 0, 0, 0))
+    od = ImageDraw.Draw(overlay)
+    for y in range(int(height * 0.55), height):
+        t = (y - height * 0.55) / (height * 0.45)
+        alpha = int(min(150, t * 150))
+        od.line([(0, y), (width, y)], fill=(1, 4, 9, alpha))
+    draw._image.paste(Image.alpha_composite(draw._image.convert("RGBA"), overlay), (0, 0))
+
+
+def draw_title_panel(draw: ImageDraw, width: int, height: int, font_paths: dict) -> None:
+    """Draw a dark steel title panel at the bottom with a red emergency hairline."""
+    panel_top = TITLE_PANEL_TOP
+
+    draw.rectangle([(0, panel_top), (width, height)], fill=(6, 12, 18, 220))
+
+    # Panel top border — a thin red emergency line over teal.
+    for i in range(3):
+        draw.line(
+            [(0, panel_top - i), (width, panel_top - i)],
+            fill=(160, 40, 35, 90 - i * 20),
+            width=1,
+        )
+
+    title = "The Iron\nWhale"
+    title_font_size = 80
+    try:
+        title_font = ImageFont.truetype(str(font_paths["title"]), title_font_size)
+    except Exception:
+        title_font = ImageFont.load_default()
+
+    lines = title.split("\n")
+    y_offset = panel_top + 70
+    for line in lines:
+        try:
+            bbox = draw.textbbox((0, 0), line, font=title_font)
+            tw = bbox[2] - bbox[0]
+        except Exception:
+            tw = 0
+        tx = (width - tw) // 2
+        draw.text((tx + 2, y_offset + 2), line, fill=(2, 6, 10), font=title_font)
+        draw.text((tx, y_offset), line, fill=(210, 222, 226), font=title_font)
+        y_offset += 95
+
+    author = "Barış Kısır"
+    author_font_size = 36
+    try:
+        author_font = ImageFont.truetype(str(font_paths["author"]), author_font_size)
+    except Exception:
+        author_font = ImageFont.load_default()
+
+    try:
+        abbox = draw.textbbox((0, 0), author, font=author_font)
+        aw = abbox[2] - abbox[0]
+    except Exception:
+        aw = 0
+    ax = (width - aw) // 2
+    ay = y_offset + 40
+    draw.text((ax + 1, ay + 1), author, fill=(2, 6, 10), font=author_font)
+    draw.text((ax, ay), author, fill=(150, 195, 200), font=author_font)
+
+
+def create_cover(metadata_path: Path, output_path: Path) -> None:
+    metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
+    title = metadata.get("title", "The Iron Whale")
+    author = metadata.get("author", "Barış Kısır")
+    model = metadata.get("model", "")
+
+    img = Image.new("RGBA", (WIDTH, HEIGHT), (0, 0, 0, 255))
+    draw = ImageDraw.Draw(img, "RGBA")
+
+    rng = __import__("random").Random(23)
+
+    # Abyssal black water gradient
+    for y in range(HEIGHT):
+        t = y / HEIGHT
+        r = int(5 - 3 * t)
+        g = int(15 - 12 * t)
+        b = int(30 - 22 * t)
+        draw.line([(0, y), (WIDTH, y)], fill=(max(0, r), max(0, g), max(0, b), 255))
+
+    # Faint surface light shafts
+    light = Image.new("RGBA", (WIDTH, HEIGHT), (0, 0, 0, 0))
+    ld = ImageDraw.Draw(light)
+    for _ in range(8):
+        x_top = rng.randint(-200, WIDTH)
+        spread = rng.randint(60, 160)
+        depth = rng.randint(int(HEIGHT * 0.25), int(HEIGHT * 0.50))
+        for i in range(spread):
+            xa = x_top + i
+            xb = x_top + i + int(depth * 0.25)
+            alpha = max(0, 20 - abs(i - spread // 2) // 4)
+            if alpha > 0:
+                ld.line([(xa, 0), (xb, depth)], fill=(70, 150, 180, alpha), width=1)
+    img = Image.alpha_composite(img, light)
+    draw = ImageDraw.Draw(img, "RGBA")
+
+    # Submarine silhouette descending
+    cx, cy = WIDTH // 2, int(HEIGHT * 0.42)
+    length = int(WIDTH * 0.85)
+    half_h = int(HEIGHT * 0.065)
+    hull_dark = (12, 20, 28)
+    hull_mid = (20, 32, 42)
+
+    def pt(u, v):
+        angle = 0.18
+        ca, sa = __import__("math").cos(angle), __import__("math").sin(angle)
+        x = u * (length / 2)
+        y = v * half_h
+        return (cx + x * ca - y * sa, cy + x * sa + y * ca)
+
+    # Hull
+    hull_pts = []
+    for i in range(61):
+        u = -1.0 + 2.0 * i / 60
+        taper = (1.0 - u * u) ** 0.5
+        hull_pts.append(pt(u, -taper))
+    for i in range(61):
+        u = 1.0 - 2.0 * i / 60
+        taper = (1.0 - u * u) ** 0.5
+        hull_pts.append(pt(u, taper))
+    draw.polygon(hull_pts, fill=hull_dark)
+
+    # Highlight band
+    hi_pts = []
+    for i in range(61):
+        u = -1.0 + 2.0 * i / 60
+        taper = (1.0 - u * u) ** 0.5
+        hi_pts.append(pt(u, -taper * 0.92))
+    lo_pts = []
+    for i in range(61):
+        u = 1.0 - 2.0 * i / 60
+        taper = (1.0 - u * u) ** 0.5
+        lo_pts.append(pt(u, -taper * 0.55))
+    draw.polygon(hi_pts + lo_pts, fill=hull_mid)
+
+    # Conning tower
+    s_u = -0.06
+    sail = [pt(s_u - 0.16, -0.95), pt(s_u + 0.16, -0.95), pt(s_u + 0.11, -2.4), pt(s_u - 0.11, -2.4)]
+    draw.polygon(sail, fill=hull_mid)
+    draw.line([sail[0], sail[2]], fill=(30, 48, 56), width=2)
+    # Periscope
+    draw.line([pt(s_u, -2.4), pt(s_u, -3.2)], fill=(40, 60, 68), width=3)
+
+    # Cold blue searchlight beams
+    beam = Image.new("RGBA", (WIDTH, HEIGHT), (0, 0, 0, 0))
+    bd = ImageDraw.Draw(beam)
+    # From conning tower
+    bx, by = pt(s_u, -2.0)
+    bd.polygon([(bx, by), (bx - 600, HEIGHT), (bx + 600, HEIGHT)], fill=(50, 120, 200, 15))
+    bd.polygon([(bx, by), (bx - 400, HEIGHT), (bx + 400, HEIGHT)], fill=(80, 160, 220, 10))
+    beam = beam.filter(ImageFilter.GaussianBlur(15))
+    img = Image.alpha_composite(img, beam)
+    draw = ImageDraw.Draw(img, "RGBA")
+
+    # Red emergency light from hull
+    ex, ey = pt(-0.3, -0.4)
+    for r in range(80, 0, -5):
+        a = max(0, 40 - r // 2)
+        draw.ellipse([ex - r, ey - int(r * 0.6), ex + r, ey + int(r * 0.6)], fill=(180, 30, 20, a))
+    draw.ellipse([ex - 8, ey - 4, ex + 8, ey + 4], fill=(255, 60, 40, 200))
+
+    # Marine snow
+    for _ in range(300):
+        sx = int(rng.random() * WIDTH)
+        sy = int(rng.random() * int(HEIGHT * 0.85))
+        ss = rng.choice([1, 1, 2])
+        sa = int(rng.randint(15, 60) * (1.0 - sy / HEIGHT * 0.5))
+        if sa > 3:
+            draw.ellipse([sx - ss, sy - ss, sx + ss, sy + ss], fill=(120, 160, 180, sa))
+
+    # Depth haze (darken lower portion)
+    haze = Image.new("RGBA", (WIDTH, HEIGHT), (0, 0, 0, 0))
+    hd = ImageDraw.Draw(haze)
+    for y in range(int(HEIGHT * 0.55), HEIGHT):
+        t = (y - HEIGHT * 0.55) / (HEIGHT * 0.45)
+        a = int(min(150, t * 150))
+        hd.line([(0, y), (WIDTH, y)], fill=(2, 5, 10, a))
+    img = Image.alpha_composite(img, haze)
+
+    img = img.filter(ImageFilter.SMOOTH)
+
+    _draw_standard_cover_title_panel(img, _standard_cover_resolve_title(locals()), _standard_cover_resolve_author(locals()), model)
+    img.save(output_path, "PNG")
+    print(f"Cover saved to {output_path}")
+
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--metadata", required=True, type=Path)
+    parser.add_argument("--out", required=True, type=Path)
+    args = parser.parse_args()
+
+    metadata_path = rel(args.metadata)
+    output_path = rel(args.out)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    create_cover(metadata_path, output_path)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,49 @@
+{
+  "title": "The Canopy Protocol",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "EcoThriller",
+  "subgenre": "Environmental Crime Thriller",
+  "language": "en",
+  "short_description": "A forensic accountant discovers that a timber empire is laundering money for a drug cartel through illegal logging in protected old-growth forests.",
+  "long_description": "When forensic accountant Maya Chen receives encrypted files from a whistleblower at Northwest Timber Holdings hours before he is killed, she uncovers a sprawling conspiracy. NTH's charismatic CEO Victor Braga has built a timber empire on a foundation of bribery, arson, and money laundering for an international cartel. Deep in the protected old-growth forests of the Pacific Northwest, night crews are felling ancient trees to create a smuggling corridor across the Canadian border. Teaming up with former logger Elias Vance and investigative journalist Kara Okonkwo, Maya races to expose the truth before the cartel's largest operation destroys an irreplaceable ecosystem. Her investigation leads to corrupt politicians, a federal raid, a dramatic trial, and a reckoning that will change the Pacific Northwest forever.",
+  "main_characters": [
+    "Maya Chen - Forensic Accountant",
+    "Elias Vance - Activist / Former Logger",
+    "Kara Okonkwo - Investigative Journalist",
+    "Victor Braga - CEO of Northwest Timber Holdings",
+    "Senator Diana Hartwell - Chair of the Senate Subcommittee on Public Lands",
+    "Chet Landry - Hartwell's Chief of Staff",
+    "Marcus Webb - NTH Head of Security",
+    "Special Agent David Park - FBI",
+    "Sheriff Tom Halderman - Crescent Falls Sheriff",
+    "Derek Prentice - NTH Accountant / Whistleblower"
+  ],
+  "keywords": [
+    "eco-thriller",
+    "timber industry",
+    "money laundering",
+    "Pacific Northwest",
+    "old-growth forest",
+    "environmental crime",
+    "cartel",
+    "forensic accounting",
+    "Oregon",
+    "illegal logging",
+    "conspiracy",
+    "whistleblower"
+  ],
+  "TXT_path": "books/The_Canopy_Protocol/txt/The_Canopy_Protocol.txt",
+  "EPUB_path": "books/The_Canopy_Protocol/epub/The_Canopy_Protocol.epub",
+  "cover_path": "books/The_Canopy_Protocol/covers/The_Canopy_Protocol.png",
+  "outline_path": "books/The_Canopy_Protocol/planning/The_Canopy_Protocol_outline.md",
+  "cover_script_path": "books/The_Canopy_Protocol/tools/create_cover.py",
+  "status": "completed",
+  "chapters": 50,
+  "word_count": 25000,
+  "publication_date": "2026-07-04",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25103
+  }
+}

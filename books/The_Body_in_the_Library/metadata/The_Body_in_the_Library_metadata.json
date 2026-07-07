@@ -1,0 +1,46 @@
+{
+  "title": "The Body in the Library",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Classic Whodunit",
+  "subgenre": "Cozy Mystery",
+  "language": "en",
+  "short_description": "A retired schoolteacher turned amateur sleuth investigates when a body is found in the reference section of the local library with a Shakespeare quote pinned to its chest.",
+  "long_description": "When local historian Richard Caldwell is found dead in the reference section of Meadowfield Library with a line from Shakespeare pinned to his chest, retired schoolteacher Margaret Hartley knows she cannot look away. The victim was a quiet man who spent his days researching the town's history. Now someone has silenced him forever.\n\nInspector Reginald Cole of Scotland Yard arrives to lead the investigation, but his methodical approach misses the subtle clues hidden in the stacks. Margaret notices things others overlook: a book returned to the wrong shelf, underlined passages in old volumes, a photograph tucked inside a ledger.\n\nAs she follows the trail, she uncovers a sixty-year-old secret involving the library's revered founder, Sir Alistair Whitmore. A child died on his estate in 1957. The death was covered up by the town's most respected men. And now two more people are dead.\n\nMargaret must piece together the truth from fragments of old records and reluctant witnesses before the killer silences her too. In a classic whodunit tradition, she gathers the suspects in the library's meeting room and reveals the killer's identity in a dramatic confrontation.\n\nThe Body in the Library is a literary cozy mystery about justice, memory, and the stories that libraries hold.",
+  "main_characters": [
+    "Margaret Hartley — Retired schoolteacher and amateur sleuth",
+    "Inspector Reginald Cole — Scotland Yard detective",
+    "Eleanor Bane — The librarian, keeper of secrets",
+    "Richard Caldwell — The victim, local historian",
+    "Claire Caldwell — The victim's estranged daughter",
+    "Dr. Francis Pike — Antiquarian book dealer",
+    "Reverend Michael Wright — Local vicar",
+    "Helena Ross — Town councilor",
+    "Thomas Webb — Historical society president and killer",
+    "Sir Alistair Whitmore — Deceased philanthropist with a hidden past"
+  ],
+  "keywords": [
+    "classic whodunit",
+    "cozy mystery",
+    "library",
+    "murder mystery",
+    "amateur sleuth",
+    "small town",
+    "Shakespeare",
+    "cold case",
+    "cover-up",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Body_in_the_Library/txt/The_Body_in_the_Library.txt",
+  "EPUB_path": "books/The_Body_in_the_Library/epub/The_Body_in_the_Library.epub",
+  "cover_path": "books/The_Body_in_the_Library/covers/The_Body_in_the_Library.png",
+  "outline_path": "books/The_Body_in_the_Library/planning/The_Body_in_the_Library_outline.md",
+  "cover_script_path": "books/The_Body_in_the_Library/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12694
+  }
+}

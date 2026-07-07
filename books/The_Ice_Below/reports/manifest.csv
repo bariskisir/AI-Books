@@ -1,0 +1,12 @@
+filename,size,type,model
+The_Ice_Below/planning/The_Ice_Below_outline.md,text/plain,Outline,deepseek-v4-flash
+The_Ice_Below/txt/The_Ice_Below.txt,text/plain,Manuscript,deepseek-v4-flash
+The_Ice_Below/metadata/The_Ice_Below_metadata.json,application/json,Metadata,deepseek-v4-flash
+The_Ice_Below/covers/The_Ice_Below.png,image/png,Cover,deepseek-v4-flash
+The_Ice_Below/epub/The_Ice_Below.epub,application/epub+zip,EPUB,deepseek-v4-flash
+The_Ice_Below/tools/build_epub.py,text/x-python,EPUB build script,deepseek-v4-flash
+The_Ice_Below/tools/create_cover.py,text/x-python,Cover generation script,deepseek-v4-flash
+The_Ice_Below/README.md,text/markdown,Book README,deepseek-v4-flash
+The_Ice_Below/reports/final_report.md,text/markdown,Final report,deepseek-v4-flash
+The_Ice_Below/reports/manifest.csv,text/csv,File manifest,deepseek-v4-flash
+The_Ice_Below/reports/progress.md,text/markdown,Progress tracker,deepseek-v4-flash

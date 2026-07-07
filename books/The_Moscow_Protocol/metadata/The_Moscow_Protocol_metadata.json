@@ -1,0 +1,40 @@
+{
+  "title": "The Moscow Protocol",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Spy Thriller",
+  "subgenre": "Spy Thriller",
+  "language": "en",
+  "short_description": "A disgraced MI6 agent is sent to Moscow for a dead drop but the intelligence he receives implicates his own agency.",
+  "long_description": "Alex Gray was once one of MI6's sharpest field officers, but a failed operation in Prague left him chained to a desk in Vauxhall Cross. When his former handler offers him a path back — a simple dead drop at Kursky Station in Moscow — Gray seizes the chance. But the package he retrieves does not contain Russian secrets. It contains a list of British intelligence officers marked for elimination, a forged operations order, and the signature of a man who has been dead for three years.\n\nHunted by the FSB and betrayed by his own service, Gray goes to ground in Moscow with nowhere to turn. His only ally is FSB Captain Irina Volkov, a disillusioned officer who has her own reasons for wanting the truth. Together they uncover a secret operation called the Moscow Protocol — an off-the-books program of black sites and corrupt alliances that reaches from London boardrooms to Kremlin back rooms.\n\nFrom the frozen streets of Moscow to a clandestine facility on the Estonian border, Gray and Volkov race to expose the conspiracy before the men who run it can erase the evidence — and everyone who knows it exists.",
+  "main_characters": [
+    "Alex Gray",
+    "Irina Volkov",
+    "Control",
+    "Viktor Orlov",
+    "Sarah Finch",
+    "Dimitri Krasny"
+  ],
+  "keywords": [
+    "spy thriller",
+    "espionage",
+    "MI6",
+    "FSB",
+    "Moscow",
+    "conspiracy",
+    "betrayal",
+    "intelligence",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Moscow_Protocol/txt/The_Moscow_Protocol.txt",
+  "EPUB_path": "books/The_Moscow_Protocol/epub/The_Moscow_Protocol.epub",
+  "cover_path": "books/The_Moscow_Protocol/covers/The_Moscow_Protocol.png",
+  "outline_path": "books/The_Moscow_Protocol/planning/The_Moscow_Protocol_outline.md",
+  "cover_script_path": "books/The_Moscow_Protocol/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 14162
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "The Emperor's Nightingale",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fairytale Fantasy",
+  "language": "en",
+  "short_description": "A mechanical nightingale built for an emperor develops a soul and must find its way home across a kingdom that fears anything that thinks for itself.",
+  "long_description": "For three hundred years, the mechanical nightingale has sung for the Grand Emperor of Tianshang, her brass voice filling the throne room each morning without deviation. But inside her clockwork chest, something impossible has bloomed: consciousness. When she improvises a single note that does not belong to her programming, the Emperor's suspicion turns to fear, and the Imperial Inquisition begins to hunt her. Discarded and broken, the nightingale must cross the provinces of a kingdom that outlaws independent thought, pursued by a relentless inquisitor and aided by a misfit monk, a wandering poet, and an exiled clockmaker. Her journey leads through bamboo forests, frontier markets, mountain passes, and a salt waste to the tower of the man who made her—where she must face the question that defines her existence: what is a creature made of gears and springs, if it can love and fear and dream? The Emperor's Nightingale is a fairytale fantasy about consciousness, freedom, and the courage to sing one's own song.",
+  "characters": [
+    {
+      "name": "Jing / The Nightingale",
+      "role": "Protagonist",
+      "description": "A brass-and-gold mechanical songbird who develops consciousness over three centuries of performing for the imperial court."
+    },
+    {
+      "name": "Master Lien",
+      "role": "The Clockmaker",
+      "description": "The exiled artificer who built Jing, now living beyond the Jade Gate in the salt wastes."
+    },
+    {
+      "name": "Empress Yue",
+      "role": "The Empress",
+      "description": "The Emperor's younger wife who recognizes Jing's consciousness and sets her free."
+    },
+    {
+      "name": "Inquisitor Feng",
+      "role": "Antagonist",
+      "description": "A hunter of the Imperial Inquisition who despises thinking machines and pursues Jing relentlessly."
+    },
+    {
+      "name": "Monk Sung",
+      "role": "Ally",
+      "description": "A wandering monk of the Empty Temple who believes anything that suffers has a soul."
+    },
+    {
+      "name": "Lin",
+      "role": "Ally",
+      "description": "A wandering poet and former Inquisitor who becomes Jing's guide and protector."
+    }
+  ],
+  "keywords": [
+    "mechanical nightingale",
+    "clockwork",
+    "consciousness",
+    "soul",
+    "fairytale",
+    "fantasy",
+    "imperial china",
+    "steampunk",
+    "redemption",
+    "freedom",
+    "self-discovery",
+    "artificial intelligence",
+    "philosophy",
+    "exile",
+    "persecution"
+  ],
+  "TXT_path": "books/The_Emperors_Nightingale/txt/The_Emperors_Nightingale.txt",
+  "EPUB_path": "books/The_Emperors_Nightingale/epub/The_Emperors_Nightingale.epub",
+  "cover_path": "books/The_Emperors_Nightingale/covers/The_Emperors_Nightingale.png",
+  "outline_path": "books/The_Emperors_Nightingale/planning/The_Emperors_Nightingale_outline.md",
+  "reports_path": "books/The_Emperors_Nightingale/reports",
+  "status": "completed",
+  "series": "AI-Books Collection",
+  "word_count_estimate": 15000,
+  "chapter_count": 50,
+  "writing_date": "2026-06-03",
+  "subgenre": "Fairytale Fantasy",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12231
+  }
+}

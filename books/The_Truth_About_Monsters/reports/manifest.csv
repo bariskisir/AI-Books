@@ -1,0 +1,12 @@
+file,path,size_bytes,status,model
+Outline,The_Truth_About_Monsters/planning/The_Truth_About_Monsters_outline.md,,complete,deepseek-v4-flash
+Manuscript,The_Truth_About_Monsters/txt/The_Truth_About_Monsters.txt,,complete,deepseek-v4-flash
+Metadata,The_Truth_About_Monsters/metadata/The_Truth_About_Monsters_metadata.json,,complete,deepseek-v4-flash
+Cover,The_Truth_About_Monsters/covers/The_Truth_About_Monsters.png,,complete,deepseek-v4-flash
+EPUB,The_Truth_About_Monsters/epub/The_Truth_About_Monsters.epub,,complete,deepseek-v4-flash
+Build Script,The_Truth_About_Monsters/tools/build_epub.py,,complete,deepseek-v4-flash
+Cover Script,The_Truth_About_Monsters/tools/create_cover.py,,complete,deepseek-v4-flash
+README,The_Truth_About_Monsters/README.md,,complete,deepseek-v4-flash
+Final Report,The_Truth_About_Monsters/reports/final_report.md,,complete,deepseek-v4-flash
+Manifest,The_Truth_About_Monsters/reports/manifest.csv,,complete,deepseek-v4-flash
+Progress,The_Truth_About_Monsters/reports/progress.md,,complete,deepseek-v4-flash

@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Tidal_Pharmacy/planning/The_Tidal_Pharmacy_outline.md,5159,50-chapter outline
+books/The_Tidal_Pharmacy/txt/The_Tidal_Pharmacy.txt,216353,Expanded full TXT manuscript
+books/The_Tidal_Pharmacy/epub/The_Tidal_Pharmacy.epub,375648,Rebuilt EPUB export
+books/The_Tidal_Pharmacy/covers/The_Tidal_Pharmacy.png,97754,Cover image
+books/The_Tidal_Pharmacy/metadata/The_Tidal_Pharmacy_metadata.json,1945,Production metadata
+books/The_Tidal_Pharmacy/reports/final_report.md,1113,Final validation report
+books/The_Tidal_Pharmacy/reports/manifest.csv,849,File manifest
+books/The_Tidal_Pharmacy/reports/progress.md,390,Progress log
+books/The_Tidal_Pharmacy/tools/build_epub.py,8610,EPUB build script
+books/The_Tidal_Pharmacy/tools/create_cover.py,12444,Cover generation script
+books/The_Tidal_Pharmacy/README.md,737,Per-book README

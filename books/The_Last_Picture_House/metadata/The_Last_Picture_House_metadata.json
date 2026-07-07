@@ -1,0 +1,40 @@
+{
+  "title": "The Last Picture House",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Small Town Fiction",
+  "subgenre": "Rural Drama",
+  "language": "en",
+  "short_description": "The owner of a dying movie theater in rural Kansas fights to keep its doors open while the town itself fades away.",
+  "long_description": "Frank Meacham has owned the Picture House in Corinth, Kansas for thirty-seven years. It is the last business standing on a Main Street of empty storefronts, a place where the neon sign flickers and the roof leaks and the projector wheezes with every reel. When the building fails inspection and Mayor Billings sees the lot as prime redevelopment real estate, Frank faces an impossible choice: fight for a fading dream or accept the end of an era.\n\nWith Rose Delgado, his projectionist of forty-two years, Frank launches a classic film series that draws unexpected crowds. A teenager named Maya discovers old movies. The community rallies. But the repairs pile up, the offers from developers grow larger, and Frank's own health begins to fail.\n\nA story about memory, community, and the things we choose to preserve, The Last Picture House is a quiet elegy for small-town America and the people who refuse to let the lights go out.",
+  "main_characters": [
+    "Frank Meacham — Owner of the Picture House, a widower fighting to preserve his late wife's legacy",
+    "Rose Delgado — The projectionist, forty-two years at the theater, carrying the knowledge of an dying craft",
+    "Mayor Billings — The pragmatic mayor who must balance progress against preservation",
+    "Maya — A teenager who discovers old movies and learns the art of film projection",
+    "Sarah Meacham — Frank's daughter, worried about her father from afar"
+  ],
+  "keywords": [
+    "small town fiction",
+    "movie theater",
+    "Kansas",
+    "rural drama",
+    "community",
+    "nostalgia",
+    "classic films",
+    "preservation",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Last_Picture_House/txt/The_Last_Picture_House.txt",
+  "EPUB_path": "books/The_Last_Picture_House/epub/The_Last_Picture_House.epub",
+  "cover_path": "books/The_Last_Picture_House/covers/The_Last_Picture_House.png",
+  "outline_path": "books/The_Last_Picture_House/planning/The_Last_Picture_House_outline.md",
+  "cover_script_path": "books/The_Last_Picture_House/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12112
+  }
+}

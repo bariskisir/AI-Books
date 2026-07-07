@@ -1,0 +1,38 @@
+{
+  "title": "The Street of Many Doors",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Sliding Doors",
+  "subgenre": "Literary Parallel Lives",
+  "language": "en",
+  "short_description": "A woman walks the same Prague street each day, opens a different door, and steps into a different version of her life.",
+  "long_description": "Elena arrives in Prague to translate a forgotten poet's work. She discovers a street lined with doors of every color, and when she opens each one she enters a life she might have lived. She is a mother, a pianist, a widow, a diplomat, a thief, a scientist, a refugee, a lover, a prisoner of grief, and a woman who has never left. Each life is as real as the one she left behind. Guided by a mysterious Map Seller and watched by a silent Man at a Cafe, Elena must walk through a year of doors to discover whether there is a true self beneath the choices, or whether every self is just a door we walked through.",
+  "main_characters": [
+    "Elena — A translator in her early thirties, adrift after a loss she cannot name, who walks the Street of Many Doors and enters different versions of her life",
+    "The Map Seller — An old man who tends a tiny shop at the end of the street, selling maps of places that do not exist. He built the street and understands its purpose",
+    "The Man at the Cafe — A quiet presence who sits at the same outdoor table every afternoon. He is the last door, the one that leads to the life Elena is actually building"
+  ],
+  "keywords": [
+    "sliding doors",
+    "parallel lives",
+    "Prague",
+    "choice and consequence",
+    "multiverse",
+    "literary fiction",
+    "existential",
+    "doors",
+    "translator",
+    "identity",
+    "alternate realities",
+    "magical realism"
+  ],
+  "TXT_path": "books/The_Street_of_Many_Doors/txt/The_Street_of_Many_Doors.txt",
+  "EPUB_path": "books/The_Street_of_Many_Doors/epub/The_Street_of_Many_Doors.epub",
+  "cover_path": "books/The_Street_of_Many_Doors/covers/The_Street_of_Many_Doors.png",
+  "outline_path": "books/The_Street_of_Many_Doors/planning/The_Street_of_Many_Doors_outline.md",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11676
+  }
+}

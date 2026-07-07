@@ -1,0 +1,42 @@
+{
+  "title": "The Dark Between Stars",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Lovecraftian",
+  "subgenre": "Cosmic Horror",
+  "language": "en",
+  "short_description": "A marine geologist mapping the seafloor off Innsmouth discovers a cyclopean city in the trench that predates human evolution.",
+  "long_description": "Dr. Eleanor Marsh, a marine geologist from Miskatonic University, joins a research expedition aboard the trawler *Rodbroke* to map the seafloor off the coast of Innsmouth, Massachusetts. What begins as a routine bathymetric survey becomes a descent into nightmare when sonar reveals a structured city in the deepest trench — a city whose architecture predates human evolution by hundreds of thousands of years.\n\nCaptain Silas Olmstead knows the old stories. His grandfather's logbook speaks of Deep Ones, of a city beneath the waves, of a call that cannot be refused. As Marsh's sonar images reveal a vast grid of towers and spires, the crew begins to dream the same dream: a city under water, and something waiting at its heart.\n\nWhen Marsh descends in a submersible to explore the trench, she discovers the city is intact — and inhabited. The Deep Ones are real. Their Architect, an ancient being that predates the oceans, speaks directly into her mind. She learns the city is not a ruin but a lock, built to seal a door between worlds. And the door is failing.\n\n*The Dark Between Stars* is a Lovecraftian novel of cosmic horror and transformation. It asks whether the end of humanity is an extinction or an evolution, and what we owe to the deep places of the world — and to the ones who came before.",
+  "main_characters": [
+    "Dr. Eleanor Marsh — A marine geologist from Miskatonic University",
+    "Captain Silas Olmstead — A grizzled fisherman haunted by family history",
+    "The Architect — The first Deep One, an ancient consciousness",
+    "The Guide — A Deep One who escorts Marsh through the city",
+    "Jessup — A deckhand marked by the Deep Ones since childhood"
+  ],
+  "keywords": [
+    "lovecraftian",
+    "cosmic horror",
+    "deep ones",
+    "innsmouth",
+    "marine geology",
+    "cthulhu mythos",
+    "sea monster",
+    "trench",
+    "ancient city",
+    "horror",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Dark_Between_Stars/txt/The_Dark_Between_Stars.txt",
+  "EPUB_path": "books/The_Dark_Between_Stars/epub/The_Dark_Between_Stars.epub",
+  "cover_path": "books/The_Dark_Between_Stars/covers/The_Dark_Between_Stars.png",
+  "outline_path": "books/The_Dark_Between_Stars/planning/The_Dark_Between_Stars_outline.md",
+  "cover_script_path": "books/The_Dark_Between_Stars/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12097
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "The Music Box",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Psychological Suspense",
+  "subgenre": "Supernatural Mystery",
+  "language": "en",
+  "short_description": "A music therapist inherits an antique music box that plays a melody she has never heard — but her patients all recognize it.",
+  "long_description": "Dr. Nora Bell, a music therapist at a suburban clinic, inherits an antique rosewood-and-gold music box from a great-aunt she barely remembers. When she winds it for the first time, it plays a melody she has never encountered — yet every one of her patients recognizes it. Some weep. Some rage. One lapses into catatonia.\n\nAs Nora investigates the box's origins, she uncovers the story of its creator, a reclusive composer who vanished in the 1950s, and begins to suspect the melody was never meant to be heard — it was meant to be remembered. The deeper she digs, the more the box seems to reach into her own buried past, and she realizes the composer is closer than she ever imagined.\n\nPart mystery, part ghost story, The Music Box is a haunting exploration of memory, trauma, and the melodies that bind us across generations.",
+  "main_characters": [
+    "Dr. Nora Bell — a meticulous, compassionate music therapist in her late thirties",
+    "The Music Box — an ornate antique of rosewood, brass, and gold leaf, crafted in 1952",
+    "Julian Ashworth — a brilliant but troubled pianist and composer who built the music box and disappeared in 1952",
+    "Mira Patel — Nora's closest colleague, a clinical psychologist",
+    "Eleanor Vance — a patient in her sixties with treatment-resistant depression",
+    "David Cross — a patient in his forties, a former journalist with PTSD",
+    "Lydia Bell — Nora's mother, living in a memory care facility"
+  ],
+  "keywords": [
+    "music therapy",
+    "psychological suspense",
+    "music box",
+    "memory",
+    "trauma",
+    "family secrets",
+    "supernatural",
+    "heirloom",
+    "composer",
+    "mississippi",
+    "1950s",
+    "sanatorium",
+    "piano",
+    "melody"
+  ],
+  "outline_path": "books/The_Music_Box/planning/The_Music_Box_outline.md",
+  "TXT_path": "books/The_Music_Box/txt/The_Music_Box.txt",
+  "EPUB_path": "books/The_Music_Box/epub/The_Music_Box.epub",
+  "cover_path": "books/The_Music_Box/covers/The_Music_Box.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13182
+  }
+}

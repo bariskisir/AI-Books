@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Seventh_Chamber/planning/The_Seventh_Chamber_outline.md,,markdown,deepseek-v4-flash
+The_Seventh_Chamber/txt/The_Seventh_Chamber.txt,,text,deepseek-v4-flash
+The_Seventh_Chamber/metadata/The_Seventh_Chamber_metadata.json,,,deepseek-v4-flash
+The_Seventh_Chamber/tools/create_cover.py,,python,deepseek-v4-flash
+The_Seventh_Chamber/covers/The_Seventh_Chamber.png,,png,deepseek-v4-flash
+The_Seventh_Chamber/tools/build_epub.py,,python,deepseek-v4-flash
+The_Seventh_Chamber/epub/The_Seventh_Chamber.epub,,epub,deepseek-v4-flash
+The_Seventh_Chamber/README.md,,markdown,deepseek-v4-flash
+The_Seventh_Chamber/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Seventh_Chamber/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Seventh_Chamber/reports/progress.md,,markdown,deepseek-v4-flash

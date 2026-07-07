@@ -1,0 +1,12 @@
+path,type,description
+planning/The_Fig_Collector_outline.md,markdown,50-chapter outline with premise and core cast
+txt/The_Fig_Collector.txt,text,Full manuscript with 50 chapters
+epub/The_Fig_Collector.epub,epub,EPUB 3 ebook with cover and chapters
+covers/The_Fig_Collector.png,image,1600x2560 cover image
+metadata/The_Fig_Collector_metadata.json,json,Production metadata
+tools/build_epub.py,python,EPUB builder script
+tools/create_cover.py,python,Custom cover generation script
+reports/final_report.md,markdown,Final production report
+reports/manifest.csv,csv,This manifest file
+reports/progress.md,markdown,Production progress log
+README.md,markdown,Per-book README

@@ -1,0 +1,44 @@
+{
+  "title": "The Bone Orchard Trail",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Weird West",
+  "subgenre": "Western Horror / Supernatural Frontier",
+  "language": "en",
+  "short_description": "A former lawman rides into a high-desert town where the dead don't stay buried beneath a grove of pale trees, and a cattle baron's bargain with something ancient must be paid in bodies.",
+  "long_description": "Eli Crane hung up his marshal's star after a hanging that took the wrong man. Years later, a debt to a dead friend draws him to Quartz Hollow, a withering high-desert town that buries its dead beneath a grove of pale, twisted trees the locals call the bone orchard. The drought has killed every pasture in the basin except one — the green acres of the cattle baron Absalom Reede.\n\nReede keeps his land alive and his herd fat by feeding the orchard. Something old and thirsty waits in a dry well behind the ranch, and each dark of the moon it must be paid in the body of a drifter, a debtor, or the friendless. When the next name chosen is the woman who keeps the town's burial ledger, Eli pins on the old badge one last time.\n\nThe Bone Orchard Trail is a spare, dread-soaked weird western about guilt, debt, and what it costs to put the risen back into the ground — gunsmoke and ghost story under a blood-dusk sky.",
+  "main_characters": [
+    "Eli Crane — A former territorial marshal who quit the law after hanging an innocent man, drawn west by an old debt",
+    "Naomi Hale — The widow who runs the failing way-station and keeps the town's burial ledger",
+    "Absalom Reede — The courtly, terrifyingly calm cattle baron who made the bargain a generation ago",
+    "Doc Sennett — The town's drunk physician, keeper of uncomfortable knowledge about the orchard",
+    "Cole Reede — Absalom's weak, resentful son, who wants the bargain ended",
+    "The Sexton — A mute old man who tends the orchard and knows its rules",
+    "Tom Hale — Eli's dead friend, whose grave lies in the orchard"
+  ],
+  "keywords": [
+    "weird west",
+    "western horror",
+    "supernatural",
+    "frontier",
+    "cattle baron",
+    "undead",
+    "marshal",
+    "bargain",
+    "high desert",
+    "ghost story",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Bone_Orchard_Trail/txt/The_Bone_Orchard_Trail.txt",
+  "EPUB_path": "books/The_Bone_Orchard_Trail/epub/The_Bone_Orchard_Trail.epub",
+  "cover_path": "books/The_Bone_Orchard_Trail/covers/The_Bone_Orchard_Trail.png",
+  "outline_path": "books/The_Bone_Orchard_Trail/planning/The_Bone_Orchard_Trail_outline.md",
+  "cover_script_path": "books/The_Bone_Orchard_Trail/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 21335
+  }
+}

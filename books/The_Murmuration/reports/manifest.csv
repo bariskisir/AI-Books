@@ -1,0 +1,12 @@
+file,size_bytes,status,model
+The_Murmuration/planning/The_Murmuration_outline.md,,complete,deepseek-v4-flash
+The_Murmuration/txt/The_Murmuration.txt,11686 words,complete,deepseek-v4-flash
+The_Murmuration/metadata/The_Murmuration_metadata.json,,complete,deepseek-v4-flash
+The_Murmuration/covers/The_Murmuration.png,250297,complete,deepseek-v4-flash
+The_Murmuration/epub/The_Murmuration.epub,367096,complete,deepseek-v4-flash
+The_Murmuration/tools/build_epub.py,,complete,deepseek-v4-flash
+The_Murmuration/tools/create_cover.py,,complete,deepseek-v4-flash
+The_Murmuration/README.md,,complete,deepseek-v4-flash
+The_Murmuration/reports/final_report.md,,complete,deepseek-v4-flash
+The_Murmuration/reports/manifest.csv,,complete,deepseek-v4-flash
+The_Murmuration/reports/progress.md,,complete,deepseek-v4-flash

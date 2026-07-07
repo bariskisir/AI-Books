@@ -1,0 +1,16 @@
+{
+  "title": "The Temple of Melqart",
+  "author": "Barış Kısır",
+  "language": "en",
+  "model": "deepseek-v4-flash",
+  "status": "completed",
+  "word_count": 30521,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Temple_of_Melqart/txt/The_Temple_of_Melqart.txt",
+  "EPUB_path": "books/The_Temple_of_Melqart/epub/The_Temple_of_Melqart.epub",
+  "cover_path": "books/The_Temple_of_Melqart/covers/The_Temple_of_Melqart.png",
+  "stats": {
+    "total_chapters": 10,
+    "total_words": 5817
+  }
+}

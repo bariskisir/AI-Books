@@ -1,0 +1,12 @@
+file,path,size_bytes,model
+outline,The_Watermelon_Summer/planning/The_Watermelon_Summer_outline.md,,deepseek-v4-flash
+manuscript,The_Watermelon_Summer/txt/The_Watermelon_Summer.txt,59300,deepseek-v4-flash
+metadata,The_Watermelon_Summer/metadata/The_Watermelon_Summer_metadata.json,1057,deepseek-v4-flash
+cover,The_Watermelon_Summer/covers/The_Watermelon_Summer.png,49856,deepseek-v4-flash
+epub,The_Watermelon_Summer/epub/The_Watermelon_Summer.epub,163824,deepseek-v4-flash
+build_script,The_Watermelon_Summer/tools/build_epub.py,5903,deepseek-v4-flash
+cover_script,The_Watermelon_Summer/tools/create_cover.py,5047,deepseek-v4-flash
+readme,The_Watermelon_Summer/README.md,1443,deepseek-v4-flash
+final_report,The_Watermelon_Summer/reports/final_report.md,1539,deepseek-v4-flash
+manifest,The_Watermelon_Summer/reports/manifest.csv,665,deepseek-v4-flash
+progress,The_Watermelon_Summer/reports/progress.md,221,deepseek-v4-flash

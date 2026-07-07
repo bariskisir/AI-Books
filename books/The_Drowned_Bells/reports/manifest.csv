@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Drowned_Bells/planning/The_Drowned_Bells_outline.md,,markdown,deepseek-v4-flash
+The_Drowned_Bells/txt/The_Drowned_Bells.txt,,text,deepseek-v4-flash
+The_Drowned_Bells/metadata/The_Drowned_Bells_metadata.json,,json,deepseek-v4-flash
+The_Drowned_Bells/tools/create_cover.py,,python,deepseek-v4-flash
+The_Drowned_Bells/covers/The_Drowned_Bells.png,,png,deepseek-v4-flash
+The_Drowned_Bells/tools/build_epub.py,,python,deepseek-v4-flash
+The_Drowned_Bells/epub/The_Drowned_Bells.epub,,epub,deepseek-v4-flash
+The_Drowned_Bells/README.md,,markdown,deepseek-v4-flash
+The_Drowned_Bells/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Drowned_Bells/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Drowned_Bells/reports/progress.md,,markdown,deepseek-v4-flash

@@ -1,0 +1,16 @@
+{
+  "title": "The Dejima Interpreter",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "language": "en",
+  "word_count": 24900,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Dejima_Interpreter/txt/The_Dejima_Interpreter.txt",
+  "EPUB_path": "books/The_Dejima_Interpreter/epub/The_Dejima_Interpreter.epub",
+  "cover_path": "books/The_Dejima_Interpreter/covers/The_Dejima_Interpreter.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24863
+  }
+}

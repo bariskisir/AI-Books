@@ -1,0 +1,43 @@
+{
+  "title": "The Bookbinder of Prague",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "WWII Historical",
+  "language": "en",
+  "short_description": "A Jewish bookbinder in 1941 Prague saves endangered manuscripts by binding them into the covers of banned Nazi propaganda.",
+  "long_description": "In 1941 Prague, Jewish bookbinder David Rosen preserves forbidden Jewish texts and rare manuscripts by secretly binding them inside the covers of confiscated Nazi propaganda books. When SS officer Frau Doktor Greta Müller discovers discrepancies in the seized book inventory, she suspects someone in the state binding workshop. David's sixteen-year-old daughter Anna befriends the son of a Wehrmacht major, walking a dangerous line between survival and betrayal. As the net tightens and deportations begin, David must decide how many books — and how many lives — he can save before the Nazis uncover his secret.",
+  "main_characters": [
+    "David Rosen — Jewish bookbinder, master craftsman, widower",
+    "Anna Rosen — David's daughter, 16, practical and brave",
+    "Frau Doktor Greta Müller — SS cultural officer overseeing confiscated books",
+    "Pavel Novak — David's apprentice, 19, impulsive and loyal",
+    "Rabbi Samuel Löw — Elder of the Jewish community",
+    "Major Klaus Weber — Wehrmacht officer, offers to help Anna escape",
+    "Erik Weber — Major Weber's son, 17, befriends Anna"
+  ],
+  "keywords": [
+    "WWII",
+    "historical fiction",
+    "Prague",
+    "bookbinding",
+    "Holocaust",
+    "Jewish resistance",
+    "Nazi occupation",
+    "manuscripts",
+    "1941",
+    "Czechoslovakia",
+    "book preservation",
+    "cultural resistance"
+  ],
+  "TXT_path": "books/The_Bookbinder_of_Prague/txt/The_Bookbinder_of_Prague.txt",
+  "EPUB_path": "books/The_Bookbinder_of_Prague/epub/The_Bookbinder_of_Prague.epub",
+  "cover_path": "books/The_Bookbinder_of_Prague/covers/The_Bookbinder_of_Prague.png",
+  "outline_path": "books/The_Bookbinder_of_Prague/planning/The_Bookbinder_of_Prague_outline.md",
+  "cover_script_path": "books/The_Bookbinder_of_Prague/tools/create_cover.py",
+  "status": "completed",
+  "subgenre": "WWII Historical",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10348
+  }
+}

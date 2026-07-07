@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Winter_Orchid/planning/The_Winter_Orchid_outline.md,8610,markdown,deepseek-v4-flash
+The_Winter_Orchid/txt/The_Winter_Orchid.txt,52299,text,deepseek-v4-flash
+The_Winter_Orchid/metadata/The_Winter_Orchid_metadata.json,3366,json,deepseek-v4-flash
+The_Winter_Orchid/tools/create_cover.py,10694,python,deepseek-v4-flash
+The_Winter_Orchid/covers/The_Winter_Orchid.png,138462,png,deepseek-v4-flash
+The_Winter_Orchid/tools/build_epub.py,8282,python,deepseek-v4-flash
+The_Winter_Orchid/epub/The_Winter_Orchid.epub,240223,epub,deepseek-v4-flash
+The_Winter_Orchid/README.md,,markdown,deepseek-v4-flash
+The_Winter_Orchid/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Winter_Orchid/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Winter_Orchid/reports/progress.md,,markdown,deepseek-v4-flash

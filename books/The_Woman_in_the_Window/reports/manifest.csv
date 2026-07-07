@@ -1,0 +1,12 @@
+file,path,size_bytes,status,model
+outline,The_Woman_in_the_Window/planning/The_Woman_in_the_Window_outline.md,,complete,deepseek-v4-flash
+manuscript,The_Woman_in_the_Window/txt/The_Woman_in_the_Window.txt,,complete,deepseek-v4-flash
+metadata,The_Woman_in_the_Window/metadata/The_Woman_in_the_Window_metadata.json,,complete,deepseek-v4-flash
+cover,The_Woman_in_the_Window/covers/The_Woman_in_the_Window.png,,complete,deepseek-v4-flash
+epub,The_Woman_in_the_Window/epub/The_Woman_in_the_Window.epub,,complete,deepseek-v4-flash
+build_script,The_Woman_in_the_Window/tools/build_epub.py,,complete,deepseek-v4-flash
+cover_script,The_Woman_in_the_Window/tools/create_cover.py,,complete,deepseek-v4-flash
+readme,The_Woman_in_the_Window/README.md,,complete,deepseek-v4-flash
+final_report,The_Woman_in_the_Window/reports/final_report.md,,complete,deepseek-v4-flash
+manifest,The_Woman_in_the_Window/reports/manifest.csv,,complete,deepseek-v4-flash
+progress,The_Woman_in_the_Window/reports/progress.md,,complete,deepseek-v4-flash

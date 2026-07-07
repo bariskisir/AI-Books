@@ -1,0 +1,34 @@
+{
+  "title": "The Deep Between Stars",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Oceanic Horror",
+  "subgenre": "Lovecraftian",
+  "language": "en",
+  "short_description": "A deep-sea research station at the Marianas Trench detects movement from below.",
+  "long_description": "At the floor of the Mariana Trench, the Hadal-7 research station monitors abyssal biology at pressures that crush steel. Dr. Elena Reyes, a benthic ecologist, notices seismic patterns that do not match tectonic models — rhythmic pulses rising from deeper than any known geological process. Captain Dmitri Orlov dismisses her concerns until the station's power grid begins failing in sequence and the ocean itself starts to respond.\n\nSomething has waited millions of years in the Challenger Deep. It is patient. It is vast. And it is rising. Reyes and Orlov must confront a presence that predates human existence, a silent civilization beneath the seafloor that communicates in frequencies older than life itself. The Deep Between Stars is a descent into the unknown, where the abyss looks back and the stars are farther away than the bottom of the ocean.",
+  "main_characters": [
+    "Dr. Elena Reyes",
+    "Captain Dmitri Orlov"
+  ],
+  "keywords": [
+    "oceanic horror",
+    "deep sea",
+    "Mariana Trench",
+    "cosmic horror",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "submarine thriller"
+  ],
+  "TXT_path": "books/The_Deep_Between_Stars/txt/The_Deep_Between_Stars.txt",
+  "EPUB_path": "books/The_Deep_Between_Stars/epub/The_Deep_Between_Stars.epub",
+  "cover_path": "books/The_Deep_Between_Stars/covers/The_Deep_Between_Stars.png",
+  "outline_path": "books/The_Deep_Between_Stars/planning/The_Deep_Between_Stars_outline.md",
+  "cover_script_path": "books/The_Deep_Between_Stars/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13617
+  }
+}

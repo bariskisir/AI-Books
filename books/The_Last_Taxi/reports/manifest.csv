@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Last_Taxi/planning/The_Last_Taxi_outline.md,,markdown,deepseek-v4-flash
+The_Last_Taxi/txt/The_Last_Taxi.txt,,text,deepseek-v4-flash
+The_Last_Taxi/metadata/The_Last_Taxi_metadata.json,,,deepseek-v4-flash
+The_Last_Taxi/tools/create_cover.py,,python,deepseek-v4-flash
+The_Last_Taxi/covers/The_Last_Taxi.png,56250,png,deepseek-v4-flash
+The_Last_Taxi/tools/build_epub.py,,python,deepseek-v4-flash
+The_Last_Taxi/epub/The_Last_Taxi.epub,169225,epub,deepseek-v4-flash
+The_Last_Taxi/README.md,,markdown,deepseek-v4-flash
+The_Last_Taxi/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Last_Taxi/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Last_Taxi/reports/progress.md,,markdown,deepseek-v4-flash

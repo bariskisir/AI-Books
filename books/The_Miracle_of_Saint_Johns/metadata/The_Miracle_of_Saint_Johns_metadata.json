@@ -1,0 +1,42 @@
+{
+  "title": "The Miracle of Saint John's",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Inspirational Fiction",
+  "subgenre": "Spiritual Drama",
+  "language": "en",
+  "short_description": "A crumbling inner-city church scheduled for demolition begins to repair itself overnight, sparking a battle between faith, science, and real estate.",
+  "long_description": "Saint John's Catholic Church stands abandoned in the heart of a blighted neighborhood. The diocese has sold the property to a developer who plans to demolish it for luxury condominiums. But three days before the wrecking crew arrives, the church begins to repair itself overnight.\n\nCracked pews mend. Stained glass windows re-form from shards. The ruined altar gleams as if newly consecrated. Father Tom, the aging priest who watched his congregation dwindle to nothing, finds himself caught between Dr. Anika Kapoor, a structural engineer who insists there is a scientific explanation, and Julian Crosse, the developer who needs the church gone.\n\nAs word spreads and the city takes notice, each character must confront what they truly believe. The old homeless man whose crippled hands are healed. The scientist confronted with data that defies every known law. The developer who must choose between profit and wonder. Father Tom, who had lost his faith and found it again in the most unexpected way.\n\n\"The Miracle of Saint John's\" is a story about what happens when the impossible becomes real, and the people who must decide what to do when certainty fails them.",
+  "main_characters": [
+    "Father Tom — The aging priest of Saint John's who rediscovered his faith",
+    "Dr. Anika Kapoor — A structural engineer and skeptic who cannot explain the phenomena",
+    "Julian Crosse — The real estate developer who must choose between profit and wonder",
+    "Ezra — A homeless man whose crippled hands are healed inside the church",
+    "Manny Reyes — The faithful custodian who witnessed the first changes",
+    "Bishop Harrison — The cautious diocesan authority"
+  ],
+  "keywords": [
+    "inspirational fiction",
+    "faith",
+    "miracle",
+    "church",
+    "spiritual drama",
+    "science vs faith",
+    "real estate",
+    "urban renewal",
+    "healing",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Miracle_of_Saint_Johns/txt/The_Miracle_of_Saint_Johns.txt",
+  "EPUB_path": "books/The_Miracle_of_Saint_Johns/epub/The_Miracle_of_Saint_Johns.epub",
+  "cover_path": "books/The_Miracle_of_Saint_Johns/covers/The_Miracle_of_Saint_Johns.png",
+  "outline_path": "books/The_Miracle_of_Saint_Johns/planning/The_Miracle_of_Saint_Johns_outline.md",
+  "cover_script_path": "books/The_Miracle_of_Saint_Johns/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12442
+  }
+}

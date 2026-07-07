@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Aurora_Lease/planning/The_Aurora_Lease_outline.md,5490,50-chapter outline
+books/The_Aurora_Lease/txt/The_Aurora_Lease.txt,228808,Expanded full TXT manuscript
+books/The_Aurora_Lease/epub/The_Aurora_Lease.epub,479422,Rebuilt EPUB export
+books/The_Aurora_Lease/covers/The_Aurora_Lease.png,193622,Cover image
+books/The_Aurora_Lease/metadata/The_Aurora_Lease_metadata.json,2084,Production metadata
+books/The_Aurora_Lease/reports/final_report.md,1099,Final validation report
+books/The_Aurora_Lease/reports/manifest.csv,818,File manifest
+books/The_Aurora_Lease/reports/progress.md,388,Progress log
+books/The_Aurora_Lease/tools/build_epub.py,8610,EPUB build script
+books/The_Aurora_Lease/tools/create_cover.py,13243,Cover generation script
+books/The_Aurora_Lease/README.md,738,Per-book README

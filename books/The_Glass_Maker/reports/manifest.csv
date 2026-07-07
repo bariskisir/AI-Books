@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+The_Glass_Maker/txt/The_Glass_Maker.txt,64135,text/plain,deepseek-v4-flash
+The_Glass_Maker/planning/The_Glass_Maker_outline.md,7271,text/markdown,deepseek-v4-flash
+The_Glass_Maker/epub/The_Glass_Maker.epub,163570,application/epub+zip,deepseek-v4-flash
+The_Glass_Maker/covers/The_Glass_Maker.png,50893,image/png,deepseek-v4-flash
+The_Glass_Maker/metadata/The_Glass_Maker_metadata.json,2628,application/json,deepseek-v4-flash
+The_Glass_Maker/tools/build_epub.py,8280,text/x-python,deepseek-v4-flash
+The_Glass_Maker/tools/create_cover.py,4643,text/x-python,deepseek-v4-flash
+The_Glass_Maker/README.md,262,text/markdown,deepseek-v4-flash
+The_Glass_Maker/reports/final_report.md,1018,text/markdown,deepseek-v4-flash
+The_Glass_Maker/reports/manifest.csv,555,text/csv,deepseek-v4-flash
+The_Glass_Maker/reports/progress.md,26,text/markdown,deepseek-v4-flash

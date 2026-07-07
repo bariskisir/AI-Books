@@ -1,0 +1,86 @@
+{
+  "title": "The Train in the Snow",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Winter Mystery",
+  "language": "en",
+  "description": "A luxury express train bound for St. Moritz becomes trapped by an avalanche high in the Swiss Alps. As passengers wait for rescue, one of them is found dead in a locked compartment — murdered. Inspector Felix Brandt, traveling incognito, must identify the killer among a group of strangers, all of whom have perfect alibis. The victim was a blackmailer. Every passenger had motive. But nobody could have done it. A locked-room mystery set against the relentless white of an Alpine storm.",
+  "short_description": "A train stranded in snow. A locked-room murder. Everyone has a perfect alibi.",
+  "characters": [
+    {
+      "name": "Inspector Felix Brandt",
+      "role": "protagonist",
+      "description": "A weary detective from the Zurich Kriminalpolizei, traveling incognito after a failed case. Sharp-eyed and methodical."
+    },
+    {
+      "name": "Clara Voss",
+      "role": "antagonist",
+      "description": "The Widow. Recently widowed, traveling to St. Moritz to clear her head. Calm, calculating, always watching."
+    },
+    {
+      "name": "Dr. Markus Engel",
+      "role": "suspect",
+      "description": "A respected physician from Bern traveling to a medical conference. Guarded, hiding a dark secret from his past."
+    },
+    {
+      "name": "Hans Meier",
+      "role": "suspect",
+      "description": "The Conductor. A career railway man with a gambling problem. Dutiful, nervous, protective of his record."
+    },
+    {
+      "name": "Stefan Gross",
+      "role": "victim",
+      "description": "A journalist and professional blackmailer. Found dead in his locked compartment with a letter opener in his chest."
+    },
+    {
+      "name": "Greta Lind",
+      "role": "supporting",
+      "description": "The stewardess. Young, eager, terrified when she discovers the body."
+    },
+    {
+      "name": "Herr Obermann",
+      "role": "suspect",
+      "description": "A loud, defensive businessman traveling first class with his wife."
+    },
+    {
+      "name": "Frau Obermann",
+      "role": "supporting",
+      "description": "Herr Obermann's quiet wife, bearing bruises and secrets."
+    }
+  ],
+  "keywords": [
+    "winter mystery",
+    "locked room",
+    "train",
+    "avalanche",
+    "Swiss Alps",
+    "murder",
+    "blackmail",
+    "whodunit",
+    "detective",
+    "snowstorm",
+    "St. Moritz",
+    "Glacier Express"
+  ],
+  "paths": {
+    "outline": "books/The_Train_in_the_Snow/planning/The_Train_in_the_Snow_outline.md",
+    "manuscript": "books/The_Train_in_the_Snow/txt/The_Train_in_the_Snow.txt",
+    "epub": "books/The_Train_in_the_Snow/epub/The_Train_in_the_Snow.epub",
+    "cover": "books/The_Train_in_the_Snow/covers/The_Train_in_the_Snow.png",
+    "metadata": "books/The_Train_in_the_Snow/metadata/The_Train_in_the_Snow_metadata.json",
+    "cover_script": "books/The_Train_in_the_Snow/tools/create_cover.py",
+    "build_script": "books/The_Train_in_the_Snow/tools/build_epub.py"
+  },
+  "status": "completed",
+  "chapter_count": 50,
+  "word_count": 13040,
+  "subgenre": "Winter Mystery",
+  "long_description": "When a luxury train is trapped by an avalanche in the Swiss Alps, a passenger is found dead in a locked compartment and every traveler seems to have an airtight alibi. Cut off from help by snow, suspicion, and old secrets, the stranded passengers must confront the blackmail and betrayals that brought them onto the same train.\n\nThe Train in the Snow is a winter mystery built around isolation, misdirection, and a murder that looks impossible until the storm strips every lie away.",
+  "cover_path": "books/The_Train_in_the_Snow/covers/The_Train_in_the_Snow.png",
+  "EPUB_path": "books/The_Train_in_the_Snow/epub/The_Train_in_the_Snow.epub",
+  "TXT_path": "books/The_Train_in_the_Snow/txt/The_Train_in_the_Snow.txt",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13040
+  }
+}

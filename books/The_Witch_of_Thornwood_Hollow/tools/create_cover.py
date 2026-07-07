@@ -1,0 +1,351 @@
+﻿#!/usr/bin/env python3
+"""Cover: The Witch of Thornwood Hollow — Dark green-violet forest with crooked cottage (glowing window), twisted trees, black thorns, bioluminescent flowers."""
+
+from __future__ import annotations
+
+import argparse
+import json
+import math
+import random
+from pathlib import Path
+
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
+
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
+from tools.cover_utils import (
+    _standard_cover_font,
+    _standard_cover_repair_text,
+    _standard_cover_wrap,
+    _standard_cover_center,
+    _standard_cover_title_font,
+    _standard_cover_metadata_from_locals,
+    _standard_cover_resolve_title,
+    _standard_cover_resolve_author,
+    _draw_standard_cover_title_panel,
+)
+
+
+
+ROOT = Path(__file__).resolve().parents[3]
+FONTS_DIR = Path("C:/Windows/Fonts")
+
+WIDTH, HEIGHT = 1600, 2560
+TITLE_PANEL_TOP = 1920
+
+
+def rel(path: str | Path) -> Path:
+    p = Path(path)
+    return ROOT / p if not p.is_absolute() else p
+
+
+def lerp_color(c1: tuple[int, int, int], c2: tuple[int, int, int], t: float) -> tuple[int, int, int]:
+    return tuple(int(a + (b - a) * t) for a, b in zip(c1, c2))
+
+
+def draw_gradient(draw: ImageDraw, width: int, height: int) -> None:
+    """Deep green to violet to near-black gradient for the enchanted forest feel."""
+    for y in range(height):
+        if y < height * 0.5:
+            t = y / (height * 0.5)
+            c = lerp_color((10, 40, 20), ((60, 10, 60)), t)
+        else:
+            t = (y - height * 0.5) / (height * 0.5)
+            c = lerp_color((60, 10, 60), ((5, 0, 15)), t)
+        draw.line([(0, y), (width, y)], fill=c)
+
+
+def draw_cottage(draw: ImageDraw, width: int, height: int) -> None:
+    """Draw a small crooked cottage at the forest edge."""
+    cx, cy = width // 2, int(height * 0.55)
+    w, h = 200, 160
+
+    # Main body
+    draw.rectangle([cx - w // 2, cy - h // 2, cx + w // 2, cy + h // 2], fill=(30, 20, 15))
+
+    # Roof
+    draw.polygon([(cx - w // 2 - 20, cy - h // 2), (cx, cy - h // 2 - 80), (cx + w // 2 + 20, cy - h // 2)], fill=(60, 30, 20))
+
+    # Door
+    draw.rectangle([cx - 20, cy - 10, cx + 20, cy + h // 2], fill=(50, 35, 25))
+    draw.ellipse([cx + 12, cy + 30, cx + 18, cy + 36], fill=(255, 200, 100))
+
+    # Window (glowing)
+    draw.rectangle([cx - 60, cy - 40, cx - 25, cy - 5], fill=(255, 220, 100))
+    draw.rectangle([cx - 60, cy - 40, cx - 25, cy - 5], fill=(255, 220, 100, 80))
+
+    # Window glow effect
+    for i in range(3):
+        draw.rectangle(
+            [cx - 60 - i, cy - 40 - i, cx - 25 + i, cy - 5 + i],
+            outline=(255, 220, 100, 40 // (i + 1)),
+            width=1,
+        )
+
+    # Chimney
+    draw.rectangle([cx + 40, cy - h // 2 - 60, cx + 60, cy - h // 2 - 10], fill=(40, 25, 20))
+    # Smoke
+    draw.ellipse([cx + 45, cy - h // 2 - 80, cx + 65, cy - h // 2 - 60], fill=(180, 180, 190, 60))
+    draw.ellipse([cx + 55, cy - h // 2 - 100, cx + 80, cy - h // 2 - 75], fill=(160, 160, 170, 40))
+
+    # Fence
+    for fx in range(cx - 140, cx + 160, 30):
+        if abs(fx - cx) < 100:
+            continue
+        draw.rectangle([fx, cy + h // 2 - 10, fx + 6, cy + h // 2 + 50], fill=(40, 30, 20))
+
+
+def draw_trees(draw: ImageDraw, width: int, height: int) -> None:
+    """Draw stylized twisted trees flanking the scene."""
+    tree_positions = [
+        (100, height * 0.4, 2.2),
+        (250, height * 0.35, 1.8),
+        (width - 100, height * 0.38, 2.0),
+        (width - 250, height * 0.32, 1.6),
+        (50, height * 0.55, 1.4),
+        (width - 50, height * 0.5, 1.5),
+    ]
+
+    for tx, ty, scale in tree_positions:
+        trunk_h = int(180 * scale)
+        trunk_w = int(20 * scale)
+        # Trunk
+        draw.rectangle([tx - trunk_w // 2, int(ty - trunk_h), tx + trunk_w // 2, int(ty)], fill=(15, 10, 8))
+        # Branches
+        for bx in range(-1, 2):
+            br_y = int(ty - trunk_h * 0.4 + bx * 40 * scale)
+            draw.line(
+                [tx, br_y, tx - int(60 * scale * bx), br_y - int(30 * scale)], fill=(15, 10, 8), width=int(4 * scale)
+            )
+        # Canopy
+        draw.ellipse(
+            [
+                tx - int(80 * scale),
+                int(ty - trunk_h - 60 * scale),
+                tx + int(80 * scale),
+                int(ty - trunk_h + 10 * scale),
+            ],
+            fill=(5, 20, 10),
+        )
+        draw.ellipse(
+            [
+                tx - int(60 * scale) - 20,
+                int(ty - trunk_h - 40 * scale),
+                tx + int(60 * scale) + 20,
+                int(ty - trunk_h + 20 * scale),
+            ],
+            fill=(8, 25, 12),
+        )
+
+
+def draw_glowing_flowers(draw: ImageDraw, width: int, height: int) -> None:
+    """Draw small glowing flowers/light particles across the lower forest."""
+    import random
+
+    rng = random.Random(42)
+    for _ in range(120):
+        x = rng.randint(50, width - 50)
+        y = rng.randint(int(height * 0.4), int(height * 0.7))
+        size = rng.randint(3, 8)
+        # Glow color: green or violet
+        if rng.random() < 0.5:
+            color = (100, 255, 150, 180)
+            glow = (60, 200, 100, 60)
+        else:
+            color = (200, 100, 255, 180)
+            glow = (150, 50, 200, 60)
+
+        # Outer glow
+        draw.ellipse([x - size * 2, y - size * 2, x + size * 2, y + size * 2], fill=glow)
+        # Inner flower
+        draw.ellipse([x - size // 2, y - size // 2, x + size // 2, y + size // 2], fill=color)
+        # Center
+        draw.ellipse([x - 1, y - 1, x + 1, y + 1], fill=(255, 255, 255, 200))
+
+
+def draw_thorns(draw: ImageDraw, width: int, height: int) -> None:
+    """Draw black thorn vines creeping from the edges."""
+    import random
+
+    rng = random.Random(7)
+
+    # Bottom left thorns
+    for i in range(8):
+        start_x = rng.randint(-20, 200)
+        start_y = rng.randint(int(height * 0.6), height)
+        end_x = start_x + rng.randint(100, 400)
+        end_y = start_y - rng.randint(100, 300)
+        points = []
+        steps = 20
+        for s in range(steps + 1):
+            t = s / steps
+            x = start_x + (end_x - start_x) * t + rng.randint(-20, 20)
+            y = start_y + (end_y - start_y) * t + rng.randint(-15, 15)
+            points.append((x, y))
+        draw.line(points, fill=(10, 5, 15), width=rng.randint(3, 8))
+
+    # Bottom right thorns
+    for i in range(8):
+        start_x = width - rng.randint(-20, 200)
+        start_y = rng.randint(int(height * 0.6), height)
+        end_x = start_x - rng.randint(100, 400)
+        end_y = start_y - rng.randint(100, 300)
+        points = []
+        steps = 20
+        for s in range(steps + 1):
+            t = s / steps
+            x = start_x + (end_x - start_x) * t + rng.randint(-20, 20)
+            y = start_y + (end_y - start_y) * t + rng.randint(-15, 15)
+            points.append((x, y))
+        draw.line(points, fill=(10, 5, 15), width=rng.randint(3, 8))
+
+
+def draw_title_panel(draw: ImageDraw, draw_img: ImageDraw, width: int, height: int, font_paths: dict) -> None:
+    """Draw a light rectangular title panel at the bottom of the cover."""
+    panel_top = TITLE_PANEL_TOP
+
+    # Panel background - semi-transparent light rectangle
+    draw.rectangle([(0, panel_top), (width, height)], fill=(220, 215, 205, 200))
+
+    # Add a subtle border at top of panel
+    draw.line([(0, panel_top), (width, panel_top)], fill=(180, 170, 155), width=2)
+
+    # Title text
+    title = "The Witch of\nThornwood Hollow"
+    title_font_size = 72
+    try:
+        title_font = ImageFont.truetype(str(font_paths["title"]), title_font_size)
+    except Exception:
+        title_font = ImageFont.load_default()
+
+    # Draw title centered
+    lines = title.split("\n")
+    y_offset = panel_top + 80
+    for line in lines:
+        try:
+            bbox = draw.textbbox((0, 0), line, font=title_font)
+            tw = bbox[2] - bbox[0]
+        except Exception:
+            tw = 0
+        tx = (width - tw) // 2
+        draw.text((tx, y_offset), line, fill=(30, 25, 40), font=title_font)
+        y_offset += 90
+
+    # Author name
+    author = "Barış Kısır"
+    author_font_size = 36
+    try:
+        author_font = ImageFont.truetype(str(font_paths["author"]), author_font_size)
+    except Exception:
+        author_font = ImageFont.load_default()
+
+    try:
+        abbox = draw.textbbox((0, 0), author, font=author_font)
+        aw = abbox[2] - abbox[0]
+    except Exception:
+        aw = 0
+    ax = (width - aw) // 2
+    ay = y_offset + 40
+    draw.text((ax, ay), author, fill=(60, 55, 70), font=author_font)
+
+
+def create_cover(metadata_path: Path, output_path: Path) -> None:
+    metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
+    title = metadata.get("title", "The Witch of Thornwood Hollow")
+    author = metadata.get("author", "Barış Kısır")
+    model = metadata.get("model", "")
+
+    img = Image.new("RGBA", (WIDTH, HEIGHT), (0, 0, 0, 255))
+    draw = ImageDraw.Draw(img)
+
+    for y in range(HEIGHT):
+        if y < HEIGHT * 0.5:
+            t = y / (HEIGHT * 0.5)
+            c = lerp_color((10, 40, 20), (60, 10, 60), t)
+        else:
+            t = (y - HEIGHT * 0.5) / (HEIGHT * 0.5)
+            c = lerp_color((60, 10, 60), (5, 0, 15), t)
+        draw.line([(0, y), (WIDTH, y)], fill=c)
+
+    rng_tree = random.Random("thornwood-trees")
+    for tx, ty, sc in [(100, HEIGHT * 0.4, 2.2), (250, HEIGHT * 0.35, 1.8), (WIDTH - 100, HEIGHT * 0.38, 2.0), (WIDTH - 250, HEIGHT * 0.32, 1.6)]:
+        th = int(180 * sc)
+        draw.line([(tx, int(ty)), (tx, int(ty - th))], fill=(15, 10, 8), width=int(20 * sc))
+        draw.ellipse([tx - int(80 * sc), int(ty - th - 60 * sc), tx + int(80 * sc), int(ty - th + 10 * sc)], fill=(5, 20, 10))
+        draw.ellipse([tx - int(60 * sc) - 20, int(ty - th - 40 * sc), tx + int(60 * sc) + 20, int(ty - th + 20 * sc)], fill=(8, 25, 12))
+
+    cx, cy = WIDTH // 2, int(HEIGHT * 0.55)
+    draw.rectangle([cx - 100, cy - 80, cx + 100, cy + 80], fill=(30, 20, 15))
+    draw.polygon([(cx - 120, cy - 80), (cx, cy - 160), (cx + 120, cy - 80)], fill=(60, 30, 20))
+    draw.rectangle([cx - 20, cy - 10, cx + 20, cy + 80], fill=(50, 35, 25))
+    draw.ellipse([cx + 12, cy + 30, cx + 18, cy + 36], fill=(255, 200, 100))
+    draw.rectangle([cx - 60, cy - 40, cx - 25, cy - 5], fill=(255, 220, 100))
+    win_glow = Image.new("RGBA", (WIDTH, HEIGHT), (0, 0, 0, 0))
+    wg = ImageDraw.Draw(win_glow)
+    wg.ellipse([cx - 100, cy - 80, cx + 20, cy + 20], fill=(255, 220, 100, 20))
+    win_glow = win_glow.filter(ImageFilter.GaussianBlur(15))
+    img = Image.alpha_composite(img, win_glow)
+
+    rng_flower = random.Random(42)
+    for _ in range(120):
+        fx = rng_flower.randint(50, WIDTH - 50)
+        fy = rng_flower.randint(int(HEIGHT * 0.4), int(HEIGHT * 0.7))
+        fs = rng_flower.randint(3, 8)
+        if rng_flower.random() < 0.5:
+            fc = (100, 255, 150, 180)
+            fg = (60, 200, 100, 60)
+        else:
+            fc = (200, 100, 255, 180)
+            fg = (150, 50, 200, 60)
+        draw.ellipse([fx - fs * 2, fy - fs * 2, fx + fs * 2, fy + fs * 2], fill=fg)
+        draw.ellipse([fx - fs // 2, fy - fs // 2, fx + fs // 2, fy + fs // 2], fill=fc)
+
+    rng_thorn = random.Random(7)
+    for _ in range(8):
+        sx = rng_thorn.randint(-20, 200)
+        sy = rng_thorn.randint(int(HEIGHT * 0.6), HEIGHT)
+        ex = sx + rng_thorn.randint(100, 400)
+        ey = sy - rng_thorn.randint(100, 300)
+        points = []
+        for s in range(21):
+            t = s / 20
+            px = sx + (ex - sx) * t + rng_thorn.randint(-20, 20)
+            py = sy + (ey - sy) * t + rng_thorn.randint(-15, 15)
+            points.append((px, py))
+        draw.line(points, fill=(10, 5, 15), width=rng_thorn.randint(3, 8))
+    for _ in range(8):
+        sx = WIDTH - rng_thorn.randint(-20, 200)
+        sy = rng_thorn.randint(int(HEIGHT * 0.6), HEIGHT)
+        ex = sx - rng_thorn.randint(100, 400)
+        ey = sy - rng_thorn.randint(100, 300)
+        points = []
+        for s in range(21):
+            t = s / 20
+            px = sx + (ex - sx) * t + rng_thorn.randint(-20, 20)
+            py = sy + (ey - sy) * t + rng_thorn.randint(-15, 15)
+            points.append((px, py))
+        draw.line(points, fill=(10, 5, 15), width=rng_thorn.randint(3, 8))
+
+    img = img.filter(ImageFilter.SMOOTH)
+
+    _draw_standard_cover_title_panel(img, _standard_cover_resolve_title(locals()), _standard_cover_resolve_author(locals()), model)
+    img.save(output_path, "PNG")
+    print(f"Cover saved to {output_path}")
+
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--metadata", required=True, type=Path)
+    parser.add_argument("--out", required=True, type=Path)
+    args = parser.parse_args()
+
+    metadata_path = rel(args.metadata)
+    output_path = rel(args.out)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    create_cover(metadata_path, output_path)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,45 @@
+{
+  "title": "The Glass Cockpit",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Aviation Thriller",
+  "subgenre": "Disaster / Investigation Thriller",
+  "language": "en",
+  "short_description": "A veteran captain saves a crippled airliner, but when the flight data contradicts her memory, she and an NTSB investigator uncover a software fault and a corporate cover-up someone will kill to keep buried.",
+  "long_description": "When Captain Dana Reyes brings a dual-engine emergency down onto a short, rain-slicked runway and saves all one hundred and twelve people aboard Cardinal Flight 1149, she is hailed as a hero. Then the flight-data recorder is read out, and the numbers tell a story she does not recognize: the engines never failed, and her own control inputs look like the work of a panicked amateur. Dana knows what she felt in her hands. The airplane fought her. But the box that should exonerate her is the box that damns her.\n\nNTSB investigator Marcus Bell refuses to sign the easy finding. With Dana's young first officer Theo Okafor — a former software engineer who can read the seam between what a machine records and what a body knows — the investigation follows the discrepancy into the avionics: a flight-control computer that, under a rare sensor disagreement, commands the opposite of the pilot. The fault was found eighteen months earlier by an engineer named Priya Anand, flagged, and deferred to meet a delivery deadline. Now the manufacturer's fixer, Glen Voss, is scrubbing logs, threatening witnesses, and setting fires to keep a fleet in the sky.\n\nThe Glass Cockpit is a tense, technical-but-human thriller told partly in the cockpit and partly in the investigation room — about the deadly arithmetic of deadlines over safety, the people who decide rare means impossible, and a captain who has to learn whether to trust her own hands or the machine, when the answer is both.",
+  "main_characters": [
+    "Captain Dana Reyes — Veteran airline captain whose memory of the flight cannot be reconciled with the recorded data",
+    "First Officer Theo Okafor — Young pilot and former software engineer who reconstructs the missing command channel",
+    "Marcus Bell — Methodical NTSB investigator-in-charge who refuses the easy answer",
+    "Sondra Mehta — Halcyon VP of engineering who signed the deferral and must decide what she is",
+    "Glen Voss — Halcyon's chief counsel and fixer, who solves problems that won't stay solved",
+    "Priya Anand — Software engineer who flagged the fault eighteen months before the crash",
+    "Carl Reyes — Dana's husband, holding the line at home",
+    "Ed Lindqvist — Retired test pilot and Dana's old mentor"
+  ],
+  "keywords": [
+    "aviation thriller",
+    "disaster thriller",
+    "investigation thriller",
+    "ntsb",
+    "flight data recorder",
+    "airline captain",
+    "software fault",
+    "corporate cover-up",
+    "cockpit",
+    "plane crash",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Glass_Cockpit/txt/The_Glass_Cockpit.txt",
+  "EPUB_path": "books/The_Glass_Cockpit/epub/The_Glass_Cockpit.epub",
+  "cover_path": "books/The_Glass_Cockpit/covers/The_Glass_Cockpit.png",
+  "outline_path": "books/The_Glass_Cockpit/planning/The_Glass_Cockpit_outline.md",
+  "cover_script_path": "books/The_Glass_Cockpit/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10893
+  }
+}

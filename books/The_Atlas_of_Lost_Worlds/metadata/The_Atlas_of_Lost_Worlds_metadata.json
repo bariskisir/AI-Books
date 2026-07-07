@@ -1,0 +1,48 @@
+{
+  "title": "The Atlas of Lost Worlds",
+  "number": 1,
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Fantasy",
+  "subgenre": "Cartographic Fantasy / Reality-bending adventure",
+  "language": "en",
+  "target_word_count": 100000,
+  "planned_chapters": 50,
+  "word_count": 28820,
+  "short_description": "A cartographer inherits an impossible atlas that maps worlds erased from reality, and must restore them before they are lost forever.",
+  "long_description": "Elara Voss, a precise and grieving cartographer, inherits her late grandfather's workshop and discovers an unfinished atlas that maps cities, ports, and settlements that no historical record confirms. As she follows his coordinates, she finds places that have been erased from reality itself—not destroyed, but removed from the fabric of existence. With the help of an archivist, a climate scientist, and a mute girl carrying a compass that points nowhere, Elara must navigate the white margins between mapped and unmapped worlds. But each restoration costs her something real, and the atlas is adding new pages faster than she can chart them. The novel explores memory, loss, and the courage to map what others have forgotten.",
+  "main_characters": [
+    "Elara Voss",
+    "Tobias Wren",
+    "Iris Calder",
+    "Marcus Fell",
+    "Sable",
+    "Dr. Harlan Voss",
+    "The Keeper of Margins",
+    "Juno Albrecht",
+    "Cassius Bell",
+    "Wren Alcott"
+  ],
+  "keywords": [
+    "cartography",
+    "fantasy",
+    "lost worlds",
+    "atlas",
+    "reality",
+    "erasure",
+    "memory",
+    "discovery",
+    "adventure",
+    "mystery"
+  ],
+  "TXT_path": "books/The_Atlas_of_Lost_Worlds/txt/The_Atlas_of_Lost_Worlds.txt",
+  "cover_path": "books/The_Atlas_of_Lost_Worlds/covers/The_Atlas_of_Lost_Worlds.png",
+  "EPUB_path": "books/The_Atlas_of_Lost_Worlds/epub/The_Atlas_of_Lost_Worlds.epub",
+  "status": "completed",
+  "outline_path": "books/The_Atlas_of_Lost_Worlds/planning/The_Atlas_of_Lost_Worlds_outline.md",
+  "cover_script_path": "books/The_Atlas_of_Lost_Worlds/tools/create_cover.py",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 28799
+  }
+}

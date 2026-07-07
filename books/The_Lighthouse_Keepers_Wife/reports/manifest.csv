@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Lighthouse_Keepers_Wife/planning/The_Lighthouse_Keepers_Wife_outline.md,,markdown,deepseek-v4-flash
+The_Lighthouse_Keepers_Wife/txt/The_Lighthouse_Keepers_Wife.txt,,text,deepseek-v4-flash
+The_Lighthouse_Keepers_Wife/metadata/The_Lighthouse_Keepers_Wife_metadata.json,,,deepseek-v4-flash
+The_Lighthouse_Keepers_Wife/tools/create_cover.py,,python,deepseek-v4-flash
+The_Lighthouse_Keepers_Wife/covers/The_Lighthouse_Keepers_Wife.png,,png,deepseek-v4-flash
+The_Lighthouse_Keepers_Wife/tools/build_epub.py,,python,deepseek-v4-flash
+The_Lighthouse_Keepers_Wife/epub/The_Lighthouse_Keepers_Wife.epub,,epub,deepseek-v4-flash
+The_Lighthouse_Keepers_Wife/README.md,,markdown,deepseek-v4-flash
+The_Lighthouse_Keepers_Wife/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Lighthouse_Keepers_Wife/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Lighthouse_Keepers_Wife/reports/progress.md,,markdown,deepseek-v4-flash

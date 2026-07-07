@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Bitter_Wind/planning/The_Bitter_Wind_outline.md,,markdown,deepseek-v4-flash
+The_Bitter_Wind/txt/The_Bitter_Wind.txt,,text,deepseek-v4-flash
+The_Bitter_Wind/metadata/The_Bitter_Wind_metadata.json,,,deepseek-v4-flash
+The_Bitter_Wind/tools/create_cover.py,,python,deepseek-v4-flash
+The_Bitter_Wind/covers/The_Bitter_Wind.png,,png,deepseek-v4-flash
+The_Bitter_Wind/tools/build_epub.py,,python,deepseek-v4-flash
+The_Bitter_Wind/epub/The_Bitter_Wind.epub,,epub,deepseek-v4-flash
+The_Bitter_Wind/README.md,,markdown,deepseek-v4-flash
+The_Bitter_Wind/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Bitter_Wind/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Bitter_Wind/reports/progress.md,,markdown,deepseek-v4-flash

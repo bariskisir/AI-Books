@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Vegetarians_Wife/planning/The_Vegetarians_Wife_outline.md,,markdown,deepseek-v4-flash
+The_Vegetarians_Wife/txt/The_Vegetarians_Wife.txt,,text,deepseek-v4-flash
+The_Vegetarians_Wife/metadata/The_Vegetarians_Wife_metadata.json,,json,deepseek-v4-flash
+The_Vegetarians_Wife/tools/create_cover.py,,python,deepseek-v4-flash
+The_Vegetarians_Wife/covers/The_Vegetarians_Wife.png,,png,deepseek-v4-flash
+The_Vegetarians_Wife/tools/build_epub.py,,python,deepseek-v4-flash
+The_Vegetarians_Wife/epub/The_Vegetarians_Wife.epub,,epub,deepseek-v4-flash
+The_Vegetarians_Wife/README.md,,markdown,deepseek-v4-flash
+The_Vegetarians_Wife/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Vegetarians_Wife/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Vegetarians_Wife/reports/progress.md,,markdown,deepseek-v4-flash

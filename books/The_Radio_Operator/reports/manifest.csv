@@ -1,0 +1,12 @@
+path,size,type,model
+The_Radio_Operator/planning/The_Radio_Operator_outline.md,3179,text/markdown,deepseek-v4-flash
+The_Radio_Operator/txt/The_Radio_Operator.txt,55358,text/plain,deepseek-v4-flash
+The_Radio_Operator/metadata/The_Radio_Operator_metadata.json,1213,application/json,deepseek-v4-flash
+The_Radio_Operator/tools/build_epub.py,6970,text/x-python,deepseek-v4-flash
+The_Radio_Operator/tools/create_cover.py,8058,text/x-python,deepseek-v4-flash
+The_Radio_Operator/covers/The_Radio_Operator.png,53464,image/png,deepseek-v4-flash
+The_Radio_Operator/epub/The_Radio_Operator.epub,157498,application/epub+zip,deepseek-v4-flash
+The_Radio_Operator/README.md,801,text/markdown,deepseek-v4-flash
+The_Radio_Operator/reports/final_report.md,903,text/markdown,deepseek-v4-flash
+The_Radio_Operator/reports/manifest.csv,567,text/csv,deepseek-v4-flash
+The_Radio_Operator/reports/progress.md,566,text/markdown,deepseek-v4-flash

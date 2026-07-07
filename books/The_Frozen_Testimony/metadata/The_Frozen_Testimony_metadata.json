@@ -1,0 +1,35 @@
+{
+  "TXT_path": "books/The_Frozen_Testimony/txt/The_Frozen_Testimony.txt",
+  "keywords": [
+    "cold case",
+    "detective",
+    "Maine",
+    "Portland",
+    "murder mystery",
+    "noir",
+    "conspiracy"
+  ],
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "short_description": "When a skeleton is unearthed beneath a frozen Portland waterfront, cold case detective Sarah Kincaid reopens a twenty-five-year-old conspiracy.",
+  "title": "The Frozen Testimony",
+  "subgenre": "Cold Case Mystery",
+  "long_description": "When construction workers unearth a skeleton beneath a condemned warehouse on Portland's frozen waterfront, cold case detective Sarah Kincaid identifies the remains as Caleb Foster, a teenager who vanished on New Year's Eve 1999. The original case was closed as a runaway, but the condition of the bones tells a different story. As Sarah reopens the investigation, she discovers the warehouse was owned by a shell company linked to the victim's family real estate firm, and the original investigation was systematically compromised. The deeper she digs, the more she uncovers a twenty-five-year conspiracy involving insurance arson, corrupt city officials, and a killer who has lived openly in the victim's shadow.",
+  "EPUB_path": "books/The_Frozen_Testimony/epub/The_Frozen_Testimony.epub",
+  "status": "completed",
+  "main_characters": [
+    "Sarah Kincaid",
+    "Marcus Webb",
+    "Dr. Lena Hart",
+    "Frank Delgado"
+  ],
+  "language": "en",
+  "genre": "Detective Noir",
+  "word_count": 28996,
+  "chapter_count": 51,
+  "cover_path": "books/The_Frozen_Testimony/covers/The_Frozen_Testimony.png",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 28996
+  }
+}

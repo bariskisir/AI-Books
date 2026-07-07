@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Fourth_Wall/planning/The_Fourth_Wall_outline.md,,markdown,deepseek-v4-flash
+The_Fourth_Wall/txt/The_Fourth_Wall.txt,14134,text,deepseek-v4-flash
+The_Fourth_Wall/metadata/The_Fourth_Wall_metadata.json,,json,deepseek-v4-flash
+The_Fourth_Wall/tools/create_cover.py,,python,deepseek-v4-flash
+The_Fourth_Wall/covers/The_Fourth_Wall.png,229421,png,deepseek-v4-flash
+The_Fourth_Wall/tools/build_epub.py,,python,deepseek-v4-flash
+The_Fourth_Wall/epub/The_Fourth_Wall.epub,358330,epub,deepseek-v4-flash
+The_Fourth_Wall/README.md,,markdown,deepseek-v4-flash
+The_Fourth_Wall/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Fourth_Wall/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Fourth_Wall/reports/progress.md,,markdown,deepseek-v4-flash

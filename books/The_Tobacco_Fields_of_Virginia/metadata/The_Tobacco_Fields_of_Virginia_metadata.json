@@ -1,0 +1,54 @@
+{
+  "title": "The Tobacco Fields of Virginia",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Southern Gothic",
+  "language": "en",
+  "description": "Professor Simone Hayes returns to her rural Virginia hometown to bury her grandmother, only to be visited by the ghost of her grandmother demanding she find the unmarked grave of an enslaved ancestor buried somewhere in the tobacco fields. Racing against family silence and the tobacco company that now works the land, Simone must excavate the truth of her family's past and lay the dead to rest.",
+  "short_description": "A black professor returns to her Virginia hometown to bury her grandmother and confronts the ghost of an enslaved ancestor buried in an unmarked grave.",
+  "characters": {
+    "Dr. Simone Hayes": "A 38-year-old professor of African American Studies at Howard University who returns home for her grandmother's funeral and discovers she must find and rebury an enslaved ancestor.",
+    "Grandma Leona's Ghost": "The spirit of Simone's grandmother who appears after death to guide Simone toward finding the unmarked grave of Ezra, an enslaved ancestor.",
+    "Cousin Ray": "Simone's cousin who stayed in Virginia and runs an auto repair shop. He has known about the unmarked grave since childhood and helps Simone in her quest."
+  },
+  "keywords": [
+    "Southern Gothic",
+    "enslaved ancestors",
+    "tobacco fields",
+    "Virginia",
+    "family secrets",
+    "historical fiction",
+    "African American history",
+    "unmarked graves",
+    "ghosts",
+    "reparation",
+    "archaeology",
+    "ancestral memory"
+  ],
+  "paths": {
+    "root": "The_Tobacco_Fields_of_Virginia",
+    "planning": "books/The_Tobacco_Fields_of_Virginia/planning/The_Tobacco_Fields_of_Virginia_outline.md",
+    "manuscript": "books/The_Tobacco_Fields_of_Virginia/txt/The_Tobacco_Fields_of_Virginia.txt",
+    "epub": "books/The_Tobacco_Fields_of_Virginia/epub/The_Tobacco_Fields_of_Virginia.epub",
+    "cover": "books/The_Tobacco_Fields_of_Virginia/covers/The_Tobacco_Fields_of_Virginia.png",
+    "metadata": "books/The_Tobacco_Fields_of_Virginia/metadata/The_Tobacco_Fields_of_Virginia_metadata.json",
+    "cover_script": "books/The_Tobacco_Fields_of_Virginia/tools/create_cover.py",
+    "build_script": "books/The_Tobacco_Fields_of_Virginia/tools/build_epub.py"
+  },
+  "statistics": {
+    "chapter_count": 50,
+    "word_count": 15149,
+    "reading_time_minutes": 61
+  },
+  "status": "completed",
+  "date_completed": "2026-06-03",
+  "subgenre": "Southern Gothic",
+  "long_description": "A Black professor returns to her Virginia hometown to bury her grandmother and finds herself pulled into a buried family history rooted in tobacco fields, unmarked graves, and the legacy of slavery. What begins as a funeral becomes an investigation into land, memory, and the ancestor whose presence refuses to stay hidden.\n\nThe Tobacco Fields of Virginia is a Southern Gothic novel about inheritance, truth-telling, and the cost of bringing buried history into the light.",
+  "cover_path": "books/The_Tobacco_Fields_of_Virginia/covers/The_Tobacco_Fields_of_Virginia.png",
+  "EPUB_path": "books/The_Tobacco_Fields_of_Virginia/epub/The_Tobacco_Fields_of_Virginia.epub",
+  "TXT_path": "books/The_Tobacco_Fields_of_Virginia/txt/The_Tobacco_Fields_of_Virginia.txt",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 15149
+  }
+}

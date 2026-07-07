@@ -1,0 +1,51 @@
+{
+  "title": "The Rust Colossus",
+  "author": "Barış Kısır",
+  "genre": "Dieselpunk",
+  "subgenre": "Alternate History / War Fiction",
+  "language": "en",
+  "model": "deepseek-v4-flash",
+  "short_description": "In an alternate 1930s where the Great War never ended, the crew of an armored train discovers a doomsday weapon hidden in their engine and must choose between duty and conscience.",
+  "long_description": "The Great War never ended. Across a poisoned continent, armies fight from massive armored trains crawling through the Ash Sea — a wasteland of chemical fog, rusting wreckage, and permanent twilight. The Rust Colossus is one such train, a battered warhorse held together by the genius of its chief engineer and the stubborn will of its captain.\n\nWhen Anya Petrova discovers hidden schematics for a resonance engine — a weapon capable of leveling cities with seismic waves — she and Captain Elias Kovac face an impossible choice. Deliver the weapon to their corrupt commanders and prolong a war that has already consumed a generation, or destroy the plans and become fugitives hunted by both sides.\n\nPursued across the desolate Ash Sea by relentless enemies and their own former allies, the crew of the Rust Colossus races toward the legendary Foundry of Iron Dreams — the weapon's birthplace — where they will face a final reckoning that could end the war or extinguish all hope.",
+  "main_characters": [
+    "Elias Kovac — The scarred veteran captain of the Rust Colossus",
+    "Anya Petrova — The brilliant chief engineer who discovers the hidden weapon schematics",
+    "Mason Dryden — The guilt-ridden navigator who deserted the Coalition after a massacre",
+    "Sergeant Vera Harlow — The gunnery chief seeking justice for her brother's death",
+    "Dr. Julian Cross — The captured physicist who helped conceive the Resonance Engine"
+  ],
+  "keywords": [
+    "dieselpunk",
+    "alternate history",
+    "armored train",
+    "ash sea",
+    "resonance engine",
+    "war",
+    "1930s",
+    "fugitives",
+    "doomsday weapon",
+    "foundry of iron dreams",
+    "military science fiction",
+    "diesel era",
+    "fighting trains"
+  ],
+  "TXT_path": "books/The_Rust_Colossus/txt/The_Rust_Colossus.txt",
+  "EPUB_path": "books/The_Rust_Colossus/epub/The_Rust_Colossus.epub",
+  "status": "completed",
+  "paths": {
+    "outline": "books/The_Rust_Colossus/planning/The_Rust_Colossus_outline.md",
+    "manuscript": "books/The_Rust_Colossus/txt/The_Rust_Colossus.txt",
+    "cover": "books/The_Rust_Colossus/covers/The_Rust_Colossus.png",
+    "epub": "books/The_Rust_Colossus/epub/The_Rust_Colossus.epub",
+    "metadata": "books/The_Rust_Colossus/metadata/The_Rust_Colossus_metadata.json",
+    "readme": "books/The_Rust_Colossus/README.md",
+    "create_cover": "books/The_Rust_Colossus/tools/create_cover.py"
+  },
+  "word_count": 21078,
+  "chapter_count": 50,
+  "cover_path": "books/The_Rust_Colossus/covers/The_Rust_Colossus.png",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20930
+  }
+}

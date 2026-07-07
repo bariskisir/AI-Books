@@ -1,0 +1,12 @@
+file,size_bytes,description,model
+The_Long_Count/planning/The_Long_Count_outline.md,2670,50-chapter outline with premise and cast,deepseek-v4-flash
+The_Long_Count/txt/The_Long_Count.txt,66442,Full 50-chapter manuscript (~12900 words),deepseek-v4-flash
+The_Long_Count/metadata/The_Long_Count_metadata.json,1097,Book metadata in JSON format,deepseek-v4-flash
+The_Long_Count/tools/build_epub.py,6521,EPUB 3 build script,deepseek-v4-flash
+The_Long_Count/tools/create_cover.py,4726,PIL cover generation script,deepseek-v4-flash
+The_Long_Count/covers/The_Long_Count.png,59919,1600x2560 cover image,deepseek-v4-flash
+The_Long_Count/epub/The_Long_Count.epub,179332,EPUB 3 ebook with cover,deepseek-v4-flash
+The_Long_Count/README.md,665,Book readme with cover and download link,deepseek-v4-flash
+The_Long_Count/reports/final_report.md,1302,Final completion report,deepseek-v4-flash
+The_Long_Count/reports/manifest.csv,554,File manifest (this file),deepseek-v4-flash
+The_Long_Count/reports/progress.md,24,Progress status,deepseek-v4-flash

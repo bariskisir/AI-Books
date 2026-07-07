@@ -1,0 +1,12 @@
+File,Size (bytes),Type,model
+The_Night_Market/planning/The_Night_Market_outline.md,,markdown,deepseek-v4-flash
+The_Night_Market/txt/The_Night_Market.txt,,text,deepseek-v4-flash
+The_Night_Market/metadata/The_Night_Market_metadata.json,,json,deepseek-v4-flash
+The_Night_Market/tools/build_epub.py,,python,deepseek-v4-flash
+The_Night_Market/tools/create_cover.py,,python,deepseek-v4-flash
+The_Night_Market/covers/The_Night_Market.png,,png,deepseek-v4-flash
+The_Night_Market/epub/The_Night_Market.epub,,epub,deepseek-v4-flash
+The_Night_Market/README.md,,markdown,deepseek-v4-flash
+The_Night_Market/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Night_Market/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Night_Market/reports/progress.md,,markdown,deepseek-v4-flash

@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Velvet_Underground/planning/The_Velvet_Underground_outline.md,7020,markdown,deepseek-v4-flash
+The_Velvet_Underground/txt/The_Velvet_Underground.txt,70117,text,deepseek-v4-flash
+The_Velvet_Underground/metadata/The_Velvet_Underground_metadata.json,2353,json,deepseek-v4-flash
+The_Velvet_Underground/tools/create_cover.py,9716,python,deepseek-v4-flash
+The_Velvet_Underground/covers/The_Velvet_Underground.png,159988,png,deepseek-v4-flash
+The_Velvet_Underground/tools/build_epub.py,8287,python,deepseek-v4-flash
+The_Velvet_Underground/epub/The_Velvet_Underground.epub,278084,epub,deepseek-v4-flash
+The_Velvet_Underground/README.md,247,markdown,deepseek-v4-flash
+The_Velvet_Underground/reports/final_report.md,823,markdown,deepseek-v4-flash
+The_Velvet_Underground/reports/manifest.csv,596,csv,deepseek-v4-flash
+The_Velvet_Underground/reports/progress.md,188,markdown,deepseek-v4-flash

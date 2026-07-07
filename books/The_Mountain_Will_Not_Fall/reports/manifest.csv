@@ -1,0 +1,13 @@
+file,size_bytes
+README.md,304
+covers/The_Mountain_Will_Not_Fall.png,163120
+epub/The_Mountain_Will_Not_Fall.epub,264267
+metadata/The_Mountain_Will_Not_Fall_metadata.json,2624
+planning/The_Mountain_Will_Not_Fall_outline.md,6417
+reports/final_report.md,2100
+reports/manifest.csv,396
+reports/progress.md,25
+tools/build_epub.py,8291
+tools/create_cover.py,6665
+txt/The_Mountain_Will_Not_Fall.txt,57525
+Model,deepseek-v4-flash

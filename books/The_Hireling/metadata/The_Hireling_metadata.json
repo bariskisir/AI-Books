@@ -1,0 +1,48 @@
+{
+  "title": "The Hireling",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Noir",
+  "subgenre": "War-time Conspiracy Thriller",
+  "language": "en",
+  "short_description": "A fixer in 1940s Casablanca is hired to find a missing woman — but every answer leads deeper into a conspiracy involving Vichy France and the Resistance.",
+  "long_description": "Casablanca, 1941. Remy Deschamps is a fixer who finds things, loses things, and makes problems disappear for the right price. When a French expatriate hires him to locate a missing woman named Leila Bensoussan, the case seems routine. But Leila is no ordinary missing person.\n\nShe is a Jewish schoolteacher carrying her father's secret testimony — a ledger that documents Vichy collaboration and the transport of prisoners to labor camps. Half of Casablanca wants her silenced: the German liaison Captain Dietrich, the Vichy Special Branch operative Georges Vernet, and a network of informants that stretches from the medina to the prefecture.\n\nInspector Marcel Roux, a Vichy officer with his own hidden calculus, shadows every move. The deeper Remy digs, the more the case closes around him. He must navigate a world of smoky cafes, back-alley safe houses, and mountain hideouts — all while deciding whether he is still a man who works for money, or something else entirely.\n\nThe Hireling is a historical noir of double crosses and divided loyalties, set against the simmering tension of wartime Casablanca.",
+  "main_characters": [
+    "Remy Deschamps — A fixer in Casablanca. Former soldier, former lover, current cynic.",
+    "Leila Bensoussan — The missing woman. A Jewish-Algerian schoolteacher turned Resistance Courier.",
+    "Inspector Marcel Roux — Vichy police inspector. A man of rules and rationed morality.",
+    "Lucien Moreau — The man who hires Remy. A French wine merchant with a hidden agenda.",
+    "Youssef Benali — A smuggler who knows every tunnel under the medina. Remy's oldest contact.",
+    "Captain Dietrich — A German liaison officer, cold and methodical.",
+    "Georges Vernet — Special Branch operative who does the prefecture's dirty work.",
+    "Marguerite Duvall — Owner of the Café de l'Oasis. Informant and broker.",
+    "Father Antoine — A priest whose confessional is a Resistance dead drop.",
+    "Simone Bensoussan — Leila's mother. A woman waiting for news."
+  ],
+  "keywords": [
+    "historical noir",
+    "casablanca",
+    "vichy france",
+    "resistance",
+    "missing woman",
+    "conspiracy",
+    "1940s",
+    "fixer",
+    "noir",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "world war ii",
+    "north africa"
+  ],
+  "TXT_path": "books/The_Hireling/txt/The_Hireling.txt",
+  "EPUB_path": "books/The_Hireling/epub/The_Hireling.epub",
+  "cover_path": "books/The_Hireling/covers/The_Hireling.png",
+  "outline_path": "books/The_Hireling/planning/The_Hireling_outline.md",
+  "cover_script_path": "books/The_Hireling/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12932
+  }
+}

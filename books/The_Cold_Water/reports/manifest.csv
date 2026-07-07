@@ -1,0 +1,12 @@
+file,size_bytes,description,model
+The_Cold_Water/txt/The_Cold_Water.txt,58244,Full manuscript (50 chapters),deepseek-v4-flash
+The_Cold_Water/epub/The_Cold_Water.epub,254947,EPUB 3 export,deepseek-v4-flash
+The_Cold_Water/covers/The_Cold_Water.png,158725,Cover image (1600x2560),deepseek-v4-flash
+The_Cold_Water/metadata/The_Cold_Water_metadata.json,1570,Production metadata,deepseek-v4-flash
+The_Cold_Water/planning/The_Cold_Water_outline.md,4981,50-chapter outline,deepseek-v4-flash
+The_Cold_Water/tools/build_epub.py,7444,EPUB build script,deepseek-v4-flash
+The_Cold_Water/tools/create_cover.py,7530,Cover generation script,deepseek-v4-flash
+The_Cold_Water/README.md,1498,Book README,deepseek-v4-flash
+The_Cold_Water/reports/final_report.md,1238,Final production report,deepseek-v4-flash
+The_Cold_Water/reports/manifest.csv,668,File manifest (this file),deepseek-v4-flash
+The_Cold_Water/reports/progress.md,654,Progress tracker,deepseek-v4-flash

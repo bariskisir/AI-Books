@@ -1,0 +1,12 @@
+file,status
+books/The_Fragile_Mind/planning/The_Fragile_Mind_outline.md,complete
+books/The_Fragile_Mind/txt/The_Fragile_Mind.txt,complete
+books/The_Fragile_Mind/covers/The_Fragile_Mind.png,complete
+books/The_Fragile_Mind/epub/The_Fragile_Mind.epub,complete
+books/The_Fragile_Mind/metadata/The_Fragile_Mind_metadata.json,complete
+books/The_Fragile_Mind/tools/build_epub.py,complete
+books/The_Fragile_Mind/tools/create_cover.py,complete
+books/The_Fragile_Mind/reports/final_report.md,complete
+books/The_Fragile_Mind/reports/manifest.csv,complete
+books/The_Fragile_Mind/reports/progress.md,complete
+books/The_Fragile_Mind/README.md,complete

@@ -1,0 +1,35 @@
+{
+  "TXT_path": "books/The_Concrete_Chorus/txt/The_Concrete_Chorus.txt",
+  "keywords": [
+    "urban fantasy",
+    "London",
+    "mythology",
+    "Gorgon",
+    "occult",
+    "creatures",
+    "sphinx"
+  ],
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "short_description": "When mythological creatures begin turning to stone across London, a disgraced occult investigator must uncover a conspiracy before the hidden world shatters.",
+  "title": "The Concrete Chorus",
+  "subgenre": "Mythological Creatures",
+  "long_description": "Disgraced occult investigator Leo Ashworth is pulled from self-imposed exile when mythological creatures begin turning to stone across London — victims petrified in poses of terror. He joins forces with folklore scholar Dr. Mira Chandrasekhar and the ancient sphinx Cassia Verney, Keeper of the Accord, to uncover a conspiracy. The killer is wielding the Aegis of Perseus, a mythical artifact that channels a modified Gorgon's curse, and the attacks are claimed by the First-Born — a purist faction who believe creatures should rule humanity. Racing against a deadline that threatens every creature in London, Leo must confront his own past failure and redeem himself before the hidden world is shattered forever.",
+  "EPUB_path": "books/The_Concrete_Chorus/epub/The_Concrete_Chorus.epub",
+  "status": "completed",
+  "main_characters": [
+    "Leo Ashworth",
+    "Dr. Mira Chandrasekhar",
+    "Cassia Verney",
+    "DCI Tom Fletcher"
+  ],
+  "language": "en",
+  "genre": "Urban Fantasy",
+  "word_count": 29066,
+  "chapter_count": 50,
+  "cover_path": "books/The_Concrete_Chorus/covers/The_Concrete_Chorus.png",
+  "stats": {
+    "total_chapters": 49,
+    "total_words": 29066
+  }
+}

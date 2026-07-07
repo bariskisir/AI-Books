@@ -1,0 +1,58 @@
+{
+  "title": "The House of Many Windows",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Architectural Thriller",
+  "language": "en",
+  "description": "An architect renovating a brutalist tower block realizes the building was designed as a surveillance device that sees into every home in the city.",
+  "long_description": "Iris, a young architect specializing in brutalist renovation, wins a commission to refurbish the Meridian Tower, a crumbling 1970s brutalist high-rise on the edge of the city. As she studies the original blueprints and walks the corridors, she discovers that the building's distinctive window grid, ventilation shafts, and structural core were not designed for aesthetics or efficiency. Every window, every angle, every reflective surface was calibrated to function as a monolithic surveillance instrument — a lens that sees into every home, every office, every private space in the surrounding city. The architect who designed it called it The Panopticon of the People. The developer who funded it is still alive. And someone is watching Iris through the very windows she is trying to save.",
+  "characters": [
+    {
+      "name": "Iris",
+      "role": "Protagonist",
+      "description": "A sharp, observant architect in her mid-30s who specializes in brutalist renovation. She is methodical, slightly withdrawn, and trusts what she can measure."
+    },
+    {
+      "name": "Elias Vancorp",
+      "role": "Antagonist",
+      "description": "The Developer. A reclusive real-estate mogul in his late 70s with a passion for early cybernetics and surveillance theory. He holds the original design patent for the Meridian Tower's observation system."
+    },
+    {
+      "name": "The Watchmaker",
+      "role": "Antagonist",
+      "description": "A faceless figure who maintains the Meridian Tower's hidden systems. He lives in the sub-basement and has been running the observation protocols for forty-seven years uninterrupted."
+    }
+  ],
+  "keywords": [
+    "architectural thriller",
+    "brutalist architecture",
+    "surveillance",
+    "conspiracy",
+    "urban mystery",
+    "optical systems",
+    "building renovation",
+    "dystopian",
+    "suspense",
+    "clockwork"
+  ],
+  "paths": {
+    "root": "The_House_of_Many_Windows",
+    "outline": "books/The_House_of_Many_Windows/planning/The_House_of_Many_Windows_outline.md",
+    "manuscript": "books/The_House_of_Many_Windows/txt/The_House_of_Many_Windows.txt",
+    "cover": "books/The_House_of_Many_Windows/covers/The_House_of_Many_Windows.png",
+    "epub": "books/The_House_of_Many_Windows/epub/The_House_of_Many_Windows.epub",
+    "metadata": "books/The_House_of_Many_Windows/metadata/The_House_of_Many_Windows_metadata.json"
+  },
+  "status": "completed",
+  "total_chapters": 50,
+  "word_count": 13660,
+  "subgenre": "Architectural Thriller",
+  "short_description": "A young architect discovers that a brutalist tower was designed as a city-sized surveillance instrument.",
+  "cover_path": "books/The_House_of_Many_Windows/covers/The_House_of_Many_Windows.png",
+  "EPUB_path": "books/The_House_of_Many_Windows/epub/The_House_of_Many_Windows.epub",
+  "TXT_path": "books/The_House_of_Many_Windows/txt/The_House_of_Many_Windows.txt",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13660
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "The Marginalia",
+  "author": "Barış Kısır",
+  "genre": "Medieval Manuscript Mystery",
+  "subgenre": "Literary Historical Thriller",
+  "language": "en",
+  "status": "completed",
+  "published_date": "2026-06-08",
+  "model": "haiku-4.5",
+  "short_description": "A young scribe discovers hidden messages in monastery manuscripts spanning centuries, revealing a seal beneath the crypt that must be maintained through a forgotten ritual.",
+  "long_description": "In 1482, Brother Anselm uncovers a conspiracy of silence hidden in the margins of ancient texts. Four hundred years of monks have been communicating across time, guarding a terrible secret: something ancient and sentient is sealed beneath the monastery's crypt, kept asleep through rituals passed down in secret. When the deadline for renewal approaches and the keeper of the rite is dying, Anselm must decide whether to take on a burden that will bind him to the monastery forever. A literary mystery about faith, duty, and the price of knowledge.\n\nThe Marginalia explores the question: What would you do to keep an ancient promise? How far would you go to guard a secret that predates civilization itself? Anselm's choice opens a window onto a hidden network of monasteries maintaining an impossible vigil, where silence is sacred and the watchfulness of humanity itself hangs in balance.",
+  "main_characters": [
+    "Brother Anselm - A meticulous scribe who discovers the monastery's secret",
+    "Brother Cassian - An 80-year-old guardian who carries the burden of knowledge",
+    "Abbot Joachim - The monastery's pragmatic leader caught between duty and crisis",
+    "Sister Katerina - A scholar from a sister convent who recognizes the danger",
+    "Marcus - A merchant and scholar searching for the sealed place for his own purposes"
+  ],
+  "keywords": [
+    "medieval",
+    "monastery",
+    "mystery",
+    "seal",
+    "ritual",
+    "duty",
+    "secret",
+    "scholarly",
+    "historical",
+    "literary fiction"
+  ],
+  "word_count": 36800,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Marginalia/txt/The_Marginalia.txt",
+  "EPUB_path": "books/The_Marginalia/epub/The_Marginalia.epub",
+  "paths": {
+    "outline": "books/The_Marginalia/planning/The_Marginalia_outline.md",
+    "manuscript": "books/The_Marginalia/txt/The_Marginalia.txt",
+    "epub": "books/The_Marginalia/epub/The_Marginalia.epub",
+    "cover": "books/The_Marginalia/covers/The_Marginalia.png",
+    "metadata": "books/The_Marginalia/metadata/The_Marginalia_metadata.json"
+  },
+  "cover_path": "books/The_Marginalia/covers/The_Marginalia.png",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10965
+  }
+}

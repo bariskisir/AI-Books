@@ -1,0 +1,34 @@
+{
+  "title": "The Garden of Unearthly Delights",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Biopunk",
+  "subgenre": "Biopunk",
+  "language": "en",
+  "short_description": "A biopunk novel about a black-market bio-artist, a conflicted regulator, and a dangerous collector.",
+  "long_description": "In a near-future where the Genetic Integrity Act prohibits all unauthorized gene-editing, Iris Vasquez runs a hidden studio where she grows living sculptures — chimeric organisms bred for beauty rather than utility. Each piece is a flowering, breathing artwork that can be killed by a single regulatory bullet. When Agent Elara Cross of the Bio-Regulation Bureau discovers Iris's work, she is ordered to destroy the garden and arrest its creator.\n\nBut Cross has seen too much beauty in the illegal forms to pull the trigger without hesitation. A wealthy patron known only as The Collector is willing to burn the city to possess what Iris has made, and Cross must choose between the institution she serves and the art she has come to protect. As Iris runs from both the law and the Collector's men, she creates her most ambitious piece yet — a flying chimeric moth with a nervous system capable of learning.\n\nThe Garden of Unearthly Delights is a story about creation and destruction, the cost of beauty, and the question of who gets to decide what deserves to live. It follows three characters on a collision course: an artist who would rather die than stop creating, a regulator who learns to see beyond the law, and a collector who will own everything or destroy it. The novel explores what happens when the most beautiful things in the world are also the most illegal.",
+  "main_characters": [
+    "Iris Vasquez",
+    "Agent Elara Cross",
+    "The Collector"
+  ],
+  "keywords": [
+    "biopunk",
+    "genetic engineering",
+    "bio-art",
+    "living sculpture",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Garden_of_Unearthly_Delights/txt/The_Garden_of_Unearthly_Delights.txt",
+  "EPUB_path": "books/The_Garden_of_Unearthly_Delights/epub/The_Garden_of_Unearthly_Delights.epub",
+  "cover_path": "books/The_Garden_of_Unearthly_Delights/covers/The_Garden_of_Unearthly_Delights.png",
+  "outline_path": "books/The_Garden_of_Unearthly_Delights/planning/The_Garden_of_Unearthly_Delights_outline.md",
+  "cover_script_path": "books/The_Garden_of_Unearthly_Delights/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12371
+  }
+}

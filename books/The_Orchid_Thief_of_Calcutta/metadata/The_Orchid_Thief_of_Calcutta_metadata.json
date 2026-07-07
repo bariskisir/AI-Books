@@ -1,0 +1,51 @@
+{
+  "title": "The Orchid Thief of Calcutta",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Colonial Adventure",
+  "language": "en",
+  "description": "In 1870s India, British botanist James Whitby and Bengali guide Priya Mukherjee race through the jungles of Assam to find a mythical orchid before a ruthless French collector can claim it. A story of obsession, trust, and the true cost of possession.",
+  "long_description": "Calcutta, 1875. British botanist James Whitby hears whispers of a legendary flower hidden deep in the Assam jungles — the Fire Orchid, said to bloom once every seven years with petals like living embers. The Royal Horticultural Society funds his expedition half-heartedly, expecting failure. But James hires Priya Mukherjee, a brilliant Bengali naturalist who knows the hills better than any European and carries her own secrets: her husband died searching for the same flower, and she has seen it with her own eyes. Racing against Marcel Dubois — the Collector — a French aristocrat with no scruples and unlimited resources, James and Priya navigate fever-haunted jungles, treacherous cliffs, and their own growing trust. The orchid is not merely a prize. It is a test of what they are willing to sacrifice.",
+  "characters": {
+    "James Whitby": "British botanist, Royal Horticultural Society fellow. Methodical, earnest, carrying colonial assumptions. Yearns for a career-defining discovery.",
+    "Priya Mukherjee": "Bengali naturalist and guide. Widow of botanist Anjan Mukherjee. Sharp-tongued, patient, deeply knowledgeable about native flora. Carries grief and a secret.",
+    "Marcel Dubois": "The Collector. French orchid hunter. Aristocratic, charming, ruthless. Has ruined lives across three continents for rare specimens."
+  },
+  "keywords": [
+    "orchid",
+    "Calcutta",
+    "Assam",
+    "colonial India",
+    "botany",
+    "expedition",
+    "jungle",
+    "Khasi Hills",
+    "fire orchid",
+    "French collector",
+    "British Raj",
+    "natural history"
+  ],
+  "paths": {
+    "root": "The_Orchid_Thief_of_Calcutta",
+    "outline": "books/The_Orchid_Thief_of_Calcutta/planning/The_Orchid_Thief_of_Calcutta_outline.md",
+    "manuscript": "books/The_Orchid_Thief_of_Calcutta/txt/The_Orchid_Thief_of_Calcutta.txt",
+    "cover": "books/The_Orchid_Thief_of_Calcutta/covers/The_Orchid_Thief_of_Calcutta.png",
+    "epub": "books/The_Orchid_Thief_of_Calcutta/epub/The_Orchid_Thief_of_Calcutta.epub",
+    "build_tool": "books/The_Orchid_Thief_of_Calcutta/tools/build_epub.py",
+    "cover_tool": "books/The_Orchid_Thief_of_Calcutta/tools/create_cover.py",
+    "metadata": "books/The_Orchid_Thief_of_Calcutta/metadata/The_Orchid_Thief_of_Calcutta_metadata.json"
+  },
+  "word_count": 13059,
+  "chapter_count": 50,
+  "status": "completed",
+  "created_date": "2026-06-03",
+  "TXT_path": "books/The_Orchid_Thief_of_Calcutta/txt/The_Orchid_Thief_of_Calcutta.txt",
+  "EPUB_path": "books/The_Orchid_Thief_of_Calcutta/epub/The_Orchid_Thief_of_Calcutta.epub",
+  "cover_path": "books/The_Orchid_Thief_of_Calcutta/covers/The_Orchid_Thief_of_Calcutta.png",
+  "subgenre": "Colonial Adventure",
+  "short_description": "In colonial India, rival orchid hunters race through Assam for a legendary flower that demands sacrifice.",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13059
+  }
+}

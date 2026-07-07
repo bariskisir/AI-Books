@@ -1,0 +1,41 @@
+{
+  "title": "The Cinder Queen",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dark Fantasy",
+  "subgenre": "Gothic fantasy / Sacrificial horror",
+  "language": "en",
+  "short_description": "A queen forged from ash and grief must decide whether to burn her kingdom to save it from an ancient evil.",
+  "long_description": "Queen Ashara rules a kingdom built on the ashes of her former life. Years ago, a wildfire consumed her family and her capital, leaving her sole monarch of a scorched realm. From that grief she forged a hard peace, ruling the Ashlands with General Thorn at her side and the memory of loss in every breath.\n\nWhen villages along the eastern ridge fall silent and an ancient consciousness known as the Whisperer begins to stir beneath Mount Veth, Ashara must confront a truth buried by three dynasties: the kingdom was built atop a prison. The Cinder Pact, a ritual of fire and royal blood, is the only thing holding the darkness at bay. But the seal is thinning, and the Whisperer is speaking.\n\nTo save her people, Ashara must uncover the forbidden texts, navigate the treacherous politics of a frightened court, and ultimately choose between two terrible fates: her own death by flame, or the destruction of everything she has sworn to protect. A literary dark fantasy novel about grief, duty, and the fire that waits in the heart of the mountain.",
+  "main_characters": [
+    "Queen Ashara",
+    "The Whisperer",
+    "General Thorn",
+    "Lira",
+    "Brother Malak",
+    "Captain Renfir"
+  ],
+  "keywords": [
+    "dark fantasy",
+    "gothic",
+    "sacrifice",
+    "queen",
+    "fire",
+    "ancient evil",
+    "grief",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Cinder_Queen/txt/The_Cinder_Queen.txt",
+  "EPUB_path": "books/The_Cinder_Queen/epub/The_Cinder_Queen.epub",
+  "cover_path": "books/The_Cinder_Queen/covers/The_Cinder_Queen.png",
+  "outline_path": "books/The_Cinder_Queen/planning/The_Cinder_Queen_outline.md",
+  "cover_script_path": "books/The_Cinder_Queen/tools/create_cover.py",
+  "word_count": 13213,
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13213
+  }
+}

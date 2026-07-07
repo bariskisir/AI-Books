@@ -1,0 +1,12 @@
+File,Size,Description,model
+The_Watcher_on_the_Wall/planning/The_Watcher_on_the_Wall_outline.md,8KB,Premise + cast + 50-chapter plan,deepseek-v4-flash
+The_Watcher_on_the_Wall/txt/The_Watcher_on_the_Wall.txt,9,815 words,deepseek-v4-flash
+The_Watcher_on_the_Wall/metadata/The_Watcher_on_the_Wall_metadata.json,4KB,Title/author/genre metadata,deepseek-v4-flash
+The_Watcher_on_the_Wall/tools/build_epub.py,12KB,EPUB 3 build script (Python),deepseek-v4-flash
+The_Watcher_on_the_Wall/tools/create_cover.py,8KB,Cover generation script (PIL/Python),deepseek-v4-flash
+The_Watcher_on_the_Wall/covers/The_Watcher_on_the_Wall.png,120KB,Cover image,deepseek-v4-flash
+The_Watcher_on_the_Wall/epub/The_Watcher_on_the_Wall.epub,220KB,Final EPUB 3 file,deepseek-v4-flash
+The_Watcher_on_the_Wall/README.md,4KB,Book landing page,deepseek-v4-flash
+The_Watcher_on_the_Wall/reports/final_report.md,4KB,Completion summary,deepseek-v4-flash
+The_Watcher_on_the_Wall/reports/manifest.csv,4KB,File inventory,deepseek-v4-flash
+The_Watcher_on_the_Wall/reports/progress.md,4KB,Chapter completion tracker,deepseek-v4-flash

@@ -1,0 +1,12 @@
+file,path,type,status
+Outline,books/The_Glass_Self/planning/The_Glass_Self_outline.md,markdown,complete
+Manuscript,books/The_Glass_Self/txt/The_Glass_Self.txt,plain text,complete
+Metadata,books/The_Glass_Self/metadata/The_Glass_Self_metadata.json,json,complete
+Cover PNG,books/The_Glass_Self/covers/The_Glass_Self.png,image/png,complete
+EPUB,books/The_Glass_Self/epub/The_Glass_Self.epub,epub,complete
+Build Script,books/The_Glass_Self/tools/build_epub.py,python,complete
+Cover Script,books/The_Glass_Self/tools/create_cover.py,python,complete
+Final Report,books/The_Glass_Self/reports/final_report.md,markdown,complete
+Manifest,books/The_Glass_Self/reports/manifest.csv,csv,complete
+Progress,books/The_Glass_Self/reports/progress.md,markdown,complete
+README,books/The_Glass_Self/README.md,markdown,complete

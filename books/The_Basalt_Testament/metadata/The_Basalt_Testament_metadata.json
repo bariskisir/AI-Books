@@ -1,0 +1,39 @@
+{
+  "title": "The Basalt Testament",
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Geological Probate Mystery",
+  "subgenre": "Island Commons Suspense",
+  "language": "en",
+  "short_description": "A probate investigator exposes a forged island testament through basalt flow evidence, tide ledgers, and quarry marks.",
+  "long_description": "A fisherman's late testament gives an island basalt quarry and common shore to a luxury developer. The paper looks proper, the signature looks plausible, and the probate clock is moving fast.\n\nNora Vale notices that the attached stone witness sample comes from the wrong lava flow. With a geologist, a harbor clerk, a quarry mason, a parish priest, and a village doctor, she follows basalt fractures, ash in a paper fold, tide entries, and funeral records to prove the document was made after death.\n\nThe Basalt Testament is a geological probate mystery about land held in common, grief made legal, and the hard evidence carried by stone.",
+  "main_characters": [
+    "Nora Vale",
+    "Dr. Selen Arda",
+    "Tomas Reed",
+    "Mira Holt",
+    "Cal Rusk",
+    "Father Iven Marr",
+    "Ada Pike",
+    "Leif Orin"
+  ],
+  "keywords": [
+    "geological forensics",
+    "probate mystery",
+    "basalt",
+    "volcanic island",
+    "common shore",
+    "forged testament",
+    "quarry evidence",
+    "tide ledger"
+  ],
+  "outline_path": "books/The_Basalt_Testament/planning/The_Basalt_Testament_outline.md",
+  "TXT_path": "books/The_Basalt_Testament/txt/The_Basalt_Testament.txt",
+  "EPUB_path": "books/The_Basalt_Testament/epub/The_Basalt_Testament.epub",
+  "cover_path": "books/The_Basalt_Testament/covers/The_Basalt_Testament.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 36216
+  }
+}

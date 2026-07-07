@@ -1,0 +1,37 @@
+{
+  "title": "The Unfortunate Mr. Quill",
+  "number": 17,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dark Comedy",
+  "subgenre": "Satire / Mistaken identity",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "A failed novelist fakes his own death to get attention — and accidentally becomes the most hunted man in England.",
+  "long_description": "Percival Quill has spent forty years writing novels that nobody reads. His solution: die dramatically and let posthumous fame finally find him. But when a detective who is his biggest fan proves the drowning was faked, a contract killer is dispatched by a wealthy man who believes Quill saw something he should not have, and the public falls in love with a dead man who will not stay dead — Quill discovers that being noticed is not the same as being known. A darkly comic satire about fame, failure, and the gap between the self we present and the self we are.",
+  "main_characters": [
+    "Percival Quill",
+    "Margo Quill",
+    "Detective Finch",
+    "Silas (the killer)",
+    "Mr. Ashford"
+  ],
+  "keywords": [
+    "dark comedy",
+    "satire",
+    "mistaken identity",
+    "failed novelist",
+    "fame",
+    "literary fiction"
+  ],
+  "TXT_path": "books/The_Unfortunate_Mr_Quill/txt/The_Unfortunate_Mr_Quill.txt",
+  "cover_path": "books/The_Unfortunate_Mr_Quill/covers/The_Unfortunate_Mr_Quill.png",
+  "EPUB_path": "books/The_Unfortunate_Mr_Quill/epub/The_Unfortunate_Mr_Quill.epub",
+  "word_count": 17583,
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 17577
+  }
+}

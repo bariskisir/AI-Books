@@ -1,0 +1,40 @@
+{
+  "title": "The Night Market",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Magical Realism",
+  "subgenre": "Literary Fantasy",
+  "language": "en",
+  "short_description": "Every full moon a mysterious market appears in a Filipino-American neighborhood selling things that don't exist by day.",
+  "long_description": "When Tomas arrives in Oakland to live with his grandmother Lola Esme after his mother's death, he discovers a strange empty lot near her house that hums with an energy he cannot explain. On the night of the full moon, the lot transforms into a market filled with impossible wares: bottled dreamlight, woven memories, second chances in hourglasses. The ageless Market Keeper offers Tomas a job tending the stalls, and he soon learns that his own mother was a customer in her final days.\n\nAs Tomas navigates the market's rules and befriends its vendors, he uncovers a family history entwined with the market's survival. His grandmother was once the Memory Peddler, weaving lost moments into cloth. His mother paid a terrible price for a gift meant for him. And the market itself is dying because fewer people believe in it. Tomas must decide how much he is willing to give to save the place that gave his mother peace, and whether he can find a way to carry the market forward without losing himself entirely.",
+  "main_characters": [
+    "Tomas",
+    "Lola Esme",
+    "The Market Keeper",
+    "The Memory Peddler",
+    "The Shadow Boy",
+    "Maya"
+  ],
+  "keywords": [
+    "magical realism",
+    "Filipino-American",
+    "Oakland",
+    "night market",
+    "grief",
+    "family secrets",
+    "memory",
+    "belief",
+    "literary fiction",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Night_Market/txt/The_Night_Market.txt",
+  "EPUB_path": "books/The_Night_Market/epub/The_Night_Market.epub",
+  "cover_path": "books/The_Night_Market/covers/The_Night_Market.png",
+  "outline_path": "books/The_Night_Market/planning/The_Night_Market_outline.md",
+  "cover_script_path": "books/The_Night_Market/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10275
+  }
+}

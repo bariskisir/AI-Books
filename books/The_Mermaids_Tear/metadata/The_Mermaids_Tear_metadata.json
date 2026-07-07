@@ -1,0 +1,45 @@
+{
+  "title": "The Mermaid's Tear",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Oceanic Adventure",
+  "subgenre": "Historical Adventure",
+  "language": "en",
+  "short_description": "A pearl diver in 1920s Indonesia discovers a pearl that glows with its own light and sets off a hunt involving pirates, colonial powers, and a legend.",
+  "long_description": "In 1924, deep in the Flores Sea of the Dutch East Indies, a young pearl diver named Suli brings up a pearl that glows with its own light. Word spreads across the archipelago, drawing a ruthless German treasure hunter, a conflicted local Raja caught between tradition and colonial power, and a band of Celebes pirates. As white sails appear on the horizon and competing claims collide, Suli must navigate treachery, legend, and the truth behind the Mermaid's Tear — a pearl said to be the frozen grief of a sea spirit who drowned for love.\n\nFrom the burning of his village to a desperate flight across open water, Suli discovers that the pearl's true power lies not in its value but in the choice of what to keep and what to return to the sea. The novel explores themes of colonialism, greed, and the cost of legend against the vivid backdrop of the Indonesian archipelago.",
+  "main_characters": [
+    "Suli — A pearl diver from Komodo Island who discovers the Mermaid's Tear",
+    "Captain Joachim Brandt — A German treasure hunter commanding the schooner Seeschlange",
+    "The Raja Alauddin — The Dutch-backed local ruler who sees the pearl as a symbol of independence",
+    "Ibrahim — Suli's elder brother, a pragmatic fisherman",
+    "Melati (Rajah Laut) — The pirate queen of the eastern passages",
+    "De Groot — The Dutch colonial agent on Flores",
+    "Tuan Khalid — An old pearl merchant who knows the legend"
+  ],
+  "keywords": [
+    "pearl diving",
+    "oceangoing adventure",
+    "1920s Indonesia",
+    "Dutch East Indies",
+    "pirates",
+    "colonial era",
+    "legend",
+    "glowing pearl",
+    "Flores Sea",
+    "treasure hunt",
+    "historical adventure",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Mermaids_Tear/txt/The_Mermaids_Tear.txt",
+  "EPUB_path": "books/The_Mermaids_Tear/epub/The_Mermaids_Tear.epub",
+  "cover_path": "books/The_Mermaids_Tear/covers/The_Mermaids_Tear.png",
+  "outline_path": "books/The_Mermaids_Tear/planning/The_Mermaids_Tear_outline.md",
+  "cover_script_path": "books/The_Mermaids_Tear/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11232
+  }
+}

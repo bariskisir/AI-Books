@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+Red_Weather/planning/Red_Weather_outline.md,,markdown,deepseek-v4-flash
+Red_Weather/txt/Red_Weather.txt,,text,deepseek-v4-flash
+Red_Weather/metadata/Red_Weather_metadata.json,,,deepseek-v4-flash
+Red_Weather/tools/create_cover.py,,python,deepseek-v4-flash
+Red_Weather/covers/Red_Weather.png,219657,png,deepseek-v4-flash
+Red_Weather/tools/build_epub.py,,python,deepseek-v4-flash
+Red_Weather/epub/Red_Weather.epub,327892,epub,deepseek-v4-flash
+Red_Weather/README.md,,markdown,deepseek-v4-flash
+Red_Weather/reports/final_report.md,,markdown,deepseek-v4-flash
+Red_Weather/reports/manifest.csv,,csv,deepseek-v4-flash
+Red_Weather/reports/progress.md,,markdown,deepseek-v4-flash

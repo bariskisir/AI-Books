@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Bureau_of_Small_Miracles/planning/The_Bureau_of_Small_Miracles_outline.md,5884,50-chapter outline
+books/The_Bureau_of_Small_Miracles/txt/The_Bureau_of_Small_Miracles.txt,213798,Expanded full TXT manuscript
+books/The_Bureau_of_Small_Miracles/epub/The_Bureau_of_Small_Miracles.epub,379030,Rebuilt EPUB export
+books/The_Bureau_of_Small_Miracles/covers/The_Bureau_of_Small_Miracles.png,116826,Cover image
+books/The_Bureau_of_Small_Miracles/metadata/The_Bureau_of_Small_Miracles_metadata.json,2059,Production metadata
+books/The_Bureau_of_Small_Miracles/reports/final_report.md,1112,Final validation report
+books/The_Bureau_of_Small_Miracles/reports/manifest.csv,1013,File manifest
+books/The_Bureau_of_Small_Miracles/reports/progress.md,1070,Progress log
+books/The_Bureau_of_Small_Miracles/tools/build_epub.py,8610,EPUB build script
+books/The_Bureau_of_Small_Miracles/tools/create_cover.py,11839,Cover generation script
+books/The_Bureau_of_Small_Miracles/README.md,2871,Per-book README

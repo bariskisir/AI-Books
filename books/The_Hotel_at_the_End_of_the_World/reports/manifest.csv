@@ -1,0 +1,12 @@
+File,Path,Size (KB),Status,Notes,model
+Outline,planning/The_Hotel_at_the_End_of_the_World_outline.md,5,complete,50 chapter plan,deepseek-v4-flash
+Manuscript,txt/The_Hotel_at_the_End_of_the_World.txt,82,complete,50 chapters,deepseek-v4-flash
+Metadata,metadata/The_Hotel_at_the_End_of_the_World_metadata.json,2,complete,,deepseek-v4-flash
+Cover,covers/The_Hotel_at_the_End_of_the_World.png,102,complete,1600x2560 PNG,deepseek-v4-flash
+EPUB,epub/The_Hotel_at_the_End_of_the_World.epub,227,complete,,deepseek-v4-flash
+Build Script,tools/build_epub.py,8,complete,adapted from template,deepseek-v4-flash
+Cover Script,tools/create_cover.py,5,complete,PIL-based,deepseek-v4-flash
+Book README,README.md,2,complete,,deepseek-v4-flash
+Final Report,reports/final_report.md,3,complete,,deepseek-v4-flash
+Manifest CSV,reports/manifest.csv,1,complete,,deepseek-v4-flash
+Progress Report,reports/progress.md,1,complete,,deepseek-v4-flash

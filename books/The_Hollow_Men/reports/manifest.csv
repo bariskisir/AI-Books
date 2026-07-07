@@ -1,0 +1,12 @@
+file,size_bytes,created,model
+The_Hollow_Men/planning/The_Hollow_Men_outline.md,2791,2026-06-03,deepseek-v4-flash
+The_Hollow_Men/txt/The_Hollow_Men.txt,65314,2026-06-03,deepseek-v4-flash
+The_Hollow_Men/metadata/The_Hollow_Men_metadata.json,857,2026-06-03,deepseek-v4-flash
+The_Hollow_Men/covers/The_Hollow_Men.png,43831,2026-06-03,deepseek-v4-flash
+The_Hollow_Men/epub/The_Hollow_Men.epub,169842,2026-06-03,deepseek-v4-flash
+The_Hollow_Men/tools/build_epub.py,6609,2026-06-03,deepseek-v4-flash
+The_Hollow_Men/tools/create_cover.py,5635,2026-06-03,deepseek-v4-flash
+The_Hollow_Men/README.md,316,2026-06-03,deepseek-v4-flash
+The_Hollow_Men/reports/final_report.md,1431,2026-06-03,deepseek-v4-flash
+The_Hollow_Men/reports/manifest.csv,530,2026-06-03,deepseek-v4-flash
+The_Hollow_Men/reports/progress.md,28,2026-06-03,deepseek-v4-flash

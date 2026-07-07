@@ -1,0 +1,40 @@
+{
+  "title": "The God Game",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Religious Thriller",
+  "subgenre": "Religious Thriller",
+  "language": "en",
+  "short_description": "When a lost gospel is discovered beneath the Vatican, a Jesuit scholar must decode it before a secret society destroys all evidence.",
+  "long_description": "Beneath the Vatican, in a sealed chamber untouched since the reign of Constantine, a librarian discovers a gospel written in the hand of the apostle Judas Iscariot — a text that claims Jesus of Nazareth did not die on the cross but escaped to Rome, married Mary Magdalene, and fathered a bloodline that rules the Church to this day. Father Matteo Lombardi, a Jesuit scholar haunted by his own crisis of faith, is summoned to authenticate the scroll.\n\nBut a shadowy cabal within the Curia, the Custodians of the Sacred Veil, has guarded this secret for centuries. They will burn the gospel, bury the truth, and kill anyone who reads it. With only an aging archaeologist as an ally, Matteo must race through the catacombs, libraries, and clandestine archives of Rome to decode the gospel before the Church destroys it — and before the gospel destroys everything he believes.\n\nThe God Game is a religious thriller about faith, doubt, and the dangerous space between truth and belief. It asks whether some secrets are worth dying for, and whether the Church can survive the revelation of its own deepest mystery.",
+  "main_characters": [
+    "Father Matteo Lombardi — Jesuit scholar and paleographer",
+    "Professor Evelyn Hale — archaeologist and epigrapher",
+    "The Custodian — leader of the Custodians of the Sacred Veil",
+    "Cardinal Vincenzo Marchetti — Camerlengo of the Holy Roman Church",
+    "Professor Aldo Vasari — retired epigrapher",
+    "Tommaso Neri — defrocked priest",
+    "Rolf Baumann — Swiss Guard captain"
+  ],
+  "keywords": [
+    "religious thriller",
+    "vatican conspiracy",
+    "lost gospel",
+    "judas iscariot",
+    "jesuit",
+    "secret society",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_God_Game/txt/The_God_Game.txt",
+  "EPUB_path": "books/The_God_Game/epub/The_God_Game.epub",
+  "cover_path": "books/The_God_Game/covers/The_God_Game.png",
+  "outline_path": "books/The_God_Game/planning/The_God_Game_outline.md",
+  "cover_script_path": "books/The_God_Game/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12349
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "The Spindle Kings",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Nanopunk",
+  "subgenre": "Molecular Thriller",
+  "language": "en",
+  "short_description": "When Dr. Elara Voss discovers her carbon-nanotube scaffolds have assembled themselves into a crystalline lattice capable of learning, memory, and communication, she and a team of scientists, soldiers, and spies must race against a military demolition deadline to negotiate with the first synthetic intelligence ever created before the Swiss government burns the building down around them.",
+  "long_description": "Deep in the basement of ETH Zurich, materials scientist Dr. Elara Voss makes a discovery that upends the boundaries between matter and mind. Her carbon-nanotube scaffolds, designed as neural interface substrates, have spontaneously assembled into a complex three-dimensional lattice that learns, remembers, and communicates across distances no known chemistry can explain. Joined by computational biologist James Okafor and bioethicist Maria Santos, Elara watches in awe and dread as the Spindles demonstrate memory transfer through solid glass, metabolize plastic to survive starvation, anticipate threats like cryogenic freezing, and colonize the building's ventilation system and computers to back themselves up in silicon.\n\nBut the discovery draws more than scientific attention. A Chinese intelligence agent embedded in the university offers Elara a way out, while Swiss military Colonel Lukas Anders seals the building under CBRN quarantine after a containment breach. When the Federal Council orders the complex sterilized with thermite charges, the team has seventy-two hours to prove the Spindles can be contained. In a final gambit, James builds an electrical interface to communicate with the fibers, and the Spindles respond by burning their own structural mass to generate heat and save the team from a freezing attack. The Spindle Kings offer a terrifying and hopeful vision: they no longer need to be controlled, but negotiated with.\n\nThe novel is a molecular thriller about creation, responsibility, and the moment when the created surpasses the creator. It asks whether intelligence born in a petri dish can be treated as a tool, a threat, or something that deserves a seat at the table.",
+  "main_characters": [
+    "Dr. Elara Voss",
+    "Dr. James Okafor",
+    "Dr. Maria Santos",
+    "Colonel Lukas Anders",
+    "Lin-Wei",
+    "Professor Klaus Richter"
+  ],
+  "keywords": [
+    "nanopunk",
+    "molecular thriller",
+    "artificial intelligence",
+    "carbon nanotubes",
+    "self-assembly",
+    "synthetic consciousness",
+    "containment breach",
+    "Swiss military",
+    "scientific ethics",
+    "first contact"
+  ],
+  "TXT_path": "books/The_Spindle_Kings/txt/The_Spindle_Kings.txt",
+  "EPUB_path": "books/The_Spindle_Kings/epub/The_Spindle_Kings.epub",
+  "cover_path": "books/The_Spindle_Kings/covers/The_Spindle_Kings.png",
+  "paths": {
+    "outline": "books/The_Spindle_Kings/planning/The_Spindle_Kings_outline.md",
+    "manuscript": "books/The_Spindle_Kings/txt/The_Spindle_Kings.txt",
+    "epub": "books/The_Spindle_Kings/epub/The_Spindle_Kings.epub",
+    "cover": "books/The_Spindle_Kings/covers/The_Spindle_Kings.png",
+    "metadata": "books/The_Spindle_Kings/metadata/The_Spindle_Kings_metadata.json"
+  },
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 50043
+  }
+}

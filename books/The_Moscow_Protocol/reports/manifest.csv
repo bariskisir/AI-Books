@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+The_Moscow_Protocol/planning/The_Moscow_Protocol_outline.md,,markdown,deepseek-v4-flash
+The_Moscow_Protocol/txt/The_Moscow_Protocol.txt,,text,deepseek-v4-flash
+The_Moscow_Protocol/metadata/The_Moscow_Protocol_metadata.json,,json,deepseek-v4-flash
+The_Moscow_Protocol/tools/build_epub.py,,python,deepseek-v4-flash
+The_Moscow_Protocol/tools/create_cover.py,,python,deepseek-v4-flash
+The_Moscow_Protocol/covers/The_Moscow_Protocol.png,,png,deepseek-v4-flash
+The_Moscow_Protocol/epub/The_Moscow_Protocol.epub,,epub,deepseek-v4-flash
+The_Moscow_Protocol/README.md,,markdown,deepseek-v4-flash
+The_Moscow_Protocol/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Moscow_Protocol/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Moscow_Protocol/reports/progress.md,,markdown,deepseek-v4-flash

@@ -1,0 +1,12 @@
+file,size_bytes,description,model
+The_Music_Box/planning/The_Music_Box_outline.md,4170,50-chapter outline,deepseek-v4-flash
+The_Music_Box/txt/The_Music_Box.txt,74582,Full manuscript (50 chapters,deepseek-v4-flash
+The_Music_Box/epub/The_Music_Box.epub,197367,EPUB 3 e-book,deepseek-v4-flash
+The_Music_Box/covers/The_Music_Box.png,71416,1600x2560 cover image,deepseek-v4-flash
+The_Music_Box/metadata/The_Music_Box_metadata.json,1267,Production metadata,deepseek-v4-flash
+The_Music_Box/tools/create_cover.py,10460,Cover generation script (PIL),deepseek-v4-flash
+The_Music_Box/tools/build_epub.py,6032,EPUB build script,deepseek-v4-flash
+The_Music_Box/reports/final_report.md,1439,Final production report,deepseek-v4-flash
+The_Music_Box/reports/manifest.csv,678,File manifest,deepseek-v4-flash
+The_Music_Box/reports/progress.md,795,Session progress log,deepseek-v4-flash
+The_Music_Box/README.md,769,Per-book README,deepseek-v4-flash

@@ -1,0 +1,16 @@
+{
+  "title": "The Endgame Paradox",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "language": "en",
+  "word_count": 26122,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Endgame_Paradox/txt/The_Endgame_Paradox.txt",
+  "EPUB_path": "books\\The_Endgame_Paradox\\epub\\The_Endgame_Paradox.epub",
+  "cover_path": "books\\The_Endgame_Paradox\\covers\\The_Endgame_Paradox.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 26117
+  }
+}

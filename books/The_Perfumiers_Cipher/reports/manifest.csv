@@ -1,0 +1,10 @@
+path,type,size,status
+books/The_Perfumiers_Cipher/planning/The_Perfumiers_Cipher_outline.md,outline,complete,complete
+books/The_Perfumiers_Cipher/txt/The_Perfumiers_Cipher.txt,manuscript,12755 words,complete
+books/The_Perfumiers_Cipher/epub/The_Perfumiers_Cipher.epub,epub,220486 bytes,complete
+books/The_Perfumiers_Cipher/covers/The_Perfumiers_Cipher.png,cover,98017 bytes,complete
+books/The_Perfumiers_Cipher/metadata/The_Perfumiers_Cipher_metadata.json,metadata,complete,complete
+books/The_Perfumiers_Cipher/tools/create_cover.py,cover_script,complete,complete
+books/The_Perfumiers_Cipher/reports/final_report.md,report,complete,complete
+books/The_Perfumiers_Cipher/reports/manifest.csv,manifest,complete,complete
+books/The_Perfumiers_Cipher/README.md,readme,complete,complete

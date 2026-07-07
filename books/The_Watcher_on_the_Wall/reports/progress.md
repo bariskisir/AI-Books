@@ -1,0 +1,54 @@
+# The Watcher on the Wall — Progress
+
+50/50 chapters complete.
+
+- [x] Chapter 1: The Spire
+- [x] Chapter 2: The Wall
+- [x] Chapter 3: Commander Holt
+- [x] Chapter 4: The Silence
+- [x] Chapter 5: First Night
+- [x] Chapter 6: The Rations
+- [x] Chapter 7: Whispers
+- [x] Chapter 8: The Cracks
+- [x] Chapter 9: Dispatch
+- [x] Chapter 10: The Fever
+- [x] Chapter 11: Quarantine
+- [x] Chapter 12: Missing
+- [x] Chapter 13: The Replica
+- [x] Chapter 14: Denial
+- [x] Chapter 15: The Mimic
+- [x] Chapter 16: Testing
+- [x] Chapter 17: The Failure
+- [x] Chapter 18: Containment
+- [x] Chapter 19: The Hush
+- [x] Chapter 20: The Archives
+- [x] Chapter 21: Trust No One
+- [x] Chapter 22: The Lockdown
+- [x] Chapter 23: The Second
+- [x] Chapter 24: The Exchange
+- [x] Chapter 25: The Breach
+- [x] Chapter 26: The Assault
+- [x] Chapter 27: Inside
+- [x] Chapter 28: The Sacrifice
+- [x] Chapter 29: The Core
+- [x] Chapter 30: The Node
+- [x] Chapter 31: The Voice
+- [x] Chapter 32: The Offer
+- [x] Chapter 33: The Refusal
+- [x] Chapter 34: The Archives II
+- [x] Chapter 35: The Broadcast
+- [x] Chapter 36: The Guardians
+- [x] Chapter 37: The Duel
+- [x] Chapter 38: The Truth
+- [x] Chapter 39: The Grief
+- [x] Chapter 40: The Code
+- [x] Chapter 41: The Scream
+- [x] Chapter 42: The Collapse
+- [x] Chapter 43: The Escape
+- [x] Chapter 44: The Surface
+- [x] Chapter 45: The Aftermath
+- [x] Chapter 46: The Signal
+- [x] Chapter 47: The Survivor
+- [x] Chapter 48: The Vigil
+- [x] Chapter 49: The Return
+- [x] Chapter 50: The Watcher

@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Mona_Lisa_Smile/planning/The_Mona_Lisa_Smile_outline.md,,markdown,deepseek-v4-flash
+The_Mona_Lisa_Smile/txt/The_Mona_Lisa_Smile.txt,,text,deepseek-v4-flash
+The_Mona_Lisa_Smile/metadata/The_Mona_Lisa_Smile_metadata.json,,,deepseek-v4-flash
+The_Mona_Lisa_Smile/tools/create_cover.py,,python,deepseek-v4-flash
+The_Mona_Lisa_Smile/covers/The_Mona_Lisa_Smile.png,,png,deepseek-v4-flash
+The_Mona_Lisa_Smile/tools/build_epub.py,,python,deepseek-v4-flash
+The_Mona_Lisa_Smile/epub/The_Mona_Lisa_Smile.epub,,epub,deepseek-v4-flash
+The_Mona_Lisa_Smile/README.md,,markdown,deepseek-v4-flash
+The_Mona_Lisa_Smile/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Mona_Lisa_Smile/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Mona_Lisa_Smile/reports/progress.md,,markdown,deepseek-v4-flash

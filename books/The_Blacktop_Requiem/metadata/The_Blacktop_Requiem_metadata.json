@@ -1,0 +1,41 @@
+{
+  "title": "The Blacktop Requiem",
+  "author": "Barış Kısır",
+  "genre": "Mystery",
+  "subgenre": "Thriller",
+  "language": "en",
+  "short_description": "An investigative journalist uncovers a human trafficking network operating along remote desert highways, linked to a corrupt sheriff and a shadow trucking corridor.",
+  "long_description": "Investigative journalist Maya Kessler arrives in rural Nevada to document a string of hitchhiker disappearances along a remote desert highway corridor. While researching, she picks up a disoriented amnesiac woman she calls Soledad, who was found wandering the shoulder with no memory and a primal fear of trucks. As Maya digs deeper, she discovers a pattern of vanishings spanning decades and multiple states, all connected to a rogue trucking network called the Corridor. With the help of a retired trucker, a desert tracker, and a conflicted local deputy, Maya unravels a conspiracy involving human trafficking, a long-buried DEA operation called Nightbird, and the sheriff himself — a former agent who turned his badge into a shield for the syndicate. Soledad's recovered memories reveal she was herself an investigative journalist on the syndicate's trail before being abducted. Together they bring down the network before they become the next names on the manifest.",
+  "main_characters": [
+    "Maya Kessler",
+    "Soledad / Elena Vargas",
+    "Sheriff Danforth Holloway",
+    "August 'Gus' Theroux",
+    "Deputy Rick Molina",
+    "Elias 'Coyote' Yazzie",
+    "Lena Okonkwo"
+  ],
+  "keywords": [
+    "human trafficking",
+    "desert highway",
+    "amnesia",
+    "investigative journalism",
+    "Nevada",
+    "trucking",
+    "corruption",
+    "DEA",
+    "mystery",
+    "thriller"
+  ],
+  "model": "deepseek-v4-flash",
+  "status": "completed",
+  "TXT_path": "books/The_Blacktop_Requiem/txt/The_Blacktop_Requiem.txt",
+  "EPUB_path": "books/The_Blacktop_Requiem/epub/The_Blacktop_Requiem.epub",
+  "cover_path": "books/The_Blacktop_Requiem/covers/The_Blacktop_Requiem.png",
+  "word_count": 25001,
+  "chapter_count": 50,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25001
+  }
+}

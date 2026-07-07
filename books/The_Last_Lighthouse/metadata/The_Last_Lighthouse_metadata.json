@@ -1,0 +1,41 @@
+{
+  "title": "The Last Lighthouse",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dystopian Survival",
+  "subgenre": "Coastal Apocalypse",
+  "language": "en",
+  "short_description": "The world's last lighthouse keeper refuses to abandon his post even as rising seas and roving gangs consume the coast.",
+  "long_description": "In a drowned world where sea levels have risen over a hundred feet and civilization has collapsed into scattered coastal gangs, Jonah Thorne refuses to abandon his post as keeper of the Sentinal Lighthouse. The beacon still turns, powered by solar panels he has maintained for a decade. The government that employed him is gone. The coast is claimed by Warlord Cain's reavers. But Jonah believes the light matters — that somewhere out on the dark water, someone needs it to find their way home.\n\nWhen a mysterious voice crackles over the radio calling itself \"The Navigator,\" Jonah learns that a refugee ship called the Arcadia is heading north with three hundred survivors. The voice belongs to Lena, the daughter he thought he had lost. As Cain's siege tightens and the lighthouse comes under attack, Jonah must hold the line long enough for the Arcadia to reach safety.\n\nThe Last Lighthouse is a story of stubborn hope, the bonds between parents and children, and the small acts of resistance that hold back the dark.",
+  "main_characters": [
+    "Jonah Thorne — The last lighthouse keeper, former Navy signalman",
+    "The Navigator / Lena — Jonah's daughter, captain of the Arcadia",
+    "Warlord Cain — Leader of the coastal reavers",
+    "Elara — A castaway and former spy for Cain",
+    "Mira — Jonah's late wife, former lighthouse keeper"
+  ],
+  "keywords": [
+    "dystopian survival",
+    "lighthouse",
+    "rising seas",
+    "apocalypse",
+    "refugees",
+    "father-daughter",
+    "siege",
+    "coastal",
+    "survival",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Last_Lighthouse/txt/The_Last_Lighthouse.txt",
+  "EPUB_path": "books/The_Last_Lighthouse/epub/The_Last_Lighthouse.epub",
+  "cover_path": "books/The_Last_Lighthouse/covers/The_Last_Lighthouse.png",
+  "outline_path": "books/The_Last_Lighthouse/planning/The_Last_Lighthouse_outline.md",
+  "cover_script_path": "books/The_Last_Lighthouse/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 8343
+  }
+}

@@ -1,0 +1,12 @@
+path,type,size_bytes,model
+The_Parachute_Regiment/planning/The_Parachute_Regiment_outline.md,outline,2584,deepseek-v4-flash
+The_Parachute_Regiment/txt/The_Parachute_Regiment.txt,manuscript,57916,deepseek-v4-flash
+The_Parachute_Regiment/epub/The_Parachute_Regiment.epub,epub,292735,deepseek-v4-flash
+The_Parachute_Regiment/covers/The_Parachute_Regiment.png,cover,184104,deepseek-v4-flash
+The_Parachute_Regiment/metadata/The_Parachute_Regiment_metadata.json,metadata,1542,deepseek-v4-flash
+The_Parachute_Regiment/README.md,readme,247,deepseek-v4-flash
+The_Parachute_Regiment/tools/build_epub.py,script,6540,deepseek-v4-flash
+The_Parachute_Regiment/tools/create_cover.py,script,6051,deepseek-v4-flash
+The_Parachute_Regiment/reports/final_report.md,report,951,deepseek-v4-flash
+The_Parachute_Regiment/reports/manifest.csv,report,461,deepseek-v4-flash
+The_Parachute_Regiment/reports/progress.md,report,31,deepseek-v4-flash

@@ -1,0 +1,12 @@
+filename,type,size_estimate,status,notes
+The_Marginalia_outline.md,planning,4KB,complete,50-chapter outline with premise and cast
+The_Marginalia.txt,manuscript,150KB,complete,50 chapters ~36.8k words
+The_Marginalia_metadata.json,metadata,3KB,complete,Full metadata with all required fields
+The_Marginalia.png,cover,800KB,complete,Custom medieval manuscript imagery
+The_Marginalia.epub,ebook,2.5MB,complete,EPUB 3 format built and validated
+build_epub.py,tool,10KB,complete,EPUB build script
+create_cover.py,tool,15KB,complete,Custom cover generation script
+final_report.md,report,6KB,complete,Final production report
+progress.md,report,4KB,complete,Session progress log
+manifest.csv,report,2KB,complete,This inventory file
+README.md,documentation,4KB,complete,Per-book README with reading notes

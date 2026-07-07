@@ -1,0 +1,12 @@
+file,size_bytes,status,model
+The_Candidates_Wife/planning/The_Candidates_Wife_outline.md,,complete,deepseek-v4-flash
+The_Candidates_Wife/txt/The_Candidates_Wife.txt,,complete,deepseek-v4-flash
+The_Candidates_Wife/metadata/The_Candidates_Wife_metadata.json,,complete,deepseek-v4-flash
+The_Candidates_Wife/epub/The_Candidates_Wife.epub,,complete,deepseek-v4-flash
+The_Candidates_Wife/covers/The_Candidates_Wife.png,,complete,deepseek-v4-flash
+The_Candidates_Wife/tools/create_cover.py,,complete,deepseek-v4-flash
+The_Candidates_Wife/tools/build_epub.py,,complete,deepseek-v4-flash
+The_Candidates_Wife/README.md,,complete,deepseek-v4-flash
+The_Candidates_Wife/reports/final_report.md,,complete,deepseek-v4-flash
+The_Candidates_Wife/reports/manifest.csv,,complete,deepseek-v4-flash
+The_Candidates_Wife/reports/progress.md,,complete,deepseek-v4-flash

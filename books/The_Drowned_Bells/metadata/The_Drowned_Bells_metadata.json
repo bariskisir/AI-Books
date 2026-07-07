@@ -1,0 +1,56 @@
+{
+  "title": "The Drowned Bells",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Coastal Gothic",
+  "language": "en",
+  "description": "When the tide recedes further than any living memory on the Cornish coast, marine biologist Ivy Roskilly discovers a submerged bell tower rising from the seabed. The ruin belongs to the lost church of Saint Keverne, swallowed by the sea three centuries ago. As the bells begin to ring, the drowned dead stir in the waters, and Parson Trelawney walks the tide line with an unsettling purpose. Ivy must uncover what holds them to this world and complete the unfinished service that binds them to the deep before the spring tide claims her too.",
+  "short_description": "A marine biologist confronts an ancient, drowned congregation when a submerged bell tower rises from the Cornish sea.",
+  "series": "The_Drowned_Bells",
+  "characters": {
+    "Ivy Roskilly": "Marine biologist in her early 30s, recently returned to Cornwall after her father's death. Practical, observant, skeptical by training. She studies tidal ecosystems and becomes the unlikely intermediary between the living and the drowned.",
+    "Parson Trelawney": "The last vicar of Saint Keverne's Church, drowned in 1724. He emerges from the sea as a gaunt figure in rotting clerical black, bound to his unfinished duty. Not malevolent, but desperate.",
+    "The Drowned": "The congregation of Saint Keverne's, bound to the seabed by an unfinished service. They rise with the bells, gray-skinned and silent, waiting for release.",
+    "Morwenna Pentire": "Ivy's aunt and keeper of the local museum and oral history. She remembers the old stories and preserves the parish records.",
+    "Seth Nancarrow": "Local fisherman and Ivy's childhood friend. He has heard the bells for years and drank to forget them.",
+    "Catherine Roskilly": "Ivy's mother, who left Cornwall in 1998 after encountering the bells. Her return forces Ivy to confront the family legacy."
+  },
+  "keywords": [
+    "coastal gothic",
+    "cornwall",
+    "drowned church",
+    "marine biology",
+    "supernatural",
+    "bells",
+    "tidal phenomenon",
+    "historical fiction",
+    "gothic fiction",
+    "english coast",
+    "lost village",
+    "unfinished service"
+  ],
+  "paths": {
+    "root": "The_Drowned_Bells",
+    "planning": "books/The_Drowned_Bells/planning/The_Drowned_Bells_outline.md",
+    "manuscript": "books/The_Drowned_Bells/txt/The_Drowned_Bells.txt",
+    "metadata": "books/The_Drowned_Bells/metadata/The_Drowned_Bells_metadata.json",
+    "cover": "books/The_Drowned_Bells/covers/The_Drowned_Bells.png",
+    "epub": "books/The_Drowned_Bells/epub/The_Drowned_Bells.epub",
+    "tools_cover": "books/The_Drowned_Bells/tools/create_cover.py",
+    "tools_epub": "books/The_Drowned_Bells/tools/build_epub.py",
+    "reports_dir": "books/The_Drowned_Bells/reports"
+  },
+  "status": "completed",
+  "chapter_count": 50,
+  "word_count_estimate": 11391,
+  "language_code": "en",
+  "subgenre": "Coastal Gothic",
+  "long_description": "When a submerged bell tower rises from the Cornish sea, marine biologist Mara Vale is drawn into the mystery of a drowned village and the congregation that never finished its final service. As the tides expose old graves, salt-stained records, and bells that ring without hands, she must decide whether the past is asking to be remembered or demanding to be answered.\n\nThe Drowned Bells is a coastal gothic novel about grief, faith, and the dangerous persistence of places the sea was meant to keep hidden.",
+  "cover_path": "books/The_Drowned_Bells/covers/The_Drowned_Bells.png",
+  "EPUB_path": "books/The_Drowned_Bells/epub/The_Drowned_Bells.epub",
+  "TXT_path": "books/The_Drowned_Bells/txt/The_Drowned_Bells.txt",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11391
+  }
+}

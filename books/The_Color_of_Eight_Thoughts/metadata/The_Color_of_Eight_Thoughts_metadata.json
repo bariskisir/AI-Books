@@ -1,0 +1,45 @@
+{
+  "title": "The Color of Eight Thoughts",
+  "author": "Barış Kısır",
+  "genre": "Literary Fiction",
+  "subgenre": "Non-Human Point of View / Animal Consciousness",
+  "language": "en",
+  "model": "sonnet-4.6",
+  "short_description": "The entire short, brilliant life of a single octopus on a Mediterranean reef, told from inside her wholly non-human mind — a creature who thinks in color, tastes the world through eight half-independent arms, and answers at last the one fatal imperative of her kind.",
+  "long_description": "On a Mediterranean reef scattered with the amphorae of an ancient shipwreck lives a single common octopus, and this is the whole of her short, brilliant life, told from inside a mind that is wholly unlike ours. She has no language but a vivid, coherent intelligence. She thinks in color — her shifting chromatophores are her moods and her thoughts — and she tastes the world through the suckers of eight arms that each half-think for themselves. Her eye reads light and shadow but not color; color belongs to the inside, to feeling, to the self.\n\nAcross a year and a half she discovers the wreck and its humming clay, contends with an old moray eel for the best dark, outwits a baited trap by sheer patient curiosity, carries home a small gold ring and a brass instrument that catches the light, and gradually learns to recognize a particular slow human diver who never grabs. Then the chemistry of her body turns, irrevocably, toward the single end her kind knows: to mate once, choose a final den, seal herself in with her eggs, and tend them without eating until they hatch and she is gone.\n\nThe Color of Eight Thoughts is a sensuous, unsentimental, and quietly devastating novel of pure non-human consciousness — devastating not because anything cruel happens, but because it is true to the biology. It is a portrait of an intelligence the size of a single bright life: curious, inventive, solitary, and complete, spending itself at the end on the rising of small lives it will never know, exactly as the mother who made it once spent herself for her.",
+  "main_characters": [
+    "The octopus — the color-minded POV consciousness of the whole novel; curious, inventive, solitary; never named",
+    "The old moray eel — long-bodied rival and reluctant neighbor in the wreck, with whom she keeps a hard-won peace",
+    "The Slow One — a recurring human diver, a marine biologist, whose patience she learns to trust; observed, never understood",
+    "The brass instrument — an encrusted navigational relic that catches and bends light; the centerpiece of her final den",
+    "The gold ring — a small Roman finger-ring she keeps and arranges at her threshold for no use but pleasure",
+    "The grouper — a vast, patient ambush predator whose hunting she learns to read and evade",
+    "The male octopus — brief, necessary, gone; the trigger of everything that follows"
+  ],
+  "keywords": [
+    "literary fiction",
+    "non-human point of view",
+    "octopus",
+    "animal consciousness",
+    "marine life",
+    "Mediterranean",
+    "shipwreck",
+    "nature writing",
+    "mortality",
+    "biology",
+    "cephalopod",
+    "sensory",
+    "solitude",
+    "motherhood",
+    "the natural world"
+  ],
+  "status": "completed",
+  "TXT_path": "books/The_Color_of_Eight_Thoughts/txt/The_Color_of_Eight_Thoughts.txt",
+  "EPUB_path": "books/The_Color_of_Eight_Thoughts/epub/The_Color_of_Eight_Thoughts.epub",
+  "cover_path": "books/The_Color_of_Eight_Thoughts/covers/The_Color_of_Eight_Thoughts.png",
+  "planning_path": "books/The_Color_of_Eight_Thoughts/planning/The_Color_of_Eight_Thoughts_outline.md",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 18585
+  }
+}

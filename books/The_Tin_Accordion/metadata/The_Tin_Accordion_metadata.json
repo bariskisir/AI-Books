@@ -1,0 +1,44 @@
+{
+  "title": "The Tin Accordion",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Romance",
+  "subgenre": "Romantic Drama",
+  "language": "en",
+  "short_description": "A former trapeze star returns to her crumbling Dust Bowl circus and clashes with the brooding ringmaster who buried his musical dreams to keep the show alive.",
+  "long_description": "Five years after a career-ending fall drove her from the Circo della Luna, former trapeze star Lena Marchetti returns to find the traveling circus on the verge of collapse. The ringmaster's son, Sam Holloway, has sacrificed his conservatory dreams to run the failing show, and the resentment between them is immediate. As drought, debt, and a predatory landowner close in, Lena and Sam must decide whether to let the circus die or risk everything on one last spectacular performance. Their reluctant collaboration — a daring aerial act set to Sam's accordion — reignites the troupe's spirit and forces them to confront the wounds that drove them apart. Set against the unforgiving backdrop of the 1930s Dust Bowl, this romantic drama explores what it means to return to the thing that broke you, and whether love can flourish in the wreckage of abandoned dreams.",
+  "main_characters": [
+    "Lena Marchetti",
+    "Samuel 'Sam' Holloway",
+    "Pietro Marchetti",
+    "Celeste Dumont",
+    "'Big' Joe Kowalski"
+  ],
+  "keywords": [
+    "circus",
+    "Dust Bowl",
+    "1930s",
+    "trapeze",
+    "accordion",
+    "romantic drama",
+    "second chances",
+    "Great Depression",
+    "traveling show",
+    "aerial performance"
+  ],
+  "TXT_path": "books/The_Tin_Accordion/txt/The_Tin_Accordion.txt",
+  "EPUB_path": "books/The_Tin_Accordion/epub/The_Tin_Accordion.epub",
+  "cover_path": "books/The_Tin_Accordion/covers/The_Tin_Accordion.png",
+  "paths": {
+    "outline": "books/The_Tin_Accordion/planning/The_Tin_Accordion_outline.md",
+    "manuscript": "books/The_Tin_Accordion/txt/The_Tin_Accordion.txt",
+    "epub": "books/The_Tin_Accordion/epub/The_Tin_Accordion.epub",
+    "cover": "books/The_Tin_Accordion/covers/The_Tin_Accordion.png",
+    "metadata": "books/The_Tin_Accordion/metadata/The_Tin_Accordion_metadata.json"
+  },
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25004
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The Gaslight Grimoire",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Gaslamp Fantasy",
+  "subgenre": "Gaslamp Fantasy",
+  "language": "en",
+  "short_description": "In Victorian London, magic runs through the gaslights and a street urchin with a book of spells is the only one who can stop the dark.",
+  "long_description": "London, 1888. Magic pulses through the city's gaslights—a hidden network of power unknown to all but a few. When Finn, a homeless urchin who knows every shadow in Whitechapel, steals a leather-bound book from a dying man, he discovers it contains spells that let him see and shape the light-magic woven through the city.\n\nPursued by fog-hunters with featureless faces and sought out by Inspector Graves of Scotland Yard, Finn finds an unlikely ally in Lady Eleanor Blackwood, an aristocratic occult scholar whose family has guarded the gaslight network for generations. Together they descend into the sewers beneath the Thames to confront the Candle-Eaters, a secret society bent on extinguishing every flame in London and awakening the Drowned God, an entity of pure darkness sealed beneath the river.\n\nAs the gaslights of London gutter and die one by one, Finn must master the grimoire's power before the city plunges into eternal shadow. But the book has a will of its own, and the final passage has been erased.",
+  "main_characters": [
+    "Finn",
+    "Lady Eleanor Blackwood",
+    "Inspector Edmund Graves"
+  ],
+  "keywords": [
+    "gaslamp fantasy",
+    "Victorian London",
+    "magic",
+    "grimoire",
+    "street urchin",
+    "secret society",
+    "dark fantasy",
+    "Barış Kısır",
+    "fiction",
+    "novel"
+  ],
+  "TXT_path": "books/The_Gaslight_Grimoire/txt/The_Gaslight_Grimoire.txt",
+  "EPUB_path": "books/The_Gaslight_Grimoire/epub/The_Gaslight_Grimoire.epub",
+  "cover_path": "books/The_Gaslight_Grimoire/covers/The_Gaslight_Grimoire.png",
+  "outline_path": "books/The_Gaslight_Grimoire/planning/The_Gaslight_Grimoire_outline.md",
+  "cover_script_path": "books/The_Gaslight_Grimoire/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 9946
+  }
+}

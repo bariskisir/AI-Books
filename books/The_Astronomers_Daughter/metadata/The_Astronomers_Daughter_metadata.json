@@ -1,0 +1,57 @@
+{
+  "title": "The Astronomer's Daughter",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Victorian Science",
+  "language": "en",
+  "description": "In 1889 London, Catherine Whitfield secretly completes her dead father's astronomical calculations and discovers a comet on a collision course with Earth. Dismissed by the Royal Society, she must navigate the rigid hierarchies of Victorian science to deliver her warning before time runs out.",
+  "long_description": "When renowned astronomer Richard Whitfield dies, his daughter Catherine inherits his private research — and a dangerous secret. His calculations for Comet 1889b contain a hidden error. The comet is not following its predicted path. It is heading straight for England.\n\nArmed with her father's notebooks and her own formidable mathematical mind, Catherine faces the all-male establishment of the Royal Society. Professor Huxley, the Astronomer Royal, dismisses her work as hysteria. But as the comet grows brighter in the dawn sky, Catherine gathers evidence from amateur astronomers across Europe. \n\nWith the help of a young fellow of the Society and a network of women astronomers, Catherine must choose between respectability and the truth — knowing that thousands of lives depend on her being believed.",
+  "characters": {
+    "Catherine Whitfield": "The protagonist, a 24-year-old self-taught astronomer who completes her father's work",
+    "Professor Ambrose Huxley": "The Astronomer Royal, her father's old rival who suppressed the warning",
+    "Thomas Greaves": "A young fellow of the Royal Society who becomes Catherine's ally",
+    "Margaret Heston": "Catherine's loyal cousin",
+    "Lord Balfour": "Newspaper magnate who publishes Catherine's findings",
+    "Alice Marpole": "Catherine's assistant from the British Astronomical Association",
+    "Madame Lefevre": "French amateur astronomer who confirms Catherine's calculations",
+    "Professor Karl Weber": "German astronomer whose endorsement breaks the scientific deadlock"
+  },
+  "keywords": [
+    "historical fiction",
+    "Victorian science",
+    "astronomy",
+    "comet",
+    "Royal Society",
+    "women in science",
+    "1889",
+    "London",
+    "celestial mechanics",
+    "feminism",
+    "disaster",
+    "Greenwich Observatory"
+  ],
+  "TXT_path": "books/The_Astronomers_Daughter/txt/The_Astronomers_Daughter.txt",
+  "EPUB_path": "books/The_Astronomers_Daughter/epub/The_Astronomers_Daughter.epub",
+  "cover_path": "books/The_Astronomers_Daughter/covers/The_Astronomers_Daughter.png",
+  "paths": {
+    "directory": "The_Astronomers_Daughter",
+    "outline": "books/The_Astronomers_Daughter/planning/The_Astronomers_Daughter_outline.md",
+    "manuscript": "books/The_Astronomers_Daughter/txt/The_Astronomers_Daughter.txt",
+    "cover": "books/The_Astronomers_Daughter/covers/The_Astronomers_Daughter.png",
+    "epub": "books/The_Astronomers_Daughter/epub/The_Astronomers_Daughter.epub",
+    "metadata": "books/The_Astronomers_Daughter/metadata/The_Astronomers_Daughter_metadata.json",
+    "build_tool": "books/The_Astronomers_Daughter/tools/build_epub.py",
+    "cover_tool": "books/The_Astronomers_Daughter/tools/create_cover.py"
+  },
+  "status": "completed",
+  "word_count": 13942,
+  "chapter_count": 50,
+  "target_audience": "Adult",
+  "content_rating": "clean",
+  "subgenre": "Victorian Science",
+  "short_description": "A Victorian astronomer's daughter defies the Royal Society to prove a comet is on a deadly course for England.",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13942
+  }
+}

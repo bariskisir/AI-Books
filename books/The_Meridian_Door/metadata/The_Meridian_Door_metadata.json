@@ -1,0 +1,35 @@
+{
+  "title": "The Meridian Door",
+  "number": 15,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Cozy Portal Fantasy",
+  "subgenre": "Alternate world / Gentle quest",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "A woman inherits an antique shop with a mysterious door that appears in the back hallway and leads to a dying bridge-world.",
+  "long_description": "Miranda Hale has spent years running her late grandmother's curiosity shop on Meridian Street, selling trinkets she does not quite understand to customers who rarely come. When a solid oak door with a brass handle appears in the back hallway where there was only a blank wall, she pretends it is not there for three weeks—until a stranger named Elias arrives asking about it. The door leads to a dying bridge-world that connects two realms, and a quiet conspiracy of gatekeepers has been waiting for someone who can choose whether the door stays open or closes forever. A gentle, low-conflict portal fantasy about grief, inheritance, and the courage to open a door you cannot see through.",
+  "main_characters": [
+    "Miranda Hale",
+    "Elias (stranger at the door)",
+    "Elena (from the other side)"
+  ],
+  "keywords": [
+    "portal fantasy",
+    "cozy fantasy",
+    "antique shop",
+    "alternate world",
+    "inheritance",
+    "mysterious door"
+  ],
+  "TXT_path": "books/The_Meridian_Door/txt/The_Meridian_Door.txt",
+  "cover_path": "books/The_Meridian_Door/covers/The_Meridian_Door.png",
+  "EPUB_path": "books/The_Meridian_Door/epub/The_Meridian_Door.epub",
+  "word_count": 15146,
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 15141
+  }
+}

@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Bookbinder_of_Prague/planning/The_Bookbinder_of_Prague_outline.md,,markdown,deepseek-v4-flash
+The_Bookbinder_of_Prague/txt/The_Bookbinder_of_Prague.txt,,text,deepseek-v4-flash
+The_Bookbinder_of_Prague/metadata/The_Bookbinder_of_Prague_metadata.json,,json,deepseek-v4-flash
+The_Bookbinder_of_Prague/tools/create_cover.py,,python,deepseek-v4-flash
+The_Bookbinder_of_Prague/covers/The_Bookbinder_of_Prague.png,191993,png,deepseek-v4-flash
+The_Bookbinder_of_Prague/tools/build_epub.py,,python,deepseek-v4-flash
+The_Bookbinder_of_Prague/epub/The_Bookbinder_of_Prague.epub,297243,epub,deepseek-v4-flash
+The_Bookbinder_of_Prague/README.md,,markdown,deepseek-v4-flash
+The_Bookbinder_of_Prague/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Bookbinder_of_Prague/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Bookbinder_of_Prague/reports/progress.md,,markdown,deepseek-v4-flash

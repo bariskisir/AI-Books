@@ -1,0 +1,43 @@
+{
+  "title": "The Evergreen Promise",
+  "author": "Barış Kısır",
+  "genre": "Holiday Literary Fiction",
+  "subgenre": "Family Drama",
+  "language": "en",
+  "model": "deepseek-v4-flash",
+  "short_description": "A century-old Christmas tree farm in the Pacific Northwest becomes the battleground for a family's legacy when a development corporation arrives with an offer that threatens to divide them forever.",
+  "long_description": "For over a hundred years, the Hartwell family's Christmas tree farm, Evergreen Acres, has anchored the town of Fir Haven in the Pacific Northwest. When a development corporation arrives with an offer Maggie Hartwell cannot refuse — and her sons cannot accept — the family fractures along fault lines decades in the making.\n\nDavid, the eldest son who left for a corporate law career, returns home reluctantly and discovers his younger brother Thomas has been hiding the farm's mounting debts. Maggie, the proud matriarch, carries a secret about the original land deed that could change everything. Meanwhile, David's daughter Eleanor, a journalist home for the holidays, begins investigating the developer's true motives and uncovers a connection that runs deeper than anyone expected.\n\nAs Christmas approaches, a devastating storm threatens to destroy the season's crop, forcing the family to choose between selling out and risking everything to keep their legacy alive. Through the annual Christmas market, the town council fight, a late-night vigil in the barn, and a community rally that restores their faith, the Hartwells must confront the question of what a legacy is really worth — and whether the evergreen promise of family can survive the winter.",
+  "main_characters": [
+    "Margaret 'Maggie' Hartwell",
+    "David Hartwell",
+    "Thomas Hartwell",
+    "Eleanor Hartwell",
+    "Sarah Hartwell"
+  ],
+  "keywords": [
+    "christmas tree farm",
+    "family legacy",
+    "small town",
+    "pacific northwest",
+    "conservation",
+    "family drama",
+    "holiday",
+    "development",
+    "redemption"
+  ],
+  "status": "completed",
+  "TXT_path": "books/The_Evergreen_Promise/txt/The_Evergreen_Promise.txt",
+  "EPUB_path": "books/The_Evergreen_Promise/epub/The_Evergreen_Promise.epub",
+  "paths": {
+    "outline": "books/The_Evergreen_Promise/planning/The_Evergreen_Promise_outline.md",
+    "manuscript": "books/The_Evergreen_Promise/txt/The_Evergreen_Promise.txt",
+    "cover": "books/The_Evergreen_Promise/covers/The_Evergreen_Promise.png",
+    "epub": "books/The_Evergreen_Promise/epub/The_Evergreen_Promise.epub",
+    "reports": "books/The_Evergreen_Promise/reports/"
+  },
+  "cover_path": "books/The_Evergreen_Promise/covers/The_Evergreen_Promise.png",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25001
+  }
+}

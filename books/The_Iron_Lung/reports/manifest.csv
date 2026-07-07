@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Iron_Lung/planning/The_Iron_Lung_outline.md,,markdown,deepseek-v4-flash
+The_Iron_Lung/txt/The_Iron_Lung.txt,10001,text,deepseek-v4-flash
+The_Iron_Lung/metadata/The_Iron_Lung_metadata.json,,,deepseek-v4-flash
+The_Iron_Lung/tools/create_cover.py,,python,deepseek-v4-flash
+The_Iron_Lung/covers/The_Iron_Lung.png,54618,png,deepseek-v4-flash
+The_Iron_Lung/tools/build_epub.py,,python,deepseek-v4-flash
+The_Iron_Lung/epub/The_Iron_Lung.epub,159755,epub,deepseek-v4-flash
+The_Iron_Lung/README.md,,markdown,deepseek-v4-flash
+The_Iron_Lung/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Iron_Lung/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Iron_Lung/reports/progress.md,,markdown,deepseek-v4-flash

@@ -1,0 +1,37 @@
+{
+  "title": "Ghost Fleet Armada",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Space Opera",
+  "subgenre": "Space Opera",
+  "language": "en",
+  "short_description": "A space opera about a salvage captain who discovers a derelict alien fleet that could shift the balance of a galaxy-spanning war.",
+  "long_description": "Captain Elias Vasquez commands the Harbinger, a deep-space salvage vessel eking out a living on the fringes of the United Colonial Systems. When a mysterious distress signal pulls them to a dead system at the edge of known space, they discover a ghost fleet: thousands of perfectly preserved alien warships, abandoned for reasons unknown.\n\nAs Vasquez and his crew delve deeper, they awaken the Archivist, an ancient alien intelligence that warns them the fleet is not a weapon but a prison. The armada was built to contain an extragalactic predator, and activating it will draw the attention of something far worse than the war between the UCS and the Hegemony.\n\nWith a ruthless UCS intelligence officer and a Hegemony admiral both closing in, Vasquez must navigate a web of competing interests, ancient secrets, and a self-destruct countdown implanted in his own mind. The fate of the galaxy depends on whether he can keep the ghost fleet from being used before its true purpose is fulfilled.",
+  "main_characters": [
+    "Captain Elias Vasquez",
+    "Lieutenant Amara Lenar",
+    "The Archivist (alien AI)",
+    "Commander Darius Hale",
+    "Admiral Torek Venn"
+  ],
+  "keywords": [
+    "space opera",
+    "science fiction",
+    "alien fleet",
+    "salvage",
+    "war",
+    "artificial intelligence",
+    "extragalactic threat",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/Ghost_Fleet_Armada/txt/Ghost_Fleet_Armada.txt",
+  "EPUB_path": "books/Ghost_Fleet_Armada/epub/Ghost_Fleet_Armada.epub",
+  "cover_path": "books/Ghost_Fleet_Armada/covers/Ghost_Fleet_Armada.png",
+  "outline_path": "books/Ghost_Fleet_Armada/planning/Ghost_Fleet_Armada_outline.md",
+  "cover_script_path": "books/Ghost_Fleet_Armada/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12063
+  }
+}

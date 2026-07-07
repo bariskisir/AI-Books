@@ -1,0 +1,12 @@
+file,status
+books/The_Weight_of_Silence/planning/The_Weight_of_Silence_outline.md,complete
+books/The_Weight_of_Silence/txt/The_Weight_of_Silence.txt,complete
+books/The_Weight_of_Silence/covers/The_Weight_of_Silence.png,complete
+books/The_Weight_of_Silence/epub/The_Weight_of_Silence.epub,complete
+books/The_Weight_of_Silence/metadata/The_Weight_of_Silence_metadata.json,complete
+books/The_Weight_of_Silence/tools/build_epub.py,complete
+books/The_Weight_of_Silence/tools/create_cover.py,complete
+books/The_Weight_of_Silence/reports/final_report.md,complete
+books/The_Weight_of_Silence/reports/manifest.csv,complete
+books/The_Weight_of_Silence/reports/progress.md,complete
+books/The_Weight_of_Silence/README.md,complete
