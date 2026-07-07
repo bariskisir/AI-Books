@@ -1,0 +1,12 @@
+Path,Type,Size (bytes),Status,model
+The_Saffron_Kitchen/planning/The_Saffron_Kitchen_outline.md,outline,6470,complete,deepseek-v4-flash
+The_Saffron_Kitchen/txt/The_Saffron_Kitchen.txt,manuscript,74172,complete,deepseek-v4-flash
+The_Saffron_Kitchen/epub/The_Saffron_Kitchen.epub,epub,300371,complete,deepseek-v4-flash
+The_Saffron_Kitchen/covers/The_Saffron_Kitchen.png,cover,178129,complete,deepseek-v4-flash
+The_Saffron_Kitchen/metadata/The_Saffron_Kitchen_metadata.json,metadata,3549,complete,deepseek-v4-flash
+The_Saffron_Kitchen/tools/build_epub.py,build_script,8530,complete,deepseek-v4-flash
+The_Saffron_Kitchen/tools/create_cover.py,cover_script,16047,complete,deepseek-v4-flash
+The_Saffron_Kitchen/reports/final_report.md,report,2428,complete,deepseek-v4-flash
+The_Saffron_Kitchen/reports/manifest.csv,manifest,0,complete,deepseek-v4-flash
+The_Saffron_Kitchen/reports/progress.md,progress,0,complete,deepseek-v4-flash
+The_Saffron_Kitchen/README.md,readme,3273,complete,deepseek-v4-flash

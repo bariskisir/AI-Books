@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Red_Line_Survey/planning/The_Red_Line_Survey_outline.md,5749,50-chapter outline
+books/The_Red_Line_Survey/txt/The_Red_Line_Survey.txt,215633,Expanded full TXT manuscript
+books/The_Red_Line_Survey/epub/The_Red_Line_Survey.epub,405258,Rebuilt EPUB export
+books/The_Red_Line_Survey/covers/The_Red_Line_Survey.png,124099,Cover image
+books/The_Red_Line_Survey/metadata/The_Red_Line_Survey_metadata.json,3122,Production metadata
+books/The_Red_Line_Survey/reports/final_report.md,1182,Final validation report
+books/The_Red_Line_Survey/reports/manifest.csv,868,File manifest
+books/The_Red_Line_Survey/reports/progress.md,1018,Progress log
+books/The_Red_Line_Survey/tools/build_epub.py,8610,EPUB build script
+books/The_Red_Line_Survey/tools/create_cover.py,12425,Cover generation script
+books/The_Red_Line_Survey/README.md,3294,Per-book README

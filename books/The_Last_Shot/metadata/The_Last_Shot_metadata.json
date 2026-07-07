@@ -1,0 +1,43 @@
+{
+  "title": "The Last Shot",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Tennis Drama",
+  "subgenre": "Sports Fiction",
+  "language": "en",
+  "short_description": "A former tennis prodigy returns to Wimbledon at age forty for one final match against the twenty-year-old champion who ended her career.",
+  "long_description": "Sloane Keegan was a teenage prodigy who made the Wimbledon semifinals at seventeen and seemed destined for greatness. But the pressure broke her. Fifteen years later, at forty, she has retired to teaching at a suburban tennis club in Connecticut. Then the letter arrives: a wild card invitation to Wimbledon.\n\nThe draw places her in the same quarter as Anika Voss, the twenty-year-old world number one and defending champion. Five years ago, a fifteen-year-old Anika ended Sloane's career in straight sets on Court Twelve. Now Sloane must win four matches just to reach her again.\n\nWith her elderly coach Ray at her side and her estranged daughter Maya watching from the stands, Sloane steps onto Centre Court for one last shot. What follows is a five-set battle that strips tennis to its bones and forces both women to confront what they are willing to sacrifice for the game they love.\n\nThe Last Shot is a tennis drama about pride, regret, and the quiet courage of a woman who refuses to stay down. It asks what we fight for when the crowds have gone home and the only opponent left is the face in the mirror.",
+  "main_characters": [
+    "Sloane Keegan — Former tennis prodigy, now forty, teaching pro at a club in Connecticut",
+    "Anika Voss — Twenty-year-old world number one, defending Wimbledon champion",
+    "Ray Matsuda — Sloane's childhood coach, now seventy-two",
+    "Maya Keegan — Sloane's sixteen-year-old daughter",
+    "Diana Keegan — Sloane's mother",
+    "Petra Novak — Anika's coach",
+    "Tom Breslin — ESPN commentator, Sloane's former rival"
+  ],
+  "keywords": [
+    "tennis",
+    "Wimbledon",
+    "sports drama",
+    "comeback",
+    "redemption",
+    "women's tennis",
+    "veteran",
+    "champion",
+    "Barış Kısır",
+    "fiction",
+    "novel",
+    "sports fiction"
+  ],
+  "TXT_path": "books/The_Last_Shot/txt/The_Last_Shot.txt",
+  "EPUB_path": "books/The_Last_Shot/epub/The_Last_Shot.epub",
+  "cover_path": "books/The_Last_Shot/covers/The_Last_Shot.png",
+  "outline_path": "books/The_Last_Shot/planning/The_Last_Shot_outline.md",
+  "cover_script_path": "books/The_Last_Shot/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 9333
+  }
+}

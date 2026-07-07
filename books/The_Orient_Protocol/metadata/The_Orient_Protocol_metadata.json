@@ -1,0 +1,16 @@
+{
+  "title": "The Orient Protocol",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "language": "en",
+  "word_count": 25410,
+  "chapter_count": 50,
+  "TXT_path": "books\\The_Orient_Protocol\\txt\\The_Orient_Protocol.txt",
+  "EPUB_path": "books\\The_Orient_Protocol\\epub\\The_Orient_Protocol.epub",
+  "cover_path": "books\\The_Orient_Protocol\\covers\\The_Orient_Protocol.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25406
+  }
+}

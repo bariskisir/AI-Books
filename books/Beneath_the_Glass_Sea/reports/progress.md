@@ -1,0 +1,54 @@
+# Beneath the Glass Sea — Progress
+
+50/50 chapters complete.
+
+- [x] Chapter 1: The Warning
+- [x] Chapter 2: The Gantry
+- [x] Chapter 3: The Briefing
+- [x] Chapter 4: The Archive
+- [x] Chapter 5: The Exile
+- [x] Chapter 6: The Warning
+- [x] Chapter 7: The Submersible
+- [x] Chapter 8: The Deal
+- [x] Chapter 9: Outside
+- [x] Chapter 10: The Tremor
+- [x] Chapter 11: The Outer Ring
+- [x] Chapter 12: The Vent
+- [x] Chapter 13: The Formula
+- [x] Chapter 14: The Lab
+- [x] Chapter 15: The Gap
+- [x] Chapter 16: The Summons
+- [x] Chapter 17: The Truth
+- [x] Chapter 18: The Demand
+- [x] Chapter 19: Jakarta
+- [x] Chapter 20: The City
+- [x] Chapter 21: The Vault
+- [x] Chapter 22: The Collapse
+- [x] Chapter 23: The Return
+- [x] Chapter 24: The Synthesis
+- [x] Chapter 25: The Briefing
+- [x] Chapter 26: The Confrontation
+- [x] Chapter 27: The Second Batch
+- [x] Chapter 28: The Application
+- [x] Chapter 29: The Web
+- [x] Chapter 30: The New Fracture
+- [x] Chapter 31: The Breach
+- [x] Chapter 32: The Evacuation
+- [x] Chapter 33: The Night
+- [x] Chapter 34: The Third Batch
+- [x] Chapter 35: The Deep
+- [x] Chapter 36: The Threshold
+- [x] Chapter 37: The Wait
+- [x] Chapter 38: The Celebration
+- [x] Chapter 39: The Quiet
+- [x] Chapter 40: The Investigation
+- [x] Chapter 41: The Memorial
+- [x] Chapter 42: The Design
+- [x] Chapter 43: The Opposition
+- [x] Chapter 44: The Agreement
+- [x] Chapter 45: The Campaign
+- [x] Chapter 46: The Vote
+- [x] Chapter 47: The Drill
+- [x] Chapter 48: The Release
+- [x] Chapter 49: The Return
+- [x] Chapter 50: The Glass Sea

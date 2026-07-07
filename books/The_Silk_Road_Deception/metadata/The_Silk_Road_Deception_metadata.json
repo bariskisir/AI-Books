@@ -1,0 +1,35 @@
+{
+  "title": "The Silk Road Deception",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Thriller",
+  "subgenre": "Adventure / Archaeological suspense",
+  "language": "en",
+  "short_description": "In 1887, a British archaeologist and a Turkish guide race across Central Asia to recover a stolen relic before it reaches the black market.",
+  "long_description": "Dr. Arthur Everett, an Oxford archaeologist digging in the Taklamakan Desert, unearths the legendary Jade Seal of Samarkand — a Sogdian cylinder seal said to hold the key to a lost Khazar treasury. Before he can secure it, the seal is stolen from his tent by a shadowy antiquities dealer known only as The Merchant.\n\nWith his reputation on the line, Everett hires Leyla Demir, a Turkish guide who knows the Silk Road routes and the men who traffic in stolen artifacts. Together they pursue the thief across Central Asia, following the old caravan routes from Kashgar to Samarkand, through the Bone Pass, across the salt deserts of Persia, and ultimately to a confrontation that will change everything they believe about the relic — and each other.\n\nThe Silk Road Deception is a historical thriller about obsession, empire, and the price of authenticity, set against the vast and unforgiving landscapes of the ancient Silk Road.",
+  "main_characters": [
+    "Dr. Arthur Everett",
+    "Leyla Demir",
+    "Vasily Volkov (The Merchant)"
+  ],
+  "keywords": [
+    "historical thriller",
+    "archaeological thriller",
+    "Silk Road",
+    "Central Asia",
+    "1880s",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Silk_Road_Deception/txt/The_Silk_Road_Deception.txt",
+  "EPUB_path": "books/The_Silk_Road_Deception/epub/The_Silk_Road_Deception.epub",
+  "cover_path": "books/The_Silk_Road_Deception/covers/The_Silk_Road_Deception.png",
+  "outline_path": "books/The_Silk_Road_Deception/planning/The_Silk_Road_Deception_outline.md",
+  "cover_script_path": "books/The_Silk_Road_Deception/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12913
+  }
+}

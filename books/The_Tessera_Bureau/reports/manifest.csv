@@ -1,0 +1,12 @@
+file,status
+books/The_Tessera_Bureau/planning/The_Tessera_Bureau_outline.md,complete
+books/The_Tessera_Bureau/txt/The_Tessera_Bureau.txt,complete
+books/The_Tessera_Bureau/covers/The_Tessera_Bureau.png,complete
+books/The_Tessera_Bureau/epub/The_Tessera_Bureau.epub,complete
+books/The_Tessera_Bureau/metadata/The_Tessera_Bureau_metadata.json,complete
+books/The_Tessera_Bureau/tools/build_epub.py,complete
+books/The_Tessera_Bureau/tools/create_cover.py,complete
+books/The_Tessera_Bureau/reports/final_report.md,complete
+books/The_Tessera_Bureau/reports/manifest.csv,complete
+books/The_Tessera_Bureau/reports/progress.md,complete
+books/The_Tessera_Bureau/README.md,complete

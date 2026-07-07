@@ -1,0 +1,2 @@
+title,TXT path,EPUB path,metadata path,target word count,current word count,chapters planned,chapters drafted,status,model
+The River Mother,The_River_Mother/txt/The_River_Mother.txt,The_River_Mother/epub/The_River_Mother.epub,The_River_Mother/metadata/The_River_Mother_metadata.json,15000,10501,50,50,complete_txt_epub_available,deepseek-v4-flash

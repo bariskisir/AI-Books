@@ -1,0 +1,34 @@
+{
+  "title": "The Crimson Waste",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Sword and Sorcery",
+  "subgenre": "Sword and Sorcery",
+  "language": "en",
+  "short_description": "A disgraced swordswoman must cross a desert of red sand to return a stolen relic, pursued by assassins and a demon bound to the stone.",
+  "long_description": "Zara was once Captain of the Fourth Blade in Kel-Vash, until the Tribunal stripped her of rank and name. Now she makes her living as a hired blade in the shadows of the city. When a veiled woman offers her a fortune to steal the Red Dhara, a fist-sized crimson stone from the Temple of Scales, Zara takes the job without knowing what she carries.\n\nThe Red Dhara is no simple relic. It is a cage forged to contain a piece of a fallen star and the shadow that follows it. When Zara steals the stone, she unwittingly looses a demon into the Crimson Waste, a seven-hundred-mile desert of red sand. A fanatical Inquisitor pursues her with a company of assassins, and the demon tracks her by the stone's heat. Zara must deliver the relic to the Sunken Temple or die in the sand.\n\nAs she crosses dunes and canyons, fighting killers and sandstorms, the stone speaks to her in whispers and visions. It shows her hidden paths and offers truth about her past. But Zara learns that nothing in the Waste is what it seems - not the Inquisitor, not the demon, and least of all the stone itself.",
+  "main_characters": [
+    "Zara - a disgraced swordswoman and former Captain of the Fourth Blade",
+    "The Red Dhara - a crimson stone relic that speaks and pulses with heat",
+    "The Inquisitor - a fanatical priest of the Temple of Scales"
+  ],
+  "keywords": [
+    "sword and sorcery",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "red desert",
+    "demon",
+    "relic"
+  ],
+  "TXT_path": "books/The_Crimson_Waste/txt/The_Crimson_Waste.txt",
+  "EPUB_path": "books/The_Crimson_Waste/epub/The_Crimson_Waste.epub",
+  "cover_path": "books/The_Crimson_Waste/covers/The_Crimson_Waste.png",
+  "outline_path": "books/The_Crimson_Waste/planning/The_Crimson_Waste_outline.md",
+  "cover_script_path": "books/The_Crimson_Waste/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12871
+  }
+}

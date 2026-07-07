@@ -1,0 +1,50 @@
+{
+  "title": "The Bee Thief",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fiction",
+  "subgenre": "Rural Noir",
+  "language": "en",
+  "short_description": "When hives start dying across Oklahoma, a disgraced entomologist returns to her hometown and uncovers a pesticide conspiracy.",
+  "long_description": "Dr. Maya Lane's career was destroyed by a fabricated-data scandal she did not cause. Now she returns to her small Oklahoma hometown after her father's death and finds the apiaries silent — hives emptied, bees dead by the thousands. Local beekeepers blame a mysterious affliction, but Maya knows the pattern.\n\nTracing the die-off to a new pesticide being sprayed on neighboring canola fields, Maya discovers the compound is experimental — unapproved for agricultural use and forty times more toxic to bees than anything legally permitted. The chemical was developed by Redland Agrochemicals, the same company that ruined her reputation years ago.\n\nAs Maya digs deeper, the threats escalate. A whistleblower vanishes. A mentor's shed burns. Sheriff Wade Cobb, an old classmate, must choose between his job and the truth. Maya risks everything to expose a conspiracy that stretches from the Oklahoma plains to the highest levels of agribusiness.",
+  "main_characters": [
+    "Dr. Maya Lane — A disgraced entomologist who returns to her Oklahoma hometown to investigate dying bee colonies",
+    "Sheriff Wade Cobb — Lincoln County sheriff, an old classmate torn between duty and the truth",
+    "Royce Redland — Owner of Redland Agrochemicals, a third-generation agribusinessman",
+    "Nell Porter — 68-year-old beekeeper and Maya's childhood mentor",
+    "Dr. Henry Paulson — Maya's former advisor at Oklahoma State University, dying and carrying a secret"
+  ],
+  "keywords": [
+    "bees",
+    "pesticide",
+    "environmental crime",
+    "Oklahoma",
+    "entomology",
+    "rural noir",
+    "conspiracy",
+    "agriculture",
+    "whistleblower",
+    "colony collapse",
+    "small town",
+    "mystery"
+  ],
+  "paths": {
+    "outline": "books/The_Bee_Thief/planning/The_Bee_Thief_outline.md",
+    "manuscript": "books/The_Bee_Thief/txt/The_Bee_Thief.txt",
+    "epub": "books/The_Bee_Thief/epub/The_Bee_Thief.epub",
+    "cover": "books/The_Bee_Thief/covers/The_Bee_Thief.png",
+    "metadata": "books/The_Bee_Thief/metadata/The_Bee_Thief_metadata.json",
+    "cover_script": "books/The_Bee_Thief/tools/create_cover.py",
+    "build_script": "books/The_Bee_Thief/tools/build_epub.py",
+    "readme": "books/The_Bee_Thief/README.md",
+    "reports": "books/The_Bee_Thief/reports/"
+  },
+  "status": "completed",
+  "cover_path": "books/The_Bee_Thief/covers/The_Bee_Thief.png",
+  "EPUB_path": "books/The_Bee_Thief/epub/The_Bee_Thief.epub",
+  "TXT_path": "books/The_Bee_Thief/txt/The_Bee_Thief.txt",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12939
+  }
+}

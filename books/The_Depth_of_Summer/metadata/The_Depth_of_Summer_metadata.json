@@ -1,0 +1,37 @@
+{
+  "title": "The Depth of Summer",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Coming of Age",
+  "subgenre": "Literary Fiction",
+  "language": "en",
+  "short_description": "A twelve-year-old girl spends her last summer before her family splits apart exploring a tidal estuary with a mysterious older boy.",
+  "long_description": "In the summer her parents' marriage ends, twelve-year-old Wren is sent to her Aunt Margie's cottage on a small island off the coast of Maine. Adrift in a strange place, she discovers a vast tidal estuary behind the dunes—a hidden world of winding channels and mudflats that reveals itself only at low tide.\n\nThere she meets Kit, a quiet fourteen-year-old who navigates the estuary as if it were his own private kingdom. Together they explore the secret geography of the water—the heron rookery, the wreck of an old fishing boat, the clam flats, and a hidden pond accessible only during the highest tides. Through the rhythms of the sea and the steady presence of her aunt, Wren learns about loss, change, and the strange beauty of things that end.\n\nWith spare, lyrical prose and vivid sensory detail, The Depth of Summer captures the moment when a child stops believing in permanence and begins to understand that letting go is part of growing up.",
+  "main_characters": [
+    "Wren",
+    "Kit",
+    "Aunt Margie"
+  ],
+  "keywords": [
+    "coming of age",
+    "Maine coast",
+    "tidal estuary",
+    "summer",
+    "divorce",
+    "family",
+    "friendship",
+    "loss",
+    "marsh",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Depth_of_Summer/txt/The_Depth_of_Summer.txt",
+  "EPUB_path": "books/The_Depth_of_Summer/epub/The_Depth_of_Summer.epub",
+  "cover_path": "books/The_Depth_of_Summer/covers/The_Depth_of_Summer.png",
+  "outline_path": "books/The_Depth_of_Summer/planning/The_Depth_of_Summer_outline.md",
+  "cover_script_path": "books/The_Depth_of_Summer/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13292
+  }
+}

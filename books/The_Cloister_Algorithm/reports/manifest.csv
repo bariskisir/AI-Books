@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Cloister_Algorithm/planning/The_Cloister_Algorithm_outline.md,5484,50-chapter outline
+books/The_Cloister_Algorithm/txt/The_Cloister_Algorithm.txt,216254,Expanded full TXT manuscript
+books/The_Cloister_Algorithm/epub/The_Cloister_Algorithm.epub,401045,Rebuilt EPUB export
+books/The_Cloister_Algorithm/covers/The_Cloister_Algorithm.png,120650,Cover image
+books/The_Cloister_Algorithm/metadata/The_Cloister_Algorithm_metadata.json,2060,Production metadata
+books/The_Cloister_Algorithm/reports/final_report.md,1115,Final validation report
+books/The_Cloister_Algorithm/reports/manifest.csv,914,File manifest
+books/The_Cloister_Algorithm/reports/progress.md,394,Progress log
+books/The_Cloister_Algorithm/tools/build_epub.py,8610,EPUB build script
+books/The_Cloister_Algorithm/tools/create_cover.py,12035,Cover generation script
+books/The_Cloister_Algorithm/README.md,754,Per-book README

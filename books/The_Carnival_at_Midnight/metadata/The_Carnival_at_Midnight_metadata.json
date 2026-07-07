@@ -1,0 +1,45 @@
+{
+  "title": "The Carnival at Midnight",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Weird Fiction",
+  "subgenre": "Supernatural Mystery",
+  "language": "en",
+  "short_description": "A carnival arrives in a small town at midnight with no advance notice and vanishes by dawn, leaving behind children who are not quite the same.",
+  "long_description": "The town of Meridian is quiet, ordinary, and predictable. Then the bell rings thirteen times at midnight. Sheriff Tom Pace drives to Whitaker Field and finds a carnival where no carnival should be. The Ringmaster smiles. The children enter. By dawn, the carnival is gone, but eight children return changed.\n\nEmma Vance, twelve years old, remembers fragments: a Ferris wheel that shows impossible views, a fortune teller who demanded a price, a white horse that breathed. Three other children chose to stay with the carnival, vanishing into a world between worlds. Now Emma carries something inside her, something that grows.\n\nAs Sheriff Pace investigates, he discovers the carnival has been visiting Meridian for centuries. It feeds on childhood, trades in memories, and leaves behind children who can never fully return. To save the three who stayed and protect Emma from what she is becoming, Pace must follow the carnival to a town called Morrow, confront the Ringmaster, and pay a price he never expected.\n\nThe Carnival at Midnight is a work of weird fiction about wonder, grief, and the doors that exist between childhood and adulthood.",
+  "main_characters": [
+    "Sheriff Tom Pace — A widowed sheriff in his fifties who investigates the midnight carnival",
+    "The Ringmaster — A tall figure in a red coat and white gloves, the keeper of the carnival",
+    "Emma Vance — A twelve-year-old girl who enters the carnival and is forever changed",
+    "Deputy Frank Colson — Pace's younger, pragmatic deputy",
+    "Martha Vance — Emma's mother, a night-shift nurse",
+    "Old Silas Hume — A retired carnival worker who remembers the carnival from 1947",
+    "Jacob Porter — A boy who chooses to stay with the carnival",
+    "Lily Chen — A girl who enters the carnival and later becomes a photographer"
+  ],
+  "keywords": [
+    "weird fiction",
+    "carnival",
+    "supernatural",
+    "small town",
+    "mystery",
+    "Ringmaster",
+    "missing children",
+    "memories",
+    "wonder",
+    "horror",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Carnival_at_Midnight/txt/The_Carnival_at_Midnight.txt",
+  "EPUB_path": "books/The_Carnival_at_Midnight/epub/The_Carnival_at_Midnight.epub",
+  "cover_path": "books/The_Carnival_at_Midnight/covers/The_Carnival_at_Midnight.png",
+  "outline_path": "books/The_Carnival_at_Midnight/planning/The_Carnival_at_Midnight_outline.md",
+  "cover_script_path": "books/The_Carnival_at_Midnight/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 15073
+  }
+}

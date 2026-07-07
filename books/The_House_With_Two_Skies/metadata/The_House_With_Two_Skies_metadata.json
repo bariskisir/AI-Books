@@ -1,0 +1,44 @@
+{
+  "title": "The House With Two Skies",
+  "author": "Barış Kısır",
+  "genre": "Literary Fiction",
+  "subgenre": "Parallel Lives / Speculative",
+  "language": "en",
+  "model": "sonnet-4.6",
+  "short_description": "Clearing her late mother's remote Welsh farmhouse, a grieving translator discovers that the back-bedroom window opens, on still mornings, into a world where her mother is still alive and a different version of her own life was lived — and that lingering there is quietly costing her the daughter she still has.",
+  "long_description": "A week after her mother's funeral, Eluned Pryce returns to the remote hill farm in Powys where she grew up, to empty it for sale. The farmhouse stands on an old geological fault the locals never named aloud, and from the two small windows of the back bedroom — the still room — on certain windless mornings, you can see two different skies. Through the second pane the orchard is kept, the kitchen lamp is lit, and her mother is alive, making tea.\n\nEluned finds she can cross. In that other world a different version of herself made the choices she didn't: stayed on the farm, married the neighbour, never left for the city and the marriage and the work that slowly unmade her. Drawn deeper into the other house, she has the reckoning with her mother she never had in life — and is seduced by the un-lived life on offer. But the fault runs on a tide, and whoever lingers thins in their own world. Names slip. Days vanish. And in Cardiff, the daughter Eluned keeps declining to answer grows frightened.\n\nThe House With Two Skies is a tender, exact novel about grief, mothers and daughters, and the danger of preferring the life you didn't live. Its speculative element stays soft and unexplained; its rules are emotional, not mechanical. It is, finally, a book about choosing the real and unfinished world — and the living people in it — over the gold and grieving door that would take you if you let it.",
+  "main_characters": [
+    "Eluned Pryce — translator, 52, divorced, the daughter who left; home to clear the house and sidestep her grief",
+    "Mair Pryce — her mother, 78, dead in this world and alive in the other, with unfinished business between them",
+    "Carys — Eluned's adult daughter, 27, in Cardiff; the real-world tether she keeps setting aside",
+    "Tomos Llewellyn — the neighbouring farmer, 55, widower in this world and married to the other Eluned in the other",
+    "Branwen Cadwallader — Mair's oldest friend, 60, keeper of the village's quiet knowledge about the fault and its toll",
+    "The other Eluned — the woman who stayed; glimpsed through the window, then met face to face"
+  ],
+  "keywords": [
+    "literary fiction",
+    "parallel lives",
+    "grief",
+    "mothers and daughters",
+    "Wales",
+    "magical realism",
+    "the road not taken",
+    "loss",
+    "farmhouse",
+    "speculative",
+    "quiet novel",
+    "family drama",
+    "haunting",
+    "memory",
+    "second chances"
+  ],
+  "status": "completed",
+  "TXT_path": "books/The_House_With_Two_Skies/txt/The_House_With_Two_Skies.txt",
+  "EPUB_path": "books/The_House_With_Two_Skies/epub/The_House_With_Two_Skies.epub",
+  "cover_path": "books/The_House_With_Two_Skies/covers/The_House_With_Two_Skies.png",
+  "planning_path": "books/The_House_With_Two_Skies/planning/The_House_With_Two_Skies_outline.md",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 16918
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "The Marigold Express",
+  "number": 7,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Comic crime",
+  "subgenre": "Ensemble heist caper / Comedy of manners",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "A charming thief, a pair of grifters, a debt-ridden conductor, and a relentless inspector all board the same luxury train to steal the same legendary diamond — and every single plan goes spectacularly, hilariously wrong.",
+  "long_description": "The Marigold Express is the most glamorous train on the continent: four days of crystal, velvet, and impeccable dinners, rolling from the coast to the capital. This season it is also carrying the Saffron Star, a yellow diamond the size of a quail's egg, escorted by its owner, the magnificently broke Contessa della Vigna. Word of the stone has traveled. So has half the criminal talent of three countries.\n\nCornelius Vane, gentleman thief, intends to lift it with elegance and no fuss. He has not accounted for Mrs. Adelaide Frost and her 'niece' June, who intend to lift it with charm and a great deal of fuss; nor for Anton the conductor, who needs it to pay a loan shark by Thursday; nor for Salvatore Quill, the only safecracker alive who can open the Contessa's antique strongbox, and who has sworn to his granddaughter that he is retired. Watching them all, with a notebook and a heroic lack of imagination, is Inspector Hugo Pellam of the railway police, who has never lost a case and has never, until now, had eleven suspects and one diamond that refuses to stay stolen.\n\nOver four nights and a thousand miles, the Saffron Star is stolen, re-stolen, swapped, lost, found, mistaken for a paperweight, and stolen again, while alliances form and dissolve over dinner, a corpse turns out to be inconvenienced rather than dead, and everyone slowly realizes that the cleverest crook on the train is not the one they were watching. A fast, funny, twisting caper about thieves with standards, marks with secrets, and the question of who, exactly, the Saffron Star truly belongs to.",
+  "main_characters": [
+    "Cornelius Vane",
+    "Mrs. Adelaide Frost",
+    "June Frost",
+    "Inspector Hugo Pellam",
+    "Anton Reyes",
+    "Salvatore Quill",
+    "Contessa della Vigna"
+  ],
+  "keywords": [
+    "heist",
+    "caper",
+    "comic crime",
+    "luxury train",
+    "diamond",
+    "con artists",
+    "ensemble comedy",
+    "twist",
+    "whodunit",
+    "Art Deco"
+  ],
+  "TXT_path": "books/The_Marigold_Express/txt/The_Marigold_Express.txt",
+  "cover_path": "books/The_Marigold_Express/covers/The_Marigold_Express.png",
+  "EPUB_path": "books/The_Marigold_Express/epub/The_Marigold_Express.epub",
+  "word_count": 21460,
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 21437
+  }
+}

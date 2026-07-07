@@ -1,0 +1,43 @@
+{
+  "title": "The Last Job",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Heist Noir",
+  "subgenre": "Crime Fiction",
+  "language": "en",
+  "short_description": "An aging safecracker agrees to one last job — robbing a vault that belongs to the man who stole his wife thirty years ago.",
+  "long_description": "Frank Decker was the best safecracker on the Eastern Seaboard until he walked away from the life thirty years ago. Now he lives in a furnished room above a bar in Queens, paying his tab with stories about the old days. When Tommy Moretti shows up with a photograph and a name, Frank learns that the man who stole his wife — Victor Strand — has built a fortress tower on the Manhattan waterfront. Inside that tower is a private vault holding the evidence that ruined Frank's life: a falsified deed, a doctored photograph, and the necklace Frank gave Clara on their wedding day.\n\nStrand is dying of cancer. The vault comes down when he does. Frank agrees to one last job: crack the Sentry Mark IV, take back what was stolen, and bury the past before it buries him. With a crew of broken allies — a dying partner, a former intelligence officer with her own score to settle, and a retired forger — Frank must navigate biometric locks, pressure floors, and a dead man's switch designed to incinerate the evidence if the door is forced.\n\nBut the vault holds more than old evidence. It holds the key to a conspiracy reaching into the highest levels of government. And Frank discovers that the man he is robbing has been planning this moment for decades. The last job is not about what Frank can take. It is about what he is willing to leave behind.",
+  "main_characters": [
+    "Frank Decker — Aging safecracker, sixty-eight years old, the only man alive who can open a Sentry Mark IV by touch",
+    "Tommy Moretti — Frank's former partner, dying of lung cancer, determined to set things right before the end",
+    "Victor Strand — The Mark, a real-estate mogul, dying of cancer, who stole Frank's wife and built an empire on crime",
+    "Clara Decker Strand — Frank's ex-wife, trapped in a gilded cage for thirty years, secretly working with the FBI",
+    "Rosa Mendez — Head of Strand's security, former Cuban intelligence, seeking revenge for her sister's death",
+    "Leo Farnetti — Retired forger known as The Ghost, the only man who can reproduce a 1970s banking seal"
+  ],
+  "keywords": [
+    "heist noir",
+    "crime fiction",
+    "safecracker",
+    "vault",
+    "heist",
+    "revenge",
+    "noir",
+    "New York City",
+    "suspense",
+    "crime",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Last_Job/txt/The_Last_Job.txt",
+  "EPUB_path": "books/The_Last_Job/epub/The_Last_Job.epub",
+  "cover_path": "books/The_Last_Job/covers/The_Last_Job.png",
+  "outline_path": "books/The_Last_Job/planning/The_Last_Job_outline.md",
+  "cover_script_path": "books/The_Last_Job/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10904
+  }
+}

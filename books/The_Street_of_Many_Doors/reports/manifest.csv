@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+planning/The_Street_of_Many_Doors_outline.md,,text/markdown,deepseek-v4-flash
+txt/The_Street_of_Many_Doors.txt,,text/plain,deepseek-v4-flash
+metadata/The_Street_of_Many_Doors_metadata.json,489,application/json,deepseek-v4-flash
+tools/build_epub.py,8294,text/x-python,deepseek-v4-flash
+tools/create_cover.py,11116,text/x-python,deepseek-v4-flash
+covers/The_Street_of_Many_Doors.png,71001,image/png,deepseek-v4-flash
+epub/The_Street_of_Many_Doors.epub,183086,application/epub+zip,deepseek-v4-flash
+README.md,,text/markdown,deepseek-v4-flash
+reports/final_report.md,,text/markdown,deepseek-v4-flash
+reports/manifest.csv,,text/csv,deepseek-v4-flash
+reports/progress.md,,text/markdown,deepseek-v4-flash

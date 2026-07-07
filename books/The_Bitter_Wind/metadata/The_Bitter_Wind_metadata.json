@@ -1,0 +1,41 @@
+{
+  "title": "The Bitter Wind",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Arctic Survival",
+  "subgenre": "Survival Thriller",
+  "language": "en",
+  "short_description": "After a plane crash on the Greenland ice cap, seven strangers must decide who gets the only working ration kit — and who gets left behind.",
+  "long_description": "Seven strangers board a small plane in Nuuk, Greenland. Only one of them is on the manifest as a stowaway. Minutes into the flight, a whiteout engulfs them. The plane crashes on the ice cap, leaving the survivors scattered across the wreckage. When a single intact ration kit is discovered among the debris, the group faces an impossible choice: share the supplies and risk everyone dying slowly, or give the kit to one person who might survive long enough for rescue.\n\nDr. Arun Singh, a surgeon haunted by a past failure, argues for clinical triage. Freja Lindholm, an anthropologist who knows Inuit survival traditions, insists they share everything equally. Sergeant Maya Chen, an Arctic veteran with frostbitten hands, volunteers to walk for help. Richard Mercer, a mining executive, offers money for the kit. Erik Larsson, the pilot whose drinking caused the crash, carries his guilt in silence. Henrik, a construction worker with a crushed leg, offers himself as a sacrifice. And Levi, a twelve-year-old stowaway, holds a secret that may save them all.\n\nSet against the stark, beautiful brutality of the Greenland ice cap, The Bitter Wind is a story of moral compromise, unexpected courage, and the thin line between civilization and the wild. It asks the oldest question: when survival demands a price, who decides what it costs?",
+  "main_characters": [
+    "Dr. Arun Singh — A trauma surgeon from Delhi, haunted by a malpractice case",
+    "Erik Larsson — The pilot, whose drinking caused the crash",
+    "Sergeant Maya Chen — U.S. Army Arctic veteran with frostbitten hands",
+    "Levi — A twelve-year-old stowaway from a Nuuk group home",
+    "Richard Mercer — A mining corporation CEO who tries to buy his way out",
+    "Dr. Freja Lindholm — A Danish anthropologist who knows Inuit survival traditions",
+    "Henrik — A Danish construction worker with a crushed leg"
+  ],
+  "keywords": [
+    "arctic survival",
+    "plane crash",
+    "Greenland",
+    "survival thriller",
+    "ice cap",
+    "moral dilemma",
+    "survival",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Bitter_Wind/txt/The_Bitter_Wind.txt",
+  "EPUB_path": "books/The_Bitter_Wind/epub/The_Bitter_Wind.epub",
+  "cover_path": "books/The_Bitter_Wind/covers/The_Bitter_Wind.png",
+  "outline_path": "books/The_Bitter_Wind/planning/The_Bitter_Wind_outline.md",
+  "cover_script_path": "books/The_Bitter_Wind/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10544
+  }
+}

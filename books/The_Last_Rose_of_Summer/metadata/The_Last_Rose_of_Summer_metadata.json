@@ -1,0 +1,83 @@
+{
+  "title": "The Last Rose of Summer",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Romantic Drama",
+  "language": "en",
+  "description": "A widowed rose grower in Provence enters a prestigious competition against a cold-hearted rival whose obsession with winning hides a grief as deep as her own. Through a long summer of cultivation and conflict, they discover that the most beautiful blooms grow from the deepest sorrow.",
+  "short_description": "Two grieving rose growers find unexpected connection through a competition in the heart of Provence.",
+  "characters": [
+    {
+      "name": "Margot Delacroix",
+      "role": "Protagonist",
+      "description": "A thirty-eight-year-old widow who inherited her late husband's rose nursery. She tends the garden alone, speaking to the roses as if they were her children. Quiet grief defines her days until the competition gives her a reason to hope again."
+    },
+    {
+      "name": "Laurent Vasseur",
+      "role": "Rival / Love Interest",
+      "description": "A forty-two-year-old rose hybridizer, wealthy and renowned. Three-time winner of the Grand Prize of Provence. His coldness is armor against the pain of a failed marriage and estrangement from his daughter, Camille."
+    },
+    {
+      "name": "Madame Fontaine",
+      "role": "The Judge",
+      "description": "The elderly arbiter of the competition, a legendary rosarian who judges not just the bloom but the heart of the grower. Her probing questions force both Margot and Laurent to confront what their roses truly mean."
+    },
+    {
+      "name": "Celeste",
+      "role": "Supporting",
+      "description": "Margot's loyal friend who encourages her to enter the competition and supports her through the journey."
+    },
+    {
+      "name": "Philippe",
+      "role": "Supporting",
+      "description": "Laurent's head gardener, a quiet and observant man who serves as a grounding presence."
+    },
+    {
+      "name": "Camille",
+      "role": "Supporting",
+      "description": "Laurent's twelve-year-old daughter, the key to his emotional awakening and the bridge to his new life."
+    },
+    {
+      "name": "Étienne Delacroix",
+      "role": "Deceased",
+      "description": "Margot's late husband, a rose breeder who died before perfecting his experimental variety. His memory and his unfinished work drive the story."
+    }
+  ],
+  "keywords": [
+    "roses",
+    "Provence",
+    "gardening",
+    "grief",
+    "widow",
+    "competition",
+    "redemption",
+    "father-daughter",
+    "healing",
+    "romance",
+    "France",
+    "horticulture",
+    "second chances"
+  ],
+  "paths": {
+    "directory": "The_Last_Rose_of_Summer",
+    "planning": "books/The_Last_Rose_of_Summer/planning/The_Last_Rose_of_Summer_outline.md",
+    "manuscript": "books/The_Last_Rose_of_Summer/txt/The_Last_Rose_of_Summer.txt",
+    "cover": "books/The_Last_Rose_of_Summer/covers/The_Last_Rose_of_Summer.png",
+    "epub": "books/The_Last_Rose_of_Summer/epub/The_Last_Rose_of_Summer.epub",
+    "tools": "books/The_Last_Rose_of_Summer/tools/create_cover.py",
+    "build_script": "books/The_Last_Rose_of_Summer/tools/build_epub.py",
+    "reports": "books/The_Last_Rose_of_Summer/reports"
+  },
+  "word_count": 11207,
+  "chapter_count": 50,
+  "status": "completed",
+  "subgenre": "Romantic Drama",
+  "long_description": "In Provence, two grieving rose growers enter a high-stakes horticultural competition while carrying losses neither knows how to name. As pruning seasons, old rivalries, and family obligations press around them, their shared devotion to the garden becomes a way to speak when ordinary language fails.\n\nThe Last Rose of Summer is a romantic drama about second chances, craft, and the slow work of allowing beauty back into a damaged life.",
+  "cover_path": "books/The_Last_Rose_of_Summer/covers/The_Last_Rose_of_Summer.png",
+  "EPUB_path": "books/The_Last_Rose_of_Summer/epub/The_Last_Rose_of_Summer.epub",
+  "TXT_path": "books/The_Last_Rose_of_Summer/txt/The_Last_Rose_of_Summer.txt",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11207
+  }
+}

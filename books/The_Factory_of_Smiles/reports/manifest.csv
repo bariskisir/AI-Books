@@ -1,0 +1,12 @@
+File,Size (bytes),Status,model
+The_Factory_of_Smiles/planning/The_Factory_of_Smiles_outline.md,3301,complete,deepseek-v4-flash
+The_Factory_of_Smiles/txt/The_Factory_of_Smiles.txt,84715,complete,deepseek-v4-flash
+The_Factory_of_Smiles/epub/The_Factory_of_Smiles.epub,1123000,complete,deepseek-v4-flash
+The_Factory_of_Smiles/covers/The_Factory_of_Smiles.png,2070000,complete,deepseek-v4-flash
+The_Factory_of_Smiles/metadata/The_Factory_of_Smiles_metadata.json,2060,complete,deepseek-v4-flash
+The_Factory_of_Smiles/tools/build_epub.py,6804,complete,deepseek-v4-flash
+The_Factory_of_Smiles/tools/create_cover.py,12463,complete,deepseek-v4-flash
+The_Factory_of_Smiles/README.md,1015,complete,deepseek-v4-flash
+The_Factory_of_Smiles/reports/final_report.md,1190,complete,deepseek-v4-flash
+The_Factory_of_Smiles/reports/manifest.csv,562,complete,deepseek-v4-flash
+The_Factory_of_Smiles/reports/progress.md,109,complete,deepseek-v4-flash

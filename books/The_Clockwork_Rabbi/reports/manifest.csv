@@ -1,0 +1,12 @@
+path,size_bytes,type,model
+The_Clockwork_Rabbi/planning/The_Clockwork_Rabbi_outline.md,2131,text/markdown,deepseek-v4-flash
+The_Clockwork_Rabbi/txt/The_Clockwork_Rabbi.txt,98675,text/plain,deepseek-v4-flash
+The_Clockwork_Rabbi/metadata/The_Clockwork_Rabbi_metadata.json,1123,application/json,deepseek-v4-flash
+The_Clockwork_Rabbi/tools/build_epub.py,6702,text/x-python,deepseek-v4-flash
+The_Clockwork_Rabbi/tools/create_cover.py,5611,text/x-python,deepseek-v4-flash
+The_Clockwork_Rabbi/covers/The_Clockwork_Rabbi.png,51645,image/png,deepseek-v4-flash
+The_Clockwork_Rabbi/epub/The_Clockwork_Rabbi.epub,192797,application/epub+zip,deepseek-v4-flash
+The_Clockwork_Rabbi/README.md,324,text/markdown,deepseek-v4-flash
+The_Clockwork_Rabbi/reports/final_report.md,1512,text/markdown,deepseek-v4-flash
+The_Clockwork_Rabbi/reports/manifest.csv,631,text/csv,deepseek-v4-flash
+The_Clockwork_Rabbi/reports/progress.md,29,text/markdown,deepseek-v4-flash

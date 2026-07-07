@@ -1,0 +1,70 @@
+{
+  "title": "The Salt Wife",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Folk Horror",
+  "language": "en",
+  "description": "A folklorist on a remote Hebridean island discovers that the local tradition of salt wives — women who marry the sea — is not just a legend.",
+  "long_description": "Dr. Elara Morrow arrives on the remote Hebridean island of Stiorra to document its oral traditions. She learns of the salt wives — women who, according to local legend, marry the sea itself. What she dismisses as metaphor proves to be a living, repeating tradition. As midsummer approaches and the island prepares for its next bride, Morrow finds herself drawn into something far older and darker than any folklore she has ever studied. Literary folk horror in the tradition of Machen and Hodgson.",
+  "characters": [
+    {
+      "name": "Dr. Elara Morrow",
+      "role": "Protagonist",
+      "description": "A 34-year-old folklorist from the University of Glasgow who comes to Stiorra to document oral traditions and becomes the witness to the salt wife ritual."
+    },
+    {
+      "name": "Morag MacLeod",
+      "role": "Elder / Mentor",
+      "description": "A 78-year-old island elder who was once chosen as a salt wife but refused, bearing the scars and the burden of her refusal through three generations."
+    },
+    {
+      "name": "The Sea Husband",
+      "role": "Antagonist",
+      "description": "The entity beneath the waves that courts and claims a bride every sixty years, speaking through dreams and leaving gifts of shell and kelp."
+    },
+    {
+      "name": "Catriona MacLeod",
+      "role": "Supporting",
+      "description": "A fifteen-year-old girl chosen as the next salt wife, Morag's granddaughter, who accepts her fate with a mixture of fear and peace."
+    },
+    {
+      "name": "Iain MacKenzie",
+      "role": "Supporting",
+      "description": "The ferryman, a weathered man who knows when to stay silent and understands the sea's demands."
+    },
+    {
+      "name": "Father Thomas",
+      "role": "Supporting",
+      "description": "The island priest who tries to reconcile his Christian faith with older truths, keeping a tide clock on his church wall."
+    }
+  ],
+  "keywords": [
+    "folk horror",
+    "Hebrides",
+    "Scotland",
+    "folklorist",
+    "sea bride",
+    "salt wife",
+    "supernatural",
+    "island legend",
+    "debt",
+    "sacrifice",
+    "tradition"
+  ],
+  "TXT_path": "books/The_Salt_Wife/txt/The_Salt_Wife.txt",
+  "EPUB_path": "books/The_Salt_Wife/epub/The_Salt_Wife.epub",
+  "cover_path": "books/The_Salt_Wife/covers/The_Salt_Wife.png",
+  "outline_path": "books/The_Salt_Wife/planning/The_Salt_Wife_outline.md",
+  "cover_script_path": "books/The_Salt_Wife/tools/create_cover.py",
+  "word_count_target": 15000,
+  "status": "completed",
+  "series": "AI-Books Collection",
+  "created_date": "2026-06-03",
+  "chapter_count": 50,
+  "subgenre": "Folk Horror",
+  "short_description": "A folklorist on a remote Hebridean island discovers that the legend of women marrying the sea is still alive.",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 14270
+  }
+}

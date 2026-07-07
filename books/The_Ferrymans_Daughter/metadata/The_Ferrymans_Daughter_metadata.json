@@ -1,0 +1,52 @@
+{
+  "title": "The Ferryman's Daughter",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Mythic Fantasy",
+  "subgenre": "Underworld Journey",
+  "language": "en",
+  "short_description": "The daughter of the River Styx ferryman must guide a living Roman soldier through the underworld to save her father's soul from a rogue god.",
+  "long_description": "Kore has spent her immortal existence on the banks of the River Styx, watching countless souls pass into the underworld aboard her father Charon's ferry. When a living Roman legionnaire, Marcus, tumbles through a rift into the underworld, he carries a dire message: Charon has been imprisoned by Stygius, a rogue chthonic god who seeks to control the passage of souls and sever the boundary between life and death.\n\nWith only three days before Stygius claims the ferry and her father's soul is drained into nothing, Kore must venture into the deepest circles of Tartarus. She crosses the Asphodel Fields, withstands the Whisper Wind, bargains with a chained titan, and faces Cerberus himself. Alongside Marcus, she descends into a frozen underworld to confront a god who has waited centuries for this moment.\n\nA mythic fantasy of descent and return, The Ferryman's Daughter explores what it means to inherit a duty, to find strength in watching, and to become the person the dead need.",
+  "main_characters": [
+    "Kore — Daughter of Charon. Raised on the shores of the Styx. Quiet, observant, burdened by her father's absence.",
+    "Marcus — Roman legionnaire of the XIV Gemina. Pragmatic, brave, displaced from the living world.",
+    "Charon — The Ferryman of the Styx. Kore's father. Ancient, weary, bound by duty.",
+    "Stygius — A rogue chthonic god, former lieutenant of Hades. Seeks to control the passage of souls."
+  ],
+  "keywords": [
+    "underworld",
+    "Greek mythology",
+    "Styx",
+    "Charon",
+    "Tartarus",
+    "Roman legionnaire",
+    "mythic fantasy",
+    "father-daughter",
+    "descent into hell",
+    "Cerberus",
+    "Lethe",
+    "soul crossing",
+    "Mythic Fantasy",
+    "supernatural",
+    "gods and monsters"
+  ],
+  "paths": {
+    "outline": "books/The_Ferrymans_Daughter/planning/The_Ferrymans_Daughter_outline.md",
+    "manuscript": "books/The_Ferrymans_Daughter/txt/The_Ferrymans_Daughter.txt",
+    "cover": "books/The_Ferrymans_Daughter/covers/The_Ferrymans_Daughter.png",
+    "epub": "books/The_Ferrymans_Daughter/epub/The_Ferrymans_Daughter.epub",
+    "metadata": "books/The_Ferrymans_Daughter/metadata/The_Ferrymans_Daughter_metadata.json",
+    "TXT_path": "books/The_Ferrymans_Daughter/txt/The_Ferrymans_Daughter.txt",
+    "EPUB_path": "books/The_Ferrymans_Daughter/epub/The_Ferrymans_Daughter.epub"
+  },
+  "TXT_path": "books/The_Ferrymans_Daughter/txt/The_Ferrymans_Daughter.txt",
+  "EPUB_path": "books/The_Ferrymans_Daughter/epub/The_Ferrymans_Daughter.epub",
+  "cover_path": "books/The_Ferrymans_Daughter/covers/The_Ferrymans_Daughter.png",
+  "status": "completed",
+  "chapter_count": 50,
+  "word_count": 12917,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12917
+  }
+}

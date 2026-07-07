@@ -1,0 +1,36 @@
+{
+  "title": "Beneath the Glass Sea",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Climate Fiction",
+  "subgenre": "Dystopian",
+  "language": "en",
+  "short_description": "In 2089 the last habitable city is an underwater dome. When the glass begins to crack a marine engineer must save 50000 souls.",
+  "long_description": "In 2089, the last habitable human settlement is Atlantica, a self-sustaining city sealed beneath a kilometer-wide glass dome on the seabed. For twenty-six years, the colony has thrived under the crushing weight of two hundred meters of ocean. But when microfractures appear in the dome's engineered crystal, marine engineer Kai Takeda discovers the truth: the cracks are spreading faster than any model predicted, driven by a geothermal vent beneath the city that was never properly accounted for.\n\nWith fifty thousand lives depending on her, Kai must navigate bureaucratic obstruction from Councilor Voss, who has spent years suppressing the truth to maintain public order. She uncovers the exiled research of Dr. Elara Nereus, a brilliant scientist whose warnings were buried years ago. Together, they develop a radical solution: a molecular sealant called Dense-Gel that can bond to the crystal lattice and stop the cracks. But the gel requires a rare catalytic agent, and the only remaining stockpile lies in the flooded ruins of Jakarta on the toxic, uninhabitable surface.\n\nFrom a desperate surface mission to a city-wide referendum on drilling into the geothermal vent, Kai faces impossible choices. The dome is cracking. The sea is pressing. And the only way to save everyone is to risk everything.",
+  "main_characters": [
+    "Kai Takeda",
+    "Dr. Elara Nereus",
+    "Councilor Hal Voss",
+    "Sol Chen"
+  ],
+  "keywords": [
+    "climate fiction",
+    "dystopian",
+    "underwater city",
+    "marine engineer",
+    "geothermal disaster",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/Beneath_the_Glass_Sea/txt/Beneath_the_Glass_Sea.txt",
+  "EPUB_path": "books/Beneath_the_Glass_Sea/epub/Beneath_the_Glass_Sea.epub",
+  "cover_path": "books/Beneath_the_Glass_Sea/covers/Beneath_the_Glass_Sea.png",
+  "outline_path": "books/Beneath_the_Glass_Sea/planning/Beneath_the_Glass_Sea_outline.md",
+  "cover_script_path": "books/Beneath_the_Glass_Sea/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 11544,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11544
+  }
+}

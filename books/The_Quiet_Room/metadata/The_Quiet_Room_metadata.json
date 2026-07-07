@@ -1,0 +1,34 @@
+{
+  "title": "The Quiet Room",
+  "number": 9,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Psychological Thriller",
+  "subgenre": "Sensory deprivation / Suspense",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "A woman wakes in a soundproof room with no memory of how she got there — and her captor insists she volunteered.",
+  "long_description": "The room is white. The room is silent. The room has no door. Dr. Anna Keller, a memory researcher specializing in sensory deprivation, wakes in a chamber that matches her own experimental design. Her captor speaks through a speaker she cannot locate and claims she signed a consent form. Her memories are gaps. Her certainties are crumbling. The Quiet Room is a taut, claustrophobic thriller about the stories we tell ourselves to survive the unbearable — and what happens when the silence begins to answer back.",
+  "main_characters": [
+    "Dr. Anna Keller",
+    "The Voice",
+    "Detective Marcus Cole"
+  ],
+  "keywords": [
+    "psychological thriller",
+    "sensory deprivation",
+    "memory",
+    "suspense",
+    "isolation"
+  ],
+  "TXT_path": "books/The_Quiet_Room/txt/The_Quiet_Room.txt",
+  "cover_path": "books/The_Quiet_Room/covers/The_Quiet_Room.png",
+  "EPUB_path": "books/The_Quiet_Room/epub/The_Quiet_Room.epub",
+  "word_count": 8647,
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 8642
+  }
+}

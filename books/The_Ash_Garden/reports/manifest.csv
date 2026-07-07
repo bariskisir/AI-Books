@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+The_Ash_Garden/planning/The_Ash_Garden_outline.md,3889,text/markdown,deepseek-v4-flash
+The_Ash_Garden/txt/The_Ash_Garden.txt,41972,text/plain,deepseek-v4-flash
+The_Ash_Garden/metadata/The_Ash_Garden_metadata.json,1141,application/json,deepseek-v4-flash
+The_Ash_Garden/covers/The_Ash_Garden.png,94065,image/png,deepseek-v4-flash
+The_Ash_Garden/epub/The_Ash_Garden.epub,197916,application/epub+zip,deepseek-v4-flash
+The_Ash_Garden/tools/create_cover.py,5076,text/x-python,deepseek-v4-flash
+The_Ash_Garden/tools/build_epub.py,7874,text/x-python,deepseek-v4-flash
+The_Ash_Garden/README.md,248,text/markdown,deepseek-v4-flash
+The_Ash_Garden/reports/final_report.md,1330,text/markdown,deepseek-v4-flash
+The_Ash_Garden/reports/manifest.csv,540,text/csv,deepseek-v4-flash
+The_Ash_Garden/reports/progress.md,28,text/markdown,deepseek-v4-flash

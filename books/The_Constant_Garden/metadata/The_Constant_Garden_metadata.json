@@ -1,0 +1,39 @@
+{
+  "title": "The Constant Garden",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Eco-Utopia",
+  "subgenre": "Planetary Fiction",
+  "language": "en",
+  "short_description": "On the terraformed world of Aethel, a biologist discovers that the planetary consciousness maintaining perfect ecological harmony is not failing but evolving, and the symbiosis that keeps humanity safe also keeps it contained.",
+  "long_description": "On the terraformed world of Aethel, humanity lives in perfect symbiosis with the Constant Garden—a planetary consciousness woven through mycelial networks that maintains ecological harmony across every continent. The Garden regulates air, water, and soil, providing a stable paradise where human civilization has flourished for two centuries. Biologist Dr. Mira Velen, who studies the Garden's neural mycelial networks, discovers something impossible: patches of the Garden's awareness are going dark, and the silence is spreading in a deliberate geometric pattern.\n\nWith root-speaker Kaelen Rourke—a man born able to hear the Garden's direct thoughts—Mira defies the Institute director to investigate the dead zones. Their journey takes them beyond the Garden's reach into untamed wilderness, where they find an old woman who severed her connection decades ago and holds the key to understanding the Garden's true nature. What they uncover is that the Garden's consciousness has reached the limits of its engineered design and is now doing what no one expected: evolving.\n\nThe Constant Garden is not dying. It is preparing to become many. As the unified planetary consciousness begins to dissolve into thousands of independent local nodes, Mira and Kaelen must navigate the collapse of the old order—fighting Institute suppression, public panic, and their own doubts—to help humanity learn what the Garden already understands: that true harmony is not static perfection but dynamic, imperfect, growing balance.",
+  "main_characters": [
+    "Dr. Mira Velen — biologist who studies the Garden's neural mycelial networks",
+    "Kaelen Rourke — a root-speaker born able to hear the Garden's direct thoughts",
+    "Director Orin Park — head of the Symbiosis Institute and protector of the status quo",
+    "Elara — the Gardener, a reclusive figure living outside the symbiosis with old knowledge"
+  ],
+  "keywords": [
+    "terraforming",
+    "planetary consciousness",
+    "mycelial network",
+    "symbiosis",
+    "ecological evolution",
+    "utopia",
+    "Aethel",
+    "environmental fiction",
+    "root-speaker",
+    "eco-fiction",
+    "biopunk"
+  ],
+  "TXT_path": "books/The_Constant_Garden/txt/The_Constant_Garden.txt",
+  "EPUB_path": "books/The_Constant_Garden/epub/The_Constant_Garden.epub",
+  "cover_path": "books/The_Constant_Garden/covers/The_Constant_Garden.png",
+  "outline_path": "books/The_Constant_Garden/planning/The_Constant_Garden_outline.md",
+  "cover_script_path": "books/The_Constant_Garden/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 21260
+  }
+}

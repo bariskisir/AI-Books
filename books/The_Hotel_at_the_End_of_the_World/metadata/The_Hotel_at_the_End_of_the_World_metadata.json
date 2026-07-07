@@ -1,0 +1,40 @@
+{
+  "title": "The Hotel at the End of the World",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Surreal Fiction",
+  "subgenre": "Magical Realism",
+  "language": "en",
+  "short_description": "A travel writer checks into a Patagonian hotel where every floor is a different decade and the concierge knows when you will die.",
+  "long_description": "Travel writer Leo Mercer arrives at a mysterious hotel in remote Patagonia that exists outside normal time. The concierge greets him by name before he can speak. Each floor of the hotel represents a different decade, from the 1900s to an unknown future, and guests from every era wander the halls in endless loops. The concierge knows the death date of every guest who checks in.\n\nOn the 1920s floor, Leo meets a woman in blue who has been trapped in the hotel since 1968, neither alive nor dead, preserved by the hotel's strange relationship with time. As Leo explores the floors and uncovers the hotel's secrets, he must confront his own buried past and decide whether knowledge of his death date is a gift or a curse.\n\nThe novel follows Leo's journey through decades of frozen time, his growing connection to the mysterious Elena, and his ultimate choice between the safety of the known and the terror of the real world. It is a story about time, memory, and the courage required to choose life over comfortable stasis.",
+  "main_characters": [
+    "Leo Mercer — Travel writer in his early 40s who accepts an assignment to review a mysterious Patagonian hotel, only to discover it exists outside normal time",
+    "The Concierge — Ageless manager of the hotel who has been there since it opened in 1889, knows every guest's death date, and serves as the physical manifestation of the hotel's will",
+    "Elena Vasquez (The Woman in Blue) — A woman who arrived at the hotel in 1968 and died there in 1971 but was preserved by the hotel as a between-state being, wearing the same shade of blue"
+  ],
+  "keywords": [
+    "surreal fiction",
+    "magical realism",
+    "Patagonia",
+    "time travel",
+    "hotel",
+    "death",
+    "memory",
+    "travel writer",
+    "Argentina",
+    "Chile",
+    "decades",
+    "existential",
+    "literary fiction"
+  ],
+  "TXT_path": "books/The_Hotel_at_the_End_of_the_World/txt/The_Hotel_at_the_End_of_the_World.txt",
+  "EPUB_path": "books/The_Hotel_at_the_End_of_the_World/epub/The_Hotel_at_the_End_of_the_World.epub",
+  "cover_path": "books/The_Hotel_at_the_End_of_the_World/covers/The_Hotel_at_the_End_of_the_World.png",
+  "outline_path": "books/The_Hotel_at_the_End_of_the_World/planning/The_Hotel_at_the_End_of_the_World_outline.md",
+  "cover_script_path": "books/The_Hotel_at_the_End_of_the_World/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 14290
+  }
+}

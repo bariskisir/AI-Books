@@ -1,0 +1,40 @@
+{
+  "title": "The Reversal",
+  "author": "Barış Kısır",
+  "model": "minimax-m3",
+  "genre": "Psychological Thriller",
+  "subgenre": "Psychiatrist Unreliable Narrator",
+  "language": "en",
+  "short_description": "A respected psychiatrist begins to suspect that her newest patient is the one treating her, and that she has been the patient all along.",
+  "long_description": "Dr. Cassia Morrigan has spent fifteen years on her side of the chair. She is careful, competent, and respected. When a soft-spoken man named Henry Voss is referred to her for anxiety, she takes him on as a case.\n\nFrom the first session, Henry seems to know things about Cassia that no patient should know. The name of a dog she had at nine. The corner of her mouth. The patient who once said, \"A long walk.\" Her other patients begin to echo her own life back to her: a woman who describes Cassia's dead father, a teenage boy who watches her kitchen window, a man convinced he has been replaced.\n\nThe clinical boundary — the one that keeps the doctor on one side of the chair and the patient on the other — begins to dissolve. Notes appear in Cassia's own handwriting that she does not remember writing. Reflections in compact mirrors blink late. Drives home are gaps in her memory.\n\nA quiet, spare psychological thriller about the line between healer and healed.",
+  "main_characters": [
+    "Dr. Cassia Morrigan",
+    "Henry Voss",
+    "Dr. Adam Wilkes",
+    "Mrs. Eloise Tennant",
+    "Jonah Park",
+    "Mara Voss"
+  ],
+  "keywords": [
+    "psychiatrist",
+    "patient",
+    "transference",
+    "dissociation",
+    "memory",
+    "unreliable narrator",
+    "psychological thriller",
+    "mental health",
+    "therapy",
+    "chair"
+  ],
+  "TXT_path": "books/The_Reversal/txt/The_Reversal.txt",
+  "EPUB_path": "books/The_Reversal/epub/The_Reversal.epub",
+  "cover_path": "books/The_Reversal/covers/The_Reversal.png",
+  "outline_path": "books/The_Reversal/planning/The_Reversal_outline.md",
+  "cover_script_path": "books/The_Reversal/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 16443
+  }
+}

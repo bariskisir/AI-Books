@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+planning/The_Last_Rose_of_Summer_outline.md,10258,text/markdown,deepseek-v4-flash
+txt/The_Last_Rose_of_Summer.txt,62636,text/plain,deepseek-v4-flash
+metadata/The_Last_Rose_of_Summer_metadata.json,3230,application/json,deepseek-v4-flash
+tools/build_epub.py,8405,text/x-python,deepseek-v4-flash
+tools/create_cover.py,5865,text/x-python,deepseek-v4-flash
+covers/The_Last_Rose_of_Summer.png,114754,image/png,deepseek-v4-flash
+epub/The_Last_Rose_of_Summer.epub,225425,application/epub+zip,deepseek-v4-flash
+README.md,551,text/markdown,deepseek-v4-flash
+reports/final_report.md,3046,text/markdown,deepseek-v4-flash
+reports/manifest.csv,539,text/csv,deepseek-v4-flash
+reports/progress.md,823,text/markdown,deepseek-v4-flash

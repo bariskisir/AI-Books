@@ -1,0 +1,44 @@
+{
+  "title": "The Simurgh Quest",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fantasy",
+  "subgenre": "Mythological Fantasy",
+  "language": "en",
+  "short_description": "A disgraced royal cartographer and a warrior woman must cross the Seven Valleys of Persian mysticism to find the Simurgh, the primordial bird whose feather alone can save a dying Shah.",
+  "long_description": "When Shahanshah Khosrow of Persia is struck by a mysterious wasting curse, the court astrologers declare that only a feather from the Simurgh — the primordial bird of Persian myth — can save him. The task falls to Rostam Karimi, a disgraced royal cartographer who once mapped the empire's lost borders and now seeks redemption after a failed rebellion cost him his rank and his family. He is joined by Parisa Daneshvar, a warrior woman of the Jeyan tribe whose village was burned on the Shah's orders, and who sees the quest as a path to a different kind of justice. Guided by the cryptic predictions of the Zoroastrian priest Darius Kamgar, the pair must cross the Seven Valleys of Persian mysticism — each a literal and spiritual trial — while the Shah's ambitious vizier, Asmodeus, dispatches assassins to ensure the Simurgh never heals the king he intends to replace. The quest becomes a confrontation with their own past sins, the nature of power, and the truth behind the myth.",
+  "main_characters": [
+    "Rostam Karimi",
+    "Parisa Daneshvar",
+    "Darius Kamgar",
+    "Asmodeus",
+    "Shahanshah Khosrow"
+  ],
+  "keywords": [
+    "Simurgh",
+    "Ancient Persia",
+    "Sassanian Empire",
+    "Zoroastrianism",
+    "Seven Valleys",
+    "Mount Qaf",
+    "Mythological Fantasy",
+    "Quest",
+    "Redemption",
+    "Persian Mythology"
+  ],
+  "TXT_path": "books/The_Simurgh_Quest/txt/The_Simurgh_Quest.txt",
+  "EPUB_path": "books/The_Simurgh_Quest/epub/The_Simurgh_Quest.epub",
+  "cover_path": "books/The_Simurgh_Quest/covers/The_Simurgh_Quest.png",
+  "paths": {
+    "outline": "books/The_Simurgh_Quest/planning/The_Simurgh_Quest_outline.md",
+    "manuscript": "books/The_Simurgh_Quest/txt/The_Simurgh_Quest.txt",
+    "epub": "books/The_Simurgh_Quest/epub/The_Simurgh_Quest.epub",
+    "cover": "books/The_Simurgh_Quest/covers/The_Simurgh_Quest.png",
+    "metadata": "books/The_Simurgh_Quest/metadata/The_Simurgh_Quest_metadata.json"
+  },
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 26554
+  }
+}

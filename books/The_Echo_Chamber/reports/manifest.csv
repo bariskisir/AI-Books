@@ -1,0 +1,12 @@
+File,Size (bytes),Type,model
+The_Echo_Chamber/planning/The_Echo_Chamber_outline.md,,Markdown,deepseek-v4-flash
+The_Echo_Chamber/txt/The_Echo_Chamber.txt,61086,Text,deepseek-v4-flash
+The_Echo_Chamber/metadata/The_Echo_Chamber_metadata.json,1103,JSON,deepseek-v4-flash
+The_Echo_Chamber/covers/The_Echo_Chamber.png,121750,PNG,deepseek-v4-flash
+The_Echo_Chamber/epub/The_Echo_Chamber.epub,227828,EPUB,deepseek-v4-flash
+The_Echo_Chamber/tools/create_cover.py,6464,Python,deepseek-v4-flash
+The_Echo_Chamber/tools/build_epub.py,7415,Python,deepseek-v4-flash
+The_Echo_Chamber/README.md,246,Markdown,deepseek-v4-flash
+The_Echo_Chamber/reports/final_report.md,1518,Markdown,deepseek-v4-flash
+The_Echo_Chamber/reports/manifest.csv,671,CSV,deepseek-v4-flash
+The_Echo_Chamber/reports/progress.md,30,Markdown,deepseek-v4-flash

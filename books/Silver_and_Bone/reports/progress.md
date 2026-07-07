@@ -1,0 +1,54 @@
+# Silver and Bone — Progress
+
+**50/50 chapters complete.**
+
+- [x] Chapter 1: The Photograph
+- [x] Chapter 2: The Body
+- [x] Chapter 3: Neutral Ground
+- [x] Chapter 4: The War
+- [x] Chapter 5: The Second Murder
+- [x] Chapter 6: The Prince
+- [x] Chapter 7: The Embassy
+- [x] Chapter 8: The Claim
+- [x] Chapter 9: The Brand
+- [x] Chapter 10: The Message
+- [x] Chapter 11: The Terms
+- [x] Chapter 12: The Bindings
+- [x] Chapter 13: The Neutrals
+- [x] Chapter 14: The Morrigan
+- [x] Chapter 15: The Offer
+- [x] Chapter 16: The Weapon
+- [x] Chapter 17: The Smith
+- [x] Chapter 18: The Chase
+- [x] Chapter 19: The Spymaster
+- [x] Chapter 20: The Cage
+- [x] Chapter 21: The Market
+- [x] Chapter 22: Underground
+- [x] Chapter 23: The Craftsman
+- [x] Chapter 24: Finn
+- [x] Chapter 25: The Reckoning
+- [x] Chapter 26: The Trap
+- [x] Chapter 27: The Judgment
+- [x] Chapter 28: The Truth
+- [x] Chapter 29: The Breaking
+- [x] Chapter 30: The Escape
+- [x] Chapter 31: The Mill
+- [x] Chapter 32: The Warning
+- [x] Chapter 33: The Arrival
+- [x] Chapter 34: The Standoff
+- [x] Chapter 35: The Option
+- [x] Chapter 36: The Melt
+- [x] Chapter 37: The Aftermath
+- [x] Chapter 38: The Negotiation
+- [x] Chapter 39: The Binding
+- [x] Chapter 40: The Watch
+- [x] Chapter 41: The Ground
+- [x] Chapter 42: The Thin Place
+- [x] Chapter 43: The Cost
+- [x] Chapter 44: The Hollow
+- [x] Chapter 45: The Thread
+- [x] Chapter 46: The Raid
+- [x] Chapter 47: The News
+- [x] Chapter 48: The Threshold
+- [x] Chapter 49: The Answer
+- [x] Chapter 50: The Dawn

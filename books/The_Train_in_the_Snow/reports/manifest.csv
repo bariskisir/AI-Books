@@ -1,0 +1,12 @@
+File,Size (bytes),Description,model
+The_Train_in_the_Snow/planning/The_Train_in_the_Snow_outline.md,11482,Outline with premise,deepseek-v4-flash, and 50-chapter plan
+The_Train_in_the_Snow/txt/The_Train_in_the_Snow.txt,75751,Complete manuscript (50 chapters,deepseek-v4-flash,040 words)
+The_Train_in_the_Snow/metadata/The_Train_in_the_Snow_metadata.json,1230,Book metadata,deepseek-v4-flash
+The_Train_in_the_Snow/tools/build_epub.py,5813,EPUB build script,deepseek-v4-flash
+The_Train_in_the_Snow/tools/create_cover.py,6777,Cover generation script,deepseek-v4-flash
+The_Train_in_the_Snow/covers/The_Train_in_the_Snow.png,58254,Book cover (1600x2560 PNG),deepseek-v4-flash
+The_Train_in_the_Snow/epub/The_Train_in_the_Snow.epub,188895,EPUB 3 file,deepseek-v4-flash
+The_Train_in_the_Snow/README.md,1205,Book overview,deepseek-v4-flash
+The_Train_in_the_Snow/reports/final_report.md,2466,Final report,deepseek-v4-flash
+The_Train_in_the_Snow/reports/manifest.csv,722,File manifest,deepseek-v4-flash
+The_Train_in_the_Snow/reports/progress.md,0,Progress summary,deepseek-v4-flash

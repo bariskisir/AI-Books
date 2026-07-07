@@ -1,0 +1,98 @@
+{
+  "title": "The House on the Cliff",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Domestic Suspense",
+  "language": "en",
+  "description": "The Harrison family moves into their dream home: a stunning glass-walled house on the California cliffs. But the house was built by Elias Voss, a charismatic cult leader who buried something beneath the foundation. When Kate discovers old blueprints showing a sealed chamber, she begins to unravel a fifty-five-year-old murder. Her husband Mark insists she let it go. The house itself seems to push back. As Kate digs deeper, she must confront the buried truth before the house claims another victim.",
+  "short_description": "A family's dream house on the California cliffs hides a cult leader's dark secret buried beneath the foundation.",
+  "characters": [
+    {
+      "name": "Kate Harrison",
+      "role": "Protagonist",
+      "description": "38-year-old mother of two, former investigative journalist. Sharp, intuitive, restless. She discovers the truth beneath the house and pursues justice against her husband's wishes."
+    },
+    {
+      "name": "Mark Harrison",
+      "role": "Antagonist",
+      "description": "42-year-old tech executive, Kate's husband. Pragmatic, image-conscious, deeply invested in the narrative of their perfect life. He opposes Kate's investigation to protect his career and reputation."
+    },
+    {
+      "name": "Ezra Vance",
+      "role": "Supporting",
+      "description": "87-year-old architect who designed the house for Elias Voss. Carried the secret of the buried chamber for five decades. Provides Kate with the key and his confession."
+    },
+    {
+      "name": "Elias Voss",
+      "role": "Antagonist (deceased)",
+      "description": "Charismatic cult leader who founded the Sun Temple commune. Built the house on the cliff and buried his first disciple alive beneath the foundation. Died in Chile in 1998, never prosecuted."
+    },
+    {
+      "name": "Miriam Cross",
+      "role": "Victim",
+      "description": "24-year-old woman, Voss's first disciple and lover. Buried alive beneath the house in 1969. Her remains are discovered by Kate, triggering the investigation."
+    },
+    {
+      "name": "Sarah Harrison",
+      "role": "Supporting",
+      "description": "Kate and Mark's 10-year-old daughter. Sensitive and artistic. The first to sense the presence in the house."
+    },
+    {
+      "name": "Ben Harrison",
+      "role": "Supporting",
+      "description": "Kate and Mark's 7-year-old son."
+    },
+    {
+      "name": "Carol",
+      "role": "Supporting",
+      "description": "Former Sun Temple member who witnessed Miriam's burial. Comes forward to testify after 55 years of silence."
+    },
+    {
+      "name": "Detective Garcia",
+      "role": "Supporting",
+      "description": "Lead detective investigating the Miriam Cross case."
+    }
+  ],
+  "keywords": [
+    "domestic suspense",
+    "cult",
+    "buried secrets",
+    "California cliffs",
+    "haunted house",
+    "architectural thriller",
+    "missing person",
+    "marriage in crisis",
+    "murder investigation",
+    "mid-century modern",
+    "glass house",
+    "Sun Temple",
+    "digging for truth",
+    "family drama",
+    "psychological suspense"
+  ],
+  "paths": {
+    "root": "The_House_on_the_Cliff",
+    "planning": "books/The_House_on_the_Cliff/planning/The_House_on_the_Cliff_outline.md",
+    "manuscript": "books/The_House_on_the_Cliff/txt/The_House_on_the_Cliff.txt",
+    "cover": "books/The_House_on_the_Cliff/covers/The_House_on_the_Cliff.png",
+    "epub": "books/The_House_on_the_Cliff/epub/The_House_on_the_Cliff.epub",
+    "metadata": "books/The_House_on_the_Cliff/metadata/The_House_on_the_Cliff_metadata.json",
+    "tools": "books/The_House_on_the_Cliff/tools"
+  },
+  "status": "completed",
+  "word_count": 12587,
+  "chapter_count": 50,
+  "completion_date": "2026-06-03",
+  "series": "AI-Books Collection",
+  "TXT_path": "books/The_House_on_the_Cliff/txt/The_House_on_the_Cliff.txt",
+  "EPUB_path": "books/The_House_on_the_Cliff/epub/The_House_on_the_Cliff.epub",
+  "cover_path": "books/The_House_on_the_Cliff/covers/The_House_on_the_Cliff.png",
+  "outline_path": "books/The_House_on_the_Cliff/planning/The_House_on_the_Cliff_outline.md",
+  "cover_script_path": "books/The_House_on_the_Cliff/tools/create_cover.py",
+  "long_description": "The Harrison family moves into their dream home: a stunning glass-walled house on the California cliffs. But the house was built by Elias Voss, a charismatic cult leader who buried something beneath the foundation. When Kate discovers old blueprints showing a sealed chamber, she begins to unravel a fifty-five-year-old murder. Her husband Mark insists she let it go. The house itself seems to push back. As Kate digs deeper, she must confront the buried truth before the house claims another victim.",
+  "subgenre": "Domestic Suspense",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11142
+  }
+}

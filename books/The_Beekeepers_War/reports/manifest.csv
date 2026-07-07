@@ -1,0 +1,12 @@
+file,size_bytes,sha256,model
+planning/The_Beekeepers_War_outline.md,,pending,deepseek-v4-flash
+txt/The_Beekeepers_War.txt,,pending,deepseek-v4-flash
+metadata/The_Beekeepers_War_metadata.json,,pending,deepseek-v4-flash
+tools/build_epub.py,,pending,deepseek-v4-flash
+tools/create_cover.py,,pending,deepseek-v4-flash
+covers/The_Beekeepers_War.png,87488,pending,deepseek-v4-flash
+epub/The_Beekeepers_War.epub,184623,pending,deepseek-v4-flash
+README.md,,pending,deepseek-v4-flash
+reports/final_report.md,,pending,deepseek-v4-flash
+reports/manifest.csv,,pending,deepseek-v4-flash
+reports/progress.md,,pending,deepseek-v4-flash

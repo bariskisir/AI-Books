@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Hireling/planning/The_Hireling_outline.md,,markdown,deepseek-v4-flash
+The_Hireling/txt/The_Hireling.txt,71799,text,deepseek-v4-flash
+The_Hireling/metadata/The_Hireling_metadata.json,,,deepseek-v4-flash
+The_Hireling/tools/create_cover.py,,python,deepseek-v4-flash
+The_Hireling/covers/The_Hireling.png,78157,png,deepseek-v4-flash
+The_Hireling/tools/build_epub.py,,python,deepseek-v4-flash
+The_Hireling/epub/The_Hireling.epub,204055,epub,deepseek-v4-flash
+The_Hireling/README.md,,markdown,deepseek-v4-flash
+The_Hireling/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Hireling/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Hireling/reports/progress.md,,markdown,deepseek-v4-flash

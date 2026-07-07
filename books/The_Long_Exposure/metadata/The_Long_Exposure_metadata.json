@@ -1,0 +1,42 @@
+{
+  "title": "The Long Exposure",
+  "number": 6,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Quiet mystery / Science and memory",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "At a mountaintop observatory being shut down for good, the last staff astronomer digitizing a century of glass photographic plates finds a star that should not exist — and the trail of the brilliant woman who was erased from the record for seeing it first in 1971.",
+  "long_description": "For forty years Tomas Reye has worked at the Vela Ridge Observatory, and now he is the only one left to close it. A foundation has sold the mountain; the great dome will go dark; and before the archive is crated and dispersed, the glass photographic plates of an entire century of sky must be scanned. The foundation sends a young digitization technician, Sable Okonkwo, to do the work. On a plate exposed one winter night in 1970, she finds a point of light that no catalogue accounts for — a guest star, gone three nights later, marked in faded grease pencil by a hand neither of them recognizes.\n\nThe hand belonged to Ada Mireu, a plate assistant and 'computer' who measured the heavens by hand in an era that did not let women near the eyepiece, and who walked off the mountain in the spring of 1971 and out of the observatory's history. The discovery she flagged was dismissed, then quietly claimed by others; her notebooks vanished; her name survives on nothing. As Tomas and Sable follow the anomaly through ledgers, logbooks, and the cold rooms where the plates are stored, the past opens — and Tomas must reckon with the fact that he was there, a junior man of twenty-two, the night Ada was sent away, and that he said nothing.\n\nThe Long Exposure is a novel about attention as a form of love: about the light of dead things still arriving, about who gets to be remembered, and about the slow, late, necessary work of giving a name back to the dark.",
+  "main_characters": [
+    "Tomas Reye",
+    "Sable Okonkwo",
+    "Ada Mireu",
+    "Director Hessel",
+    "Ignatz Vorne",
+    "Marisol Reye"
+  ],
+  "keywords": [
+    "literary fiction",
+    "quiet mystery",
+    "observatory",
+    "astronomy",
+    "photographic plates",
+    "women in science",
+    "memory and grief",
+    "archive",
+    "guest star",
+    "decommissioning"
+  ],
+  "TXT_path": "books/The_Long_Exposure/txt/The_Long_Exposure.txt",
+  "cover_path": "books/The_Long_Exposure/covers/The_Long_Exposure.png",
+  "EPUB_path": "books/The_Long_Exposure/epub/The_Long_Exposure.epub",
+  "word_count": 19868,
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 19863
+  }
+}

@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Man_Who_Forgot_His_Wife/planning/The_Man_Who_Forgot_His_Wife_outline.md,,markdown,deepseek-v4-flash
+The_Man_Who_Forgot_His_Wife/txt/The_Man_Who_Forgot_His_Wife.txt,,text,deepseek-v4-flash
+The_Man_Who_Forgot_His_Wife/metadata/The_Man_Who_Forgot_His_Wife_metadata.json,,,deepseek-v4-flash
+The_Man_Who_Forgot_His_Wife/tools/create_cover.py,,python,deepseek-v4-flash
+The_Man_Who_Forgot_His_Wife/covers/The_Man_Who_Forgot_His_Wife.png,73744,png,deepseek-v4-flash
+The_Man_Who_Forgot_His_Wife/tools/build_epub.py,,python,deepseek-v4-flash
+The_Man_Who_Forgot_His_Wife/epub/The_Man_Who_Forgot_His_Wife.epub,192315,epub,deepseek-v4-flash
+The_Man_Who_Forgot_His_Wife/README.md,,markdown,deepseek-v4-flash
+The_Man_Who_Forgot_His_Wife/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Man_Who_Forgot_His_Wife/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Man_Who_Forgot_His_Wife/reports/progress.md,,markdown,deepseek-v4-flash

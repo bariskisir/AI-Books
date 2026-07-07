@@ -1,0 +1,40 @@
+{
+  "title": "The Ghost Bridge",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Cosmic Horror",
+  "subgenre": "Scottish Weird / Lovecraftian",
+  "language": "en",
+  "short_description": "A structural engineer inspecting a bridge in rural Scotland realizes the structure was built to keep something vast and ancient asleep beneath the valley.",
+  "long_description": "Dr. Isla Kerr, a structural engineer from Glasgow, is sent to assess an ancient bridge in the remote Scottish Highlands. The bridge — known locally as the Ghost Bridge — spans a fog-choked valley called Glasghille. It should have collapsed centuries ago. It hasn't. The stonework is too perfect, the alignment too precise, the carvings beneath the arch too geometric for any pre-industrial culture to have produced.\n\nAs Kerr investigates, she discovers that the bridge was never meant for crossing. It is a locking mechanism, a nail driven through the skull of something that slumbers beneath the valley floor. Old Morag, a reclusive highland woman who has guarded the bridge for forty years, reveals the truth: the Sleeper Below is an entity older than the mountains, and its dreams hold reality together.\n\nWhen hairline cracks appear in the keystone and the Sleeper begins to stir, Kerr must choose between science and faith, between the world she knows and the abyss beneath it. With the bridge failing and the Sleeper waking, she must learn the old words, master the hidden geometries, and decide whether to reinforce the cage — or open the lock.",
+  "main_characters": [
+    "Dr. Isla Kerr — A structural engineer from Glasgow, mid-40s. Rational, methodical, divorced. Her engineering mind is her anchor, and the bridge is about to break it.",
+    "Old Morag — A crofter and the keeper of the Ghost Bridge, 70s. Has guarded the bridge for forty years. Speaks Gaelic. Knows the old words.",
+    "The Sleeper Below — An entity older than the earth. It fell from the spaces between stars and has slept beneath the Glasghille valley since before the mountains rose. Its dreams are reality."
+  ],
+  "keywords": [
+    "cosmic horror",
+    "scotland",
+    "bridge",
+    "ancient entity",
+    "lovecraftian",
+    "highlands",
+    "structural engineer",
+    "supernatural",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Ghost_Bridge/txt/The_Ghost_Bridge.txt",
+  "EPUB_path": "books/The_Ghost_Bridge/epub/The_Ghost_Bridge.epub",
+  "cover_path": "books/The_Ghost_Bridge/covers/The_Ghost_Bridge.png",
+  "outline_path": "books/The_Ghost_Bridge/planning/The_Ghost_Bridge_outline.md",
+  "cover_script_path": "books/The_Ghost_Bridge/tools/create_cover.py",
+  "epub_build_script_path": "books/The_Ghost_Bridge/tools/build_epub.py",
+  "word_count": 12558,
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12558
+  }
+}

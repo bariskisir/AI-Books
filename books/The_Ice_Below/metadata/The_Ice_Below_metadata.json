@@ -1,0 +1,36 @@
+{
+  "title": "The Ice Below",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Arctic Thriller",
+  "subgenre": "Antarctic survival / Biological horror",
+  "language": "en",
+  "short_description": "Winter darkness falls on an Antarctic research station. The crew begins to die one by one and the radio has been silent for weeks.",
+  "long_description": "Winter darkness has settled over McMurdo Station. The last supply flight departed eight weeks ago. Radio contact with the outside world went silent six weeks later — no explanation, no backup, just dead air. Dr. Lena Shaw, a glaciologist studying ancient ice cores, watches as her colleagues begin dying one by one. Station Chief Vogt enforces quarantine protocols with increasing brutality. Dr. Akiyama, the station physician, finds evidence that the deaths are connected to something in the ice itself — something ancient that has waited millennia beneath the shelf.\n\nCut off from rescue, running out of supplies, and unable to trust anyone, Shaw must discover what is killing them before the darkness claims them all. Her investigation leads her deep beneath the station, into a subglacial lake sealed for millions of years, where she confronts an intelligence far older than humanity — and must decide whether to destroy it or understand it.",
+  "main_characters": [
+    "Dr. Lena Shaw",
+    "Station Chief Erich Vogt",
+    "Dr. Kenji Akiyama"
+  ],
+  "keywords": [
+    "arctic thriller",
+    "antarctic",
+    "research station",
+    "survival",
+    "biological horror",
+    "ice",
+    "subglacial lake",
+    "isolation",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Ice_Below/txt/The_Ice_Below.txt",
+  "EPUB_path": "books/The_Ice_Below/epub/The_Ice_Below.epub",
+  "cover_path": "books/The_Ice_Below/covers/The_Ice_Below.png",
+  "outline_path": "books/The_Ice_Below/planning/The_Ice_Below_outline.md",
+  "cover_script_path": "books/The_Ice_Below/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13524
+  }
+}

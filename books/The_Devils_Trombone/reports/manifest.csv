@@ -1,0 +1,12 @@
+file,size_bytes,description,model
+planning/The_Devils_Trombone_outline.md,,50-chapter outline,deepseek-v4-flash
+txt/The_Devils_Trombone.txt,11896 words,Full manuscript (50 chapters),deepseek-v4-flash
+metadata/The_Devils_Trombone_metadata.json,,Production metadata,deepseek-v4-flash
+tools/build_epub.py,,EPUB build script (adapted from template),deepseek-v4-flash
+tools/create_cover.py,,Cover generation script (PIL),deepseek-v4-flash
+covers/The_Devils_Trombone.png,45954,1600x2560 cover image,deepseek-v4-flash
+epub/The_Devils_Trombone.epub,160676,EPUB 3 ebook,deepseek-v4-flash
+README.md,,Per-book README,deepseek-v4-flash
+reports/final_report.md,,This report,deepseek-v4-flash
+reports/manifest.csv,,File manifest,deepseek-v4-flash
+reports/progress.md,,Progress summary,deepseek-v4-flash

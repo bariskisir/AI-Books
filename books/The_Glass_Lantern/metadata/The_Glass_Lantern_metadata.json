@@ -1,0 +1,47 @@
+{
+  "title": "The Glass Lantern",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-pro",
+  "genre": "Literary Fiction",
+  "subgenre": "Historical Mystery",
+  "language": "en",
+  "short_description": "In 1925 Istanbul, a master glassblower fights to clear his name when his lantern is found at a murdered diplomat's scene.",
+  "long_description": "The Glass Lantern follows Kemal Özden, a master glassblower in 1925 Istanbul whose distinctive workshop lantern is discovered shattered beside the body of a British consular secretary. Inspector Leyla Aksoy — one of the first women in the Turkish Republic's police force — draws the case, and her investigation peels back layers of post-Ottoman intrigue, antiquities smuggling, and a forgery ring stretching from the Grand Bazaar to Venice and London.\n\nAs Kemal navigates suspicion, family secrets, and the legacy of his estranged uncle — a legendary glassmaker on Murano — the novel becomes a meditation on craft, memory, and the truths that fragile things can hold. The glass lantern serves as a central metaphor: luminous, breakable, and capable of casting different truths depending on the light.",
+  "main_characters": [
+    "Kemal Özden",
+    "Inspector Leyla Aksoy",
+    "Evren Özden",
+    "Charles Whitmore",
+    "Madame Eleni Vlahos",
+    "Defne Özden",
+    "Yusuf Özden",
+    "Claude Mercier",
+    "Margaret Harker"
+  ],
+  "keywords": [
+    "literary fiction",
+    "historical mystery",
+    "istanbul",
+    "glassblowing",
+    "ottoman glass",
+    "antiquities smuggling",
+    "1920s",
+    "turkish republic",
+    "detective",
+    "adult characters",
+    "clean literary suspense",
+    "standalone"
+  ],
+  "planned_chapters": 50,
+  "word_count": 20415,
+  "TXT_path": "books/The_Glass_Lantern/txt/The_Glass_Lantern.txt",
+  "EPUB_path": "books/The_Glass_Lantern/epub/The_Glass_Lantern.epub",
+  "cover_path": "books/The_Glass_Lantern/covers/The_Glass_Lantern.png",
+  "outline_path": "books/The_Glass_Lantern/planning/The_Glass_Lantern_outline.md",
+  "cover_script_path": "books/The_Glass_Lantern/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20415
+  }
+}

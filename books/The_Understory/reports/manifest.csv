@@ -1,0 +1,12 @@
+file,status
+books/The_Understory/planning/The_Understory_outline.md,complete
+books/The_Understory/txt/The_Understory.txt,complete
+books/The_Understory/covers/The_Understory.png,complete
+books/The_Understory/epub/The_Understory.epub,complete
+books/The_Understory/metadata/The_Understory_metadata.json,complete
+books/The_Understory/tools/build_epub.py,complete
+books/The_Understory/tools/create_cover.py,complete
+books/The_Understory/reports/final_report.md,complete
+books/The_Understory/reports/manifest.csv,complete
+books/The_Understory/reports/progress.md,complete
+books/The_Understory/README.md,complete

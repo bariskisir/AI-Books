@@ -1,0 +1,40 @@
+{
+  "title": "The Ballroom of Shadows",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Gothic Mystery",
+  "subgenre": "Historical Gothic",
+  "language": "en",
+  "short_description": "A dance instructor at a crumbling Viennese ballroom discovers that the mirrors reflect versions of the dancers' past lives.",
+  "long_description": "Anya Novak is a dance instructor at the Ballroom of Shadows, a crumbling Viennese ballroom with a dark history. When she begins to see strange figures in the antique mirrors — figures that move independently, showing past versions of her students — she realizes the glass is not ordinary. The mirrors reflect the past lives of those who dance before them.\n\nAs Anya teaches waltz and tango to a dwindling clientele, a mysterious girl in a silver dress appears in the oldest mirror, reaching toward her. The girl's name was Elara, and she died at the New Year's Ball in 1898. Bound to the mirror by the violence of her death, she has been waiting a century for someone to finish the dance she never completed.\n\nWith the help of Stefan Kovac, a historian researching the ballroom's past, and the reluctant confessions of Herr Strauss, the aging owner who has kept the family secret for decades, Anya must learn the lost 1898 waltz and perform it before the oldest mirror to free Elara's spirit. In doing so, she discovers that the past is not a prison — unless you choose to stay in it.",
+  "main_characters": [
+    "Anya Novak — A dance instructor at the Ballroom of Shadows",
+    "Herr Strauss — The elderly owner of the ballroom, keeper of its secrets",
+    "Elara Voss — The girl in the mirror, a dancer who died in 1898",
+    "Stefan Kovac — A historian researching the ballroom's past",
+    "Marta — Anya's oldest student, a widow in her sixties",
+    "Lukas — A pianist who joins the ballroom"
+  ],
+  "keywords": [
+    "gothic mystery",
+    "Vienna",
+    "ballroom",
+    "mirrors",
+    "dance",
+    "historical mystery",
+    "supernatural",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Ballroom_of_Shadows/txt/The_Ballroom_of_Shadows.txt",
+  "EPUB_path": "books/The_Ballroom_of_Shadows/epub/The_Ballroom_of_Shadows.epub",
+  "cover_path": "books/The_Ballroom_of_Shadows/covers/The_Ballroom_of_Shadows.png",
+  "outline_path": "books/The_Ballroom_of_Shadows/planning/The_Ballroom_of_Shadows_outline.md",
+  "cover_script_path": "books/The_Ballroom_of_Shadows/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11240
+  }
+}

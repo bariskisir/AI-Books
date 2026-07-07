@@ -1,0 +1,12 @@
+filename,type,size_estimate,status,notes
+The_Petrified_Sea_outline.md,planning,9KB,complete,50-chapter outline with premise and cast in five parts
+The_Petrified_Sea.txt,manuscript,215KB,complete,50 chapters ~36.6k words
+The_Petrified_Sea_metadata.json,metadata,3KB,complete,Full metadata; model fable-5
+The_Petrified_Sea.png,cover,155KB,complete,Custom chalk-bluff fossil imagery with dusk sky
+The_Petrified_Sea.epub,ebook,410KB,complete,EPUB 3 built and validated
+build_epub.py,tool,10KB,complete,EPUB build script (from The_Marginalia)
+create_cover.py,tool,14KB,complete,Custom cover generation script
+final_report.md,report,5KB,complete,Final production report
+progress.md,report,4KB,complete,Session progress log
+manifest.csv,report,1KB,complete,This inventory file
+README.md,documentation,5KB,complete,Per-book README with reading notes

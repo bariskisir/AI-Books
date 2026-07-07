@@ -1,0 +1,12 @@
+file,size_bytes,description,model
+The_Cartographers_Daughter/planning/The_Cartographers_Daughter_outline.md,2173,50-chapter outline with premise and cast,deepseek-v4-flash
+The_Cartographers_Daughter/txt/The_Cartographers_Daughter.txt,54655,Full 50-chapter manuscript,deepseek-v4-flash
+The_Cartographers_Daughter/epub/The_Cartographers_Daughter.epub,243744,EPUB 3 ebook with cover,deepseek-v4-flash
+The_Cartographers_Daughter/covers/The_Cartographers_Daughter.png,142438,1600x2560 cover image (antique map style),deepseek-v4-flash
+The_Cartographers_Daughter/metadata/The_Cartographers_Daughter_metadata.json,1300,Production metadata JSON,deepseek-v4-flash
+The_Cartographers_Daughter/tools/build_epub.py,6160,EPUB 3 builder script,deepseek-v4-flash
+The_Cartographers_Daughter/tools/create_cover.py,7387,Cover generation script (PIL),deepseek-v4-flash
+The_Cartographers_Daughter/README.md,250,Per-book README,deepseek-v4-flash
+The_Cartographers_Daughter/reports/final_report.md,2136,Final production report,deepseek-v4-flash
+The_Cartographers_Daughter/reports/manifest.csv,724,File manifest,deepseek-v4-flash
+The_Cartographers_Daughter/reports/progress.md,23,Chapter completion tracker,deepseek-v4-flash

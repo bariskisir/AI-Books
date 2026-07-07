@@ -1,0 +1,12 @@
+File,Path,Size (bytes),Status,model
+Outline,planning/The_Depth_of_Summer_outline.md,,complete,deepseek-v4-flash
+Manuscript,txt/The_Depth_of_Summer.txt,13319 words,complete,deepseek-v4-flash
+Metadata,metadata/The_Depth_of_Summer_metadata.json,,complete,deepseek-v4-flash
+EPUB Build Script,tools/build_epub.py,,complete,deepseek-v4-flash
+Cover Script,tools/create_cover.py,,complete,deepseek-v4-flash
+Cover Image,covers/The_Depth_of_Summer.png,,complete,deepseek-v4-flash
+EPUB,epub/The_Depth_of_Summer.epub,,complete,deepseek-v4-flash
+README,README.md,,complete,deepseek-v4-flash
+Final Report,reports/final_report.md,,complete,deepseek-v4-flash
+Manifest CSV,reports/manifest.csv,,complete,deepseek-v4-flash
+Progress Report,reports/progress.md,,complete,deepseek-v4-flash

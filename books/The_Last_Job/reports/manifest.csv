@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Last_Job/planning/The_Last_Job_outline.md,,markdown,deepseek-v4-flash
+The_Last_Job/txt/The_Last_Job.txt,,text,deepseek-v4-flash
+The_Last_Job/metadata/The_Last_Job_metadata.json,,,deepseek-v4-flash
+The_Last_Job/tools/create_cover.py,,python,deepseek-v4-flash
+The_Last_Job/covers/The_Last_Job.png,80291,png,deepseek-v4-flash
+The_Last_Job/tools/build_epub.py,,python,deepseek-v4-flash
+The_Last_Job/epub/The_Last_Job.epub,191696,epub,deepseek-v4-flash
+The_Last_Job/README.md,,markdown,deepseek-v4-flash
+The_Last_Job/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Last_Job/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Last_Job/reports/progress.md,,markdown,deepseek-v4-flash

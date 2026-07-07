@@ -1,0 +1,12 @@
+path,type,description,model
+The_Understudy/planning/The_Understudy_outline.md,planning,50-chapter outline with premise and cast,deepseek-v4-flash
+The_Understudy/txt/The_Understudy.txt,manuscript,Full manuscript with 50 chapters,deepseek-v4-flash
+The_Understudy/metadata/The_Understudy_metadata.json,metadata,Book metadata in JSON format,deepseek-v4-flash
+The_Understudy/tools/build_epub.py,script,EPUB build script,deepseek-v4-flash
+The_Understudy/tools/create_cover.py,script,Cover generation script,deepseek-v4-flash
+The_Understudy/covers/The_Understudy.png,cover,1600x2560 PNG cover image,deepseek-v4-flash
+The_Understudy/epub/The_Understudy.epub,epub,EPUB 3 output file,deepseek-v4-flash
+The_Understudy/README.md,documentation,Book README,deepseek-v4-flash
+The_Understudy/reports/final_report.md,documentation,Final production report,deepseek-v4-flash
+The_Understudy/reports/manifest.csv,documentation,File manifest,deepseek-v4-flash
+The_Understudy/reports/progress.md,documentation,Progress tracking,deepseek-v4-flash

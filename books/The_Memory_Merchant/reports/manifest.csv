@@ -1,0 +1,12 @@
+Path,Type,Size (bytes),Status,model
+The_Memory_Merchant/planning/The_Memory_Merchant_outline.md,outline,7037,complete,deepseek-v4-flash
+The_Memory_Merchant/txt/The_Memory_Merchant.txt,manuscript,79617,complete,deepseek-v4-flash
+The_Memory_Merchant/epub/The_Memory_Merchant.epub,epub,360965,complete,deepseek-v4-flash
+The_Memory_Merchant/covers/The_Memory_Merchant.png,cover,234222,complete,deepseek-v4-flash
+The_Memory_Merchant/metadata/The_Memory_Merchant_metadata.json,metadata,3512,complete,deepseek-v4-flash
+The_Memory_Merchant/tools/build_epub.py,build_script,8284,complete,deepseek-v4-flash
+The_Memory_Merchant/tools/create_cover.py,cover_script,10672,complete,deepseek-v4-flash
+The_Memory_Merchant/reports/final_report.md,report,2196,complete,deepseek-v4-flash
+The_Memory_Merchant/reports/manifest.csv,manifest,0,complete,deepseek-v4-flash
+The_Memory_Merchant/reports/progress.md,progress,0,complete,deepseek-v4-flash
+The_Memory_Merchant/README.md,readme,3232,complete,deepseek-v4-flash

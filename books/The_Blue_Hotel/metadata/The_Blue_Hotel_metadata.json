@@ -1,0 +1,43 @@
+{
+  "title": "The Blue Hotel",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Suspense Western",
+  "subgenre": "Western Suspense",
+  "language": "en",
+  "short_description": "Strangers trapped in a remote Nevada hotel during a blizzard discover that one of them is a wanted outlaw — but no one knows who.",
+  "long_description": "During the worst blizzard to hit the Nevada territory in thirty years, four strangers are stranded at the Blue Hotel, a faded way station on the old stage road. Elias Cole, a drifter running from a past he cannot outride, arrives frozen and nearly spent. Margaret Caldwell, a woman traveling under a false name to a teaching post she may never reach, carries secrets heavier than her valise. Marshal Duncan Reed claims he is pursuing the notorious outlaw Cyrus Vane, but his badge and his story do not match. And Owen Pavey, the brooding hotelier, presides over a building full of locked doors and darker histories.\n\nAs the snow piles higher than the windows and the fire burns low, small cracks appear in every story. A tintype photograph of Vane is too blurred to trust. A locked cellar door conceals something no one will discuss. An axe goes missing from the woodshed. A gunshot in the storm leads to blood on the snow. Each guest begins to suspect the others, and with good reason — because every person in the Blue Hotel is connected to Cyrus Vane in ways none of them expected.\n\nSlowly, the layers peel back. Secrets of parentage, obsession, and vengeance emerge from the storm. By the time the blizzard breaks, truths will be told, debts will be settled, and the Blue Hotel will never be the same again. A taut suspense novel about the lies we carry and the truth that sets us free.",
+  "main_characters": [
+    "Elias Cole — A drifter and former railroad surveyor, fleeing a killing he committed in self-defense",
+    "Margaret 'Maggie' Caldwell — A woman traveling under a false identity, secretly Cyrus Vane's daughter",
+    "Marshal Duncan Reed — A Pinkerton agent posing as a U.S. Marshal, tracking Cyrus Vane for personal revenge",
+    "Owen Pavey — The brooding hotelier, son of Cyrus Vane, trapped by his father's legacy",
+    "Marta Pavey — Owen's wife, carrying a hidden connection to the Vane family",
+    "Cyrus Vane — The infamous outlaw whose shadow hangs over everyone in the hotel"
+  ],
+  "keywords": [
+    "suspense western",
+    "blizzard",
+    "Nevada",
+    "hotel",
+    "outlaw",
+    "Cyrus Vane",
+    "strangers trapped",
+    "mystery",
+    "western",
+    "suspense",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Blue_Hotel/txt/The_Blue_Hotel.txt",
+  "EPUB_path": "books/The_Blue_Hotel/epub/The_Blue_Hotel.epub",
+  "cover_path": "books/The_Blue_Hotel/covers/The_Blue_Hotel.png",
+  "outline_path": "books/The_Blue_Hotel/planning/The_Blue_Hotel_outline.md",
+  "cover_script_path": "books/The_Blue_Hotel/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12194
+  }
+}

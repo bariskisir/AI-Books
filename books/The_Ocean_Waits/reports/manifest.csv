@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Ocean_Waits/planning/The_Ocean_Waits_outline.md,,markdown,deepseek-v4-flash
+The_Ocean_Waits/txt/The_Ocean_Waits.txt,,text,deepseek-v4-flash
+The_Ocean_Waits/metadata/The_Ocean_Waits_metadata.json,,json,deepseek-v4-flash
+The_Ocean_Waits/tools/create_cover.py,,python,deepseek-v4-flash
+The_Ocean_Waits/covers/The_Ocean_Waits.png,140723,png,deepseek-v4-flash
+The_Ocean_Waits/tools/build_epub.py,,python,deepseek-v4-flash
+The_Ocean_Waits/epub/The_Ocean_Waits.epub,244891,epub,deepseek-v4-flash
+The_Ocean_Waits/README.md,,markdown,deepseek-v4-flash
+The_Ocean_Waits/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Ocean_Waits/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Ocean_Waits/reports/progress.md,,markdown,deepseek-v4-flash

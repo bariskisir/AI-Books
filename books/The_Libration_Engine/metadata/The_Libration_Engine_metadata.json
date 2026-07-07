@@ -1,0 +1,46 @@
+{
+  "title": "The Libration Engine",
+  "author": "Barış Kısır",
+  "genre": "Science Fiction",
+  "subgenre": "Hard Sci-Fi / Space Colony Thriller",
+  "language": "en",
+  "short_description": "When the ancient libration stabilizer at the heart of the Veriditas space colony begins a stealth failure, Chief Engineer Anara Voss discovers a seventy-year conspiracy stretching back to the colony's founding.",
+  "long_description": "In the 23rd century, the Stanford-torus habitat Veriditas orbits the Earth-Moon L5 Lagrange point — a self-sustaining wheel a kilometer in diameter, housing 50,000 colonists who have built a fragile independence from a climate-ravaged Earth. When the libration stabilizer keeping the habitat at its orbital point begins a stealth failure that will doom the colony within weeks, Chief Engineer Anara Voss uncovers a conspiracy stretching back to Veriditas's founding: Earth secretly sabotaged the stabilizer decades ago and now offers rescue in exchange for permanent submission. Racing against structural decay, an approaching invasion fleet, and their own political divisions, Anara and her unlikely team — an archivist, a young environmental technician, a compromised politician, and an Earth military liaison torn between duty and conscience — must find the hidden failsafe before Veriditas drifts irrevocably from its Lagrange point into destruction.",
+  "main_characters": [
+    "Anara Voss — Chief Maintenance Engineer, pragmatic leader",
+    "Dr. Tamar Reeves — Colony Archivist and Historian",
+    "Elias Kwame — Colony Council Chair, compromised diplomat",
+    "Kaelen Ybarra — Environmental Systems Technician, independence leader",
+    "Commander Priya Vasquez — Earth Security Liaison turned defector"
+  ],
+  "keywords": [
+    "space colony",
+    "Stanford torus",
+    "Lagrange point",
+    "habitat",
+    "conspiracy",
+    "sabotage",
+    "colonization",
+    "earth-moon system",
+    "L5",
+    "engineering thriller",
+    "23rd century",
+    "orbital habitat",
+    "independence",
+    "authoritarian regime"
+  ],
+  "model": "deepseek-v4-flash",
+  "status": "completed",
+  "chapter_count": 50,
+  "word_count": 23785,
+  "directory": "books/The_Libration_Engine",
+  "TXT_path": "books/The_Libration_Engine/txt/The_Libration_Engine.txt",
+  "EPUB_path": "books/The_Libration_Engine/epub/The_Libration_Engine.epub",
+  "cover_path": "books/The_Libration_Engine/covers/The_Libration_Engine.png",
+  "planning_path": "books/The_Libration_Engine/planning/The_Libration_Engine_outline.md",
+  "metadata_path": "books/The_Libration_Engine/metadata/The_Libration_Engine_metadata.json",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23981
+  }
+}

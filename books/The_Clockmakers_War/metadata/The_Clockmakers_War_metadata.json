@@ -1,0 +1,45 @@
+{
+  "title": "The Clockmaker's War",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Militaristic Fantasy",
+  "subgenre": "Steampunk Rebellion",
+  "language": "en",
+  "short_description": "In a world where soldiers are wound like clocks, a clockmaker discovers a way to disobey the orders engraved on his heart.",
+  "long_description": "In the iron-grey city of Gearwright, every soldier is wound like a clockwork automaton. At age sixteen, conscripts receive brass heart-keys — cylinders that must be wound weekly, eroding their will and replacing it with the Imperium's engraved commands. To disobey means slow unwinding: a death of stillness while the heart yet beats.\n\nMaster Ticker is the finest clockmaker in Gearwright, a man who has spent forty years repairing the very mechanisms that enslave his people. When his former apprentice returns as Sergeant Brass — a soldier whose eyes still flicker with the ghost of the boy who loved music — Ticker discovers the seventh gear: a hidden mechanism that can either enforce obedience or unlock freedom.\n\nWith the help of Captain Calla Torbin, a soldier who chose loyalty freely, and Pella Voss, a young clockmaker with a revolutionary invention, Ticker begins rewinding soldiers one by one. But the Winder — the masked master of the heart-key network — knows everything. And the seventh gear carries a deadly secret: every act of defiance starts a hundred-day countdown to death.\n\nThe Clockmaker's War is a story of resistance, redemption, and the radical act of choosing to be free. From the sewers of Gearwright to the Governor's golden ballroom, from the punishment blocks to the bell tower, Ticker and his allies must risk everything to prove that the heart of every machine is the choice of its maker.",
+  "main_characters": [
+    "Master Ticker — A clockmaker who discovers the seventh gear's secret and leads a revolution against the Imperium",
+    "Sergeant Brass / Elias Cobb — A rewound soldier who rediscovers his humanity and the tune he composed before conscription",
+    "The Winder / Terrence Vayne — The masked architect of the heart-key system, haunted by his own teacher's final act of defiance",
+    "Calla Torbin — A garrison captain whose heart-key is set to loyalty by choice, not compulsion",
+    "Pella Voss — Ticker's former assistant who builds the transmitter that broadcasts freedom across the city",
+    "Governor Vex — The ruler of Gearwright, kept alive by a custom heart mechanism for forty years",
+    "Hollis — The original designer of the seventh gear, executed for embedding a revolutionary message in every heart-key"
+  ],
+  "keywords": [
+    "clockmaker",
+    "steampunk",
+    "militaristic fantasy",
+    "rebellion",
+    "clockwork",
+    "heart-key",
+    "dystopia",
+    "freedom",
+    "revolution",
+    "gearwright",
+    "military fantasy",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Clockmakers_War/txt/The_Clockmakers_War.txt",
+  "EPUB_path": "books/The_Clockmakers_War/epub/The_Clockmakers_War.epub",
+  "cover_path": "books/The_Clockmakers_War/covers/The_Clockmakers_War.png",
+  "outline_path": "books/The_Clockmakers_War/planning/The_Clockmakers_War_outline.md",
+  "cover_script_path": "books/The_Clockmakers_War/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 15649
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "The Beekeeper's War",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "WWI Literary",
+  "subgenre": "Historical Fiction",
+  "language": "en",
+  "short_description": "A beekeeper on the Western Front tends his hives between battles and sends honey home to a wife who has stopped writing back.",
+  "long_description": "1917. Sgt. Thomas Bell, a village beekeeper from Sussex, serves on the Western Front. Before the war he kept thirty hives on the South Downs. Now he tends a small apiary behind the reserve lines, producing honey for the wounded and sending jars home to his wife, Clara. But Clara has stopped writing back.\n\nBetween bombardments, gas attacks, and the daily horror of the trenches, Bell tends his bees and writes letters that go unanswered. Through the spring offensive at Arras, the mud of Passchendaele, and the German assault of 1918, the bees become his anchor, a living thread connecting him to the world before the war.\n\nWhen the truth about Clara's silence finally arrives, Bell must confront a loss deeper than any wound. The Beekeeper's War is a spare, lyrical novel about survival, betrayal, and the slow work of rebuilding after everything has been destroyed.",
+  "main_characters": [
+    "Sgt. Thomas Bell — A beekeeper turned soldier, quiet and observant",
+    "Lt. Philip Graves — A young officer ground down by the war",
+    "Clara Bell — Thomas's wife, whose silence becomes its own wound",
+    "Cpl. Jim Hartley — A farmer's son, Bell's friend in the trenches",
+    "CSM Walter Finch — A former gamekeeper, the company sergeant major",
+    "Private Eli Cohen — A young Jewish tailor's son from London",
+    "Private Danny O'Mara — A drummer boy of seventeen"
+  ],
+  "keywords": [
+    "World War I",
+    "beekeeping",
+    "Western Front",
+    "literary fiction",
+    "historical fiction",
+    "loss",
+    "survival",
+    "trenches",
+    "honey",
+    "letters",
+    "home front"
+  ],
+  "TXT_path": "books/The_Beekeepers_War/txt/The_Beekeepers_War.txt",
+  "EPUB_path": "books/The_Beekeepers_War/epub/The_Beekeepers_War.epub",
+  "cover_path": "books/The_Beekeepers_War/covers/The_Beekeepers_War.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10131
+  }
+}

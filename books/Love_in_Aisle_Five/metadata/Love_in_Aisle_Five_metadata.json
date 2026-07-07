@@ -1,0 +1,35 @@
+{
+  "title": "Love in Aisle Five",
+  "number": 10,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Romantic Comedy",
+  "subgenre": "Workplace romance / Meet-cute",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "A meticulous grocery store manager and a chaos-agent florist collide over a misplaced delivery of organic kale.",
+  "long_description": "Nora Finch runs her grocery store like a naval vessel: everything in its place, every shelf faced, every expiration date logged. Leo Morelli runs his flower delivery service like a beautiful disaster: orders lost, vans double-parked, bouquets arriving at the wrong addresses. When a delivery of organic kale arrives at Leo's shop instead of Nora's loading dock, the resulting argument is witnessed by three customers, a delivery driver, and a parrot. Love in Aisle Five is a warm, witty romantic comedy about two people who are absolutely wrong for each other on paper and absolutely right everywhere that matters.",
+  "main_characters": [
+    "Nora Finch",
+    "Leo Morelli",
+    "Gemma (Nora's sister)",
+    "Dave (the produce manager)"
+  ],
+  "keywords": [
+    "romantic comedy",
+    "workplace romance",
+    "meet-cute",
+    "grocery store",
+    "flowers"
+  ],
+  "TXT_path": "books/Love_in_Aisle_Five/txt/Love_in_Aisle_Five.txt",
+  "cover_path": "books/Love_in_Aisle_Five/covers/Love_in_Aisle_Five.png",
+  "EPUB_path": "books/Love_in_Aisle_Five/epub/Love_in_Aisle_Five.epub",
+  "word_count": 12431,
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12425
+  }
+}

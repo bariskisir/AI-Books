@@ -1,0 +1,8 @@
+File,Path,Size (bytes),Type,model
+Outline,The_Wolves_of_Winter/planning/The_Wolves_of_Winter_outline.md,3149,text/markdown,deepseek-v4-flash
+Manuscript,The_Wolves_of_Winter/txt/The_Wolves_of_Winter.txt,69127,text/plain,deepseek-v4-flash
+Cover,The_Wolves_of_Winter/covers/The_Wolves_of_Winter.png,128617,image/png,deepseek-v4-flash
+EPUB,The_Wolves_of_Winter/epub/The_Wolves_of_Winter.epub,249662,application/epub+zip,deepseek-v4-flash
+Metadata,The_Wolves_of_Winter/metadata/The_Wolves_of_Winter_metadata.json,1682,application/json,deepseek-v4-flash
+Cover Script,The_Wolves_of_Winter/tools/create_cover.py,13319,text/x-python,deepseek-v4-flash
+EPUB Script,The_Wolves_of_Winter/tools/build_epub.py,6678,text/x-python,deepseek-v4-flash

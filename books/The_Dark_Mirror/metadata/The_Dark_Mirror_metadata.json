@@ -1,0 +1,39 @@
+{
+  "title": "The Dark Mirror",
+  "author": "Barış Kısır",
+  "genre": "Psychological Fiction",
+  "subgenre": "Narcissistic Personality Disorder / Therapist Drama",
+  "language": "en",
+  "model": "sonnet-4.6",
+  "short_description": "A psychotherapist slowly realizes her most fascinating patient has been methodically mapping and infiltrating her life.",
+  "long_description": "Dr. Cara Lund has spent two decades learning to read people. When Edmund Hale walks into her Chicago practice — charming, articulate, and apparently eager for self-knowledge — she believes she has seen his type before. She has not. Over months of twice-weekly sessions, Cara begins to notice that Edmund's polished self-awareness may be a performance, that his accounts of victimhood never quite align with independent reality, and that his presence is spreading through her marriage and social world with a precision she cannot yet name.\n\nThe Dark Mirror is a novel of clinical procedure and psychological erosion. Told through session fragments, case notes, and close third-person narrative, it follows Cara as she fights the rarest battle in her profession: the one against someone who has studied the field well enough to use it against her. When a formal complaint opens a professional investigation and her husband's trust hangs on explanations she is ethically barred from giving, Cara must decide how much she is willing to lose in order to name a thing that was designed to be unnameable.\n\nA searching, spare novel about empathy as exposure, the therapeutic relationship as terrain, and the slow work of recovering clarity after a skilled and careful assault on perception.",
+  "main_characters": [
+    "Dr. Cara Lund",
+    "Edmund Hale",
+    "Martin Lund",
+    "Dr. Phillip Oberst",
+    "Lena Brauer",
+    "Rachel Cho"
+  ],
+  "keywords": [
+    "psychological fiction",
+    "narcissistic personality disorder",
+    "psychotherapy",
+    "covert narcissism",
+    "therapist",
+    "manipulation",
+    "professional ethics",
+    "marriage",
+    "identity",
+    "gaslighting"
+  ],
+  "status": "completed",
+  "TXT_path": "books/The_Dark_Mirror/txt/The_Dark_Mirror.txt",
+  "EPUB_path": "books/The_Dark_Mirror/epub/The_Dark_Mirror.epub",
+  "cover_path": "books/The_Dark_Mirror/covers/The_Dark_Mirror.png",
+  "planning_path": "books/The_Dark_Mirror/planning/The_Dark_Mirror_outline.md",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12757
+  }
+}

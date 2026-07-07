@@ -1,0 +1,44 @@
+{
+  "title": "The Ambassador's Shadow",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Political Thriller",
+  "subgenre": "International Conspiracy",
+  "language": "en",
+  "short_description": "A UN diplomat uncovers a conspiracy within the Security Council that could trigger World War III.",
+  "long_description": "Ana Kallan is a junior diplomat at the United Nations, working the night shift when she stumbles onto a single classified codename buried in a routine translation. That word -- BRONZE HOUR -- sets her on a collision course with the most powerful people in the Security Council.\n\nAs Ana traces the conspiracy from wiped logistics logs to offshore shell companies, she finds an unlikely ally in Mikhail Volkov, a burned Russian intelligence officer with his own reasons for wanting the truth exposed. Together with Director Chen Wei of the UN Office of Internal Oversight, they uncover a plan to manufacture a false-flag attack on UN peacekeepers, trigger an emergency Chapter VII resolution, and pull the world into a war that serves interests no one is willing to name.\n\nFrom the wood-paneled corridors of the UN headquarters to a server farm in Luxembourg, from a Brooklyn safe house to the General Assembly high-level week, The Ambassador's Shadow is a political thriller about the machinery of diplomacy and the people who risk everything to keep it honest.",
+  "main_characters": [
+    "Ana Kallan",
+    "Mikhail Volkov",
+    "Director Chen Wei",
+    "Ambassador Youssef Hamidi",
+    "Viktor Sorokin",
+    "James Hollings",
+    "Daria Kuznetsova",
+    "Secretary-General Lindström",
+    "Claude Renard",
+    "Fatima Diallo"
+  ],
+  "keywords": [
+    "political thriller",
+    "united nations",
+    "conspiracy",
+    "diplomacy",
+    "security council",
+    "international thriller",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "suspense"
+  ],
+  "TXT_path": "books/The_Ambassadors_Shadow/txt/The_Ambassadors_Shadow.txt",
+  "EPUB_path": "books/The_Ambassadors_Shadow/epub/The_Ambassadors_Shadow.epub",
+  "cover_path": "books/The_Ambassadors_Shadow/covers/The_Ambassadors_Shadow.png",
+  "outline_path": "books/The_Ambassadors_Shadow/planning/The_Ambassadors_Shadow_outline.md",
+  "cover_script_path": "books/The_Ambassadors_Shadow/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10012
+  }
+}

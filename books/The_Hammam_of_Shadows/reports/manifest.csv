@@ -1,0 +1,12 @@
+file,path,size_bytes,notes
+The_Hammam_of_Shadows_outline.md,planning/The_Hammam_of_Shadows_outline.md,10866,Outline
+The_Hammam_of_Shadows.txt,txt/The_Hammam_of_Shadows.txt,110121,Manuscript (50 chapters)
+The_Hammam_of_Shadows.epub,epub/The_Hammam_of_Shadows.epub,282878,EPUB 3 package
+The_Hammam_of_Shadows.png,covers/The_Hammam_of_Shadows.png,122494,Cover PNG 1600x2560
+The_Hammam_of_Shadows_metadata.json,metadata/The_Hammam_of_Shadows_metadata.json,3212,Production metadata
+final_report.md,reports/final_report.md,2856,Production summary
+manifest.csv,reports/manifest.csv,0,This file
+progress.md,reports/progress.md,0,Status tracker
+build_epub.py,tools/build_epub.py,8361,EPUB build script
+create_cover.py,tools/create_cover.py,18577,Cover generation script
+README.md,README.md,2934,Per-book README

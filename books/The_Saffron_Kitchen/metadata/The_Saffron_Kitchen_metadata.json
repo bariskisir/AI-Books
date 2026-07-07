@@ -1,0 +1,48 @@
+{
+  "title": "The Saffron Kitchen",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Culinary Mystery",
+  "subgenre": "Cozy / Restaurant Whodunit",
+  "language": "en",
+  "short_description": "When the head chef of a celebrated coastal restaurant is found dead the night before a make-or-break review, his sharp-eyed sous-chef must clear her own name and trace the killer through a missing batch of saffron and an altered recipe.",
+  "long_description": "At Saltmarsh, a celebrated restaurant clinging to a windy stretch of the Cornish coast, head chef Daniel Reyes is found dead in the cold room the night before the most important review of his career. The body is discovered by Nora Ellery, his sous-chef — a precise, watchful woman who knows every recipe in the building and every grudge in the brigade. When the police find her prints on the wine and her name in Daniel's last text, suspicion falls on her, and she must work the case the way she works a service: methodically, tasting for what is wrong.\n\nThe answer hides in a missing batch of saffron and a signature recipe that has been quietly altered. Among the ambitious fish cook, the watchful pastry chef, the front-of-house partner, the investor who wants the place sold, and a rival restaurateur down the coast who once shared Daniel's bed and his best dish, someone changed the broth — and someone changed the man. Nora pulls the crime apart element by element, separating money from grievance, sabotage from murder, until a split sauce of motives finally comes clear.\n\nThe Saffron Kitchen is a warm, sensory, food-rich cozy whodunit about loyalty, reputation, and the secrets that simmer in a working kitchen — a fair-play mystery where every clue is laid out on the plate.",
+  "main_characters": [
+    "Nora Ellery — Sous-chef at Saltmarsh; precise, watchful, and loyal to the kitchen if not always to the man who ran it. The investigator.",
+    "Daniel Reyes — Head chef and part-owner; brilliant, exacting, and secretly cheapening his own famous broth. The victim.",
+    "Imogen Vale — Front-of-house manager and Daniel's business partner, cut out of a sale she helped build.",
+    "Theo Brandt — Hot-tempered fish cook, passed over for promotion, a thief of small things but no killer.",
+    "Pavel Novak — Quiet pastry chef who logs everything in a careful notebook.",
+    "Sadie Quinn — Young commis chef and Nora's protégée, frightened she has covered for the wrong person.",
+    "Marcus Friel — Lead investor who wants Saltmarsh sold and the review ruined.",
+    "Lena Coyle — Rival restaurateur from Porthcove, once Daniel's partner and the true author of the saffron broth.",
+    "DS Geraldine Okafor — A tired, fair detective willing to listen if Nora gives her reason.",
+    "Hassan Reyes — Daniel's estranged brother and saffron supplier."
+  ],
+  "keywords": [
+    "culinary mystery",
+    "cozy mystery",
+    "whodunit",
+    "restaurant",
+    "chef",
+    "saffron",
+    "fair-play mystery",
+    "coastal",
+    "murder mystery",
+    "food fiction",
+    "Cornwall",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Saffron_Kitchen/txt/The_Saffron_Kitchen.txt",
+  "EPUB_path": "books/The_Saffron_Kitchen/epub/The_Saffron_Kitchen.epub",
+  "cover_path": "books/The_Saffron_Kitchen/covers/The_Saffron_Kitchen.png",
+  "outline_path": "books/The_Saffron_Kitchen/planning/The_Saffron_Kitchen_outline.md",
+  "cover_script_path": "books/The_Saffron_Kitchen/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13639
+  }
+}

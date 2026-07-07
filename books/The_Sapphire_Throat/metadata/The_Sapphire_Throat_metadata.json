@@ -1,0 +1,86 @@
+{
+  "title": "The Sapphire Throat",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Jazz Age Crime",
+  "language": "en",
+  "description": "Chicago, 1926. Della Monroe sings the blues at The Sapphire Lounge, a glittering speakeasy in the South Loop. When she accidentally witnesses her manager Sal Capri murder a rival bootlegger, she becomes the only witness — and the most wanted woman in Chicago. Detective Michael Malone wants her testimony. Sal wants her silence. And in Prohibition Chicago, everyone wears a mask.",
+  "long_description": "In Prohibition-era Chicago, blues singer Della Monroe has found her voice and her audience at The Sapphire Lounge, a speakeasy run by the charming and dangerous Sal Capri. When she witnesses Sal execute a rival in a dark alley, her world shatters. Bound by fear and her own ambition, Della must navigate a city where the police are bribed, the politicians are bought, and the line between lawman and gangster has all but disappeared. With the help of a hard-boiled piano player, a weary detective, and an aging blues mother, Della must decide whether to run, to hide, or to fight back. A story of survival, betrayal, and the price of freedom, The Sapphire Throat is a Jazz Age crime novel that sings.",
+  "characters": [
+    {
+      "name": "Della Monroe",
+      "role": "Protagonist",
+      "description": "24-year-old blues singer from Memphis. Ambitious, observant, and resourceful. The only witness to Sal Capri's murder."
+    },
+    {
+      "name": "Salvatore 'Sal' Capri",
+      "role": "Antagonist",
+      "description": "42-year-old manager of The Sapphire Lounge and kingpin of a Chicago bootlegging empire. Charming, ruthless, and deeply conflicted."
+    },
+    {
+      "name": "Detective Michael Malone",
+      "role": "Supporting",
+      "description": "38-year-old Chicago PD detective from the Sixth Precinct. Irish-American, principled, and determined to bring Sal to justice."
+    },
+    {
+      "name": "Lena Cross",
+      "role": "Supporting",
+      "description": "30-year-old piano player at The Sapphire Lounge. Della's closest friend. Hard-boiled but fiercely loyal."
+    },
+    {
+      "name": "Frankie 'Two-Gun' DeMarco",
+      "role": "Supporting",
+      "description": "Sal's enforcer. Silent, watchful, and deadly."
+    },
+    {
+      "name": "Corinne Webb",
+      "role": "Supporting",
+      "description": "Second singer at the club. Jealous of Della. Torn between ambition and guilt."
+    },
+    {
+      "name": "Mamie Rose",
+      "role": "Supporting",
+      "description": "Elderly former blues singer who shelters Della. Wise, kind, and street-smart."
+    },
+    {
+      "name": "Alderman P.J. Mulroney",
+      "role": "Supporting",
+      "description": "Corrupt politician in Sal's pocket. Controls the police force through bribery."
+    }
+  ],
+  "keywords": [
+    "jazz age",
+    "crime",
+    "1920s",
+    "chicago",
+    "prohibition",
+    "bootlegging",
+    "blues",
+    "speakeasy",
+    "mystery",
+    "historical fiction",
+    "gangster",
+    "female protagonist"
+  ],
+  "paths": {
+    "planning": "books/The_Sapphire_Throat/planning/The_Sapphire_Throat_outline.md",
+    "manuscript": "books/The_Sapphire_Throat/txt/The_Sapphire_Throat.txt",
+    "cover": "books/The_Sapphire_Throat/covers/The_Sapphire_Throat.png",
+    "epub": "books/The_Sapphire_Throat/epub/The_Sapphire_Throat.epub",
+    "metadata": "books/The_Sapphire_Throat/metadata/The_Sapphire_Throat_metadata.json",
+    "build_tool": "books/The_Sapphire_Throat/tools/build_epub.py",
+    "cover_tool": "books/The_Sapphire_Throat/tools/create_cover.py"
+  },
+  "status": "completed",
+  "word_count": 11322,
+  "chapter_count": 50,
+  "subgenre": "Jazz Age Crime",
+  "short_description": "A Prohibition-era blues singer in Chicago must decide whether to run or fight after witnessing a gangster murder.",
+  "cover_path": "books/The_Sapphire_Throat/covers/The_Sapphire_Throat.png",
+  "EPUB_path": "books/The_Sapphire_Throat/epub/The_Sapphire_Throat.epub",
+  "TXT_path": "books/The_Sapphire_Throat/txt/The_Sapphire_Throat.txt",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11322
+  }
+}

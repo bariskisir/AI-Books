@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Broken_Hour/planning/The_Broken_Hour_outline.md,,markdown,deepseek-v4-flash
+The_Broken_Hour/txt/The_Broken_Hour.txt,,text,deepseek-v4-flash
+The_Broken_Hour/metadata/The_Broken_Hour_metadata.json,,,deepseek-v4-flash
+The_Broken_Hour/tools/create_cover.py,,python,deepseek-v4-flash
+The_Broken_Hour/covers/The_Broken_Hour.png,209493,png,deepseek-v4-flash
+The_Broken_Hour/tools/build_epub.py,,python,deepseek-v4-flash
+The_Broken_Hour/epub/The_Broken_Hour.epub,317881,epub,deepseek-v4-flash
+The_Broken_Hour/README.md,,markdown,deepseek-v4-flash
+The_Broken_Hour/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Broken_Hour/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Broken_Hour/reports/progress.md,,markdown,deepseek-v4-flash

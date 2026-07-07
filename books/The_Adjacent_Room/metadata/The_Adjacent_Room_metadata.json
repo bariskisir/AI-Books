@@ -1,0 +1,43 @@
+{
+  "title": "The Adjacent Room",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Speculative Fiction",
+  "subgenre": "Parallel Universe Lab",
+  "language": "en",
+  "short_description": "When a clandestine lab opens a stable doorway to a parallel universe, the physicist who built it must confront a version of herself from a dying world.",
+  "long_description": "Three hundred feet beneath the Nevada desert, Dr. Elena Voss leads the Adjacent Room project: a secret government facility where the Cross-Dimensional Resonance Array has achieved the impossible -- stable doorways into parallel universes. For two years the team has catalogued alternate Earths with caution, but when a new portal opens onto a world where Elena herself is still alive -- and desperately trying to get through -- the delicate protocols shatter.\n\nThe visitor, Kell-7, claims her universe is collapsing and begs for asylum. As Elena fights to protect her alternate self, security director Arthur Chen discovers that Kell-7's story has holes, and project director Frank Hollister sees the refugee not as a person but as the ultimate asset. When the resonance array begins to show signs of cascading failure, the team must choose between scientific ambition, institutional loyalty, and the terrifying possibility that some doors should never be opened.\n\nThe novel is a speculative thriller about identity, the ethics of dimensional contact, and the question of whether a person is defined by their universe or by their choices. Anchored by the relationship between Elena and her scarred double, it explores what happens when science opens a door that should have stayed closed.",
+  "main_characters": [
+    "Dr. Elena Voss",
+    "Arthur Chen",
+    "Kell-7 (Alternate Elena)",
+    "Director Frank Hollister",
+    "Dr. Maya Okonkwo",
+    "Dr. Torres"
+  ],
+  "keywords": [
+    "parallel universes",
+    "quantum resonance",
+    "multiverse",
+    "government conspiracy",
+    "alternate selves",
+    "dimensional travel",
+    "Nevada desert",
+    "black-budget program"
+  ],
+  "TXT_path": "books/The_Adjacent_Room/txt/The_Adjacent_Room.txt",
+  "EPUB_path": "books/The_Adjacent_Room/epub/The_Adjacent_Room.epub",
+  "cover_path": "books/The_Adjacent_Room/covers/The_Adjacent_Room.png",
+  "paths": {
+    "outline": "books/The_Adjacent_Room/planning/The_Adjacent_Room_outline.md",
+    "manuscript": "books/The_Adjacent_Room/txt/The_Adjacent_Room.txt",
+    "epub": "books/The_Adjacent_Room/epub/The_Adjacent_Room.epub",
+    "cover": "books/The_Adjacent_Room/covers/The_Adjacent_Room.png",
+    "metadata": "books/The_Adjacent_Room/metadata/The_Adjacent_Room_metadata.json"
+  },
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25308
+  }
+}

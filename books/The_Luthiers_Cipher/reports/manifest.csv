@@ -1,0 +1,12 @@
+path,bytes,description
+books/The_Luthiers_Cipher/planning/The_Luthiers_Cipher_outline.md,5265,50-chapter outline
+books/The_Luthiers_Cipher/txt/The_Luthiers_Cipher.txt,215287,Expanded full TXT manuscript
+books/The_Luthiers_Cipher/epub/The_Luthiers_Cipher.epub,424262,Rebuilt EPUB export
+books/The_Luthiers_Cipher/covers/The_Luthiers_Cipher.png,147011,Cover image
+books/The_Luthiers_Cipher/metadata/The_Luthiers_Cipher_metadata.json,2037,Production metadata
+books/The_Luthiers_Cipher/reports/final_report.md,1109,Final validation report
+books/The_Luthiers_Cipher/reports/manifest.csv,866,File manifest
+books/The_Luthiers_Cipher/reports/progress.md,391,Progress log
+books/The_Luthiers_Cipher/tools/build_epub.py,8610,EPUB build script
+books/The_Luthiers_Cipher/tools/create_cover.py,12797,Cover generation script
+books/The_Luthiers_Cipher/README.md,755,Per-book README

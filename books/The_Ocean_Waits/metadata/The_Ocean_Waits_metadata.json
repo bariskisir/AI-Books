@@ -1,0 +1,53 @@
+{
+  "title": "The Ocean Waits",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Slow-Burn Horror",
+  "subgenre": "Cosmic/Lovecraftian Horror",
+  "language": "en",
+  "short_description": "A couple moves into a coastal house where the tide never fully goes out and something in the shallows watches the windows at night.",
+  "long_description": "Nora and Paul inherit a house on a coastal inlet from Paul's great-aunt Eileen. The house is beautiful, isolated, and wrong. The tide never fully goes out. At night, a green light flickers beneath the surface. The neighbor issues warnings that arrive too late.\n\nAs Nora delves into Eileen's journal and the house's dark history, she uncovers a two-hundred-year-old bargain. Something ancient lives in the inlet. It has been waiting for company. And it has chosen Nora as the next keeper.\n\nThe Ocean Waits is a slow-burn horror novel about loneliness, patience, and the terrible beauty of being truly seen. Literary and spare, it builds dread through quiet observation rather than sudden shocks.",
+  "main_characters": [
+    {
+      "name": "Nora",
+      "description": "Wife, early thirties, an art conservator by training. Observant and patient. She is the one the water chooses."
+    },
+    {
+      "name": "Paul",
+      "description": "Husband, mid-thirties, a freelance journalist. Rational, skeptical. He sees the danger before Nora does but cannot pull her away."
+    },
+    {
+      "name": "Mrs. Collow",
+      "description": "The neighbor, an elderly woman who has lived on the inlet for sixty years. She knows the truth and tries to warn them."
+    }
+  ],
+  "keywords": [
+    "horror",
+    "slow-burn horror",
+    "cosmic horror",
+    "coastal horror",
+    "inheritance",
+    "loneliness",
+    "marriage",
+    "inlet",
+    "tide",
+    "ancient creature",
+    "keeper",
+    "psychological horror"
+  ],
+  "paths": {
+    "outline": "books/The_Ocean_Waits/planning/The_Ocean_Waits_outline.md",
+    "manuscript": "books/The_Ocean_Waits/txt/The_Ocean_Waits.txt",
+    "epub": "books/The_Ocean_Waits/epub/The_Ocean_Waits.epub",
+    "cover": "books/The_Ocean_Waits/covers/The_Ocean_Waits.png",
+    "metadata": "books/The_Ocean_Waits/metadata/The_Ocean_Waits_metadata.json"
+  },
+  "TXT_path": "books/The_Ocean_Waits/txt/The_Ocean_Waits.txt",
+  "EPUB_path": "books/The_Ocean_Waits/epub/The_Ocean_Waits.epub",
+  "cover_path": "books/The_Ocean_Waits/covers/The_Ocean_Waits.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10443
+  }
+}

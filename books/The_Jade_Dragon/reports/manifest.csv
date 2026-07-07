@@ -1,0 +1,12 @@
+file,size_bytes,description,model
+The_Jade_Dragon/planning/The_Jade_Dragon_outline.md,,50-chapter outline with premise and cast,deepseek-v4-flash
+The_Jade_Dragon/txt/The_Jade_Dragon.txt,11076,Full manuscript (50 chapters,deepseek-v4-flash
+The_Jade_Dragon/epub/The_Jade_Dragon.epub,215289,EPUB 3 ebook,deepseek-v4-flash
+The_Jade_Dragon/covers/The_Jade_Dragon.png,105601,Cover image 1600x2560,deepseek-v4-flash
+The_Jade_Dragon/metadata/The_Jade_Dragon_metadata.json,1039,Production metadata JSON,deepseek-v4-flash
+The_Jade_Dragon/tools/build_epub.py,6040,EPUB build script,deepseek-v4-flash
+The_Jade_Dragon/tools/create_cover.py,9481,Cover generation script,deepseek-v4-flash
+The_Jade_Dragon/README.md,758,Book README,deepseek-v4-flash
+The_Jade_Dragon/reports/final_report.md,1486,Final production report,deepseek-v4-flash
+The_Jade_Dragon/reports/manifest.csv,738,File manifest,deepseek-v4-flash
+The_Jade_Dragon/reports/progress.md,163,Progress tracking,deepseek-v4-flash

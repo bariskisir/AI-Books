@@ -1,0 +1,48 @@
+{
+  "title": "The Line Between Rivers",
+  "author": "Barış Kısır",
+  "genre": "Literary Fiction",
+  "subgenre": "Contemporary Literary Fiction / Border Noir",
+  "language": "en",
+  "short_description": "In a drought-parched border town divided by a rusting wall, the drowning of a child exposes a twenty-year-old smuggling ring and the buried secrets of two disappeared men.",
+  "long_description": "In the drought-parched border town of La Cienega, the drowning death of eight-year-old Emiliano Mendoza in the nearly dry Rio Grande is ruled an accident, but the tragedy ripples through a community already frayed by the border wall, cartel violence, and the slow disappearance of the river itself. Dolores Reyes, the boy's grandmother and the owner of the town's only panaderia, begins to suspect the death is connected to her husband's mysterious disappearance twenty years earlier. Mateo Cruz, a journalist from Mexico City who has come to write about the drought, discovers that his own father vanished in the same region, in the same year, and that the two men knew each other. Elena Vasquez, a CBP officer who grew up on both sides of the line, is told to close the case but finds evidence pointing to her own training officer. Santiago Rojas, a young man deported six months earlier, watches his former life from across the river and is drawn into the cartel's smuggling network. As the river shrinks and the summer heat intensifies, these four characters converge on the truth about a smuggling ring, a cover-up, and the invisible line that divides not only the land but the living from the dead.",
+  "main_characters": [
+    "Dolores Reyes",
+    "Mateo Cruz",
+    "Elena Vasquez",
+    "Santiago Rojas",
+    "Carla Mendoza",
+    "Frank Danvers",
+    "Father Ramos"
+  ],
+  "keywords": [
+    "border",
+    "Rio Grande",
+    "drought",
+    "smuggling",
+    "disappearance",
+    "cartel",
+    "literary fiction",
+    "Texas-Mexico border",
+    "family secrets",
+    "corruption",
+    "immigration"
+  ],
+  "TXT_path": "books/The_Line_Between_Rivers/txt/The_Line_Between_Rivers.txt",
+  "model": "deepseek-v4-flash",
+  "status": "completed",
+  "word_count": 25079,
+  "chapter_count": 50,
+  "outline": "planning/The_Line_Between_Rivers_outline.md",
+  "manuscript": "txt/The_Line_Between_Rivers.txt",
+  "epub": "epub/The_Line_Between_Rivers.epub",
+  "cover": "covers/The_Line_Between_Rivers.png",
+  "cover_script": "tools/create_cover.py",
+  "reports": "reports/final_report.md",
+  "EPUB_path": "books/The_Line_Between_Rivers/epub/The_Line_Between_Rivers.epub",
+  "cover_path": "books/The_Line_Between_Rivers/covers/The_Line_Between_Rivers.png",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 26492
+  }
+}

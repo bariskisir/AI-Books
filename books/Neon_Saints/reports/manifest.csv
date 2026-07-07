@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+Neon_Saints/planning/Neon_Saints_outline.md,2121,outline,deepseek-v4-flash
+Neon_Saints/txt/Neon_Saints.txt,71247,manuscript,deepseek-v4-flash
+Neon_Saints/metadata/Neon_Saints_metadata.json,1260,metadata,deepseek-v4-flash
+Neon_Saints/covers/Neon_Saints.png,55855,cover_image,deepseek-v4-flash
+Neon_Saints/epub/Neon_Saints.epub,188910,epub,deepseek-v4-flash
+Neon_Saints/tools/build_epub.py,5778,build_script,deepseek-v4-flash
+Neon_Saints/tools/create_cover.py,5296,cover_script,deepseek-v4-flash
+Neon_Saints/README.md,296,readme,deepseek-v4-flash
+Neon_Saints/reports/final_report.md,1309,report,deepseek-v4-flash
+Neon_Saints/reports/manifest.csv,505,manifest,deepseek-v4-flash
+Neon_Saints/reports/progress.md,35,progress,deepseek-v4-flash

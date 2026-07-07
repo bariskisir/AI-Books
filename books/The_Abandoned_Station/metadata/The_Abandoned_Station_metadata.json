@@ -1,0 +1,99 @@
+{
+  "title": "The Abandoned Station",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Post-Apocalyptic",
+  "language": "en",
+  "description": "In the aftermath of a global ecological collapse, climatologist Dr. Aris Park and his daughter Eva flee north to an abandoned Arctic research station called Borealis-7. What they find inside changes everything: the previous crew of eight is still there, preserved in a wall of ice — not dead, but suspended in a state of hibernation. As the family struggles to survive the Arctic winter, the ice begins to melt, and one by one, the frozen crew awakens. But something else stirs beneath the permafrost. An ancient biological entity, buried for millennia, is waking up too — and it has been waiting for them.",
+  "long_description": "When the world collapses, Dr. Aris Park and his teenage daughter Eva have only one destination left: Borealis-7, an Arctic research station where Aris once worked. The station has been sealed for eight years, ever since a catastrophic flash freeze trapped the entire crew during a sudden super-storm. But the geothermal systems still run, the power is on, and a single light burns in the window. Inside, they discover the crew frozen in a wall of clear ice — their vital signs flickering on dormant monitors. They are not dead. As the station's warmth thaws the ice, the crew members emerge one by one: Commander Julian Cross, Dr. Lena Vostok, engineer Riku Tanaka, and five others. Each brings a fragment of the same memory: a voice in the ice, a signal calling them home. Eva, a young photographer documenting the end of the world, captures every moment. When a mysterious object is discovered beneath the melting permafrost — a warm, living seed from a time before the ice age — the survivors must choose: destroy what they have found, or activate it and transform the dying planet into something new. The Abandoned Station is a story of survival, second chances, and the green world that waits beneath the ice.",
+  "characters": [
+    {
+      "name": "Dr. Aris Park",
+      "role": "Protagonist",
+      "description": "A 48-year-old climatologist and father. Guilt-ridden, methodical, desperate to protect his daughter. Former junior researcher at Borealis-7 who left after discovering thermal anomalies beneath the ice."
+    },
+    {
+      "name": "Eva Park",
+      "role": "Protagonist",
+      "description": "A 17-year-old photographer, Aris's daughter. Sharp, observant, quieter since her mother died. Documents everything with her camera. Serves as the moral compass of the group."
+    },
+    {
+      "name": "Commander Julian Cross",
+      "role": "Supporting",
+      "description": "Leader of the original Borealis-7 expedition. Military discipline, hidden warmth. First to thaw. Struggles with the loss of the world he knew and his role in the new one."
+    },
+    {
+      "name": "Dr. Lena Vostok",
+      "role": "Supporting",
+      "description": "Chief biologist of the expedition. Russian. Fierce intelligence, guarded heart. Second to thaw. Believes the ancient compound beneath the ice is a symbiote, not a threat."
+    },
+    {
+      "name": "Riku Tanaka",
+      "role": "Supporting",
+      "description": "Engineer of the expedition. Japanese. Practical, kind, quiet. Repairs the station's systems and mediates conflicts. Haunted by the storm that trapped them."
+    },
+    {
+      "name": "Dr. Amara Osei",
+      "role": "Supporting",
+      "description": "Geologist of the expedition. Studies the permafrost and discovers the cavity at 300 meters containing the ancient seed."
+    },
+    {
+      "name": "Ingrid Foss",
+      "role": "Supporting",
+      "description": "Chemist from Norway. First to fully integrate with the compound. Becomes delirious but emerges with clarity about the seed's purpose."
+    },
+    {
+      "name": "Dr. Yuki Sato",
+      "role": "Supporting",
+      "description": "Physician of the expedition. Calm, methodical, professional. Treats the thawed crew and documents the biological changes."
+    },
+    {
+      "name": "Pavel Ivanov",
+      "role": "Supporting",
+      "description": "Technician who maintained communications. Paranoid after thawing. The last crew member dragged inside before the freeze. Resists the seed's influence longest."
+    },
+    {
+      "name": "Sgt. Cole Bennett",
+      "role": "Supporting",
+      "description": "Logistics specialist. Quiet, physically imposing. Speaks rarely. Sides with Pavel in the final vote."
+    }
+  ],
+  "keywords": [
+    "post-apocalyptic",
+    "arctic",
+    "research station",
+    "survival",
+    "cryogenic suspension",
+    "climate change",
+    "permafrost",
+    "ancient organism",
+    "father daughter",
+    "photography",
+    "ecological collapse",
+    "second chance",
+    "science fiction",
+    "thaw",
+    "transformation"
+  ],
+  "TXT_path": "books/The_Abandoned_Station/txt/The_Abandoned_Station.txt",
+  "EPUB_path": "books/The_Abandoned_Station/epub/The_Abandoned_Station.epub",
+  "cover_path": "books/The_Abandoned_Station/covers/The_Abandoned_Station.png",
+  "paths": {
+    "root": "The_Abandoned_Station",
+    "outline": "books/The_Abandoned_Station/planning/The_Abandoned_Station_outline.md",
+    "manuscript": "books/The_Abandoned_Station/txt/The_Abandoned_Station.txt",
+    "cover": "books/The_Abandoned_Station/covers/The_Abandoned_Station.png",
+    "epub": "books/The_Abandoned_Station/epub/The_Abandoned_Station.epub",
+    "metadata": "books/The_Abandoned_Station/metadata/The_Abandoned_Station_metadata.json",
+    "reports": "books/The_Abandoned_Station/reports"
+  },
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11978,
+    "word_count_per_chapter": "200-500",
+    "status": "complete_txt_epub_available"
+  },
+  "status": "completed",
+  "subgenre": "Post-Apocalyptic",
+  "short_description": "In a frozen research station at the end of the world, survivors awaken to a living secret beneath the ice."
+}

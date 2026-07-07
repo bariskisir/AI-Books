@@ -1,0 +1,62 @@
+{
+  "title": "The Song of the Whale",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Nature Writing",
+  "subgenre": "Marine Science / Literary Fiction",
+  "language": "en",
+  "short_description": "A marine acoustician recording whale songs in the Pacific discovers a pattern that suggests the whales are telling a story across generations.",
+  "long_description": "Dr. Mara Hale, a marine acoustician, spends months alone on a research vessel in the Pacific, recording humpback whale songs. She discovers a repeating pattern in the calls that suggests the whales are transmitting a narrative across generations -- a story of migration, memory, and loss encoded in sound. Captain Tua, the Samoan skipper of the vessel, becomes her reluctant ally as they race to decode the message before a seismic survey project destroys the whales' communication corridor.\n\nThe Song of the Whale is a work of nature writing that explores the boundaries of animal communication, the persistence of cultural memory across species, and the lengths we go to protect what we have just begun to understand.",
+  "main_characters": [
+    {
+      "name": "Dr. Mara Hale",
+      "description": "Marine acoustician, early forties. Separated from her academic post after questioning a powerful research grant. Obsessive, intuitive, solitary. She is the first human to recognize narrative structure in whale song."
+    },
+    {
+      "name": "Captain Tua",
+      "description": "Samoan skipper of the research vessel Moana. Late fifties. Quiet, watchful. Grew up listening to the old whalers' stories. His grandfather was a whaler; his grandmother transcribed whale song. Knows the ocean better than he speaks of it."
+    },
+    {
+      "name": "W12 (The Eldest)",
+      "description": "An old humpback whale, approximately twenty meters. Carries scars from killer whale attacks. Sings the oldest known version of the song. Estimated age exceeds seventy years."
+    },
+    {
+      "name": "The Pod",
+      "description": "Seventeen humpback whales migrating through the South Pacific. Includes mothers, calves, and adult males. Their collective song spans generations."
+    }
+  ],
+  "keywords": [
+    "nature writing",
+    "whale song",
+    "marine acoustics",
+    "humpback whales",
+    "animal communication",
+    "Pacific Ocean",
+    "migration",
+    "seismic survey",
+    "conservation",
+    "oral tradition",
+    "intergenerational knowledge",
+    "bioacoustics",
+    "Samoan culture",
+    "Kermadec Trench",
+    "blue whale",
+    "fin whale",
+    "ocean conservation"
+  ],
+  "paths": {
+    "outline": "books/The_Song_of_the_Whale/planning/The_Song_of_the_Whale_outline.md",
+    "manuscript": "books/The_Song_of_the_Whale/txt/The_Song_of_the_Whale.txt",
+    "epub": "books/The_Song_of_the_Whale/epub/The_Song_of_the_Whale.epub",
+    "cover": "books/The_Song_of_the_Whale/covers/The_Song_of_the_Whale.png",
+    "metadata": "books/The_Song_of_the_Whale/metadata/The_Song_of_the_Whale_metadata.json"
+  },
+  "TXT_path": "books/The_Song_of_the_Whale/txt/The_Song_of_the_Whale.txt",
+  "EPUB_path": "books/The_Song_of_the_Whale/epub/The_Song_of_the_Whale.epub",
+  "cover_path": "books/The_Song_of_the_Whale/covers/The_Song_of_the_Whale.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10234
+  }
+}

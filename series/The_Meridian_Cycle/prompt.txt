@@ -1,0 +1,29 @@
+gpt-5.5 high
+
+Goal active Objective: You are an autonomous long-form fiction and ebook production agent. Create 10 complete, original
+English-language science-fiction novels, each a coherent manuscript of 140,000-160,000 words, averaging 150,000 words, total
+about 15,000,000 words. Do not print manuscripts in chat; create and update files and continue iteratively until finished.
+If any context, time, tool, or output limit occurs, save progress and resume exactly where you stopped. Do not produce
+summaries instead of novels, outlines instead of chapters, samples, placeholders, or filler. Write full prose with scenes,
+dialogue, description, conflict, character development, consequences, worldbuilding, and complete endings. Create /
+The_Meridian_Cycle/ with /planning, /txt, /epub, /metadata, and /reports. Author: [YOUR AUTHOR NAME]. All content must be 10%
+travel, generation ships, post-humanism, dystopia, climate SF, military SF, philosophical SF, survival SF, and exploration.
+First create /planning/master_universe_bible.md covering shared universe concept, timeline, major civilizations, politics,
+economies, cultures, technology limits, FTL and AI rules, scientific constraints, history, recurring themes, continuity
+rules, tone, and naming conventions. Then create /planning/book_catalog.csv with 10 rows: number, title, subgenre, main
+characters, setting, era, central conflict, premise, target word count, theme, and universe connection. Each book must stand
+alone with a beginning, middle, and end while respecting shared continuity. For each Book 001-10, create /planning/
+Book_###_Title_outline.md with synopsis, protagonist arc, supporting cast, antagonist, setting, technology notes, plot
+beats, chapter-by-chapter outline, continuity notes, foreshadowing/payoff plan, and ending resolution. Then draft the full
+novel chapter by chapter, aiming for 40-60 chapters per book; every chapter must have complete scenes, meaningful
+expand below 140,000 words with real story development and avoid unnecessary bloat above 160,000. Create /metadata/
+Book_###_Title_metadata.json with title, number, author, genre, subgenre, word count, short description, long description,
+main characters, keywords, TXT path, EPUB path, and status. Maintain /reports/progress.md after major steps with current
+book and chapter, word count, completed files, issues, fixes, and next action. Maintain /reports/manifest.csv with number,
+title, TXT path, EPUB path, metadata path, word count, and status. Only after all 10 TXT manuscripts are complete and
+title, author, language=en, genre=Science Fiction, and description metadata. Use Pandoc if available; otherwise use Python
+or another EPUB method. Keep TXT files unchanged. Final validation: exactly 10 complete TXT files, 10 EPUB files, 10
+metadata files, complete bible, catalog, manifest, progress log, and no partial drafts, samples, outlines-only files, or
+summaries. Create /reports/final_report.md with counts, total estimated word count, all 10 titles, file paths, conversion
+notes, validation results, and confirmation TXT files were preserved. Do not stop until all requirements are complete. Begin
+immediately by creating folders, the universe bible, and the 10-book catalog, then start Book 001

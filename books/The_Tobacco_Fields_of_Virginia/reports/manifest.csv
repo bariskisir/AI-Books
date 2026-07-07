@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Tobacco_Fields_of_Virginia/planning/The_Tobacco_Fields_of_Virginia_outline.md,,markdown,deepseek-v4-flash
+The_Tobacco_Fields_of_Virginia/txt/The_Tobacco_Fields_of_Virginia.txt,86046,text,deepseek-v4-flash
+The_Tobacco_Fields_of_Virginia/metadata/The_Tobacco_Fields_of_Virginia_metadata.json,,json,deepseek-v4-flash
+The_Tobacco_Fields_of_Virginia/tools/create_cover.py,,python,deepseek-v4-flash
+The_Tobacco_Fields_of_Virginia/covers/The_Tobacco_Fields_of_Virginia.png,83966,png,deepseek-v4-flash
+The_Tobacco_Fields_of_Virginia/tools/build_epub.py,,python,deepseek-v4-flash
+The_Tobacco_Fields_of_Virginia/epub/The_Tobacco_Fields_of_Virginia.epub,223725,epub,deepseek-v4-flash
+The_Tobacco_Fields_of_Virginia/README.md,,markdown,deepseek-v4-flash
+The_Tobacco_Fields_of_Virginia/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Tobacco_Fields_of_Virginia/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Tobacco_Fields_of_Virginia/reports/progress.md,,markdown,deepseek-v4-flash

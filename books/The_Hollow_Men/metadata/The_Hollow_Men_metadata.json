@@ -1,0 +1,35 @@
+{
+  "title": "The Hollow Men",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Supernatural Thriller",
+  "subgenre": "Appalachian Gothic",
+  "language": "en",
+  "short_description": "In a remote Appalachian town, a sheriff discovers that the missing people arent dead theyve been replaced by something that wears their faces.",
+  "long_description": "Sheriff Eli Collier has kept the peace in Crag's Hollow for twenty years. It is a quiet town, the kind where nothing happens -- until hikers start vanishing on the mountain and returning with eyes the wrong color and smiles that do not reach their eyes.\n\nCollier is the first to notice the pattern. The returned ones blink on a timer. Their skin has no pores. They do not breathe fog on cold mornings. And something stands at the tree line each night, watching, waiting, wearing the faces of the dead.\n\nDeep beneath Bald Knob, an entity called the Hollow Man has been waking for a century. Born from the anguish of thirty-seven miners sealed in a cave-in, it has learned to wear human skin. It is taking Crag's Hollow one soul at a time -- and Collier is running out of people he can trust.",
+  "main_characters": [
+    "Sheriff Eli Collier",
+    "Deputy Lena Hayes",
+    "The Hollow Man",
+    "Rebecca Tolliver",
+    "Detective Vance Corrigan"
+  ],
+  "keywords": [
+    "supernatural thriller",
+    "Appalachian horror",
+    "folk horror",
+    "possession",
+    "small town horror",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Hollow_Men/txt/The_Hollow_Men.txt",
+  "EPUB_path": "books/The_Hollow_Men/epub/The_Hollow_Men.epub",
+  "cover_path": "books/The_Hollow_Men/covers/The_Hollow_Men.png",
+  "outline_path": "books/The_Hollow_Men/planning/The_Hollow_Men_outline.md",
+  "cover_script_path": "books/The_Hollow_Men/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13604
+  }
+}

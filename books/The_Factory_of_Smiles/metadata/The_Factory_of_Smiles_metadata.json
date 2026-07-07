@@ -1,0 +1,46 @@
+{
+  "title": "The Factory of Smiles",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dystopian Satire",
+  "subgenre": "Social Satire",
+  "language": "en",
+  "short_description": "In a city where citizens must earn smiles through mandatory happiness shifts, a factory worker discovers the happiness is chemically harvested from human emotion.",
+  "long_description": "In the gleaming city of Optima, every citizen must earn their smile quota through mandatory happiness shifts at the state-run Factory of Smiles. Joy Mendes, a model worker on Assembly Line Seven, has spent three years packaging smile-cubes for export to the outer districts. When she discovers that the happiness she handles is chemically harvested from human emotions — piped directly from the brains of non-compliant citizens kept in the factory's hidden basement — she must decide between the comfort of compliance and the cost of the truth.\n\nWith the help of the Underground — a loose network of dissidents including data archivist Mira, maintenance engineer Casper, and smuggler Wren — Joy plans to expose the Ministry of Happiness during the annual Day of Gratitude broadcast. But Supervisor Voss, the grim overseer of the factory floor, has his own reasons for letting her find the truth: one of the subjects in the basement is his sister, journalist Elara Voss, who was silenced for investigating the factory.\n\nA dystopian satire of performative positivity, emotional labor, and the tyranny of forced happiness, The Factory of Smiles asks what happens when a city built on manufactured joy must face the cost of its own contentment.",
+  "main_characters": [
+    "Joy Mendes — A factory worker on Assembly Line Seven who discovers the truth about the smile-cubes",
+    "Supervisor Voss — The grim overseer of the factory floor, whose sister is a subject in the basement",
+    "Mira — A data archivist in the Underground who knows the numbers don't add up",
+    "Casper — A maintenance engineer who maps the factory's secret corridors",
+    "Wren — A smuggler who moves contraband information for the Underground",
+    "Minister Harcourt — The public face of the Ministry of Happiness",
+    "Elara Voss — A journalist silenced for investigating the factory, Subject 47"
+  ],
+  "keywords": [
+    "dystopian satire",
+    "social satire",
+    "factory",
+    "happiness",
+    "emotional labor",
+    "resistance",
+    "dystopia",
+    "satire",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "Optima",
+    "smile-cubes",
+    "harvesting",
+    "totalitarianism"
+  ],
+  "TXT_path": "books/The_Factory_of_Smiles/txt/The_Factory_of_Smiles.txt",
+  "EPUB_path": "books/The_Factory_of_Smiles/epub/The_Factory_of_Smiles.epub",
+  "cover_path": "books/The_Factory_of_Smiles/covers/The_Factory_of_Smiles.png",
+  "outline_path": "books/The_Factory_of_Smiles/planning/The_Factory_of_Smiles_outline.md",
+  "cover_script_path": "books/The_Factory_of_Smiles/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 14752
+  }
+}

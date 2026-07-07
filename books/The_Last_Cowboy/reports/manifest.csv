@@ -1,0 +1,12 @@
+type,path,size_bytes,status,model
+txt,The_Last_Cowboy/txt/The_Last_Cowboy.txt,48906,complete,deepseek-v4-flash
+json,The_Last_Cowboy/metadata/The_Last_Cowboy_metadata.json,1150,complete,deepseek-v4-flash
+py,The_Last_Cowboy/tools/build_epub.py,6677,complete,deepseek-v4-flash
+py,The_Last_Cowboy/tools/create_cover.py,9648,complete,deepseek-v4-flash
+png,The_Last_Cowboy/covers/The_Last_Cowboy.png,117555,complete,deepseek-v4-flash
+epub,The_Last_Cowboy/epub/The_Last_Cowboy.epub,218133,complete,deepseek-v4-flash
+md,The_Last_Cowboy/README.md,710,complete,deepseek-v4-flash
+md,The_Last_Cowboy/planning/The_Last_Cowboy_outline.md,3768,complete,deepseek-v4-flash
+md,The_Last_Cowboy/reports/final_report.md,865,complete,deepseek-v4-flash
+csv,The_Last_Cowboy/reports/manifest.csv,561,complete,deepseek-v4-flash
+md,The_Last_Cowboy/reports/progress.md,318,complete,deepseek-v4-flash

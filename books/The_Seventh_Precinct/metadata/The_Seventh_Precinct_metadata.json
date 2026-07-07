@@ -1,0 +1,39 @@
+{
+  "title": "The Seventh Precinct",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Noir",
+  "subgenre": "Crime",
+  "language": "en",
+  "short_description": "A washed-up detective takes one last case: a missing showgirl, a bag of stolen money, and a city that wants him dead.",
+  "long_description": "Detective Joe Marlowe is a man running on empty. Forty-eight years old, drinking his way through the final stretch of a ruined career at the Seventh Precinct, he catches the case nobody else wants: a burned body in a vacant lot, a missing showgirl named Lola Vance, and a matchbook from the Silver Room.\n\nWhat starts as a routine investigation quickly spirals into a conspiracy that reaches from the precinct house to city hall. Lola didn't just steal a bag of money from club owner Frank D'Amato. She took a ledger that names names and dates every bribe paid over three years. Now D'Amato's enforcer is on Marlowe's trail, Internal Affairs has him in their sights, and his own captain may be deeper in the pocket than anyone knows.\n\nThe Seventh Precinct is classic noir in the tradition of Chandler and Cain: a broken city, a compromised system, and one detective who refuses to stop asking questions even when the answers might kill him. Every clue leads Marlowe back to the one place he swore he would never go, and the truth waiting there will cost him everything he has left.",
+  "main_characters": [
+    "Joe Marlowe",
+    "Lola Vance",
+    "Captain Reilly",
+    "Victor Strake",
+    "Detective Ana Cortez",
+    "Tommy Vance",
+    "Frank D'Amato",
+    "The Man in the Gray Hat"
+  ],
+  "keywords": [
+    "noir",
+    "crime",
+    "detective",
+    "mystery",
+    "conspiracy",
+    "corruption",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Seventh_Precinct/txt/The_Seventh_Precinct.txt",
+  "EPUB_path": "books/The_Seventh_Precinct/epub/The_Seventh_Precinct.epub",
+  "cover_path": "books/The_Seventh_Precinct/covers/The_Seventh_Precinct.png",
+  "outline_path": "books/The_Seventh_Precinct/planning/The_Seventh_Precinct_outline.md",
+  "cover_script_path": "books/The_Seventh_Precinct/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11634
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Book of Dirt",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Eco-Literary",
+  "subgenre": "Climate Fiction",
+  "language": "en",
+  "short_description": "A soil scientist in drought-stricken Australia discovers that the earth holds a molecular memory of every living thing that has touched it.",
+  "long_description": "In a drought-scarred corner of rural Australia, soil scientist Dr. Thomas Winton arrives at a remote research station expecting routine field work. Instead, he discovers something impossible: the earth beneath his feet records the molecular signature of every living thing that has ever touched it. As he learns to read the soil, he uncovers a catastrophic environmental crime buried by a powerful developer who is draining the ancient aquifer for profit.\n\nWith the help of Ruby Djarragun, an Aboriginal elder whose people have known about the earth's memory for millennia, Winton must navigate threats, arson, and a legal system that is not ready for the truth. The drought breaks. The land floods. And the buried evidence rises to the surface.\n\nThe Book of Dirt is a literary meditation on memory, loss, and the slow intelligence of the earth — a novel about what the ground remembers when we have forgotten.",
+  "main_characters": [
+    "Dr. Thomas Winton",
+    "Ruby Djarragun",
+    "Marcus Holloway",
+    "Dr. Elena Vasquez",
+    "Constable Danny Kettering"
+  ],
+  "keywords": [
+    "soil science",
+    "Australia",
+    "drought",
+    "environmental crime",
+    "Aboriginal knowledge",
+    "memory",
+    "climate fiction",
+    "eco-literary",
+    "Murray-Darling basin",
+    "water",
+    "remediation",
+    "land rights"
+  ],
+  "TXT_path": "books/The_Book_of_Dirt/txt/The_Book_of_Dirt.txt",
+  "EPUB_path": "books/The_Book_of_Dirt/epub/The_Book_of_Dirt.epub",
+  "cover_path": "books/The_Book_of_Dirt/covers/The_Book_of_Dirt.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11203
+  }
+}

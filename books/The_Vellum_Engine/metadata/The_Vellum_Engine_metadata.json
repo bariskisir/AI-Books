@@ -1,0 +1,39 @@
+{
+  "title": "The Vellum Engine",
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Patent Archive Mystery",
+  "subgenre": "Mechanical Provenance Suspense",
+  "language": "en",
+  "short_description": "A patent archivist exposes a forged vellum drawing used to steal an antique calculating engine from a workers' trust.",
+  "long_description": "Patent archivist Elian Mott is asked to authenticate a vellum drawing that would let investors sell a nineteenth-century calculating engine to a private collector. The drawing carries the right seal and the wrong machinery.\n\nIts gears cannot run the machine, its ink has aged badly, and its vellum has been scraped by modern hands. With a solicitor, a machinist, a conservator, and a mathematics historian, Elian follows cams, ledgers, estate inventories, and a hidden service notebook back to the true owner.\n\nThe Vellum Engine is a mechanical archive mystery about invention, labor memory, and the small technical facts that keep a machine from being stolen twice.",
+  "main_characters": [
+    "Elian Mott",
+    "Mira Saye",
+    "Otto Brann",
+    "Celia Voss",
+    "Jarin Pike",
+    "Dr. Iona Bell",
+    "Thom Kest",
+    "Judge Mara Quill"
+  ],
+  "keywords": [
+    "patent archive",
+    "vellum forgery",
+    "calculating engine",
+    "mechanical provenance",
+    "estate dispute",
+    "workers trust",
+    "machine history",
+    "probate mystery"
+  ],
+  "outline_path": "books/The_Vellum_Engine/planning/The_Vellum_Engine_outline.md",
+  "TXT_path": "books/The_Vellum_Engine/txt/The_Vellum_Engine.txt",
+  "EPUB_path": "books/The_Vellum_Engine/epub/The_Vellum_Engine.epub",
+  "cover_path": "books/The_Vellum_Engine/covers/The_Vellum_Engine.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 35694
+  }
+}

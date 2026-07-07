@@ -1,0 +1,42 @@
+{
+  "title": "The Lavender Promise",
+  "author": "Barış Kısır",
+  "genre": "Fiction",
+  "subgenre": "Cozy Fiction / Women's Fiction",
+  "language": "en",
+  "short_description": "After inheriting her grandmother's Cotswold cottage, a burned-out London event planner discovers the healing power of herbalism, community, and love.",
+  "long_description": "Nora Bellamy has spent a decade climbing the corporate ladder as a high-end event planner in London, but when her beloved grandmother passes away and leaves her Ivy Cottage in the picture-perfect Cotswold village of Thornwick, she finds herself at a crossroads. Reluctantly arriving to sort through the estate, Nora instead falls in love with the overgrown herb garden, her grandmother's handwritten journal of herbal remedies, and a community that wraps around her like a warm blanket.\n\nShe opens an apothecary shop called The Lavender Promise, blending traditional herbal wisdom with modern wellness. But the village's peace is threatened when a property developer unveils plans to bulldoze the historic market square for luxury flats. As Nora navigates village politics, forges deep friendships, grows closer to a kind widowed carpenter and his shy daughter, and unearths her grandmother's secrets from the pages of old journals, she must decide whether she has the courage to stay and fight for her new home — and whether she's ready to trust that a slow, rooted life can be the most fulfilling one of all.",
+  "main_characters": [
+    "Nora Bellamy — A 34-year-old former corporate event planner who inherits her grandmother's cottage and discovers a new purpose through herbalism.",
+    "Tom Ashford — A 38-year-old widowed carpenter with kind eyes and a patient manner, who becomes Nora's anchor.",
+    "Margaret Hargrove — A sprightly 78-year-old retired midwife and village historian, Nora's grandmother's closest friend.",
+    "Derek Sterling — A polished property developer who believes luxury flats are what Thornwick needs.",
+    "Rose Ashford — Tom's 10-year-old daughter, quiet and observant, who finds peace in Nora's herb garden."
+  ],
+  "keywords": [
+    "cozy fiction",
+    "women's fiction",
+    "cotswolds",
+    "herbalism",
+    "small town",
+    "found family",
+    "healing",
+    "community",
+    "apothecary",
+    "village life"
+  ],
+  "model": "deepseek-v4-flash",
+  "status": "completed",
+  "TXT_path": "books/The_Lavender_Promise/txt/The_Lavender_Promise.txt",
+  "EPUB_path": "books/The_Lavender_Promise/epub/The_Lavender_Promise.epub",
+  "txt_path": "books/The_Lavender_Promise/txt/The_Lavender_Promise.txt",
+  "epub_path": "books/The_Lavender_Promise/epub/The_Lavender_Promise.epub",
+  "cover_path": "books/The_Lavender_Promise/covers/The_Lavender_Promise.png",
+  "outline_path": "books/The_Lavender_Promise/planning/The_Lavender_Promise_outline.md",
+  "word_count": 16806,
+  "chapter_count": 51,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 16787
+  }
+}

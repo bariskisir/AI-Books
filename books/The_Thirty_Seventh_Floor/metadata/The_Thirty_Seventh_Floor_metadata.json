@@ -1,0 +1,36 @@
+{
+  "title": "The Thirty-Seventh Floor",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Conspiracy Thriller",
+  "subgenre": "Technothriller",
+  "language": "en",
+  "short_description": "A journalist trapped in a Manhattan skyscraper discovers the building's 37th floor doesn't exist in any blueprint but people go in and never come out.",
+  "long_description": "Investigative journalist Kate Ross walks into the Meridian Tower for a routine assignment and notices something impossible: the elevator skips from floor 36 to 38. The 37th floor does not appear on any directory, any blueprint, or any digital record. But people are riding up to it every day on a hidden elevator, and they never come back down.\n\nTrapped inside the building after a lockdown traps her on the upper floors, Kate must evade Security Chief Omar and his guards while uncovering the secret of the hidden floor. What she finds defies everything she knows about life, death, and the nature of consciousness itself. The architect of the building, Elias Voss, has built something extraordinary on the floor that does not officially exist.\n\nA pulse-pounding conspiracy thriller about power, immortality, and the floors of a skyscraper that the architects never intended anyone to see.",
+  "main_characters": [
+    "Kate Ross — Investigative journalist, sharp, persistent, resourceful",
+    "Omar Hassan — Meridian Tower Security Chief, conflicted, haunted by his role",
+    "Elias Voss — The Architect, reclusive genius, creator of the 37th floor"
+  ],
+  "keywords": [
+    "conspiracy thriller",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "skyscraper",
+    "immortality",
+    "secret floor",
+    "Manhattan",
+    "technothriller"
+  ],
+  "TXT_path": "books/The_Thirty_Seventh_Floor/txt/The_Thirty_Seventh_Floor.txt",
+  "EPUB_path": "books/The_Thirty_Seventh_Floor/epub/The_Thirty_Seventh_Floor.epub",
+  "cover_path": "books/The_Thirty_Seventh_Floor/covers/The_Thirty_Seventh_Floor.png",
+  "outline_path": "books/The_Thirty_Seventh_Floor/planning/The_Thirty_Seventh_Floor_outline.md",
+  "cover_script_path": "books/The_Thirty_Seventh_Floor/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11338
+  }
+}

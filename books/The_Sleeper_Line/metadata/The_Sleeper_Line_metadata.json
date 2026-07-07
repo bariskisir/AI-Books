@@ -1,0 +1,42 @@
+{
+  "title": "The Sleeper Line",
+  "author": "Barış Kısır",
+  "genre": "Horror",
+  "subgenre": "Lovecraftian Horror",
+  "language": "en",
+  "short_description": "A night-shift maintenance worker discovers an unscheduled train coated in living black fungus, triggering a chain of revelations connecting the city's subway system to a dormant cosmic entity buried beneath the metropolis.",
+  "long_description": "The Wyrmwood Transit Authority's subway grid was never just a transportation system. Designed in 1927 by a secret cabal of engineer-occultists, the tunnels form a binding sigil over a cosmic entity that has slumbered beneath the city since before the continents formed. When night-shift maintenance worker Elias Voss discovers a phantom train coated in living black fungus at Platform 9 of Grand Central Terminus, he unwittingly triggers a chain of revelations that will cost him everything. Alongside geologist Mina Chandra, transit historian Connie Zhao, and veteran operator Frank Mulligan, Elias uncovers a century of sacrifice, a feeding program that has claimed thousands of passengers, and the terrible truth that the Sleeper beneath the city is beginning to wake. As the tunnels breathe, time fractures, and the city begins to sink, the group must choose between aiding the awakening of a being whose consciousness would overwrite humanity's, or collapsing the lines and burying the secret forever.",
+  "main_characters": [
+    "Elias Voss",
+    "Dr. Mina Chandra",
+    "Constance Zhao",
+    "Frank Mulligan",
+    "Commissioner Aldrich",
+    "Jonah Cross"
+  ],
+  "keywords": [
+    "cosmic horror",
+    "lovecraftian",
+    "subway",
+    "underground",
+    "transit authority",
+    "ancient entity",
+    "occult",
+    "supernatural thriller",
+    "urban horror",
+    "dark fantasy"
+  ],
+  "model": "deepseek-v4-flash",
+  "status": "completed",
+  "TXT_path": "books/The_Sleeper_Line/txt/The_Sleeper_Line.txt",
+  "EPUB_path": "books/The_Sleeper_Line/epub/The_Sleeper_Line.epub",
+  "path_cover": "books/The_Sleeper_Line/covers/The_Sleeper_Line.png",
+  "path_metadata": "books/The_Sleeper_Line/metadata/The_Sleeper_Line_metadata.json",
+  "chapters": 50,
+  "word_count": 25004,
+  "cover_path": "books/The_Sleeper_Line/covers/The_Sleeper_Line.png",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25095
+  }
+}

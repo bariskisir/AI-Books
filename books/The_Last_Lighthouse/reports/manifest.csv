@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Last_Lighthouse/planning/The_Last_Lighthouse_outline.md,,markdown,deepseek-v4-flash
+The_Last_Lighthouse/txt/The_Last_Lighthouse.txt,,text,deepseek-v4-flash
+The_Last_Lighthouse/metadata/The_Last_Lighthouse_metadata.json,,json,deepseek-v4-flash
+The_Last_Lighthouse/tools/create_cover.py,,python,deepseek-v4-flash
+The_Last_Lighthouse/covers/The_Last_Lighthouse.png,120835,png,deepseek-v4-flash
+The_Last_Lighthouse/tools/build_epub.py,,python,deepseek-v4-flash
+The_Last_Lighthouse/epub/The_Last_Lighthouse.epub,213818,epub,deepseek-v4-flash
+The_Last_Lighthouse/README.md,,markdown,deepseek-v4-flash
+The_Last_Lighthouse/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Last_Lighthouse/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Last_Lighthouse/reports/progress.md,,markdown,deepseek-v4-flash

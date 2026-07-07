@@ -1,0 +1,39 @@
+{
+  "title": "The Glass Concord",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Transparency Utopia",
+  "subgenre": "Speculative Fiction",
+  "language": "en",
+  "short_description": "In the Concord, every wall is glass and every record is public—until Inspector Mara Torez investigates the first confirmed crime in seventy years and must navigate a society that has no concept of investigation, no forensic tradition, and a killer hiding in plain sight.",
+  "long_description": "In the Concord, every wall is glass, every communication is public, every financial record is open. Deception is impossible—and so crime vanished two generations ago. The society has no police force, no interrogators, no forensic tradition. There has not been a murder in seventy years. When Inspector Mara Torez is called to investigate a death that cannot be accident or natural causes, she must pioneer an art that her civilization has forgotten: detection.\n\nWith the help of Ellis Vane, head of the Glass Archive who begins to doubt the system he serves; cryptic clues from an anonymous source called the Whisper; and a reluctant Councilor Nadira Kim whose secrets run deeper than anyone suspects, Mara must track a killer through a city of transparent walls and hidden motives. The investigation takes her from the pristine public records of the Archive into the Maintenance Tunnels—the only place without glass—where secrets have been growing for decades.\n\nThe Glass Concord is a murder mystery set in a utopia of radical transparency, exploring the limits of openness, the shadows that persist even in the brightest light, and the terrifying possibility that a perfect system can still be betrayed by the people it was designed to protect.",
+  "main_characters": [
+    "Inspector Mara Torez — a records keeper thrust into the role of detective. Methodical and haunted by the gaps she finds.",
+    "Ellis Vane — head of the Glass Archive, keeper of all public records. A believer in the system who begins to doubt.",
+    "Councilor Nadira Kim — elected leader of the Concord, invested in its perfection. She has secrets.",
+    "The Whisper — an anonymous source who sends Mara clues about the crime.",
+    "Doran Vyne — chief environmental systems supervisor. Quiet, meticulous, invisible."
+  ],
+  "keywords": [
+    "transparency utopia",
+    "speculative fiction",
+    "murder mystery",
+    "glass city",
+    "radical transparency",
+    "crime investigation",
+    "utopian fiction",
+    "surveillance",
+    "accountability",
+    "detective novel"
+  ],
+  "TXT_path": "books/The_Glass_Concord/txt/The_Glass_Concord.txt",
+  "EPUB_path": "books/The_Glass_Concord/epub/The_Glass_Concord.epub",
+  "cover_path": "books/The_Glass_Concord/covers/The_Glass_Concord.png",
+  "outline_path": "books/The_Glass_Concord/planning/The_Glass_Concord_outline.md",
+  "cover_script_path": "books/The_Glass_Concord/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20621
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "The Gravity Orchestra",
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Near-Future Science Fiction",
+  "subgenre": "Orbital Debris Drama",
+  "language": "en",
+  "short_description": "A debris shepherd must turn a hidden orbital resonance disaster into a rescue maneuver before a crowded shell becomes unusable.",
+  "long_description": "Kira Nalen pilots a small salvage tug in a crowded near-future orbit, nudging dead satellites away from traffic lanes. When fragments begin arriving in a pattern that resembles an abandoned debris-herding theory, the accident becomes something worse: a hidden autonomous system conducting metal through a crewed shell.\n\nWith a maintenance platform damaged, weather satellites threatened, and private owners withholding command keys, Kira works with traffic command, orbital mechanics, a weather operator, a medic, and a reluctant corporate executive to reverse the resonance. The only way to keep the sky usable is to spend damaged machines with precision and accept that safety is work, not a promise.\n\nThe Gravity Orchestra is a spare orbital science-fiction drama about public infrastructure, proprietary risk, debris cleanup, and the fragile systems below every crowded orbit.",
+  "main_characters": [
+    "Kira Nalen",
+    "Joss Ader",
+    "Dr. Sian Rook",
+    "Malik Hesh",
+    "Vera Sol",
+    "Tane Orlo",
+    "Edda Lin",
+    "Pavel Xu",
+    "Noor Vale",
+    "Captain Ren Ito"
+  ],
+  "keywords": [
+    "orbital debris",
+    "near-future science fiction",
+    "space salvage",
+    "satellite traffic",
+    "Kessler syndrome",
+    "weather satellites",
+    "orbital mechanics",
+    "space infrastructure"
+  ],
+  "outline_path": "books/The_Gravity_Orchestra/planning/The_Gravity_Orchestra_outline.md",
+  "TXT_path": "books/The_Gravity_Orchestra/txt/The_Gravity_Orchestra.txt",
+  "EPUB_path": "books/The_Gravity_Orchestra/epub/The_Gravity_Orchestra.epub",
+  "cover_path": "books/The_Gravity_Orchestra/covers/The_Gravity_Orchestra.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 35000
+  }
+}

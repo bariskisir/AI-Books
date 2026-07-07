@@ -1,0 +1,39 @@
+{
+  "title": "The Last Caravan",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Adventure",
+  "subgenre": "Desert Adventure",
+  "language": "en",
+  "short_description": "In 1850, the last camel caravan to cross the Sahara carries a British spy, a Tuareg guide, and a secret that could topple an empire.",
+  "long_description": "Captain James Morrison travels undercover as a merchant on the last camel caravan to cross the Sahara. He carries a coded dispatch revealing French colonial plans to bribe tribal leaders and carve up North Africa. Amar, a Tuareg outcast banished for refusing to lead a slaving raid, knows the forgotten water routes. Suleiman al-Rashid, the Trader, serves every master who pays.\n\nAcross a thousand miles of sand, through sandstorms and shootouts, fevers and betrayals, the three men hurtle toward a confrontation in the trading city of Kano. Morrison must deliver his intelligence before The Trader sells him to the French. Amar must decide whether the Englishman's cause is worth his freedom. And the secret they carry could change the fate of an empire.",
+  "main_characters": [
+    "Captain James Morrison — British intelligence officer, carries proof of French bribery scheme across North Africa",
+    "Amar ag Bah — Tuareg guide exiled from the Kel Ahaggar, knows the secret water routes of the Sahara",
+    "Suleiman al-Rashid (The Trader) — Half-Algerian merchant who sells information to both sides"
+  ],
+  "keywords": [
+    "historical adventure",
+    "sahara",
+    "camel caravan",
+    "British spy",
+    "Tuareg",
+    "1850",
+    "North Africa",
+    "espionage",
+    "desert",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Last_Caravan/txt/The_Last_Caravan.txt",
+  "EPUB_path": "books/The_Last_Caravan/epub/The_Last_Caravan.epub",
+  "cover_path": "books/The_Last_Caravan/covers/The_Last_Caravan.png",
+  "outline_path": "books/The_Last_Caravan/planning/The_Last_Caravan_outline.md",
+  "cover_script_path": "books/The_Last_Caravan/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11138
+  }
+}

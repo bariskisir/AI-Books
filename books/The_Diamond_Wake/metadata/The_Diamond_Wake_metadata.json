@@ -1,0 +1,51 @@
+{
+  "title": "The Diamond Wake",
+  "author": "Barış Kısır",
+  "genre": "Crime",
+  "subgenre": "Heist",
+  "language": "en",
+  "short_description": "A disgraced maritime security architect assembles a five-person crew to steal the legendary Eye of the Mediterranean sapphire from a tech billionaire's superyacht during a gala crossing from Monaco to Sardinia.",
+  "long_description": "Disgraced maritime security architect Leo Korzeniowski designs one last heist: steal the Eye of the Mediterranean — a legendary 200-carat sapphire — from tech billionaire Damon Kincaid's superyacht, the Sapphire Sovereign, during a gala crossing from Monaco to Sardinia. Leo built the yacht's original security system and knows its every flaw, but Kincaid has retrofitted layers Leo never planned for, including a ruthless ex-French-naval security chief and a private investigator with a shared history with team infiltrator Maya Solis. As Leo's five-person crew navigates a locked-down vessel, a rogue Mediterranean storm, and an inside betrayal, the heist becomes less about the stone and more about who survives the wake it leaves behind. From the diesel sheds of Murmansk to the couture ateliers of Nice to the storm-lashed decks of the Tyrrhenian Sea, The Diamond Wake is a taut ensemble heist thriller about loyalty, betrayal, and the price of one last score.",
+  "main_characters": [
+    "Leo Korzeniowski — Polish former maritime security engineer, late forties, mastermind of the heist",
+    "Maya Solis — Colombian-British art consultant and former intelligence officer, mid-thirties, the infiltrator",
+    "Viktor Nazarov — Former Russian naval engineer and safecracker, early fifties, the muscle and engineer",
+    "Nina Okoro — Nigerian-British offshore powerboat champion, late twenties, the pilot",
+    "Ezra Cole — British document forger and electronics specialist, early forties, the forger",
+    "Damon Kincaid — Tech billionaire and owner of the Sapphire Sovereign",
+    "Captain Emilie Moreau — Ex-French naval security chief, runs the Sovereign's security",
+    "Silas Voss — Private investigator and former intelligence asset with a shared history with Maya"
+  ],
+  "keywords": [
+    "heist",
+    "sapphire",
+    "superyacht",
+    "mediterranean",
+    "monaco",
+    "thriller",
+    "crime",
+    "gemstone",
+    "naval security",
+    "ensemble crew"
+  ],
+  "tropes": [
+    "one last job",
+    "ensemble heist crew",
+    "storm at sea",
+    "betrayal in the team",
+    "architect as mastermind"
+  ],
+  "setting": "Mediterranean Sea — Monaco, Nice, Marseille, Barcelona, Sardinia, and international waters aboard the superyacht Sapphire Sovereign",
+  "model": "deepseek-v4-flash",
+  "TXT_path": "books/The_Diamond_Wake/txt/The_Diamond_Wake.txt",
+  "EPUB_path": "books/The_Diamond_Wake/epub/The_Diamond_Wake.epub",
+  "cover_path": "books/The_Diamond_Wake/covers/The_Diamond_Wake.png",
+  "outline_path": "books/The_Diamond_Wake/planning/The_Diamond_Wake_outline.md",
+  "cover_script_path": "books/The_Diamond_Wake/tools/create_cover.py",
+  "status": "completed",
+  "build_timestamp": "2026-07-04",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 27385
+  }
+}

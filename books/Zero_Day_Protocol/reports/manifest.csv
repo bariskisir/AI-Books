@@ -1,0 +1,12 @@
+path,size_bytes,type,model
+Zero_Day_Protocol/planning/Zero_Day_Protocol_outline.md,,planning/outline,deepseek-v4-flash
+Zero_Day_Protocol/txt/Zero_Day_Protocol.txt,,manuscript/txt,deepseek-v4-flash
+Zero_Day_Protocol/epub/Zero_Day_Protocol.epub,200600,epub,deepseek-v4-flash
+Zero_Day_Protocol/covers/Zero_Day_Protocol.png,,cover/png,deepseek-v4-flash
+Zero_Day_Protocol/metadata/Zero_Day_Protocol_metadata.json,,metadata/json,deepseek-v4-flash
+Zero_Day_Protocol/tools/build_epub.py,,script/python,deepseek-v4-flash
+Zero_Day_Protocol/tools/create_cover.py,,script/python,deepseek-v4-flash
+Zero_Day_Protocol/README.md,,readme/markdown,deepseek-v4-flash
+Zero_Day_Protocol/reports/final_report.md,,report/markdown,deepseek-v4-flash
+Zero_Day_Protocol/reports/manifest.csv,,report/csv,deepseek-v4-flash
+Zero_Day_Protocol/reports/progress.md,,report/markdown,deepseek-v4-flash

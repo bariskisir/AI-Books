@@ -1,0 +1,13 @@
+file,size_bytes
+The_Ambassadors_Shadow/planning/The_Ambassadors_Shadow_outline.md,2363
+The_Ambassadors_Shadow/txt/The_Ambassadors_Shadow.txt,52147
+The_Ambassadors_Shadow/epub/The_Ambassadors_Shadow.epub,290315
+The_Ambassadors_Shadow/covers/The_Ambassadors_Shadow.png,185467
+The_Ambassadors_Shadow/metadata/The_Ambassadors_Shadow_metadata.json,1325
+The_Ambassadors_Shadow/tools/build_epub.py,7864
+The_Ambassadors_Shadow/tools/create_cover.py,6608
+The_Ambassadors_Shadow/README.md,242
+The_Ambassadors_Shadow/reports/final_report.md,2023
+The_Ambassadors_Shadow/reports/manifest.csv,516
+The_Ambassadors_Shadow/reports/progress.md,27
+Model,deepseek-v4-flash

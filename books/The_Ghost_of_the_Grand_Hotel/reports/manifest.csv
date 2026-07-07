@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Ghost_of_the_Grand_Hotel/planning/The_Ghost_of_the_Grand_Hotel_outline.md,,markdown,deepseek-v4-flash
+The_Ghost_of_the_Grand_Hotel/txt/The_Ghost_of_the_Grand_Hotel.txt,,text,deepseek-v4-flash
+The_Ghost_of_the_Grand_Hotel/metadata/The_Ghost_of_the_Grand_Hotel_metadata.json,,,deepseek-v4-flash
+The_Ghost_of_the_Grand_Hotel/tools/create_cover.py,,python,deepseek-v4-flash
+The_Ghost_of_the_Grand_Hotel/covers/The_Ghost_of_the_Grand_Hotel.png,,png,deepseek-v4-flash
+The_Ghost_of_the_Grand_Hotel/tools/build_epub.py,,python,deepseek-v4-flash
+The_Ghost_of_the_Grand_Hotel/epub/The_Ghost_of_the_Grand_Hotel.epub,,epub,deepseek-v4-flash
+The_Ghost_of_the_Grand_Hotel/README.md,,markdown,deepseek-v4-flash
+The_Ghost_of_the_Grand_Hotel/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Ghost_of_the_Grand_Hotel/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Ghost_of_the_Grand_Hotel/reports/progress.md,,markdown,deepseek-v4-flash

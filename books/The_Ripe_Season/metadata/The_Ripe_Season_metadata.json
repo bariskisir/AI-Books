@@ -1,0 +1,16 @@
+{
+  "title": "The Ripe Season",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "language": "en",
+  "word_count": 25835,
+  "chapter_count": 50,
+  "TXT_path": "books\\The_Ripe_Season\\txt\\The_Ripe_Season.txt",
+  "EPUB_path": "books\\The_Ripe_Season\\epub\\The_Ripe_Season.epub",
+  "cover_path": "books\\The_Ripe_Season\\covers\\The_Ripe_Season.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25829
+  }
+}

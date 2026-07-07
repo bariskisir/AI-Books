@@ -1,0 +1,39 @@
+{
+  "title": "The Overburden",
+  "author": "Barış Kısır",
+  "genre": "Suspense",
+  "subgenre": "Disaster Thriller",
+  "language": "en",
+  "short_description": "A geotechnical engineer's ignored warnings come true when a Swiss Alpine tunnel collapses, trapping 187 passengers while a desperate rescue operation races against the shifting mountain.",
+  "long_description": "Geotechnical engineer Lena Voss spent two years warning that the Alpine Nexus high-speed rail tunnel had been built through unstable geology, but was silenced by the project's powerful construction consortium. On opening day, during peak morning service, a catastrophic collapse traps 187 passengers and crew under millions of tons of rock, 400 meters underground. Inside the sealed tunnel, conductor Markus Jäger struggles to maintain order and hope among terrified passengers as oxygen runs low and water seeps in. On the surface, Lena must navigate a desperate rescue operation while powerful interests work to bury the truth, and journalist Elara Chen peels back layers of bribery, falsified safety data, and political corruption. As the mountain continues to shift and the rescue window shrinks, Lena faces an impossible choice: reveal the criminal negligence she has documented, risking the rescue operation's collapse along with the tunnel, or hold her silence until everyone is safe.",
+  "main_characters": [
+    "Lena Voss - geotechnical engineer, independent safety consultant",
+    "Markus Jäger - senior train conductor, former mountain rescue specialist",
+    "Elara Chen - investigative journalist specializing in infrastructure corruption",
+    "Commander Rolf Steiner - Swiss federal rescue service commander",
+    "Klaus Brenner - project director of the Alpine Nexus consortium"
+  ],
+  "keywords": [
+    "tunnel collapse",
+    "Swiss Alps",
+    "rescue operation",
+    "geological disaster",
+    "corruption",
+    "survival",
+    "suspense"
+  ],
+  "model": "deepseek-v4-flash",
+  "status": "completed",
+  "word_count": 22526,
+  "chapter_count": 50,
+  "directory": "books/The_Overburden",
+  "TXT_path": "books/The_Overburden/txt/The_Overburden.txt",
+  "EPUB_path": "books/The_Overburden/epub/The_Overburden.epub",
+  "cover_path": "books/The_Overburden/covers/The_Overburden.png",
+  "planning_path": "books/The_Overburden/planning/The_Overburden_outline.md",
+  "metadata_path": "books/The_Overburden/metadata/The_Overburden_metadata.json",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 22400
+  }
+}

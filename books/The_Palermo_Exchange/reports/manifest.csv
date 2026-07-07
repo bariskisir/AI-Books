@@ -1,0 +1,12 @@
+Path,Type,Size(bytes),model
+The_Palermo_Exchange/planning/The_Palermo_Exchange_outline.md,markdown,2923,deepseek-v4-flash
+The_Palermo_Exchange/txt/The_Palermo_Exchange.txt,text,62284,deepseek-v4-flash
+The_Palermo_Exchange/metadata/The_Palermo_Exchange_metadata.json,json,1500,deepseek-v4-flash
+The_Palermo_Exchange/tools/build_epub.py,python,6290,deepseek-v4-flash
+The_Palermo_Exchange/tools/create_cover.py,python,5732,deepseek-v4-flash
+The_Palermo_Exchange/covers/The_Palermo_Exchange.png,png,60880,deepseek-v4-flash
+The_Palermo_Exchange/epub/The_Palermo_Exchange.epub,epub,172236,deepseek-v4-flash
+The_Palermo_Exchange/README.md,markdown,313,deepseek-v4-flash
+The_Palermo_Exchange/reports/final_report.md,markdown,1209,deepseek-v4-flash
+The_Palermo_Exchange/reports/manifest.csv,csv,567,deepseek-v4-flash
+The_Palermo_Exchange/reports/progress.md,markdown,23,deepseek-v4-flash

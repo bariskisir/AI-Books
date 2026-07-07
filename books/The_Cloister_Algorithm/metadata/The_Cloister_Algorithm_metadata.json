@@ -1,0 +1,41 @@
+{
+  "title": "The Cloister Algorithm",
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Digital Humanities Mystery",
+  "subgenre": "Monastic Archive Suspense",
+  "language": "en",
+  "short_description": "A digital archivist proves a manuscript transcription model was tuned to erase medieval common-land rights for a data-center developer.",
+  "long_description": "At Saint Oran's Abbey, medieval charters are being digitized by a machine-learning project meant to preserve fragile manuscripts. When the model's transcriptions suddenly support a developer's claim to a common meadow, digital archivist Dr. Elian Morse is hired to audit the files.\n\nThe abbey's manuscripts are physical witnesses: scraped parchment, wormholes, marginal hands, green overtext, and abbreviated Latin that refuses simplified ownership. With an abbey librarian, a Latinist, a conservator, an engineer, and a county solicitor, Elian follows altered metadata, excluded training data, hidden postprocessors, and a missing palimpsest leaf.\n\nThe Cloister Algorithm is a spare archive suspense novel about technology, land, uncertainty, and the moral obligation to let old records resist profitable certainty.",
+  "main_characters": [
+    "Dr. Elian Morse",
+    "Sister Mara Vale",
+    "Jonas Quill",
+    "Calder Pike",
+    "Iris Senn",
+    "Talia Reed",
+    "Bram Voss",
+    "Nadia Hesk",
+    "Prior Olan Marr",
+    "Judge Leona Arda"
+  ],
+  "keywords": [
+    "digital humanities",
+    "machine learning",
+    "medieval manuscripts",
+    "palimpsest",
+    "common land",
+    "archive suspense",
+    "Latin charters",
+    "data center"
+  ],
+  "outline_path": "books/The_Cloister_Algorithm/planning/The_Cloister_Algorithm_outline.md",
+  "TXT_path": "books/The_Cloister_Algorithm/txt/The_Cloister_Algorithm.txt",
+  "EPUB_path": "books/The_Cloister_Algorithm/epub/The_Cloister_Algorithm.epub",
+  "cover_path": "books/The_Cloister_Algorithm/covers/The_Cloister_Algorithm.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 34977
+  }
+}

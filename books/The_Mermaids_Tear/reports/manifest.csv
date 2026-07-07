@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Mermaids_Tear/planning/The_Mermaids_Tear_outline.md,,markdown,deepseek-v4-flash
+The_Mermaids_Tear/txt/The_Mermaids_Tear.txt,11232,text,deepseek-v4-flash
+The_Mermaids_Tear/metadata/The_Mermaids_Tear_metadata.json,,json,deepseek-v4-flash
+The_Mermaids_Tear/tools/create_cover.py,,python,deepseek-v4-flash
+The_Mermaids_Tear/covers/The_Mermaids_Tear.png,190425,png,deepseek-v4-flash
+The_Mermaids_Tear/tools/build_epub.py,,python,deepseek-v4-flash
+The_Mermaids_Tear/epub/The_Mermaids_Tear.epub,298551,epub,deepseek-v4-flash
+The_Mermaids_Tear/README.md,,markdown,deepseek-v4-flash
+The_Mermaids_Tear/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Mermaids_Tear/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Mermaids_Tear/reports/progress.md,,markdown,deepseek-v4-flash

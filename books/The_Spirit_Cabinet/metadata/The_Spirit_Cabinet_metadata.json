@@ -1,0 +1,42 @@
+{
+  "title": "The Spirit Cabinet",
+  "author": "Barış Kısır",
+  "genre": "Occult / Historical Thriller",
+  "subgenre": "Occult / Séance Fraud",
+  "language": "en",
+  "short_description": "A cynical former stage magician investigates a fraudulent medium in post-WWI London and discovers that some spirits cannot be reasoned with or debunked.",
+  "long_description": "London, 1921. Thomas Gale, a cynical former stage magician turned investigator for the London Rationalist Society, is dispatched to expose Madame Seraphina, a rising medium whose séances have captivated wealthy grieving families still reeling from the Great War. Posing as a bereaved uncle, Thomas documents every trick: hidden wires, luminous gauze, ventriloquist's palming. But when a séance attendee dies in a locked room during a sitting, Thomas discovers that Seraphina herself is terrified — convinced that something genuine and predatory has latched onto her performances. As the body count rises and Scotland Yard circles closer, Thomas must confront the possibility that a fraud can summon a truth she never believed in, and that some spirits cannot be reasoned with or debunked.",
+  "main_characters": [
+    "Thomas Gale",
+    "Evelyn Croft / Madame Seraphina",
+    "Julian Hartwood",
+    "Dr. Margaret Ashe",
+    "Inspector Frank Mercer",
+    "Alice Phelps",
+    "Mr. Grimshaw",
+    "John Phelps / Mr. Smith"
+  ],
+  "keywords": [
+    "spiritualism",
+    "séance",
+    "1920s London",
+    "occult",
+    "fraud",
+    "post-WWI",
+    "haunted cabinet",
+    "rationalism",
+    "supernatural",
+    "paranormal investigation"
+  ],
+  "model": "deepseek-v4-flash",
+  "status": "completed",
+  "word_count": 21955,
+  "chapter_count": 50,
+  "TXT_path": "books/The_Spirit_Cabinet/txt/The_Spirit_Cabinet.txt",
+  "EPUB_path": "books/The_Spirit_Cabinet/epub/The_Spirit_Cabinet.epub",
+  "cover_path": "books/The_Spirit_Cabinet/covers/The_Spirit_Cabinet.png",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 21940
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "The Lost Aisle",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Academic Mystery",
+  "subgenre": "Supernatural mystery / Library fiction",
+  "language": "en",
+  "short_description": "A university librarian discovers a hidden aisle in the library’s restricted section — one that appears on no map and contains impossible books.",
+  "long_description": "Dr. Helena Voss, head librarian of Morningside University’s rare books collection, discovers an unmarked door behind a water-damaged shelf in the sub-basement restricted section. The door opens onto a long aisle lined with books that appear in no catalogue — some bearing publication dates in the future, others written in scripts that precede human civilization, and at least one titled with her own name.\n\nAs Voss maps the aisle’s impossible geometry, she attracts the attention of Maya Patel, a sharp-witted graduate student in early modern history, and a shadowy figure known only as the Curator, who has been waiting centuries for someone to find the door. Together they must unravel what the Lost Aisle is before the Curator seals it — and Voss inside it — forever.\n\nThe Lost Aisle is a literary academic mystery about the cost of forbidden knowledge, the spaces that exist between walls, and what happens when a library decides to read you back.",
+  "main_characters": [
+    "Dr. Helena Voss",
+    "Maya Patel",
+    "The Curator / Ezra Thorne"
+  ],
+  "keywords": [
+    "academic mystery",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "supernatural",
+    "library",
+    "forbidden knowledge"
+  ],
+  "TXT_path": "books/The_Lost_Aisle/txt/The_Lost_Aisle.txt",
+  "EPUB_path": "books/The_Lost_Aisle/epub/The_Lost_Aisle.epub",
+  "cover_path": "books/The_Lost_Aisle/covers/The_Lost_Aisle.png",
+  "outline_path": "books/The_Lost_Aisle/planning/The_Lost_Aisle_outline.md",
+  "cover_script_path": "books/The_Lost_Aisle/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13764
+  }
+}

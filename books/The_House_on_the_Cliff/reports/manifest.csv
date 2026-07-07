@@ -1,0 +1,12 @@
+file,size_bytes,status,model
+The_House_on_the_Cliff/planning/The_House_on_the_Cliff_outline.md,2417,complete,deepseek-v4-flash
+The_House_on_the_Cliff/txt/The_House_on_the_Cliff.txt,63491,complete,deepseek-v4-flash
+The_House_on_the_Cliff/metadata/The_House_on_the_Cliff_metadata.json,1756,complete,deepseek-v4-flash
+The_House_on_the_Cliff/covers/The_House_on_the_Cliff.png,56740,complete,deepseek-v4-flash
+The_House_on_the_Cliff/epub/The_House_on_the_Cliff.epub,168816,complete,deepseek-v4-flash
+The_House_on_the_Cliff/tools/build_epub.py,7166,complete,deepseek-v4-flash
+The_House_on_the_Cliff/tools/create_cover.py,8079,complete,deepseek-v4-flash
+The_House_on_the_Cliff/README.md,1071,complete,deepseek-v4-flash
+The_House_on_the_Cliff/reports/final_report.md,1276,complete,deepseek-v4-flash
+The_House_on_the_Cliff/reports/manifest.csv,591,complete,deepseek-v4-flash
+The_House_on_the_Cliff/reports/progress.md,478,complete,deepseek-v4-flash

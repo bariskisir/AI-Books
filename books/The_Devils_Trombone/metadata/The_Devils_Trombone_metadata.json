@@ -1,0 +1,40 @@
+{
+  "title": "The Devil's Trombone",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Jazz Fiction",
+  "subgenre": "Historical Fiction",
+  "language": "en",
+  "short_description": "A trombone player in 1950s New Orleans makes a deal at a crossroads — he plays better than anyone alive, but every note takes a year off his life.",
+  "long_description": "Blue Madere is a journeyman trombone player who can blow with anyone in the Quarter but never breaks through. Desperate and drunk, he walks to the crossroads at St. Claude and Urquhart one midnight and makes an offer. Mama Legba appears. She gives him the deal: his slide will sing like Gabriel's horn, but every note he plays costs him one year of life.\n\nBlue signs in blood. His playing becomes legendary — crowds weep, rivals quit, records sell. But each gig drains him. He grows thinner, older, stranger. His rival Dizzy figures out the price. Blue must decide how many years he is willing to burn before the trombone falls silent forever.\n\nThe Devil's Trombone is a jazz novel about ambition, mortality, and the price of greatness. Set against the smoky clubs and rain-slicked streets of 1950s New Orleans, it asks what you would trade for the sound that lives inside your head.",
+  "main_characters": [
+    "Blue Madere — A trombone player in 1950s New Orleans who makes a deal at the crossroads to play like no one has ever played",
+    "Mama Legba — The old woman at the crossroads who gives Blue the deal: one year per note",
+    "Dizzy Castain — A trumpet player, Blue's rival and reluctant friend, who figures out the price of the deal"
+  ],
+  "keywords": [
+    "jazz fiction",
+    "New Orleans",
+    "trombone",
+    "crossroads deal",
+    "mortality",
+    "1950s",
+    "music",
+    "ambition",
+    "historical fiction",
+    "novel",
+    "Barış Kısır",
+    "fiction",
+    "The Devil's Trombone"
+  ],
+  "TXT_path": "books/The_Devils_Trombone/txt/The_Devils_Trombone.txt",
+  "EPUB_path": "books/The_Devils_Trombone/epub/The_Devils_Trombone.epub",
+  "cover_path": "books/The_Devils_Trombone/covers/The_Devils_Trombone.png",
+  "outline_path": "books/The_Devils_Trombone/planning/The_Devils_Trombone_outline.md",
+  "cover_script_path": "books/The_Devils_Trombone/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11896
+  }
+}

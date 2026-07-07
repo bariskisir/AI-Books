@@ -1,0 +1,37 @@
+{
+  "title": "The Jade Dragon",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Wuxia Fantasy",
+  "subgenre": "Martial Arts Fantasy",
+  "language": "en",
+  "short_description": "A disgraced martial arts master must master the forbidden Fifth Style of the Jade Dragon to defeat a warlord who has made a pact with a demon.",
+  "long_description": "Master Liang was once the most celebrated martial artist in the Jade Kingdom. After a student died under his instruction, he accepted exile and retreated to a mountain hut, believing his life as a master was over. But when Warlord Kang marches across the land with an army of shadow-bent soldiers, burning schools and temples, Liang is drawn back into the world.\n\nTo stop Kang and the Demon Emperor who feeds on his soul, Liang must master the forbidden Fifth Style of the Jade Dragon -- a technique that has killed every practitioner who attempted it. His sole remaining disciple, Mei, refuses to let him sacrifice his humanity in pursuit of power. As Liang transforms into something more than human, Mei must find a way to anchor him before the dragon consumes him entirely.\n\nThe Jade Dragon is a wuxia fantasy about the cost of mastery, the courage of love, and the choice to remain human in the face of overwhelming darkness.",
+  "main_characters": [
+    "Master Liang",
+    "Mei",
+    "The Demon Emperor (Emperor of Ashen Thorns)",
+    "Warlord Kang"
+  ],
+  "keywords": [
+    "wuxia",
+    "martial arts",
+    "forbidden technique",
+    "demons",
+    "jade dragon",
+    "disgraced master",
+    "teacher and student",
+    "sacrifice",
+    "redemption",
+    "Chinese fantasy"
+  ],
+  "TXT_path": "books/The_Jade_Dragon/txt/The_Jade_Dragon.txt",
+  "EPUB_path": "books/The_Jade_Dragon/epub/The_Jade_Dragon.epub",
+  "cover_path": "books/The_Jade_Dragon/covers/The_Jade_Dragon.png",
+  "COVER_path": "books/The_Jade_Dragon/covers/The_Jade_Dragon.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11076
+  }
+}

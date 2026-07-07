@@ -1,0 +1,16 @@
+{
+  "title": "The Ripe Season (Alternate Draft)",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "language": "en",
+  "word_count": 25480,
+  "chapter_count": 50,
+  "TXT_path": "books\\The_Ripe_Season_Different\\txt\\The_Ripe_Season_Different.txt",
+  "EPUB_path": "books\\The_Ripe_Season_Different\\epub\\The_Ripe_Season_Different.epub",
+  "cover_path": "books\\The_Ripe_Season_Different\\covers\\The_Ripe_Season_Different.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25474
+  }
+}

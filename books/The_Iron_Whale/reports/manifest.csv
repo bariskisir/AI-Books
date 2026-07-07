@@ -1,0 +1,12 @@
+Path,Type,Size (bytes),Status,model
+The_Iron_Whale/planning/The_Iron_Whale_outline.md,outline,5306,complete,deepseek-v4-flash
+The_Iron_Whale/txt/The_Iron_Whale.txt,manuscript,59289,complete,deepseek-v4-flash
+The_Iron_Whale/epub/The_Iron_Whale.epub,epub,266702,complete,deepseek-v4-flash
+The_Iron_Whale/covers/The_Iron_Whale.png,cover,162526,complete,deepseek-v4-flash
+The_Iron_Whale/metadata/The_Iron_Whale_metadata.json,metadata,3432,complete,deepseek-v4-flash
+The_Iron_Whale/tools/build_epub.py,build_script,8525,complete,deepseek-v4-flash
+The_Iron_Whale/tools/create_cover.py,cover_script,17597,complete,deepseek-v4-flash
+The_Iron_Whale/reports/final_report.md,report,2245,complete,deepseek-v4-flash
+The_Iron_Whale/reports/manifest.csv,manifest,0,complete,deepseek-v4-flash
+The_Iron_Whale/reports/progress.md,progress,0,complete,deepseek-v4-flash
+The_Iron_Whale/README.md,readme,3201,complete,deepseek-v4-flash

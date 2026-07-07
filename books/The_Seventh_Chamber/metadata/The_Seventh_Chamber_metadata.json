@@ -1,0 +1,44 @@
+{
+  "title": "The Seventh Chamber",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Mystery",
+  "subgenre": "Archaeological Thriller",
+  "language": "en",
+  "short_description": "In 1922 Egypt, a young female archaeologist discovers a hidden chamber in a minor tomb that rewrites history — and someone will kill to suppress it.",
+  "long_description": "In 1922, Amelia Forsyth arrives in the Valley of the Queens to excavate a forgotten tomb dismissed by every male colleague as a waste of time. But behind a false wall, she discovers the Seventh Chamber — a sealed room containing evidence of a co-regency between an Egyptian queen and a Nubian prince, a partnership that would fundamentally alter the history of the Eighteenth Dynasty.\n\nAs Amelia works to document her discovery, forces aligned against her close in. Lord Alistair Radcliffe, her charming but ruthless patron, has ties to a smuggling network that spans continents. Dr. Webb at the British Museum alters records to suppress the evidence. And Youssef Khalil, a Cairo antiquities dealer, delivers threats that soon become violent.\n\nWith only Hassan, her Egyptian foreman, as an ally, Amelia must fight to protect her discovery from those who would bury it forever. The truth she has uncovered threatens not just careers, but a political narrative of racial purity that powerful men have spent decades constructing.\n\nSet against the golden desert and the shadowy corridors of colonial power, The Seventh Chamber is a historical mystery about who controls the past — and who has the courage to tell the truth.",
+  "main_characters": [
+    "Amelia Forsyth — A young archaeologist from Cambridge, pushing against the sexist barriers of 1920s academia",
+    "Hassan el-Masri — The Egyptian foreman of the dig, practical, observant, and deeply knowledgeable",
+    "Lord Alistair Radcliffe — Wealthy British patron of the excavation, hiding ruthless ambition behind charm",
+    "Dr. Marcus Webb — Curator of Egyptian Antiquities at the British Museum, values institutional reputation over truth",
+    "Youssef Khalil — Local antiquities dealer with ties to the Cairo underworld",
+    "Madame Leota Moreau — A French journalist investigating tomb robbing networks in Egypt",
+    "Professor Whitmore — Amelia's Cambridge mentor who comes to her aid"
+  ],
+  "keywords": [
+    "historical mystery",
+    "archaeology",
+    "egypt",
+    "1920s",
+    "ancient egypt",
+    "conspiracy",
+    "colonialism",
+    "nubia",
+    "valley of the queens",
+    "archaeological thriller",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Seventh_Chamber/txt/The_Seventh_Chamber.txt",
+  "EPUB_path": "books/The_Seventh_Chamber/epub/The_Seventh_Chamber.epub",
+  "cover_path": "books/The_Seventh_Chamber/covers/The_Seventh_Chamber.png",
+  "outline_path": "books/The_Seventh_Chamber/planning/The_Seventh_Chamber_outline.md",
+  "cover_script_path": "books/The_Seventh_Chamber/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10114
+  }
+}

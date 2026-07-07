@@ -1,0 +1,2284 @@
+Chapter 1: The Whistleblower
+
+The 37th floor of the Northwest Timber Holdings tower was dark except for the emergency lights along the corridor floor. Derek Prentice moved through the cubicle farm with the practiced silence of a man who had memorized every creaking floorboard during six years of late nights. His security badge dangled from a lanyard tucked inside his shirt so the plastic card did not swing and catch light.
+
+He stopped at his desk, a beige cubicle in the accounting section. The photograph of his daughter pinned to the partition wall watched him. He touched her face with one finger, then turned to the computer.
+
+The files were on a secure server he had discovered by accident — or by the kind of obsessive curiosity that had made him a good auditor but a bad employee. He had found the discrepancy in the Nevada shell companies six weeks ago. The numbers did not add up. They were never supposed to add up. But Derek had kept pulling the thread, and the thread had led to a place he could not unsee.
+
+He plugged in the flash drive, a plain black model bought with cash at a Portland electronics store three days ago. The transfer bar crept across the screen. Forty-seven gigabytes. The server logs would show the activity, but by the time anyone looked, he would be gone.
+
+His hands trembled as the final file copied. He ejected the drive, slipped it into a padded envelope, and sealed it. Across the front he wrote a name and an address: Maya Chen, Chen Forensic Accounting, 210 SW Morrison Street.
+
+The parking garage was concrete and damp. His footsteps echoed. He reached his Honda Civic and pressed the unlock button, and that was when the headlights appeared at the far end of the ramp, too bright, too fast. He turned. The engine roar filled the concrete chamber. The grill of a black SUV filled his vision.
+
+The impact threw him against his own car door. Glass shattered. Metal crumpled. The SUV did not stop. It swerved around his body and accelerated up the ramp, tires screaming, and then the garage was quiet again except for the drip of fluid from a broken radiator.
+
+Derek Prentice lay on the concrete, his left leg bent at an angle that was not an angle. The padded envelope had fallen from his grip and skidded under his car. His fingers reached for it, found empty air, and then found nothing at all.
+
+A janitor found him at 4:47 AM. He was still breathing, barely, but the internal bleeding had already done its work. The envelope stayed under the Civic until the paramedics lifted him onto a gurney, and then a police officer kicked it out of the way without looking at it.
+
+The officer picked it up, glanced at the name, and dropped it into an evidence bag as a formality. A hit-and-run victim's personal effects. Nothing to do with the 47 gigabytes of data encrypted on the flash drive inside.
+
+Nothing at all.
+
+Chapter 2: The Accountant's Discovery
+
+Maya Chen arrived at her office at 7:17 AM, earlier than usual, because sleep had not come easily. Her mother's voice on the phone the previous evening had carried that particular tone of polite disappointment that only a Chinese mother could perfect. You work too hard, Maya. You never visit. Your cousin's daughter just got engaged.
+
+She unlocked the glass door of Chen Forensic Accounting — just her name, a solo practice on the sixth floor of a building that had seen better decades — and stopped. A padded envelope lay on the mat just inside. No postage. No courier label. Hand-delivered.
+
+She picked it up. The front bore her name and address in careful block letters. She locked the door behind her, dropped her bag at her desk, and examined the envelope under the desk lamp. Duct tape sealed the flap. She slit it open with her letter opener and tipped the contents onto her blotter.
+
+A black flash drive. A single sheet of paper folded in half.
+
+She unfolded the paper. The same block handwriting: You're the only one who will look.
+
+Maya turned the flash drive over in her fingers. It was unmarked, generic, the kind sold in bulk at office supply stores. She did not plug it into her main machine. Habit and caution had kept her in business for eleven years. She pulled out her forensic laptop, a dedicated machine with no network connection and a fresh operating system image, and inserted the drive.
+
+The drive mounted. It contained a single folder labeled with a date stamp. Inside were 116 files, most with extension .enc. Encrypted. She opened one in a hex editor and found nothing recognizable — properly encrypted data, not a simple password scramble. Her correspondent knew what he was doing.
+
+She checked the file metadata. The earliest creation date was two weeks ago. The most recent was last night, timestamped 11:47 PM.
+
+She searched for Derek Prentice. The news results came up immediately. Hit-and-run in the NTH parking garage. Victim pronounced dead at 5:52 AM. No suspects. Security cameras in the garage had been disabled for maintenance.
+
+Maya leaned back in her chair. The name was familiar. She had seen it on financial disclosure forms she had reviewed for a minor case two years ago. Derek Prentice, Senior Accountant, Northwest Timber Holdings.
+
+The man who left this drive was dead hours after he copied these files.
+
+She picked up the phone, then put it down. Calling the police would mean handing over the drive, and she did not know yet what the police would do with it — or who in the police might have friends at NTH. She needed to understand what she was holding first.
+
+Maya Chen began her work. The encryption was robust but not uncrackable. AES-256, properly implemented, with the key likely hidden somewhere in the drive's remaining sectors. She ran a sector-by-sector dump and began analyzing the slack space.
+
+By noon she had found three fragments of what looked like a key file, scattered across sectors written in 2009 — the drive's previous life, long before Derek Prentice bought it. Someone had tried to wipe it, but the old data lingered in the magnetic shadows.
+
+She reconstructed the key by 2:17 PM. The first file decrypted cleanly.
+
+It was a spreadsheet. Columns of payments. Shell companies. Nevada addresses. A routing pattern that moved money from NTH operating accounts to entities with names like White Cedar Holdings and Basin Street Capital, and then from those entities to accounts flagged on a separate tab with nothing but codes: ZETA-7, OMEGA-2, OMEGA-4.
+
+Maya's coffee went cold. She had seen money laundering before. She had traced fraud, embezzlement, and kickback schemes through a dozen corporate structures. But the scale here was different. The numbers in the spreadsheet covered twenty-three months, and the total exceeded eighty million dollars.
+
+She picked up the phone and called the only journalist she trusted.
+
+Chapter 3: Crescent Falls
+
+The drive from Portland to Crescent Falls took four hours on a good day. Maya made it in three and a half, pushing her Subaru hard through the Columbia River Gorge and then south into the Cascade foothills. The highway narrowed from four lanes to two. The roadside diners gave way to gas stations, and the gas stations gave way to nothing but trees — Douglas fir and western hemlock rising in walls of green that blocked the afternoon sun.
+
+Crescent Falls was not a town that welcomed visitors. The main street ran four blocks, bookended by a hardware store and a tavern called the Cutthroat. A sign at the town limits read "Home of Northwest Timber Holdings — Population 847." The population number had been painted over three times, each layer a slightly different shade of white.
+
+Maya checked into the Timberline Motel, a single-story building with a flickering vacancy sign and a parking lot that had more pickup trucks than cars. The clerk, a woman in her sixties with a bright orange sweater, did not smile. She did not ask for identification. She simply slid a key across the counter and said, "End of the row."
+
+"Thank you," Maya said.
+
+The woman studied her. "You with the paper?"
+
+"No."
+
+"Environmentalists?"
+
+"No."
+
+"Then what are you doing here?"
+
+Maya tucked the key into her pocket. "Just passing through."
+
+"You passed through about four hours from anything worth passing through for." The woman picked up a crossword puzzle and returned to it. "Watch yourself."
+
+The room was small and clean. A bed, a desk, a television bolted to a dresser. Maya set up her laptop and pulled up the satellite imagery she had downloaded before leaving Portland. The coordinates from Derek's files pointed to a section of forest about twelve miles southwest of town, deep in the Willamette National Forest. The imagery showed a patch of green that had been gray five years ago — new growth, which meant there had been a cut. But the Forest Service records showed no active logging permits in that section for the past decade.
+
+She pulled up the second set of coordinates, these from the shell company transactions. White Cedar Holdings had made regular payments to an address in Crescent Falls that the county assessor listed as a warehouse district. But the satellite image of that district showed only a single building: a large metal structure with a heavy truck entrance and no windows.
+
+Maya closed the laptop and looked out the window at the darkening street. A single pickup truck rolled past, slow. The driver looked at her window as he passed.
+
+She drew the curtain.
+
+Chapter 4: The Ancient Stand
+
+Elias Vance knew the forest the way other men knew their own living rooms. He had walked these trails since he was seven years old, when his father carried him on his shoulders through the Cathedral, pointing up at trees that had been standing since before Columbus reached the Americas.
+
+He led the small group of activists along the ridge trail, his boots finding the roots and rocks without conscious thought. Behind him came a retired biology teacher from Eugene, a college student from Portland with a camera, and a woman in a Subaru who had found him through the Cascade Forest Defense Network.
+
+Maya had sent the message that morning: I need to talk to someone who knows the timber industry from the inside.
+
+Elias had agreed to meet, but he had not agreed to skip the tour. Tuesday was his regular walk-through. He had been giving these informal tours for six years, ever since he walked off his last NTH logging crew and never looked back.
+
+"These trees," he said, stopping at the base of a Douglas fir so wide three men could not circle it with arms linked, "were saplings when the Magna Carta was signed. This one right here was a hundred years old when the Pilgrims landed."
+
+The college student tilted her camera up, trying to capture the scale. The lens could not. The tree rose two hundred feet, its crown lost in the canopy where the light filtered green and gold through layered branches.
+
+"They call it the Cathedral," Elias said. "Not because of any religious thing. Because when you stand in here, you feel small. You feel like you're in a place that was built by something larger than human hands."
+
+Maya hung back as the group moved deeper. She waited until the others were out of earshot, then fell into step beside Elias.
+
+"I'm Maya. I emailed you."
+
+"You're the forensic accountant."
+
+"Yes."
+
+"Never met one of those in the woods before." He did not slow down. "What do you want to know?"
+
+"About the cutting. About what's happening where the permits don't cover."
+
+Elias stopped. He turned and looked at her with eyes that had seen forty-nine years of hard living. "What makes you think anything's happening where the permits don't cover?"
+
+"I have files from a man named Derek Prentice. He worked in NTH's accounting department. He's dead now."
+
+The forest sounds filled the silence. A Steller's jay called overhead. The wind moved through the upper canopy like distant surf.
+
+"Follow me," Elias said.
+
+He led her off the trail, through a gap in the undergrowth that was not visible until you were in it. They walked for ten minutes through salal and Oregon grape, ducking under fallen logs, until the trees opened onto a clearing.
+
+But it was not a clearing. It was a wound.
+
+The stumps stretched in rows, hundreds of them, some six feet across at the cut. The ground was churned mud, littered with broken branches and the skeletal remains of what had been a forest. At the far edge, a loader sat idle, its clawed arm resting on the ground like a sleeping animal.
+
+"The South Fork drainage," Elias said. "Protected watershed. No logging permitted in here since 1994."
+
+Maya looked at the stumps. She walked to the nearest one and counted the rings. Two hundred and forty-three. She ran her hand across the flat surface. The wood was still fragrant. Fresh cut.
+
+"How long ago?"
+
+"Three weeks. Maybe four." Elias stared at the destruction. "I used to work these crews. I know their schedules. They're cutting at night, running the mills twenty-four hours a day. Shipping the raw timber north before dawn."
+
+"Where does it go?"
+
+"Canada. Washington. Anywhere they can change the paperwork."
+
+Maya photographed the stumps, the loader, the distant edge where the forest stood intact. She photographed the serial number plate on the loader's chassis.
+
+"My father was a logger," Elias said quietly. "His father before him. I grew up believing this work was honest. That we were feeding families, building homes." He picked up a splinter of bark and turned it over in his fingers. "But this isn't honest. This is theft. They're stealing from the land, and they're stealing from the people who will never know what was here."
+
+Maya lowered the camera. "Can you show me where the night crews are operating now?"
+
+Elias met her eyes. "Yes. But we need to be careful. Marcus Webb has people everywhere in these woods."
+
+"Marcus Webb?"
+
+"NTH's head of security. Former Marine. He doesn't ask questions. He just does what Victor Braga tells him to do."
+
+"Victor Braga." Maya had read his bio. The face of Northwest Timber Holdings. The man who had turned a family timber company into a regional powerhouse.
+
+"He likes to smile for the cameras," Elias said. "But I've seen what happens to people who cross him."
+
+Chapter 5: The Warning
+
+The motel parking lot was empty when Maya returned at dusk. She parked in front of her room and sat for a moment, the photographs from the South Fork drainage still fresh in her mind. Two hundred and forty-three rings. A tree that had been alive when Thomas Jefferson was president, cut down for profit.
+
+She opened the car door and stopped.
+
+A man stood beside her motel room door. He was large, broad-shouldered, with close-cropped gray hair and a face that looked like it had been assembled from granite blocks. He wore a black polo shirt with the NTH logo over the heart. He was not smiling.
+
+"Ms. Chen."
+
+She had not told anyone at the motel her name. She had paid cash. She straightened, keeping the car door between them. "Who's asking?"
+
+"Marcus Webb. Northwest Timber Holdings." He stepped forward, his boots heavy on the asphalt. "I understand you've been taking photographs in the South Fork drainage."
+
+"I didn't realize photography was a crime."
+
+"It's not. Trespassing on private timberland is."
+
+"This is national forest."
+
+Webb stopped about six feet from her. He was close enough that she could smell his aftershave, something pine-scented and chemical. "The South Fork drainage is a complicated area. Multiple jurisdictions. I'd hate for you to get lost out there."
+
+"Is that a threat?"
+
+"It's advice." He reached into his pocket. Maya tensed, but he only produced a business card. He held it out. She did not take it. He set it on the hood of her car. "Mr. Braga would like to meet with you. He's a reasonable man. He believes in dialogue."
+
+"I'll consider it."
+
+"Don't consider too long, Ms. Chen. Crescent Falls is a small town. People notice strangers. People talk." He turned and walked to a black Chevrolet Suburban parked at the far end of the lot. He did not look back.
+
+Maya stood frozen until the Suburban pulled out of the lot and turned onto the main road. Then she let out a breath she had not realized she was holding. She picked up the card. Victor Braga, CEO, with a phone number.
+
+She tore it in half and dropped the pieces in the motel trash can. Then she went inside, locked the door, and pushed the dresser against it.
+
+She called Kara Okonkwo.
+
+"It's Maya. I think I'm in over my head."
+
+"Where are you?"
+
+"Crescent Falls. A man named Marcus Webb just warned me off. He knew I was here. He knew I was in the forest."
+
+"Webb." Kara's voice sharpened. "I've got files on him. Former Marine, multiple complaints of intimidation, never charged. He's Braga's enforcer."
+
+"I need to understand what I'm dealing with. The files Derek gave me show a pattern of payments that goes deeper than illegal logging. There's a connection to something called ZETA and OMEGA accounts. Does that mean anything to you?"
+
+Silence on the line. Then Kara's voice, lower: "Omega. That was the code name in a DEA wiretap summary I saw three years ago. Omega cell. Colombian cartel."
+
+Maya sat down on the edge of the bed. The springs creaked. "So NTH is laundering money for drug cartels."
+
+"That would explain why a senior accountant ended up dead in a parking garage." Kara paused. "Maya, listen to me. You cannot stay in that motel. If Webb found you once, he can find you again."
+
+"Where am I supposed to go?"
+
+"Stay where you are tonight. Barricade the door. I'll drive down first thing in the morning. We'll figure this out together."
+
+"What about the Oregon Tribune?"
+
+"I'm not going to the editors until I have something solid. You're my source for now, and I protect my sources."
+
+Maya hung up and checked the lock on the door. The chain was flimsy. The windows had cheap latches. She pulled the curtains tight and sat in the dark, her laptop open, the decrypted files glowing on the screen.
+
+Somewhere out in the night, a truck engine rumbled. It passed without slowing. She did not sleep.
+
+Chapter 6: The Sheriff's Counsel
+
+The knock came at 7:49 AM. Three sharp raps. Maya was already awake, dressed, her bag packed. She had spent the night studying the files, tracing the money, building a mental map of the conspiracy. The scale was staggering. More than eighty million dollars laundered through nineteen shell companies. Payments timed to political contributions. A separate ledger for something called "Operational Expenses" that included line items for "equipment replacement" and "site remediation" that were coded in a way that suggested other meanings.
+
+She looked through the peephole. A man in a tan uniform stood on the stoop. Sheriff's department.
+
+She opened the door a crack, leaving the chain on. "Can I help you?"
+
+"Sheriff Tom Halderman, Ms. Chen." He held up his badge. He was in his fifties, with a weathered face and kind eyes that looked tired. "I was hoping we could talk."
+
+"About what?"
+
+"About why Marcus Webb was seen leaving this motel last night, and about the woman who's been taking pictures in the South Fork drainage."
+
+She considered her options. None were good. She closed the door, slid the chain off, and opened it fully.
+
+Sheriff Halderman stepped inside and looked around the room. His eyes stopped on the laptop, the notebook, the satellite imagery spread across the desk. He let out a long breath.
+
+"You're in a dangerous place, Ms. Chen."
+
+"I've been told."
+
+"I'm not here to threaten you. I'm here because I knew Derek Prentice. He grew up in this town. His mother still lives here." The sheriff sat down in the room's single chair, uninvited. "Derek called me two weeks ago. Said he had found something at work that scared him."
+
+Maya closed the door. "Did he say what?"
+
+"He said there were numbers that didn't add up. He said Victor Braga was not the man everyone thought he was." Halderman rubbed his face. "I told him to go to the FBI. He said he needed more proof. The next thing I knew, he was dead."
+
+"You think it wasn't an accident."
+
+"I know it wasn't an accident. The garage security cameras were disabled between midnight and 2 AM. The maintenance request was filed by Marcus Webb's office." He looked at her directly. "But I can't prove that. And the county prosecutor won't touch anything that involves NTH."
+
+"Why are you telling me this?"
+
+"Because Derek was trying to get information to someone who would do something with it. He mentioned a forensic accountant in Portland. That's you."
+
+Maya sat on the edge of the bed. "I have his files. They're encrypted and I've decrypted some of them. They show NTH is involved in money laundering."
+
+"Laundering for who?"
+
+"I don't have the full picture yet. But there are references to accounts that a journalist I know associates with Colombian drug cartels."
+
+Halderman absorbed this without changing expression. He had seen enough in twenty-two years as sheriff that little surprised him anymore. "That explains the security upgrades at the mill. And the new people I've seen around town. Outsiders. They don't talk to anyone."
+
+"How deep does this go?"
+
+"The Braga family has run this town for three generations. Victor's grandfather founded NTH. His father expanded it. Victor took it from a local mill to a regional powerhouse in ten years." Halderman leaned forward. "He owns the bank, the hardware store, half the houses. Most people in Crescent Falls owe their livelihoods to him. They won't talk. They can't afford to."
+
+"What about you?"
+
+"I took this job hoping I could make a difference. I've spent eight years watching things I couldn't prove." He stood. "If you have evidence, Ms. Chen, you need to get it to the right people. The FBI, the DEA, someone who has jurisdiction outside this county."
+
+"I'm working on it."
+
+"Work faster. Marcus Webb doesn't make warnings. The fact that you're still alive means Victor Braga wants to assess you before he acts. The moment he decides you're a threat, the warnings stop."
+
+He moved toward the door, then paused. "There's a trail behind the motel. Goes up to the ridge. If you need to leave quickly, it connects to the old logging road. A blue Ford pickup will be parked at the junction. Keys are under the driver's side floor mat. It's registered to someone who doesn't exist."
+
+"Thank you."
+
+"You're not doing this for me. You're doing it for Derek." He opened the door. "And for this town, whether they know it yet or not."
+
+He left. Maya stood in the silence and listened to his patrol car start, idle, and drive away.
+
+Chapter 7: The Journalist
+
+Kara Okonkwo arrived at 10:14 AM driving a silver Toyota Camry that had seen better roads. She parked beside Maya's Subaru, stepped out, and surveyed the Timberline Motel with an expression that conveyed exactly what she thought of it.
+
+"Charming," she said.
+
+"It's clean."
+
+"It's a place where people go to disappear." Kara hoisted a messenger bag over her shoulder. She was tall, dressed in jeans and a leather jacket, with the alert posture of someone who had been threatened enough times to stay ready. Her braids were pulled back. Her eyes missed nothing.
+
+Inside the room, Kara set up her own laptop beside Maya's. She had brought hard copies of three years of Oregon Tribune coverage on NTH: articles about layoffs, about safety violations, about political contributions. She spread them across the bed.
+
+"Victor Braga has given over half a million dollars to Oregon political campaigns in the past five years," Kara said. "Mostly to the governor's party, but he hedges his bets. Donations to both major state senators. Local judges. The county commissioner."
+
+"Breadth over depth," Maya said.
+
+"Exactly. He doesn't buy individual politicians. He buys a political environment. Makes it impossible to regulate him."
+
+Maya opened Derek's spreadsheets. "The payments to the shell companies started three years ago. That's when the money laundering kicked in. Before that, NTH was profitable but not extraordinary. After the shell companies started routing money through, their operating margins jumped."
+
+"Fake revenue from laundering."
+
+"Yes. They're taking cartel cash, running it through Nevada LLCs as 'consulting revenue' and 'timber services,' and then repatriating it as legal income. NTH gets a clean balance sheet. The cartel gets clean money."
+
+Kara leaned over the screen, scrolling through rows of transactions. "These amounts are structured. Under ten thousand each, multiple accounts, multiple banks. Classic smurfing."
+
+"You know the terminology."
+
+"I spent six months covering a drug trafficking trial in Phoenix. The DEA agent taught me more than I wanted to know." She pointed at a column. "These codes — ZETA-7, OMEGA-2. What are they?"
+
+"I think they're operations. Physical locations. The amount patterns change based on the code."
+
+Kara pulled out her phone and made a call. "Hey, it's Kara. I need a favor. Those old wiretap transcripts from the Portland DEA office — the ones with Omega cell references. Can you pull them for me?"
+
+She listened, nodded, and hung up. "My source at the DEA will send what he can. Off the record, no paper trail." She looked at Maya. "You realize what we're about to do, right?"
+
+"Expose a conspiracy."
+
+"Expose a conspiracy that involves a Fortune 500 company, a drug cartel, and God knows how many compromised politicians. If we get this wrong, we don't just lose our careers. We lose our lives."
+
+Maya thought of Derek Prentice in the parking garage. "I know."
+
+"Good." Kara smiled, and it was not a warm smile. It was the smile of a woman who had been underestimated her entire career and had made that work to her advantage. "Then let's get to work."
+
+Chapter 8: The Senator's Burden
+
+The Dirksen Senate Office Building was quiet at 6:47 PM. Senator Diana Hartwell sat in her private office with the lights dimmed, a glass of bourbon untouched on the desk before her, staring at the financial disclosure forms that Chet Landry had placed in front of her forty minutes ago.
+
+Everything was in order. That was the problem.
+
+The forms showed fourteen thousand dollars in consulting fees that Chet had earned from White Cedar Holdings, a Nevada-based timber consultancy, over the previous eighteen months. The fees were legal. They were disclosed. They were perfectly normal for a chief of staff who had spent twenty years working on natural resources policy.
+
+But Diana Hartwell had been in politics long enough to recognize a smell. And this smelled wrong.
+
+"Chet," she had said when he placed the forms on her desk. "White Cedar Holdings. That's a shell, isn't it?"
+
+"It's a legitimate consultancy. They advise timber companies on regulatory compliance."
+
+"Who are their clients?"
+
+"I don't have their client list. I just did some contract work for them. Speaking fees, really. Policy guidance."
+
+She had let it drop. She had let it drop because Chet Landry had been her chief of staff for six years, because he was loyal and competent, because she was gearing up for a presidential run and needed her team stable. She had let it drop because she had been afraid of what she might find if she pushed.
+
+Now, alone in the dim office, she picked up the phone and called an old contact at the FBI.
+
+"Jim, it's Diana. Off the record. I need to know if there's anything active on a company called White Cedar Holdings."
+
+The pause on the line told her everything.
+
+"Diana, I can't confirm or deny any investigation."
+
+"That's confirmation enough."
+
+"I didn't say that."
+
+"You didn't have to." She hung up.
+
+She stared at the bourbon. She did not drink it. She had not had alcohol in eleven years, not since her divorce, but she kept the glass on her desk because it reminded her of the distance she had traveled.
+
+If Chet was compromised, her entire career was at risk. The presidential exploratory committee, the fundraising, the alliances she had spent years building — all of it could collapse. But she was also the chair of the Senate Subcommittee on Public Lands. If there was an investigation into illegal logging in her jurisdiction, she had a duty to act.
+
+She looked at the glass of bourbon. She pushed it away.
+
+She picked up her phone and called Chet Landry.
+
+"Chet, I need you to prepare talking points for a hearing on timber industry oversight. Full scope. Subpoena authority."
+
+Silence. "Diana, that's a significant escalation."
+
+"I know. Do it."
+
+She hung up and stared at the lights of the Capitol dome through her window. She had spent twenty years building her reputation as a bipartisan dealmaker. She had compromised, traded favors, looked the other way. But there was a line, and she had just realized that her chief of staff had crossed it, and she needed to decide if she was going to cross it with him.
+
+Chapter 9: The Cutting Floor
+
+Elias drove them in his pickup, a 1997 Ford F-150 with rusted wheel wells and a suspension that had felt every mile of every logging road in the Cascade Range. Maya sat in the passenger seat, gripping the door handle as the truck bounced along a track that barely qualified as a road. Kara sat in the back, her laptop braced against her knees.
+
+"Where are we going?" Maya asked.
+
+"Section 17. Willamette National Forest. Protected since 1992 under the Northwest Forest Plan."
+
+"Protected means no logging."
+
+"Protected means no legal logging." Elias downshifted as the road angled steeply downhill. "I found this one three weeks ago. Followed a fresh tire track off the main road."
+
+They emerged from the tree line onto a ridge. Below them, the valley opened into a scene of devastation.
+
+The clear-cut stretched in every direction, a brown and gray scar in the green expanse of the national forest. Stumps dotted the landscape like tombstones. The logging roads cut through the hillsides, raw earth that would take decades to heal. At the center of the cut, a landing area held stacks of raw logs, hundreds of them, waiting for transport.
+
+Maya got out of the truck. The smell hit her first — pine resin and fresh sawdust and the raw chemical smell of diesel fuel. Then the silence. No birds calling. No wind moving through living branches. No rustle of animals in the undergrowth. Just the dead stillness of a place where the life had been systematically removed.
+
+Kara walked to the nearest stump, wider than her shoulders. She counted rings aloud. "One hundred sixty-seven. One hundred sixty-eight. One hundred sixty-nine."
+
+"Stop," Maya said quietly.
+
+Kara stopped. She looked at the forest of stumps stretching into the distance. "How many trees?"
+
+"On this cut?" Elias stood with his arms crossed, his jaw tight. "Maybe three thousand. Across the whole operation, I don't know. Tens of thousands."
+
+Maya pulled out her camera and began documenting. She photographed the stumps, the log stacks, the vehicle tracks, the oil stains on the ground. She photographed the distant ridge where the uncut forest stood, a stark line between green and brown.
+
+"Section 17 is supposed to be habitat for the northern spotted owl," Elias said. "Every tree in this valley is a violation of federal law."
+
+Kara was already on her phone. "I'm calling my contact at the Forest Service."
+
+"They already know," Elias said. "They've known for months. Someone in the local office is signing off on false inspection reports."
+
+Maya knelt beside a stump and examined the cut pattern. "This is a chainsaw cut, not a harvester. They're using hand crews in the backcountry to avoid detection."
+
+"It's the only way to cut in here without leaving a road wide enough for satellites to spot," Elias said. "The crews hike in with saws. They limb the trees by hand. They use draft horses to haul the logs to staging areas. It's slow, but it's invisible."
+
+"Except from the ground."
+
+"Except from the ground." He looked at her. "That's why they're so interested in you. You're the first person who's come looking from the ground in years."
+
+Maya lowered her camera. She looked at the cut trees, the devastated valley, the forest beyond that would be next. The numbers in Derek's spreadsheets suddenly represented something real. Each dollar was one of these trees. Each shell company was a valley like this one.
+
+"We need to stop them," she said.
+
+Elias nodded. "Then we need to move fast. There's a rumor they're planning a cut in the Cathedral itself. The biggest operation yet."
+
+"When?"
+
+"I don't know. But soon."
+
+Chapter 10: Borderlands
+
+The satellite images arrived at 3 AM, transmitted from a source at the University of Oregon geography department who owed Kara a favor. Maya and Kara spread the printouts across the motel room floor, using tape to join the overlapping sections into a single mosaic across the worn carpet.
+
+"What am I looking at?" Maya asked.
+
+"Landsat imagery. Infrared bands. The Forest Service uses it to detect illegal clearing across large land areas." Kara knelt and traced a line with her finger along the paper. "This is the border. Cascade Range on the U.S. side. Canadian side over here, about forty miles north."
+
+Maya saw the pattern immediately, emerging from the false-color display. A series of small clear-cuts, each one barely noticeable on its own, strung along the border like beads on a thread. They were not random. They formed a deliberate corridor snaking through the mountain passes.
+
+"They're creating a route," Maya said. "A smuggling corridor linking the two countries."
+
+"Not for timber. For other things. Timber's too bulky to move quietly through the woods at night."
+
+Maya studied the coordinates and cross-referenced them with the financial records. The clear-cuts connected to a network of old logging roads that snaked toward the Canadian border like capillaries feeding a vein. At the northern end, satellite imagery showed a compound — a cluster of buildings that had appeared over the past six months, not visible on any earlier imagery.
+
+"What's that building?"
+
+"Old hunting lodge that was sold last year," Kara said. "Now it's a transshipment point. The new owners paid cash and never showed up for the county tax assessment."
+
+Maya pulled up the financial records on her laptop. "Payments from NTH to a Canadian transportation company. Triple the market rate for shipping services." She cross-referenced with the shell company data. "White Cedar Holdings made ten payments to this transport company, each coded OMEGA-5. The amount pattern is completely different from the ZETA codes."
+
+"Matching the scale of a different operation entirely. Not timber. Narcotics."
+
+"The OMEGA transactions started eighteen months ago. That's when the clearing pattern in the satellite imagery begins to show up."
+
+They looked at each other across the spread of maps and printouts. The picture was coming together in a way that made Maya's stomach turn. NTH was not just laundering money. They were providing infrastructure — roads, camps, cover, and now a border crossing — for cartel operations stretching across the international boundary.
+
+"I need to see that compound from the air," Kara said.
+
+"You can't get close without being seen from the ground."
+
+"Not by road. But I know a bush pilot who flies supply runs to fire lookouts in the summer. He can get us overhead without raising suspicion."
+
+Maya considered the risk. Every step forward increased their exposure. But every step forward also brought them closer to the evidence they needed to make the case watertight.
+
+"Call your pilot," she said.
+
+Kara was already dialing, the satellite phone glowing in the dim motel room.
+
+Chapter 11: The Paper Trail
+
+They worked through the night in shifts. Maya slept three hours on the motel bed while Kara pored over the decrypted files, then they switched. By dawn, they had mapped the full financial architecture of the conspiracy.
+
+The structure was elegant in its corruption. At the top sat NTH, the legitimate face of the operation. Victor Braga's company processed timber, paid taxes, employed seven hundred people, and contributed to community causes. It was a real business that happened to also be a money-laundering vehicle.
+
+Beneath NTH, Derek Prentice's files revealed a network of nineteen shell companies spread across Nevada, Delaware, Wyoming, and the Cayman Islands. Each shell served a specific purpose in the laundering machine. White Cedar Holdings collected cartel cash and distributed it as fake consulting fees. Basin Street Capital purchased real estate — warehouses, truck depots, a private airstrip near the Canadian border. Three additional shells paid salaries to employees whose names appeared nowhere on NTH's official payroll — ghost workers who existed only on paper.
+
+"There's a pattern here," Maya said, pointing at a row of transactions. "Every time there's a large deposit from one of the ZETA accounts, there's a corresponding payment to a landowner near the Canadian border."
+
+"Paying for access."
+
+"Paying for silence."
+
+Kara compared the payment schedule to the satellite imagery. "The timing lines up. Every ZETA payment precedes a new set of cuts in the satellite data by about two weeks. They're paying for timber that was never legally harvested."
+
+Maya opened a separate file folder — one Derek had labeled "Personal Notes." Inside was a series of text documents, each one a journal entry.
+
+"Listen to this." Maya read aloud: "'January 14. Raised concerns about the Nevada accounts with my supervisor. Was told the accounts were for legitimate acquisitions. My supervisor would not make eye contact.'"
+
+She scrolled. "'February 3. Found references to a company called Zeta Maritime Solutions. No such company exists in any maritime registry. The address in the file is a UPS store in Reno.'"
+
+"'March 22. Marcus Webb visited the accounting floor today. He did not speak to me. He stood at the cubicle entrance and watched for eleven minutes. I have never been more frightened.'"
+
+Maya looked up from the screen. "He was terrified. But he kept working."
+
+"He knew he was going to die," Kara said quietly. "And he sent the files anyway."
+
+They sat in silence for a moment. Then Maya returned to the spreadsheets.
+
+"There's one account I haven't been able to trace. It's labeled OP-7. The payments come from multiple sources and go to a single destination. But the destination is encrypted differently from the rest."
+
+"Can you crack it?"
+
+"I need more time. The encryption is military-grade. Derek used a different algorithm for this one."
+
+Kara looked at the clock. "We need to move. My pilot is waiting at the McKenzie Bridge airstrip in three hours."
+
+Maya closed the laptop. "Then let's go."
+
+Chapter 12: The Lichen King
+
+The old growth went deeper than Maya had imagined possible. They followed Elias along a trail that was not on any map, through stands of cedar and hemlock where the understory opened into cathedral halls of green light. The air was cool and damp and smelled of moss and soil and the particular sweetness of decaying wood giving life to new growth.
+
+"Almost there," Elias said.
+
+They came to a clearing where a small cabin stood, built from hand-hewn logs, with a tin roof that had oxidized to a soft rust color. Smoke curled from a stone chimney. Around the cabin, the forest floor was a laboratory of wooden racks, drying trays, glass jars filled with specimens.
+
+The Lichen King was older than Maya expected. He was small and wiry, with white hair that stuck out in all directions and hands that were permanently stained brown from decades of handling bark and soil. He did not shake hands when introduced. He simply nodded and returned to the specimen he was examining under a magnifying lens.
+
+"Elias says you're looking to understand what's being destroyed," the Lichen King said without looking up.
+
+"Yes, sir."
+
+"Don't call me sir. Call me Wallace. Or Lichen King. I answer to both." He set down the lens and turned to face them. "I've been documenting the forests in this watershed for thirty-seven years. I have catalogued over eight hundred species of lichen in the Cathedral stand alone."
+
+"Eight hundred?"
+
+"Lichens are the canaries, young lady. They absorb everything — air pollution, heavy metals, climate change. They're the first to die when the ecosystem is stressed. And they're dying. Species I documented ten years ago are gone. Disappeared."
+
+Wallace led them into his cabin. The walls were lined with notebooks, hundreds of them, each spine labeled with a year and a location. He pulled one from 1998 and opened it to a page covered in careful handwriting and watercolor sketches.
+
+"This is Lobaria oregana. The old-growth lung lichen. It only grows in forests that have never been logged. It fixes nitrogen from the atmosphere, fertilizing the soil for the entire ecosystem." He pointed at the watercolor. "I found thirty-seven specimens in the Cathedral stand in 1998. Last year, I found six."
+
+"NTH's logging is killing them," Maya said.
+
+"It's not just the direct logging. It's the edge effect. When you cut a road through the forest, you change the microclimate. The wind dries the lichens. The dust settles on them. They can't survive." Wallace closed the notebook. "What Victor Braga is doing is not just illegal. It's extinguishing a biological heritage that predates human civilization in this hemisphere."
+
+Kara had been recording the conversation on her phone. "Wallace, would you be willing to testify to that effect?"
+
+"I've been trying to testify for fifteen years. Nobody in Washington wants to hear from a crazy old man who licks rocks."
+
+"We can get you a hearing."
+
+Wallace studied her for a long moment. "You're serious."
+
+"Yes."
+
+"Then I'll come. But you need to understand something." He picked up a piece of lichen from his workbench and held it out to them. "This is Usnea longissima. Methuselah's beard. It can live for a thousand years. One thousand years. We have specimens in the Cathedral that were growing when the Vikings reached North America."
+
+He set the lichen down carefully.
+
+"You cannot put a dollar value on that. And Victor Braga is trying."
+
+Chapter 13: The Town Hall
+
+The Crescent Falls Community Center was a wooden building from the 1920s, its walls lined with photographs of timber crews from a century of logging history. The room held three hundred folding chairs, and every one of them was full. People stood along the walls. They clustered in the doorway. They had come to hear Victor Braga speak.
+
+Maya and Kara slipped in through a side entrance and found standing room near the back, behind a row of men in flannel shirts who smelled of sawdust and diesel. Elias had refused to come. He had stood outside the center and watched through the windows, unwilling to enter the building where his father had attended union meetings thirty years ago.
+
+Victor Braga took the stage at 7 PM sharp. He was not what Maya had expected. He was shorter than his photographs suggested, but his presence filled the room. He wore a blue work shirt with the sleeves rolled up, no tie, no jacket. His gray hair was thick. His smile was wide and genuine.
+
+"Thank you, Crescent Falls," he began, his voice carrying without a microphone. "Thank you for giving me the opportunity to speak with you tonight. Not as your CEO. As your neighbor."
+
+The crowd applauded. Maya watched the faces around her. They were hungry for what he was offering.
+
+"I've been hearing rumors," Braga said. "Rumors about investigations. Rumors about illegal logging. Rumors that Northwest Timber Holdings is somehow doing something wrong." He paused. "I want to address those rumors directly."
+
+He walked to the edge of the stage, close to the audience.
+
+"We've had a tough few years. The housing market crashed. The price of lumber dropped. We had to make cuts that I wish we did not have to make. But we kept this mill running. We kept paying wages. We kept health insurance for every family in this room who works for NTH."
+
+A man in the front row called out, "Tell them about the environmentalists!"
+
+Braga held up a hand. "Let's be fair. Environmental groups have a right to their concerns. They care about the forest. So do I. So does every logger in this room."
+
+He looked directly at the back of the room, where Maya stood.
+
+"But when outsiders come to our town — people who have never worked a day in the timber industry, never carried a saw, never planted a seedling — and they tell us we're destroying the forest, I have to ask: where were they when this town was built? Where were they when your fathers and grandfathers were logging these hills and building the communities that feed your families?"
+
+Murmurs of agreement. Heads nodding.
+
+Maya felt the weight of the room turning toward her. She had not moved. She had not spoken. But somehow Braga knew exactly who she was.
+
+"Ms. Chen," Braga said, "I understand you've been taking photographs in our national forests. I'd like to invite you to ask your question."
+
+Every face in the room turned. Maya felt the heat of three hundred stares. She straightened her shoulders.
+
+"Mr. Braga, can you explain why your company's logging permits do not cover the South Fork drainage, where we found evidence of fresh clear-cutting within the last month?"
+
+The room went silent. Braga's smile did not waver.
+
+"I'm glad you asked that, Ms. Chen. The South Fork drainage is a complicated area. We have selective harvesting permits that cover certain sections. If you'd like, I can have our compliance officer provide you with the documentation."
+
+"I have the documentation, Mr. Braga. That's how I know the cuts exceed the permit limits by approximately three thousand trees."
+
+The silence deepened. Someone coughed.
+
+Braga's eyes narrowed, almost imperceptibly. "I'd be happy to review any evidence you have. But I'd caution you against making accusations without a full understanding of the facts. This town has been hurt by false accusations before."
+
+He turned back to the audience, dismissing her.
+
+"Now, let me tell you about our new community scholarship program..."
+
+Maya stepped back. She had gotten what she came for. She had seen Victor Braga's mask, and she had seen the second of cold fury behind his eyes before he replaced it.
+
+She slipped out the side door into the cool night air. Kara followed.
+
+"He knows," Maya said.
+
+"He's known since you arrived." Kara looked back at the community center, where applause was rising. "But now he knows you're not going away."
+
+Chapter 14: The Decryption
+
+Kara's source at the Oregon Tribune was a man named Dave Chen — no relation to Maya — who ran the paper's IT security and had a side hobby of cracking encryption for fun. He was thirty-two years old, wore a hoodie to work every day, and had never met a cipher he could not defeat given enough time and caffeine.
+
+They met him at a coffee shop in Eugene, neutral ground, away from both Portland and Crescent Falls. Dave brought his laptop and a portable drive array that looked like something from a science fiction film.
+
+"I read your encrypted files," Dave said after ordering a black coffee and a pastry he would not touch. "The first layer is standard AES-256. Your man Derek knew what he was doing. But the second layer — that's not commercial encryption. That's custom."
+
+"Can you break it?" Kara asked.
+
+"I already did." Dave grinned. "Took me about six hours. The custom algorithm had a weakness. It was using a pseudo-random number generator with a seed based on the system clock. If you know the approximate time the files were encrypted, you can narrow the key space."
+
+He opened his laptop and showed them the decrypted folder. "The OP-7 account you were looking for. It's a numbered account at a bank in Panama."
+
+Maya leaned forward. "How much?"
+
+"Twenty-three million dollars. Transferred over eighteen months. The source accounts are the ZETA shells. The destination is a single beneficiary."
+
+"Who?"
+
+Dave typed a command. The screen displayed a name: Chet Landry.
+
+Maya felt the floor drop. "Senator Hartwell's chief of staff."
+
+"One and the same." Dave whistled softly. "Your man Derek was good. He not only found the money trail. He found the political payoff."
+
+Kara was already dialing. "I need to get this to the FBI."
+
+"Not yet," Maya said. "If we go to the FBI now, Landry will lawyer up and we'll never get the full story. We need to understand who else is involved before we tip our hand."
+
+"Landry is the tip of the iceberg. He's the connection to Hartwell's committee. If Hartwell is compromised..."
+
+"I don't think she is." Maya looked at the screen. "I think Landry is acting without her knowledge. But if we go public before she knows, her career is over regardless."
+
+Kara lowered her phone. "You want to warn her?"
+
+"I want to give her a chance to do the right thing."
+
+Chapter 15: The Forest Service File
+
+The internal Forest Service emails came from a source inside the Portland regional office — a mid-level administrator who had grown tired of watching his colleagues approve permits they knew were fraudulent. He met Kara in a parking garage at midnight and handed her a flash drive without a word.
+
+The emails spanned two years. They showed a pattern of pressure from the regional director's office to expedite NTH permit applications, to overlook discrepancies in site reports, to classify complaints from field rangers as "unfounded" without investigation.
+
+Maya read through them in the motel room, her jaw tightening with each message.
+
+From: jharper@fs.fed.us
+To: rmendoza@fs.fed.us
+Subject: NTH Permit NW-2024-89
+
+Bob, I've reviewed the Section 17 application. The proposed boundaries overlap with protected critical habitat under the Northwest Forest Plan. I cannot in good conscience approve this as submitted. The maps appear to have been altered.
+
+From: rmendoza@fs.fed.us
+To: jharper@fs.fed.us
+Subject: Re: NTH Permit NW-2024-89
+
+My hands are tied. The director's office has flagged this for expedited processing. Approve it with whatever modifications are necessary to make it defensible.
+
+From: jharper@fs.fed.us
+To: rmendoza@fs.fed.us
+Subject: Re: NTH Permit NW-2024-89
+
+Defensible to whom? The maps show the cut zone extending half a mile beyond the legal boundary. This is not a paperwork error. This is fraud.
+
+From: rmendoza@fs.fed.us
+To: jharper@fs.fed.us
+
+Harper — approve it or you will be reassigned to the Alaska regional office. Your choice.
+
+Maya closed the email thread. "The Forest Service is compromised at the director level."
+
+"Regional Director Paul Ackerman," Kara said. "Political appointee. He was confirmed three years ago. His wife works for a lobbying firm that represents timber interests."
+
+"Illegal," Maya said. "But legal. Conflict of interest is not the same as bribery."
+
+"Give me time. I'll find the connection."
+
+Maya opened the next file. A field inspection report from a ranger named Teresa Vasquez, who had personally visited the South Fork drainage and documented illegal cuts. Her report had been filed and then buried. No follow-up action. No response.
+
+She pulled out her phone and called the number listed in the signature block. A woman answered on the third ring.
+
+"Ranger Vasquez?"
+
+"Yes. Who is this?"
+
+"My name is Maya Chen. I'm investigating Northwest Timber Holdings. I've seen your report on the South Fork drainage. I'd like to talk to you."
+
+A long pause. Then: "How did you get this number?"
+
+"Your report was in the files."
+
+"My report was supposed to be sealed."
+
+"Someone leaked it to me. Along with the emails that show your report was suppressed."
+
+Another pause, longer this time. When Vasquez spoke again, her voice was lower. "If I talk to you, I lose my job."
+
+"Ranger Vasquez, Derek Prentice is dead. He was killed because he tried to expose what NTH is doing. More people will die if we don't stop them."
+
+Silence stretched across the line. Maya held her breath.
+
+"I'll meet you," Vasquez said finally. "But not in person. There's an encrypted chat protocol I use. I'll send you the details."
+
+"Thank you."
+
+"Don't thank me yet. Thank me when Victor Braga is in handcuffs."
+
+Chapter 16: The Senator's Dilemma
+
+Senator Diana Hartwell sat in the front row of the Senate Caucus Room, her hands folded in her lap, her face expressionless, as Kara Okonkwo's article scrolled across her tablet.
+
+The Oregon Tribune had published the story that morning: "NTH Permits Approved Despite Ranger Objections — Records Suggest Systemic Bribery." The article named the Forest Service emails. It named the suppressed inspection reports. It did not yet name Chet Landry.
+
+But Landry's name was in Kara's notebook. Diana knew it was only a matter of time.
+
+She found Chet in his office, packing files into a briefcase. His movements were too quick, too deliberate.
+
+"Chet."
+
+He looked up. "Diana. I saw the article."
+
+"I need to ask you something, and I need you to tell me the truth."
+
+"Of course."
+
+"White Cedar Holdings. The consulting fees. Were they payments from Northwest Timber Holdings?"
+
+His face did not change. But his hand stopped moving. "I told you. White Cedar is a legitimate consultancy."
+
+"That's not what I asked. I asked if the money came from NTH."
+
+"It might have. Their client lists are confidential."
+
+"Chet." She closed the door behind her. "I have been in the Senate for fourteen years. I know when I am being lied to. And I know that the FBI has an open investigation into NTH. If that investigation leads to you, it leads to me. To this office. To everything we have built."
+
+He set the briefcase down. "Diana, I have never done anything that would hurt you."
+
+"You took money from a company that may be connected to organized crime. How does that not hurt me?"
+
+"I didn't know—"
+
+"Stop." She held up a hand. "You're my chief of staff. You're the person I trust most in this city. If you're compromised, I need to know now. Before the FBI knocks on my door."
+
+He met her eyes. For a moment, she saw the man she had hired six years ago — competent, idealistic, devoted to public service. She saw him hesitate.
+
+"Diana, I need some time. To get my affairs in order."
+
+"Get your affairs in order? Chet, you're talking like a man who's about to flee the country."
+
+"I'm talking like a man who made a terrible mistake and needs to fix it before it destroys everything I've worked for." He picked up the briefcase and walked toward the door. "I'm going to take a leave of absence. Effective immediately."
+
+"Wait —"
+
+But he was already gone, the door closing behind him with a soft click. She watched him walk down the corridor, his steps quick and determined.
+
+She should have stopped him. She should have called security. Instead, she sat down in his chair and stared at the empty room, trying to understand how twenty years of public service could unravel in a single conversation.
+
+The bourbon was still in her desk drawer. She did not drink it. She called her lawyer instead, her hand steady on the receiver.
+
+"Bob, I need you to prepare for the possibility that my office is about to be under federal investigation."
+
+"Understood," her lawyer said. "I'll start assembling documents. Diana — are you okay?"
+
+"No," she said. "I am not okay. But I will be."
+
+Chapter 17: The Pursuit
+
+They left Crescent Falls at 6 AM, following a tip from Elias about a night crew operating in the Santiam Pass area. The road climbed through fog that thickened as they gained elevation, until Maya could barely see ten feet beyond the hood of her Subaru.
+
+"I don't like this," she said.
+
+"Neither do I," Kara said from the passenger seat. "But if Elias is right, this is the operation they've been building toward. The Cathedral cut."
+
+The satellite imagery had shown a staging area about eight miles off the main highway, accessible by a logging road that did not appear on any public map. Elias had marked the turnoff with a cairn of rocks on the shoulder.
+
+Maya found the cairn and turned onto the track. The Subaru lurched through ruts and mud. Branches scraped the sides. Behind them, a cloud of dust rose into the morning air.
+
+That was when the black SUV appeared in her rearview mirror.
+
+It crested a rise about a quarter mile behind them, moving fast. Too fast for the road conditions.
+
+"Kara."
+
+Kara turned. "I see it."
+
+Maya pressed the accelerator. The Subaru surged forward, but the road was too rough for speed. The SUV gained on them.
+
+"It's Webb," Kara said. "Or his men."
+
+The road curved sharply to the left, and Maya saw their only chance — a spur road branching off into denser forest, barely wide enough for the car. She yanked the steering wheel. The Subaru slid, caught gravel, and plunged into the narrow track.
+
+Branches slammed against the windshield. The road dropped into a creek bed and the Subaru bounced through the water, spraying mud. Behind them, the SUV had stopped at the entrance to the spur. It was too wide to follow.
+
+But Maya saw the driver get out. He raised a rifle.
+
+"Get down!"
+
+They ducked as the windshield spiderwebbed — a single bullet hole, then a web of cracks spreading across the glass. Maya kept driving, blind, following the creek bed until the terrain forced her to stop.
+
+They sat in the silence, hearts pounding, the engine ticking as it cooled.
+
+"Everyone okay?" Maya asked.
+
+Kara touched her face. Her hand came away with blood from a small cut where glass had sprayed. "I'm fine."
+
+Maya looked back. The SUV was gone.
+
+"They're not chasing," she said. "They know where we are. They're just waiting."
+
+"Waiting for what?"
+
+"Waiting for us to come out." Maya turned off the engine. "Which means we're not coming out the way we came."
+
+She pulled out her phone. No signal. Of course.
+
+"Elias told me about these roads. There's a network connecting them. If we can find the old railroad grade, it leads back to the highway about six miles north."
+
+"On foot?"
+
+"You have a better idea?"
+
+They left the car, taking only their phones, the encrypted drive, and a bottle of water. They walked into the forest, following a deer trail that might or might not lead where Elias had promised.
+
+The trees closed around them. The fog swallowed the sound of their footsteps.
+
+Behind them, somewhere in the mist, an engine started.
+
+Chapter 18: The Hidden Camp
+
+They walked for two hours before they found the camp.
+
+Maya had been following the deer trail, which had gradually widened into a game trail, which had become a packed-earth path. The fog had lifted, revealing a landscape of dense second-growth forest — logged perhaps fifty years ago, recovering slowly.
+
+Then she smelled it. Diesel. Cooking fires. Human waste.
+
+She stopped and put out a hand. Kara stopped beside her.
+
+"There," Maya whispered.
+
+Through the trees, they could see a clearing. Not a clear-cut — something more organized. A row of tents. A portable generator. A truck with its bed loaded with chainsaws and gas cans. A makeshift kitchen with a propane stove.
+
+And the logs. Stacks of them, sorted by size, waiting for transport.
+
+"The night crew," Kara said.
+
+They crept closer, staying behind the cover of a fallen log. Maya counted twelve men in the camp. Some were eating. Others were sharpening chainsaw blades. One man sat apart from the others, talking on a satellite phone.
+
+"How do we document this without being seen?"
+
+Kara pulled out her phone and switched to video mode. She zoomed in, capturing the camp layout, the equipment, the faces. "We can't get closer. But this is enough."
+
+Maya studied the log stacks. The trees were massive — old growth, clearly old growth. Trunks two feet in diameter, cut into sections and stacked. The bark still had the deep furrows of ancient Douglas fir.
+
+"These are from the Cathedral," she said.
+
+"You can tell?"
+
+Maya pointed at the bark structure, the tight growth rings visible on the cut ends. "Trees that grow in dense old growth grow slowly. Tight rings. These rings are less than an eighth of an inch apart. That means they were growing in a closed canopy, competing for light. That's old growth."
+
+Kara kept filming. "You learned that from Elias?"
+
+"I read it last night. Trying to understand what they're destroying."
+
+A man's voice cut through the forest: "Hey! Who's there?"
+
+They froze. A crew member had spotted them, was walking toward their position with a chainsaw in his hands. Not running. Walking. Methodical.
+
+Maya grabbed Kara's arm. "Run."
+
+They ran. Not back the way they came — deeper into the forest, where the undergrowth was thick enough to hide their passage. Branches whipped their faces. Roots grabbed at their feet. Behind them, the man shouted, and other voices answered.
+
+They crashed through a stream, scrambled up the far bank, and kept running until Maya's lungs burned and her legs would not carry her further. She collapsed behind a mossy boulder, pulling Kara down beside her.
+
+They lay in the ferns, breathing hard, listening. The shouting had stopped. They had lost the pursuit.
+
+But they were lost themselves, with no idea which direction led back to the road, and daylight was beginning to fade through the canopy.
+
+Chapter 19: The Source
+
+Elias found them at dusk, following the sound of their calls. He emerged from the forest like a ghost, his boots silent on the duff, his face unreadable in the fading light.
+
+"You're lucky I know these woods," he said. "If I hadn't heard you shouting, you'd be spending the night out here."
+
+"Thanks for coming," Maya said.
+
+"Don't thank me yet. I found something on my way up here." He crouched beside them. "You know my old logging buddy, Hal? The one who works the night crew."
+
+"The one you mentioned."
+
+"He called me an hour ago. He heard on the crew radio that someone had been spotted near the Santiam camp. He wants to meet. Says he has something."
+
+"Where?"
+
+"There's a diner on Highway 22, about twenty miles south of here. The Loggers' Rest. He'll be there at midnight. Alone."
+
+Kara looked at Maya. "Could be a trap."
+
+"Could be," Elias agreed. "But Hal is the only person I know who's actually inside the night operation. If he's willing to talk, we need to hear what he has to say."
+
+Maya thought about Marcus Webb, the rifle shot, the men chasing them through the woods. "We'll go. But we do it my way. No phones. No laptops. We leave everything at the motel and go in clean."
+
+"And if it's a trap?"
+
+"Then we don't get caught."
+
+They reached the Loggers' Rest at 11:45 PM. The diner was a single-wide trailer with a metal roof and a neon sign that buzzed in the darkness. Four pickup trucks sat in the gravel lot. Through the window, Maya could see a few men at the counter, drinking coffee.
+
+She let Elias go in first. He walked in like he owned the place, nodded at the waitress, and slid into a booth near the back. A few moments later, a man in a worn canvas jacket joined him — Hal.
+
+Maya and Kara watched from the car, parked across the highway with the lights off.
+
+"What are they saying?" Kara asked.
+
+"I can't tell. But Hal is talking fast. He looks scared."
+
+The conversation lasted twelve minutes. Then Hal left, walking quickly to his truck without looking back. Elias came out and crossed the highway, sliding into the back seat of the Subaru.
+
+"Hal confirmed everything," Elias said. "The night crews are working on a schedule. They have two more weeks to clear the Cathedral stand. After that, the cartel's buyers are coming to pick up the first shipment."
+
+"Two weeks."
+
+"Two weeks. And there's more." He leaned forward. "Hal knows where the camp is. The main camp. The one with the processing facility. He drew me a map."
+
+He unfolded a napkin covered in pen marks. Roads, trails, a ridge line, a valley. And in the center, labeled "COMPOUND," the location of the cartel's hidden operation.
+
+"This is it," Maya said. "This is what we need."
+
+"Hal also said something else." Elias's voice dropped. "He said Marcus Webb is bringing in extra men. Out-of-state security. Contractors. They're expecting trouble."
+
+"From us?"
+
+"From anyone who gets in their way."
+
+Chapter 20: The Chemical Trail
+
+The chemical supply records came from a distribution company in Portland that had no idea it was part of a multinational conspiracy. Kara's source at the DEA sent a list of suspicious purchases spanning eighteen months: large quantities of atrazine, glyphosate, and carbofuran — all restricted or banned for use in national forests — routed through a farm supply cooperative in eastern Oregon that existed only on paper.
+
+The chemicals were being delivered to GPS coordinates deep in the Cascade Range. The same coordinates that matched Hal's napkin map of the hidden compound.
+
+"It's not just logging," Maya said, studying the delivery records by the motel room's flickering light. "They're using these chemicals for something beyond forestry."
+
+"What, specifically?"
+
+Maya traced the purchase patterns with her finger. "The quantities are wrong for vegetation management. Too much herbicide of too narrow a spectrum. If you wanted to clear undergrowth for logging access, you'd use different compounds entirely."
+
+"It's for drug processing," Kara said. "Atrazine and carbofuran are used in cocaine refinement. It's a known DEA signature pattern."
+
+"So NTH is supplying the cartel with precursor chemicals for drug manufacturing, using the logging operation as cover for the deliveries."
+
+"Not just supplying. Look at the delivery addresses. The compounds are being delivered directly to the compound itself. They're operating a drug lab inside the national forest, hidden in plain sight behind the logging front."
+
+Maya pulled up the satellite imagery of the compound coordinates. The resolution was not high enough to confirm a lab, but she could clearly see the layout — a central building with industrial ventilation, multiple outbuildings, a generator station with fuel storage, a water supply piped from a nearby stream. All the infrastructure needed for chemical processing on an industrial scale.
+
+"If we can prove the lab exists on the ground, the DEA will have immediate jurisdiction. They can raid the compound without waiting for the Forest Service to process permit violations."
+
+"Proving it is the hard part. The satellite imagery is too low-resolution to distinguish processing equipment from logging machinery."
+
+They looked at each other. They both knew what that meant.
+
+"Elias knows the terrain. He can get close enough to see what's inside the main building."
+
+"He's already at risk. If he's caught by Webb's men—"
+
+"He's the only one who can do it."
+
+Maya pulled out her phone and called Elias. He answered on the first ring.
+
+"I need you to do something dangerous," she said.
+
+"Tell me something I haven't been doing."
+
+"I need you to get eyes on the compound. Confirm drug processing equipment."
+
+The line was silent for a moment. Then: "I know a route. Three ridges over, there's a lookout point. Old fire watch station. You can see the whole valley."
+
+"How long to get there?"
+
+"Half day on foot. I'll leave at dawn."
+
+"Elias. Be careful."
+
+"I'm always careful. It's the people around me I worry about."
+
+He hung up. Maya stared at the phone, feeling the weight of what she had asked him to do.
+
+"He'll be fine," Kara said.
+
+"Will he?"
+
+Kara did not answer. She did not know.
+
+Chapter 21: The Alliance
+
+They met in a motel room in Eugene, neutral territory, away from both Crescent Falls and Portland. The room was small, but it held a table large enough to spread their evidence across — printouts, photographs, satellite imagery, the decrypted files, the chemical delivery records.
+
+Raymond Okonkwo sat at the head of the table. He was seventy-two years old, a retired federal judge with a quiet authority that filled the room. He had driven three hours from his home in Salem when Kara called him.
+
+"I've reviewed the materials you've sent," he said, his hands folded on the table. "And I have two observations. First, the evidence is substantial. A grand jury would likely indict. Second, the danger is real. You're not dealing with white-collar criminals who will fight you in court. You're dealing with people who kill."
+
+Maya nodded. "We know."
+
+"Then you also know that you need to formalize your approach. You can't operate as three individuals chasing a conspiracy. You need structure. Roles. A chain of command."
+
+Kara spoke first. "I'm the public face. I control the narrative. I decide what gets published and when."
+
+Raymond nodded. "And you, Maya?"
+
+"I'm the evidence. I build the financial case. I make sure everything is documented, verifiable, and admissible."
+
+"And Elias?"
+
+Elias leaned back in his chair. "I'm the guide. I know the forest, the people, the operations. I get them where they need to go."
+
+Raymond looked at each of them in turn. "You need a fourth. Someone with legal authority who can act when you find something that requires immediate intervention."
+
+"The FBI," Maya said.
+
+"Specifically, a contact I've worked with. Special Agent David Park. He runs the FBI's environmental crimes unit for the Pacific Northwest. He's clean. He's competent. And he owes me a favor from a case I presided over ten years ago."
+
+Kara looked at her father. "You trust him?"
+
+"I trust him to do his job. That's all you need."
+
+Raymond wrote a phone number on a napkin and slid it across the table. "Call him when you have something that needs action. Not before. The FBI moves slowly when they don't have a warrant, but they move fast when they have probable cause."
+
+Maya picked up the napkin. The number was all they needed.
+
+"One more thing," Raymond said. "You have two weeks before that Cathedral cut is complete. After that, the evidence is gone — burned, shipped, or buried. You need to move faster than you've ever moved in your lives."
+
+He stood and walked to the door. At the threshold, he turned back.
+
+"Kara, I'm proud of you. Be careful." He looked at Maya and Elias. "All of you."
+
+He left. The room seemed smaller without him.
+
+"So," Kara said. "The Alliance."
+
+"Let's hope it holds together longer than most," Elias said.
+
+Chapter 22: The Fire
+
+The call came at 4:17 AM. Maya was asleep in the Eugene motel when her phone buzzed on the nightstand. She grabbed it, saw Elias's name, and answered.
+
+"The Cathedral is burning."
+
+She was awake instantly. "What?"
+
+"Arson. Someone torched the southeastern corner. The wind is pushing it toward the main stand. I'm already on my way."
+
+"Elias, wait for us—"
+
+"No time. If the fire reaches the Cathedral, everything goes. The evidence, the trees, the lichen, everything."
+
+The line went dead.
+
+Maya woke Kara. They dressed in seconds and ran to the car. The sky to the east was already glowing orange, visible from forty miles away.
+
+The drive took an hour that felt like a day. When they reached the turnoff, the road was blocked by Forest Service vehicles. A ranger stopped them at the checkpoint.
+
+"Road's closed. Evacuation zone."
+
+"I'm with Elias Vance. He's already up there."
+
+The ranger's expression shifted. "The guy who went in alone?"
+
+"Yes."
+
+"He's crazy. Fire's moving fast. We've got crews coming from Eugene and Portland, but it's going to be hours before we have enough personnel."
+
+Maya got out of the car. "I'm going in."
+
+"Ma'am, I can't let you—"
+
+"Then don't let me. I'm going anyway."
+
+She ducked under the barrier and ran up the road, following the glow of the fire. Behind her, she heard Kara arguing with the ranger, and then footsteps as Kara followed.
+
+The heat hit them first. Then the sound — a roar that was not like any fire Maya had ever heard. It was a freight train of flame, consuming everything in its path.
+
+They found Elias at the edge of the Cathedral's southeastern boundary, fighting the fire with a pulaski, digging a fire line in the dry soil. His face was streaked with soot. His hands were blistered.
+
+"Help me," he said.
+
+Maya grabbed a tool from the cache he had brought. She had never fought a fire in her life, but she had two arms and a desperate need to save what was left.
+
+They dug. They cut brush. They cleared a line between the advancing flames and the ancient trees. The heat blistered their skin. The smoke choked their lungs. But they kept digging.
+
+The fire reached their line at 7:32 AM. It jumped in three places. Elias beat it out with a blanket. Maya smothered the embers with dirt. Kara directed water from a portable pump.
+
+By 9 AM, the wind shifted. The fire turned away from the Cathedral, consuming instead a section of second-growth that had already been logged once. The ancient stand was spared.
+
+Elias collapsed to his knees in the ash.
+
+Maya stood beside him, coughing, her hands raw, her eyes stinging, and looked at the smoke-darkened sky.
+
+"This was deliberate," she said. "They started this fire to destroy the evidence."
+
+"I know." Elias's voice was hollow. "I found the ignition point. Accelerant. A timer device."
+
+"Can you prove it?"
+
+He reached into his pocket and pulled out a piece of melted plastic. "The timer mechanism. I found it before the fire crews arrived."
+
+Maya took the evidence. It was still warm.
+
+"Now we have them," she said.
+
+But looking at the smoldering forest, she felt no triumph. Only grief.
+
+Chapter 23: Ash and Answers
+
+The fire burned for three more days. When it was finally contained, the Cathedral had survived with minor damage to its edges, but the surrounding forest had lost over four hundred acres. The air was thick with smoke that layered the valley in a gray haze. The sun rose red through the particulate, casting an apocalyptic glow across the scorched landscape.
+
+Maya walked through the burn zone each day with her camera, documenting the devastation and searching for anything the arsonists might have left behind. The Forest Service had officially declared the fire suspicious, but the arson investigation team had only three people assigned to it. They were understaffed and under-resourced, stretched across multiple incidents in a dry season that had already exhausted the agency's budget.
+
+She found the logging equipment on the second day of searching.
+
+It lay at the bottom of a ravine, a quarter mile from the fire's ignition point. A tracked skidder, half-burned, its tires melted into black pools of rubber, its chassis still radiating heat when she approached. But the serial number plate, bolted to the frame beneath the operator's seat, was still legible despite the smoke damage.
+
+Maya photographed it from every angle, then checked the number against the permit records Derek's files had catalogued. The skidder was registered to a leasing company in Oregon. She dialed the number, hoping the cell signal would hold in the burned valley.
+
+"Columbia Equipment Leasing. How can I help you?"
+
+"Hello, I'm following up on a piece of equipment we found at a fire site. A 2023 TimberPro skidder, serial number TP-84721."
+
+"Let me check our records." A pause, the sound of keyboard keys. "That unit is currently leased to Northwest Timber Holdings, Portland office."
+
+"Can you confirm the start date of the lease?"
+
+"Lease began January of this year. Monthly payments are current. No flags on the account."
+
+"Thank you."
+
+She hung up and stood in the ash, staring at the ruined machine. The skidder was NTH property. It had been operating in the burn zone. It should not have been anywhere near the Cathedral, which sat miles outside NTH's permitted cutting areas.
+
+She photographed the serial number plate from multiple angles, then the skidder's position in the ravine, the track marks showing the direction it had been traveling before the fire caught it, the oil and hydraulic fluid stains marking its path. She photographed the burn patterns on the surrounding trees — the way the flame had climbed the bark on one side but not the other, evidence a fire investigator could read to determine the fire's origin and path.
+
+"It's not enough for a conviction," she told Kara that night in the motel. "But it's enough for a warrant. A judge will sign it based on the connection between NTH equipment and the arson site."
+
+"Then we go to Agent Park in the morning."
+
+Maya looked at the evidence spread across the motel room floor. The financial records. The satellite imagery. The photographs of the hidden camp. The chemical delivery logs. The arson timer mechanism. The skidder serial number.
+
+She had started with a single encrypted flash drive from a dead man. Now she had enough physical and documentary evidence to bring down a corporation.
+
+"Tomorrow morning," she said. "We call Park and we hand him everything."
+
+Chapter 24: The Hearing
+
+Senator Diana Hartwell gaveled the hearing to order at 9 AM. The room was packed — reporters, lobbyists, staffers from a dozen Senate offices. The television cameras lined the back wall. This was the first public hearing on timber industry oversight in eight years, and the attention was electric.
+
+Maya watched from a monitor in a conference room across the street. She had flown to Washington the night before at the invitation of the committee. Her testimony via video link was scheduled for the afternoon session.
+
+Kara sat beside her, taking notes. "They're going to try to discredit you."
+
+"I know."
+
+"Braga's lawyers will be watching. They'll be looking for any weakness."
+
+"I know."
+
+The hearing opened with testimony from Forest Service officials, who defended their permitting process while acknowledging "areas for improvement." Then came a panel of timber industry representatives, who warned that increased regulation would cost jobs and harm rural communities.
+
+Victor Braga was the final witness of the morning session. He walked to the witness table with the confidence of a man who had never been questioned in his life.
+
+"Thank you, Madam Chair," he said, adjusting the microphone. "I appreciate the opportunity to address this committee directly."
+
+"Mr. Braga," Senator Hartwell said, "your company has been the subject of significant media attention regarding alleged illegal logging activities. How do you respond?"
+
+Braga smiled. "Senator, I've been in the timber industry for thirty years. In that time, I've learned that accusations are easy and facts are hard. The Oregon Tribune has published a series of articles that I believe are based on incomplete information and unnamed sources. I invite this committee — or any law enforcement agency — to examine our records. You'll find that Northwest Timber Holdings operates in full compliance with all applicable laws."
+
+"Your compliance officer, Kevin Ashford, is scheduled to testify this afternoon."
+
+"I'm aware. Kevin is a dedicated professional who has served this company for fifteen years."
+
+Maya watched the exchange with a growing sense of unease. Braga was too calm. Too prepared. She checked her phone — no messages from Elias.
+
+"Something's wrong," she said.
+
+"What?"
+
+"Braga knows Ashford is testifying. He's not worried. Why isn't he worried?"
+
+Kara's phone buzzed. She read the message and went pale.
+
+"Kevin Ashford was arrested this morning. Trying to board a flight to São Paulo."
+
+Maya stared at the screen. "He was going to run."
+
+"Someone tipped him off. He had a duffel bag with two hundred thousand in cash."
+
+"Someone in this building tipped him off."
+
+They looked at the hearing room, where Victor Braga was still testifying, his face a mask of innocence and concern.
+
+"Who warned him?" Kara asked.
+
+Maya's eyes moved to the staff section behind the committee dais. Chet Landry was not there. He had taken his leave of absence. But Senator Hartwell's chief counsel was there, a man named Peter Morrison, who had been with the committee for twelve years.
+
+She had never met him. She did not know if she could trust him.
+
+"Find out who told Ashford to run," Maya said. "That's our leak."
+
+Chapter 25: The Defamation
+
+The lawsuit was filed on a Friday afternoon, timed for maximum media impact. Victor Braga appeared at a press conference in Portland, standing beside his lawyers, reading a prepared statement.
+
+"Ms. Maya Chen has made repeated false allegations against Northwest Timber Holdings, alleging illegal activities for which she has presented no credible evidence. These allegations have damaged our company's reputation, threatened the livelihoods of our employees, and undermined public confidence in the timber industry."
+
+The lawsuit sought five million dollars in damages for defamation. It named Maya, Kara, and the Oregon Tribune as defendants.
+
+Maya learned about it from a reporter who called her for comment. She hung up the phone and sat in silence, the lawsuit's text glowing on her laptop screen. The legal language was dense, but the meaning was clear: Braga was trying to silence her.
+
+"Five million dollars," she said. "I don't have five million dollars."
+
+Kara read over her shoulder. "He's not going to win. This is a SLAPP suit. Designed to intimidate."
+
+"It's working."
+
+"We fight it. My father knows the best First Amendment lawyers in the country. We'll have this dismissed before it gets to discovery."
+
+"Discovery." Maya looked at her. "If this goes to discovery, we have to turn over all our evidence. Including your sources."
+
+Kara was silent. She knew the implications.
+
+"That's his real goal," Maya said. "He doesn't care about the money. He wants to force us to reveal our sources so his security team knows who's been talking."
+
+"He can't get my sources. Oregon has a shield law."
+
+"For journalists. I'm not a journalist. I'm a forensic accountant. I don't have protection."
+
+Kara sat down beside her. "Then we need to move faster than the lawsuit. We need to get the evidence to the FBI before discovery forces us to show our hand."
+
+"Park is reviewing the materials. He says he needs more time."
+
+"Time is the one thing we don't have."
+
+Maya looked at the window. The afternoon light was golden through the smoke haze that still hung over the city from the Cathedral fire. Somewhere out there, Victor Braga was giving another interview, spinning his narrative, making himself the victim.
+
+She had dedicated her life to facts. To numbers. To the truth that emerged when you examined the evidence carefully enough.
+
+But the truth did not matter if no one would hear it.
+
+"I need to talk to Senator Hartwell," she said. "Directly. Not through staff."
+
+"Are you sure?"
+
+"She's the only person with the power to hold hearings and issue subpoenas. If I can convince her of what's happening, she can force the evidence into the open."
+
+"She might also warn Braga. Her chief of staff is compromised."
+
+"Then I need to be careful about what I tell her." Maya picked up her phone. "Get me a meeting. I'll fly to D.C. tonight."
+
+Chapter 26: The New Witness
+
+The body was found by a hiker three miles from the hidden camp. The police report listed the cause of death as "logging accident — struck by falling tree." The victim was identified as Harold "Hal" Tessier, fifty-four years old, a logging contractor from Sweet Home, Oregon.
+
+Elias was at Maya's motel room when the news came on the local television broadcast. He did not speak for a long time. He sat on the edge of the bed, staring at the floor, his hands clasped between his knees, his shoulders slumped in a way Maya had never seen before.
+
+"Hal was the one who warned me about the night crews," he said finally, his voice barely above a whisper. "He was the one who drew the map. He was the reason we found the compound."
+
+"I know."
+
+"Two weeks ago, he called me from a pay phone. He said he was scared. He said Marcus Webb had been asking around about who was talking to outsiders, and his name had come up."
+
+Maya sat down beside him. The motel room felt too small, the walls too close.
+
+"The accident was yesterday morning. He was found at noon. The timing—"
+
+"The timing means it wasn't an accident." Elias's voice was flat, emptied of emotion. "Hal had been working these woods for thirty years. He could read a tree's lean at a glance. He knew which way every trunk would fall before he made the first cut."
+
+"Elias, I'm sorry. I know—"
+
+"Sorry doesn't bring him back." He stood abruptly and walked to the window, his back to her. "His wife, Margaret, called me this afternoon. She wanted to know what he was involved in. She found my number in his phone. I couldn't tell her the truth. What was I supposed to say? That her husband of twenty-eight years was murdered because he helped a forensic accountant from Portland?"
+
+Maya had no answer that would not sound hollow.
+
+"Margaret has two kids. A daughter at Oregon State. A son who just got his logging certification. He wanted to follow his father into the woods." Elias turned from the window. His eyes were red but dry. "I grew up with Hal. We learned to drive on the same logging roads. We went to the same high school. I stood at his wedding and watched him marry the woman he loved."
+
+"I know we can't replace him. But we can make sure his death is not forgotten. When we finally expose Braga, Hal's name will be in every story."
+
+"That's not going to comfort Margaret. She doesn't want her husband's name in the papers. She wants him alive. She wants him home for dinner tonight." He walked to the door and grabbed his jacket.
+
+"Where are you going?"
+
+"To find out who killed him. And to make sure they answer for it."
+
+He was gone before Maya could stop him, the door swinging shut behind him, the deadbolt clicking into place.
+
+Chapter 27: The Safe House
+
+Raymond Okonkwo's property sat on forty acres of oak savanna in the Willamette Valley, an hour south of Portland. The house was a craftsman bungalow built in 1920, surrounded by meadows and old oak trees. It was the kind of place where a person could disappear.
+
+Kara had insisted. After Hal's death, after the lawsuit, after the near-miss in the Santiam forest, she had decided that the motel rooms were no longer safe. Her father had offered the property.
+
+"Nobody knows about this place," Raymond said as he showed Maya to a second-floor bedroom with windows overlooking the meadow. "I bought it after I retired. It's not in my name. It's held by a trust."
+
+"Thank you."
+
+"You're my daughter's friend. That makes you family." He paused at the door. "There's a pistol in the nightstand. My son-in-law taught Kara how to use it. I assume you know how."
+
+"I do."
+
+"Good. Lock your door at night. If you hear something, don't investigate. Call out first."
+
+He left her alone.
+
+Maya set up her workstation on the oak desk by the window. The view was peaceful — grass moving in the wind, a red-tailed hawk circling overhead — but her mind was anything but peaceful. The pieces of the puzzle were all in front of her, but she could not see how they fit together.
+
+She opened the encrypted file labeled OP-7 again. The one she had not been able to fully crack. Dave Chen, the Oregon Tribune's IT expert, had made progress but had not been able to read the contents.
+
+She tried a new approach. Instead of attacking the encryption, she analyzed the file's metadata. The file had been created on Derek Prentice's work computer, but it had been modified on a different machine — a laptop registered to a user named "Administrator" on the NTH network.
+
+She ran the IP address. NTH's internal network. The machine was in the executive suite. The 37th floor. Victor Braga's floor.
+
+Derek had not created this file. He had stolen it. From Victor Braga's personal computer.
+
+She picked up her phone and called Dave Chen.
+
+"Dave. The OP-7 file. You said it was encrypted with a custom algorithm."
+
+"Right."
+
+"What if the key is biometric? Fingerprint or retinal scan?"
+
+Silence. "That would explain why I couldn't crack it. If the key is tied to a specific person's biometric data, you can't brute-force it."
+
+"Who in NTH would have biometric access to the CEO's computer?"
+
+"Victor Braga himself. Maybe his executive assistant."
+
+"Can you break a biometric key if you have a sample?"
+
+"Depends on the sample. If you can get me a high-resolution fingerprint or a clear retinal image, I might be able to simulate the authentication."
+
+Maya looked out the window. A plan was forming.
+
+"I'll get you the sample."
+
+"How?"
+
+She did not answer. She was already thinking about how to get close to Victor Braga one more time.
+
+Chapter 28: The FBI Knocks
+
+Special Agent David Park arrived at the safe house at 9 AM, driving an unmarked sedan. He was Korean American, in his early forties, with a face that had learned to show nothing it did not want to show. He carried a leather briefcase and a cup of black coffee.
+
+Raymond Okonkwo greeted him at the door. The two men shook hands with the familiarity of old colleagues.
+
+"David. Thanks for coming."
+
+"Your call said it was urgent." Park stepped inside and saw Maya, Kara, and Elias gathered around the dining table, covered in evidence. "I see you've been busy."
+
+Maya stood. "Agent Park. Thank you for meeting us."
+
+"I've been monitoring your work from a distance. The financial trail you've assembled is impressive." He set his briefcase on the table. "But I need to be clear: if you have evidence of federal crimes, I need to see it. And if you've been operating outside legal boundaries to obtain it, I need to know that too."
+
+"We haven't broken any laws," Kara said.
+
+"Stalking, trespassing, invasion of privacy — these are laws. If you crossed the line, I need to decide whether I can use your evidence."
+
+Maya slid a folder across the table. "Everything in here is legally obtained. Public records, satellite imagery, financial disclosures, and evidence found on public land."
+
+Park opened the folder. He read in silence for several minutes, turning pages slowly. When he reached the end, he closed it.
+
+"The Catalina compound. The chemical deliveries. The shell companies." He looked at them. "You have enough here for a Title III wiretap application. Possibly a RICO case."
+
+"That's what we thought," Maya said.
+
+"But I need more. The financial trail is strong, but it's circumstantial. I need someone inside the operation to testify."
+
+"Hal Tessier was going to testify," Elias said. "He was killed before he could."
+
+"I'm sorry." Park's voice was genuine. "But that doesn't change the fact that I need a cooperating witness."
+
+"What about Kevin Ashford?" Maya asked. "NTH's CFO. He was arrested trying to flee the country."
+
+"He's lawyered up. He'll probably make a deal eventually, but it could take months."
+
+"We don't have months."
+
+Park nodded. "I know. The timetable on the Cathedral cut—"
+
+"How do you know about the Cathedral cut?"
+
+He met her eyes. "I've been investigating NTH for eighteen months. I know about the Cathedral. I know about the night crews. I know about the cartel connections. I just don't have enough to get a warrant."
+
+Maya sat back in her chair. "You've been watching this whole time?"
+
+"Watching. Waiting. Hoping someone would bring me something I could use." He tapped the folder. "This is close. But it's not enough."
+
+"What do you need?"
+
+"Someone who can testify to the inner workings of the conspiracy. Not a victim. A participant. Someone who was in the room."
+
+The room was silent. They all knew there was only one person who fit that description.
+
+"Victor Braga's not going to testify against himself," Kara said.
+
+"No," Park agreed. "But someone close to him might."
+
+He looked at Maya. "You've been studying the financial records. Have you noticed any tension in the executive team? Anybody who might be looking for a way out?"
+
+Maya thought of the emails she had seen. The coldness between Braga and his legal team. The way Kevin Ashford had tried to flee without warning anyone else.
+
+"Marcus Webb," she said slowly.
+
+"Webb?"
+
+"Braga's head of security. He's the one who's been doing the dirty work. If this goes to trial, Webb gets charged with conspiracy, arson, maybe murder. He's looking at life without parole."
+
+"You think he'd flip?"
+
+"I think he's a former Marine who joined a private security company because he believed in law and order. Somewhere along the line, he started working for a criminal. He might not have realized how deep it went."
+
+"That's a lot of assumptions."
+
+"It's a theory. But if I'm right, Webb is the key."
+
+Park considered this. "I'll look into his background. See if there's any leverage."
+
+He stood. "Stay safe. Keep your evidence secure. And do not — I repeat, do not — confront Victor Braga without federal protection."
+
+He left.
+
+"He knows something," Kara said after the door closed.
+
+"What?"
+
+"He knows about the raid he's planning. He's not telling us. But I could see it in his face."
+
+Chapter 29: The Assassins
+
+The attack came at 2:17 AM in the darkness of the Willamette Valley.
+
+Maya woke to the sound of breaking glass from the ground floor. She rolled off the bed and hit the floor in one motion, her hand reaching for the pistol in the nightstand drawer. A second crash from downstairs. Then a third. The sounds were precise, deliberate — someone breaking in through the back door.
+
+She crawled to the doorway in the dark. The hall was black. She heard movement below — heavy footsteps crossing the hardwood floor, a muffled voice giving an order. Then a gunshot.
+
+Not a pistol. A rifle.
+
+She ran to Kara's room in a crouch. Kara was already awake, standing beside the window in the dark, looking down at the driveway.
+
+"They're here."
+
+"How many?"
+
+"At least two that I saw. Maybe three."
+
+Maya crept to the top of the stairs. Below, in the darkness, she could make out a figure lying on the floor by the shattered front door. Another figure stood over it — Elias, holding a hunting rifle, his silhouette outlined by the moonlight through the broken window.
+
+"Clear!" he shouted, his voice echoing in the quiet house. "One down. The other fled into the trees."
+
+Maya ran down the stairs. Elias stood over a man in black tactical gear, his face hidden by a mask. He was not moving.
+
+"The other one?"
+
+"Ran. I winged him, but he got away." Elias lowered the rifle. "They had night vision. They were professionals."
+
+Maya knelt beside the downed man and removed the mask. She did not recognize him. Late twenties. Military haircut. A tattoo on his neck — a stylized "O" with a line through it.
+
+"Cartel," she said.
+
+"How do you know?"
+
+"The tattoo. Omega. It's their symbol."
+
+Kara came down the stairs, phone in hand. "I called Agent Park. He's sending a team."
+
+"FBI?"
+
+"US Marshals. Closer. Park said to hold position."
+
+Raymond Okonkwo appeared at the top of the stairs, wearing a bathrobe, holding a shotgun. "Is everyone okay?"
+
+"We're fine, Dad."
+
+He looked at the body on his floor. "I didn't retire to have bodies in my house."
+
+"We need to move," Elias said. "If they sent two tonight, they'll send four tomorrow. This location is compromised."
+
+Maya looked around the quiet house. The evidence. The computers. The notes spread across the dining table. Everything they had worked for.
+
+"There's a place," she said. "A friend of mine in Portland. She has a basement apartment. No one knows about it."
+
+"Can you trust her?"
+
+"She's my mother."
+
+Chapter 30: The Arrest
+
+Chet Landry was arrested at his home in Chevy Chase, Maryland, at 6 AM. FBI agents surrounded the house, and Landry came out in his bathrobe, hands raised, his face slack with shock. He was charged with conspiracy to commit money laundering, accepting bribes, and obstruction of justice.
+
+Maya watched the arrest on CNN from her mother's basement apartment in Portland. Linda Chen had not asked many questions when her daughter showed up at dawn with three strangers and a car full of evidence binders. She had made tea, found extra blankets, and gone to work without a word of complaint.
+
+The news anchor narrated the footage of Landry being placed in the back of an FBI sedan: "Landry, who served as chief of staff to Senator Diana Hartwell, is accused of accepting payments from Northwest Timber Holdings in exchange for influencing the senator's position on timber industry oversight and public lands legislation."
+
+Kara's phone rang. She answered, listened, and hung up. "Senator Hartwell's office is releasing a statement within the hour. She's cooperating fully with the investigation. She's calling for a full audit of all campaign contributions from timber industry sources dating back five years."
+
+"It's a start," Maya said. "A defensive move, but the right one."
+
+"She's trying to save herself."
+
+"Maybe. Or maybe she's finally doing the right thing now that she has no other choice."
+
+Maya's phone buzzed. A text from an unknown number: "Check your email."
+
+She opened her laptop and checked her encrypted email account. A message from Special Agent Park. Subject line: "Webb." She opened the attachment.
+
+It was a copy of Marcus Webb's service record from the Marine Corps. She scrolled through it — medals, deployments, letters of commendation from two tours in Iraq. And a footnote at the bottom: "Webb received a general discharge under honorable conditions. Reason: 'Pattern of misconduct.' Further details: Classified."
+
+"Classified means something that didn't make it to court-martial but was serious enough to end a military career," Maya said.
+
+Kara studied the file over her shoulder. "There's a reference to an incident in Fallujah. An investigation that was closed without findings."
+
+"If Park is sending this, he's closer to flipping Webb than he's letting on. Or he's warning us that Webb is more dangerous than we thought."
+
+Chapter 31: The CFO's Deal
+
+Kevin Ashford's cooperation deal arrived four days after his arrest at the airport in Portland. His lawyer negotiated aggressive terms: full immunity on the money laundering charges in exchange for complete cooperation and testimony. Ashford would testify against Victor Braga and provide unfettered access to all NTH financial records, including the digital vault.
+
+Maya was in the observation room when Ashford gave his first proffer session at the federal courthouse in Portland. She sat behind the prosecutors behind a one-way mirror, watching as Ashford described the inner workings of the conspiracy in a thin, exhausted voice.
+
+"It started with the shell companies," Ashford said. "Victor came to me three years ago. He said NTH needed to diversify its revenue streams. He said he had partners who needed to move money through a legitimate American business."
+
+"Did he name the partners?"
+
+"He called them investors. But I knew what they were. Everyone in the executive suite knew. The amounts, the frequency, the countries the money was coming from — it was cartel money, and we were the washing machine."
+
+"And you helped him set up the system?"
+
+"I did the accounting. I created the shell companies — White Cedar, Basin Street, three others. I structured the transactions to stay under the ten-thousand-dollar reporting threshold. I signed the documents."
+
+"Did you witness any acts of violence?"
+
+Ashford's face went pale behind the glass. "I was not involved in violence."
+
+"Did you witness any?"
+
+"After the accountant died — Derek Prentice — Victor called a meeting in his office. He told the senior team that anyone who talked to investigators would end up the same way. He said it casually, like he was discussing quarterly projections."
+
+"And you believed him."
+
+"I still believe him. He's not a man who makes idle threats."
+
+Maya watched the confession with a cold satisfaction. Ashford was a coward who had enabled destruction and death for three years, and now he was saving himself by selling out his boss. But without his testimony, the financial trail was merely circumstantial. With him, it became a straight line from the cartel's money to Victor Braga's signature.
+
+After the session, Park pulled her aside in the corridor. "Ashford is going to lead us to everything. The vault, the offshore accounts, the chemical suppliers. But we need to move fast. Once Braga realizes his CFO is cooperating, he'll destroy whatever evidence he can."
+
+"Then get your warrants."
+
+"I already have them signed. The raid on NTH headquarters is tomorrow at 6 AM."
+
+Maya felt a weight lift that she had been carrying since the night Derek Prentice's files arrived. "I want to be there."
+
+"I thought you might," Park said, and for the first time, he almost smiled.
+
+Chapter 32: The Raid
+
+The FBI raid on Northwest Timber Holdings began before dawn, when the streets of Portland were still wet with condensation and the only lights on the 37th floor were the emergency exits. Thirty agents, four support vehicles, and a mobile command unit assembled at a staging area three blocks from the NTH tower. Maya watched from a surveillance van, wearing an earpiece that let her hear every word of the tactical channel.
+
+"Alpha team, go."
+
+The agents moved in with battering rams and search warrants folded in their chest pockets. They entered through the lobby, securing the security desk, the elevators, the stairwells. Within seven minutes, they had control of the building.
+
+Maya watched the feed from body cameras on a bank of monitors. Agents spread across the 37th floor, entering offices, photographing documents, seizing computers and external drives. Victor Braga's corner office was empty — his executive assistant arrived at eight, and he himself was not due in until later that morning.
+
+"Bravo team, we have the server room. It's secure."
+
+"Copy. Secure and hold for forensic examination. Do not power anything down."
+
+Maya's attention was on the accounting department, two floors below the executive suite. She had mapped the layout from Derek Prentice's descriptions, which she had read in his personal notes. She knew which cubicle had been his. She knew which filing cabinets held the records that would complete the paper trail.
+
+An agent emerged from the accounting office holding a cardboard box. "Evidence inventory, item group A-17. Financial records, ledgers, and digital storage media from cubicle 4B."
+
+"Tag it and log it."
+
+Maya allowed herself a small smile in the darkness of the van. Derek's files had been complete, but the physical records would corroborate everything.
+
+The raid lasted four hours. By the time the sun was fully up, the agents had seized forty-seven boxes of documents, twenty-three hard drives, and a floor safe from Victor Braga's office that was later found to contain two hundred thousand dollars in cash and a handwritten list of offshore account numbers.
+
+Victor Braga was arrested at his home in the West Hills at 7:45 AM. He did not resist. He was photographed in handcuffs, wearing a tailored suit, looking directly at the cameras with an expression of calculated innocence.
+
+The photograph went viral within an hour of the press release.
+
+"That's it," Kara said, watching the coverage from the van. "The beginning of the end."
+
+"It's the middle," Maya said. "The end is still months away. Trials, appeals, investigations. This is just the beginning of a very long process."
+
+But even as she said it, she felt something she had not felt since the night she received Derek Prentice's encrypted drive: hope.
+
+Chapter 33: The Vault
+
+The digital vault was a custom server housed in a reinforced room in the NTH building's sub-basement, accessible only through a biometric lock that Kevin Ashford's fingerprints opened. The FBI's forensic team spent three days cracking its outer encryption layers. When they finally gained full access, they found a complete digital archive of the conspiracy, meticulously organized and catalogued.
+
+Maya was granted access to the vault's contents as a consultant to the prosecution. She sat in a windowless room at the FBI field office in Portland, surrounded by monitors, and worked through the data with the same methodical patience she had used on Derek's encrypted drive.
+
+The vault contained everything Victor Braga had tried to hide. The full transaction records for all nineteen shell companies, spanning three years. The encrypted communications between Braga and the cartel's intermediaries, stored in dated folders. The photographs of the night crew operations, taken by Braga himself for documentation. The contracts with the chemical supply company. The invoices for the arson equipment used to start the Cathedral fire, paid from an account that did not officially exist.
+
+And a folder labeled "Omega."
+
+Inside were the cartel's operational plans. Drug shipment schedules. Money transfer protocols. A list of assassination orders, including one with Derek Prentice's name, dated the week before his death. The names of cartel operatives in the United States. The addresses of safe houses in Portland, Seattle, and Vancouver, British Columbia.
+
+"This is the whole operation," Maya said, scrolling through the files. "Everything."
+
+Agent Park stood behind her, reading over her shoulder. "It's the largest cartel-linked prosecution I've ever seen in this district. We're going to need the DEA, the ATF, and the Department of Justice all working together."
+
+"How many people will be charged?"
+
+"With this evidence? Dozens at minimum. Possibly hundreds once we trace every connection."
+
+Maya opened a subfolder labeled "Personnel." Inside were dossiers on every employee involved in the conspiracy, from the senior executives to the night crew workers at the hidden camp. Each file included background checks, salary information, and a note about the level of each person's knowledge.
+
+She found Derek Prentice's file. It was marked in red: "Terminated — Security Risk." The termination date was the day after his death.
+
+"Look at this," she said, pointing at the screen.
+
+Park read the file and shook his head. "They fired him posthumously. A paper trail. Trying to cover their tracks."
+
+"It didn't work."
+
+"No. It didn't."
+
+Maya closed the file. She had seen enough to know that the case against Braga was solid. But she had also seen enough to understand the cost of building it. The people whose lives had been destroyed. The forest that would take centuries to recover. The trust that had been broken.
+
+"Can I keep working?"
+
+"Take all the time you need."
+
+She turned back to the monitors. There was more to find, and she would not stop until she had found it all.
+
+Chapter 34: The Flight
+
+Victor Braga's private jet sat on the tarmac at Portland International Airport, impounded by federal agents. It was a Gulfstream G650, silver and blue, worth forty million dollars. It had been scheduled to depart for Geneva at 8 AM on the morning of the raid — just three hours after the first agents entered the NTH tower.
+
+"Braga was planning to run," Park said, surveying the aircraft. "His wife and daughter were already in Switzerland, staying at a hotel in Zurich. He had a passport in a different name and a pre-booked connecting flight to Dubai."
+
+They walked up the stairs into the cabin. It was absurdly luxurious — cream leather seats, a polished mahogany conference table, a bedroom in the rear. Maya tried not to be impressed and reminded herself what this aircraft had been paid for.
+
+"Where did you find the passport?"
+
+"His lawyer handed it over this morning. Along with a letter from a Swiss bank confirming he had transferred twenty-three million dollars into a numbered account."
+
+"That was the OP-7 account Derek flagged in his files."
+
+"Exactly. If Derek Prentice hadn't flagged that account number, we might never have caught the transfer. The Swiss bank would have honored the confidentiality agreement."
+
+Maya looked out the jet's window at the rain-slicked tarmac. The morning was gray and cold. In the distance, a cargo plane was loading timber from the NTH mill — probably the last legal load the company would ever process.
+
+"What happens to NTH now?"
+
+"The company will be seized under the RICO statute. The assets will be liquidated by a court-appointed receiver. All seven hundred employees will lose their jobs."
+
+"Braga talked about those jobs constantly. Every speech, every interview. He said he was protecting them from outsiders who wanted to shut down the timber industry."
+
+"He was protecting his money-laundering operation. The jobs were collateral damage he was willing to sacrifice the moment things went wrong."
+
+Maya turned from the window. "What about the forest? The Cathedral?"
+
+"That's more complicated. The land is part of the national forest system, so it's federally protected. The trees that survive will be preserved. But the damage has been done. Full restoration will take generations, not years."
+
+She thought of the Lichen King, of his eight hundred catalogued species, of the ancient trees that had been cut and sold for lumber. The numbers in her spreadsheets had never captured that loss. No number ever could.
+
+"Let's go," she said.
+
+They walked down the stairs into the cold morning. Behind them, the jet sat silent on the wet tarmac, its engines cold, its flight to Geneva canceled permanently.
+
+Chapter 35: The Cartel Cuts Losses
+
+The first cartel operative was found dead in a hotel room in Medellín, shot twice in the head. The second was pulled from the Guayas River in Ecuador, his body tangled in fishing nets. The third simply disappeared from his home in Cali and was never seen again.
+
+"They're cleaning house," Park said, reading the reports from his laptop. "Every connection between the cartel and the NTH operation is being severed. Anyone who can testify is being eliminated."
+
+"How many confirmed dead?"
+
+"Three confirmed in the last week. Two more are missing, presumed dead. The cartel is moving fast to contain the damage."
+
+Maya studied the list of names. Most were mid-level operatives — logistics coordinators, money handlers, couriers. The kind of people who knew enough to be dangerous but not enough to be protected by the cartel's leadership.
+
+"The cartel leadership will survive. They always survive."
+
+"True. But without the NTH infrastructure, their Pacific Northwest operation is effectively crippled. They lost their money-laundering channel, their supply routes, their chemical suppliers, their border crossing point. It will take them years to rebuild what they had."
+
+"And the illegal logging itself?"
+
+"That stops immediately. The Forest Service is already planning a comprehensive review of every permit issued in the last five years. NTH's operations are suspended pending the outcome of the criminal case."
+
+Maya thought of the satellite imagery she had studied in those first days after receiving Derek's files. The cuts like surgical scars on the green landscape. The corridor to the border. The hidden compound with its drug lab.
+
+"Will the trees come back?"
+
+"Some of them. The areas that were clear-cut will be replanted with seedlings. The Forest Service has a restoration plan ready to go. But old growth can't be replanted. It takes centuries to develop that ecosystem."
+
+"Centuries we don't have."
+
+"No. But we have what we saved. The Cathedral watershed is still standing. That's more than we could have hoped for."
+
+It was a small comfort, given the scale of the destruction. But Maya took it.
+
+Chapter 36: The Count
+
+The grand jury returned the indictment on a Tuesday morning in the federal courthouse. Forty-seven counts. The charges included RICO conspiracy, money laundering, wire fraud, environmental crimes, arson, and conspiracy to commit murder.
+
+Victor Braga was named in all forty-seven counts. Kevin Ashford was named in thirty-two. Marcus Webb was named in twenty-four. Four other NTH executives were named in various counts ranging from obstruction to conspiracy.
+
+The local press covered the indictment extensively. Kara wrote the lead story for the Oregon Tribune, headlined "The Canopy Protocol: Inside NTH's Criminal Enterprise." The article ran at ten thousand words and included evidence from the vault documents, the financial records Maya had traced, and the satellite imagery showing the hidden camp.
+
+Maya read the article in her mother's living room, surrounded by the evidence boxes she had spent weeks assembling. Every paragraph was built on the files she had decrypted, the trails she had traced, the numbers she had followed. It was surreal to see her meticulous work translated into narrative prose for the public.
+
+"What happens now?" Linda Chen asked, bringing her a cup of tea.
+
+"Now comes the trial. Braga will plead not guilty. His lawyers will try to suppress the evidence. They'll attack the credibility of every witness."
+
+"Will they win?"
+
+"No." Maya accepted the warm cup. "The evidence is too strong. The case is too clean. Braga will go to prison."
+
+"You sound certain."
+
+"I am certain. For the first time in weeks, I'm certain about something."
+
+Linda sat down across from her. "And what happens to you after the trial?"
+
+Maya had not thought about it. The investigation had consumed her life so completely that she had not considered what came after.
+
+"I'll go back to work. Small cases. Forensic accounting for divorces, small businesses, insurance claims." She paused. "I don't think I can handle another case like this."
+
+"Your father once said that the cases you remember are the ones that change you."
+
+"He was right."
+
+Linda reached across and took her daughter's hand. "I'm proud of you, Maya. Even if I don't fully understand what you've done."
+
+"Thank you, Mom."
+
+They sat in comfortable silence, drinking tea, as the afternoon light faded outside the window.
+
+Chapter 37: The Bill
+
+Senator Diana Hartwell introduced the Ancient Forest Protection Act at a press conference in the Capitol building. She stood at a podium flanked by environmental leaders, fellow senators, and a delegation of tribal representatives from the Pacific Northwest.
+
+"The evidence uncovered in the NTH investigation has exposed a fundamental failure in our system," Hartwell said. "For too long, we have allowed corporations to exploit loopholes, bribe officials, and destroy irreplaceable natural resources in the pursuit of profit. This bill will close those loopholes."
+
+The legislation was ambitious. It increased penalties for illegal logging tenfold. It established a new federal oversight mechanism for timber permits. It created a dedicated fund for old-growth restoration. It mandated regular audits of all logging operations on public land.
+
+And it included a provision that Victor Braga's companies would be permanently barred from bidding on federal contracts.
+
+"Is this bill an overreaction to a single case?" a reporter asked.
+
+"Six people are dead," Hartwell said. "Thousands of acres of ancient forest have been destroyed. A criminal enterprise used our public lands to launder drug money. This is not an overreaction. This is a long-overdue correction."
+
+Maya watched the press conference from her mother's living room. She had not spoken to Hartwell directly since the investigation began. She had not needed to. The evidence had spoken for itself.
+
+The bill was introduced with bipartisan sponsorship — eight senators from both parties — and referred to committee. The odds of passage were uncertain. But it was a start.
+
+"You made that happen," Kara said on the phone that evening. "Without you, there would be no bill."
+
+"There would have been someone else. Eventually."
+
+"No. There would have been no one. You were the one who looked."
+
+Maya did not argue. But she knew the truth. Derek Prentice was the one who looked. She was just the one who followed where he led.
+
+Chapter 38: The Trial Begins
+
+The trial of Victor Braga opened in the Mark O. Hatfield United States Courthouse in Portland on a gray September morning. The courtroom was packed to capacity. National media had descended on the city, and the gallery was full of reporters, legal observers, and the families of the victims whose lives had been destroyed by the conspiracy.
+
+Maya sat in the front row, directly behind the prosecution table. She had been listed as a potential witness, so she would not be allowed in the courtroom during testimony. But the first day was purely procedural — arraignment, preliminary motions, jury selection.
+
+She watched Victor Braga enter the courtroom in an expensive tailored suit, his hands cuffed in front of him, his posture straight. He looked as confident as ever. He nodded at the gallery as if he were arriving at a business conference rather than a federal criminal trial.
+
+The charges were read aloud by the clerk. Forty-seven counts. The words echoed through the silent courtroom: conspiracy, money laundering, wire fraud, environmental crimes, arson, conspiracy to commit murder. Braga entered a plea of not guilty on each and every count, his voice steady and calm.
+
+His lead attorney, a sharp-featured woman named Miriam Cross, rose to address the court. "Your Honor, my client maintains his complete innocence. He is the victim of a coordinated campaign by environmental activists, a disgruntled former employee with a personal grudge, and a media organization with a clear political agenda."
+
+The prosecution, led by Assistant U.S. Attorney Sarah Chen, responded without theatrics: "Your Honor, the evidence in this case includes comprehensive financial records, sworn testimony from multiple cooperating witnesses, and a detailed confession from the defendant's own chief financial officer. We look forward to presenting this evidence to the jury."
+
+Judge Harold Tanaka, a federal appointee with a reputation for running a tight courtroom, set the trial schedule at six weeks. The prosecution would present its case first.
+
+Maya watched Braga's face as the schedule was read. He was still smiling. But there was something in his eyes now — a flicker of something that might have been the first real fear she had ever seen in him.
+
+She felt no satisfaction. Only the weight of what was to come in the weeks ahead.
+
+Chapter 39: Elias's Testimony
+
+Elias Vance took the witness stand on the second week of the trial. He wore a jacket and tie — the first time Maya had seen him in anything other than flannel — and he looked profoundly uncomfortable in the formal setting of the federal courtroom.
+
+"Mr. Vance," the prosecutor began, "please describe your relationship with Northwest Timber Holdings."
+
+"I worked for them for twenty-three years. Started when I was eighteen, right out of high school. My father worked for them before me."
+
+"And what did you do for NTH?"
+
+"I was a faller. Then a crew supervisor. I spent most of my career working the Cascade Range, cutting timber in the national forests."
+
+"Did you ever witness activity that you believed was illegal?"
+
+"Yes."
+
+"Can you describe it?"
+
+Elias looked at the jury directly. His voice was steady. "I started noticing that we were cutting in areas that weren't on the permits. The boundaries were clearly marked with flagging tape, but we were routinely going past them. When I asked my supervisor about it, I was told to mind my own business."
+
+"How did you respond?"
+
+"I kept my head down for a while. I have a family. I needed the job. But it got worse over time. They started cutting at night. Running two full shifts. Using unregistered equipment."
+
+"And what did you do eventually?"
+
+"I quit. Walked off the job in the middle of a shift. I couldn't live with myself anymore. I started working with conservation groups to document what was happening."
+
+The prosecutor walked him through the details methodically — the night operations, the hidden camp, the chemical deliveries. Elias answered each question with the same quiet clarity. He did not embellish. He did not perform.
+
+"When you saw the Cathedral, the old-growth stand, being cut," the prosecutor said, "how did you feel?"
+
+Elias paused, and the courtroom was completely silent. "I felt like someone was cutting down my own house. Those trees have been there longer than this country has existed. And they were being turned into two-by-fours."
+
+"Did you try to stop it?"
+
+"I tried. The courts moved slow. The company moved fast."
+
+"And now?"
+
+"Now I'm here. Telling the truth. Hoping it makes a difference."
+
+Maya watched from the gallery. She was proud of him. But she also saw the weight in his eyes — the weight of a man who had lost friends, his career, and his faith in the system.
+
+The cross-examination would come next. She braced herself.
+
+Chapter 40: The Cross Examination
+
+Miriam Cross rose from the defense table and approached Elias with the measured confidence of a predator. She was small and elegant, with silver hair and reading glasses that she removed and replaced for dramatic effect.
+
+"Mr. Vance," she began, "you left NTH on less than amicable terms, did you not?"
+
+"I left because they were breaking the law."
+
+"That's not what I asked. Were there personal conflicts? Disagreements with your supervisors?"
+
+"I had disagreements about cutting practices, yes."
+
+"And those disagreements led to your termination."
+
+"Actually, I quit."
+
+"The record shows that you were suspended for insubordination one week before your resignation."
+
+Elias's jaw tightened. "I was suspended for refusing to falsify a safety report."
+
+"And you believe that refusal was justified?"
+
+"I believe falsifying safety reports is wrong."
+
+Cross smiled thinly. "Let's talk about your current employment. You work as a guide for conservation groups, is that correct?"
+
+"I give tours of old-growth forests. I teach people about the ecosystem."
+
+"And you're paid for these services."
+
+"I'm a contractor."
+
+"So your income depends on the continued existence of old-growth forests. If the forests are protected, you have work. If they're logged, you don't."
+
+"Objection," the prosecutor said. "Leading."
+
+"Sustained."
+
+But the damage was done. Cross had planted the seed: Elias was biased, financially motivated, an environmental activist with a grudge.
+
+"Let me ask you directly, Mr. Vance. Did you ever personally witness Victor Braga ordering illegal activity?"
+
+"No. But I saw his signature on documents—"
+
+"Just answer the question. Did you ever see Victor Braga give an order to cut trees outside a permitted area?"
+
+"No. I never saw him in the woods."
+
+"Thank you. Did you ever see Victor Braga handle money that you believed was drug proceeds?"
+
+"No."
+
+"Did you ever hear Victor Braga discuss violence against anyone?"
+
+"No. But his security chief Marcus Webb—"
+
+"Thank you, Mr. Vance. No further questions."
+
+Elias sat in the witness box, looking deflated. The cross-examination had not broken his testimony, but it had framed it in a way that diminished its impact. The jury now saw him as a former employee with a grudge, not as an impartial witness to the destruction.
+
+Maya caught his eye as he stepped down from the stand. He looked away before she could signal any reassurance.
+
+Chapter 41: The Recording
+
+The recording surfaced on a Friday afternoon, sent anonymously to the Oregon Tribune and the U.S. Attorney's office. It was a digital audio file, thirty-seven minutes long, recorded on a smartphone.
+
+The voice was unmistakably Victor Braga's.
+
+The recording captured a meeting in Braga's office, approximately two months before Derek Prentice's death. The participants included Braga, Marcus Webb, and an unidentified man who the prosecution later identified as a cartel intermediary.
+
+In the recording, Braga discussed the arson plan: "If the Forest Service schedules an inspection, we need a diversion. Fire in the southeastern section. Something that ties up their resources for weeks."
+
+The intermediary said: "The fire can't be traced."
+
+"Of course it can't be traced. Marcus has it handled."
+
+Webb's voice: "We have a man who owes us. He'll do it."
+
+"Make sure he understands the consequences if he talks."
+
+The recording also included discussion of the hidden camp's layout, the chemical delivery schedule, the payment structure for the cartel's money laundering operation, and a specific reference to the Cathedral fire as "insurance against federal interference."
+
+Kara received the recording at 2:47 PM that Friday afternoon. She was at her desk at the Oregon Tribune, working on a follow-up piece about the Forest Service permitting scandal. She listened to the first thirty seconds and immediately called Maya, her hands shaking as she dialed.
+
+"It's over," she said. "Braga is finished."
+
+"What is it?"
+
+"A recording. The whole thing. Braga discussing the arson plan, the hidden camp, the payment structure. His voice is unmistakable."
+
+"Who sent it?"
+
+"Anonymous. No return address. Encrypted through a secure drop. The tech desk is trying to trace the origin, but I don't expect much."
+
+Maya listened to the recording on Kara's phone. She recognized Victor Braga's voice immediately — the same folksy cadence she had heard at the town hall, now discussing the burning of a forest. The casual way he said the words, as if he were ordering office supplies.
+
+"Where did this come from?"
+
+"Someone in Braga's inner circle. Someone who was in that meeting and had access to a recording device."
+
+"Webb?"
+
+"If Webb recorded it and sent it, he's protecting himself. He knows the walls are closing in and he's making sure he has leverage."
+
+Maya listened again. The recording was clear, the voices distinct, the timestamp verifiable. It was the smoking gun they had been waiting for — direct evidence of criminal intent from Victor Braga's own mouth.
+
+"Email it to the prosecutor," she said. "Right now. And call Park. This changes everything."
+
+Chapter 42: The Verdict
+
+The jury deliberated for four days. On the fifth day, word came from the courtroom that they had reached a verdict. Maya arrived at the courthouse at 8 AM, the morning of the reading. The press was already gathered in force, cameras pointed at the entrance, reporters jostling for position with their phones and notepads. She pushed through the crowd without answering a single question, keeping her head down and her eyes forward.
+
+Inside, the courtroom was electric with tension. Every seat was filled. Victor Braga sat at the defense table, his face carefully neutral, but his hands were clasped tightly in front of him. His legal team huddled around him, whispering in urgent tones. The gallery was packed with familiar faces — reporters, legal observers, the families of victims, and members of the public who had followed every twist of the six-week trial.
+
+The jury filed in one by one, taking their seats without looking at the defendant. The foreman, a middle-aged man in a checked shirt, held a single sheet of paper.
+
+"Has the jury reached a verdict?"
+
+"We have, Your Honor."
+
+The foreman handed the verdict form to the bailiff, who crossed the room and passed it to Judge Tanaka. The judge read it silently, his face revealing nothing, then returned it. "The clerk will read the verdict."
+
+The clerk's voice rang out across the silent courtroom: "On count one, conspiracy to violate the Racketeer Influenced and Corrupt Organizations Act: guilty."
+
+Braga's jaw tightened. His hands, resting on the table, curled slowly into fists.
+
+"On count two, money laundering in the first degree: guilty."
+
+The courtroom was absolutely still. A reporter in the gallery was writing furiously, her pen scratching against paper in the silence.
+
+"On count three, wire fraud: guilty."
+
+Count by count, the verdict was read. Forty-seven times. Guilty on every single charge. The words fell like hammer blows across the wood-paneled room.
+
+When the reading was finished, Judge Tanaka asked: "Is there any reason why the defendant should not be remanded to custody pending sentencing?"
+
+Braga's lawyer rose, her face pale. "Your Honor, my client maintains his complete innocence and intends to appeal this verdict vigorously."
+
+"Noted. The defendant is remanded to the custody of the U.S. Marshals. Sentencing is set for sixty days from today."
+
+The marshals moved forward and handcuffed Braga. He stood slowly, still wearing his expensive suit, and was led from the courtroom. As he passed the prosecution table, he stopped. He looked directly at Maya.
+
+"Ms. Chen," he said.
+
+The marshals pulled him forward before he could say anything more. The door closed behind him.
+
+Maya sat perfectly still, her hands folded in her lap, until the courtroom had emptied completely. Then she let out a breath she felt she had been holding since the previous December, when a padded envelope had appeared under her office door on a cold Portland morning.
+
+Outside the courthouse, rain was falling in steady sheets. She walked into it without an umbrella and let the cold water run down her face.
+
+Chapter 43: The Speech
+
+Senator Diana Hartwell stood at the podium of the National Press Club in Washington, D.C., her prepared remarks resting on the mahogany surface in front of her. The room was full of journalists, policy advisors, environmental leaders, and political operatives from both parties. The television cameras lined the back wall, their red lights glowing.
+
+She had not planned to say what she was about to say.
+
+Her speech was supposed to be about the Ancient Forest Protection Act. About the need for regulatory reform. About the bright future of bipartisan environmental legislation. Her staff had reviewed the text three times. It was safe. It was strategic. It was political.
+
+But as she looked at the crowded room, she heard her own voice say something entirely different.
+
+"I need to tell you something that I have not told anyone. Not my staff. Not my family. Not my lawyers."
+
+The room went quiet. Reporters stopped typing.
+
+"Chester Landry, my former chief of staff, accepted payments from Northwest Timber Holdings. He accepted them without my knowledge. But I should have known. There were signs that I chose to ignore — a key meeting that was quietly rescheduled, a damaging report that was buried without my review, questions I should have asked but deliberately chose not to."
+
+She paused, gripping the edges of the podium.
+
+"I chose not to ask because I was afraid of the answers. I was afraid of what they would mean for my career, for my ambitions, for the political future I have spent twenty years building."
+
+She straightened.
+
+"That was wrong. It was a failure of leadership. Public trust is not something you can compromise and then reclaim through clever messaging. It is the foundation of everything we do in this building, and I broke it."
+
+"I am not resigning my seat. I will not run from this failure. I will use the remaining years of my term to earn back the trust I have damaged. I will fight for the Ancient Forest Protection Act and for every piece of legislation that protects our public lands from the kind of exploitation we have witnessed."
+
+She looked directly into the nearest camera.
+
+"And I will answer every question. From every journalist. From every citizen. For as long as it takes to rebuild what I have broken."
+
+She stepped back from the podium. The room erupted in a chaos of shouted questions, camera flashes, and the electric hum of history being made in real time.
+
+Kara, covering the speech for the Oregon Tribune, filed her story within the hour. The headline ran across the top of the website: "Hartwell Confesses: 'I Chose Ambition Over Duty.'"
+
+The phones in the senator's office rang for three days straight. Some callers demanded her immediate resignation. Others thanked her for her honesty. The White House issued a carefully worded statement praising her candor. Her approval ratings dropped twelve points, stabilized, and then slowly began to climb back as voters responded to her willingness to accept responsibility.
+
+She had gambled everything on the truth. So far, she was still standing.
+
+Chapter 44: The Reckoning
+
+Maya drove to Crescent Falls on a Saturday morning in late spring. The town was different now. The NTH mill was closed, its gates padlocked, a chain-link fence surrounding the silent buildings. The parking lot at the Timberline Motel was half empty. A "For Sale" sign hung on the hardware store, and the diner had reduced its hours to weekends only.
+
+She visited Derek Prentice's grave first. It was in the town cemetery, on a hill overlooking the valley where the forest stretched toward the horizon. The headstone was simple gray granite: Derek Prentice, beloved father, 1978-2025.
+
+She knelt in the grass and placed her hand on the stone. "Your files did what you wanted them to do," she said quietly. "Braga is going to prison. The Cathedral is still standing. They passed a law in your name — the Prentice Amendment, they're calling it."
+
+Her voice caught, but she continued.
+
+"I wish you could have seen the trial. The jury believed everything you found. They saw the truth you uncovered."
+
+She stood. She had more to say, but the words would not come. She stood in silence for a long time, the wind moving through the grass, and then she walked back to her car.
+
+She drove to the Cathedral.
+
+The walk was quiet. The burn scar from the fire was still visible on the surrounding hillsides, but new growth was already pushing through the ash. Fireweed. Salmonberry. The first pioneers of regeneration, reaching for the light.
+
+She reached the edge of the ancient stand. The trees rose above her, their bark furrowed and thick. One of them, a Douglas fir she had photographed weeks earlier, had a blackened base where the fire had stopped just short of its roots.
+
+She touched the bark. It was warm in the afternoon sun.
+
+"You survived," she said.
+
+The forest did not answer. But it did not have to.
+
+Chapter 45: The Restoration
+
+Elias spent his days in the Cathedral now, leading restoration crews funded by the new federal grant program. The work was slow and painstaking — pulling invasive species that had taken root in the disturbed soil, stabilizing eroded slopes, building boardwalk trails that would keep visitors from damaging the sensitive understory.
+
+The Forest Service had given him a formal contract. His first legitimate job in the timber industry that did not involve cutting a single tree.
+
+"It's strange," he said, kneeling beside a newly planted seedling. "I spent thirty years taking things out of this forest. Now I get to put them back, one at a time."
+
+Maya knelt beside him. The seedling was a western red cedar, barely six inches tall. It would take decades to reach the canopy. Centuries to match the ancients standing nearby. She touched its delicate needles.
+
+"How many have you planted?"
+
+"About two thousand so far. The Forest Service has a target of fifty thousand over the next five years."
+
+"Fifty thousand trees."
+
+"It's a start." He patted the soil around the seedling's base. "But it's not replacement. You can't ever replace what was here. You can only make space for what comes next."
+
+They walked through the Cathedral. The fire damage was still visible everywhere — blackened bark, fallen branches, the scent of ash lingering in the duff. But the old trees had survived. Their crowns were still green against the sky. Their roots still held the earth in place.
+
+"The Lichen King came by yesterday," Elias said. "He found a Lobaria oregana colony in the burn zone that survived the fire. He said it was a good sign — the ecosystem is resilient if you give it a chance."
+
+"Elias, I'm sorry about Hal. I'm sorry about everyone who died."
+
+"Me too." He stopped and looked up at the canopy, where light filtered through a thousand years of growth. "But I'm not sorry about what we did. We stopped them. We saved what was left."
+
+"Is that enough?"
+
+"It has to be."
+
+Chapter 46: The Exodus
+
+Crescent Falls was dying. The closing of the NTH mill had triggered an economic collapse that the town would not survive in anything like its current form. Families were leaving in waves. Houses were being sold at a fraction of their value, then sitting on the market for months. The main street that had once been bustling with loggers and truckers was now so quiet you could hear the wind.
+
+Maya attended the final town hall meeting before the mill's assets were auctioned to the highest bidder. The community center was half empty. Those who remained were mostly older residents, the ones who could not leave even if they wanted to.
+
+"We've had several offers," the town council president said, reading from a clipboard. "A developer wants to buy the mill property and convert it into vacation homes. A data storage company is looking at the industrial zone."
+
+"Neither of those will bring real jobs," someone called out from the back.
+
+"No. But they'll bring tax revenue. And right now, we need every dollar we can get to keep the schools open."
+
+Elias stood up. "What about the timber cooperative? The sustainable logging operation we proposed with the Forest Service?"
+
+"The state is still reviewing the application. It could take years to get approval."
+
+The room fell silent. Maya watched the faces around her. These were people who had depended on NTH their entire lives. They had believed in Victor Braga's vision. They had trusted him with their livelihoods. And he had left them with nothing.
+
+After the meeting ended, an older woman approached Maya. She recognized her — the motel clerk from her first night in Crescent Falls, still wearing a bright orange sweater.
+
+"I remember you," the woman said. "You were the one asking all the questions."
+
+"Yes."
+
+"Everyone thought you were trouble. I thought you were trouble."
+
+"I understand."
+
+The woman looked at the empty street through the window. "Braga promised us the mill would run forever. He said the forest would never run out. We believed him because we wanted to believe him."
+
+She turned back to Maya.
+
+"You did the right thing. Even if it hurts."
+
+She walked away before Maya could respond.
+
+Chapter 47: Kara's Book
+
+Kara Okonkwo finished her manuscript in six months, writing in the early mornings before the news cycle began and late at night after her editors had gone home. The working title was "The Canopy Protocol: How a Timber Empire Laundered Cartel Money and Destroyed an Ancient Forest."
+
+When the publisher offered a seven-figure advance, Kara called Maya immediately. "Half of it is yours."
+
+"I don't want it. Not a single dollar."
+
+"It's not optional. You did the work. You tracked the money through every shell company. You get half."
+
+"Then put it in a trust for the Cathedral restoration fund. For the replanting, the trail maintenance, the research."
+
+Kara was quiet for a long moment on the line. "Are you sure?"
+
+"I've never been more sure of anything in my life."
+
+The book was published in the spring to strong reviews. It debuted at number three on the New York Times bestseller list. Within a month, it was number one, driven by word of mouth and the ongoing media interest in the Braga trial.
+
+Kara did the full media tour — morning shows, late night, long-form podcasts. She told the story of the investigation with clarity and power: the encrypted files, the hidden camp, the arson, the trial, the conviction. She made sure Derek Prentice's name was mentioned in every single interview.
+
+She won the Pulitzer Prize for Investigative Reporting in April of the following year. At the awards ceremony, she dedicated the prize to "Derek Prentice, who had the courage to look, and Maya Chen, who had the courage to see."
+
+Maya watched the ceremony from her living room in Portland, a box of tissues beside her on the couch. She cried openly when Kara spoke Derek Prentice's name on national television.
+
+She had never met Derek. She had never heard his voice or shaken his hand. But she felt she knew him intimately, through the encrypted files he had left behind, the risks he had taken, and the truth he had sacrificed everything to deliver into her hands.
+
+Chapter 48: The Survivors
+
+They met for dinner at a small restaurant in Portland, the three of them — Maya, Elias, and Kara. It was the first time they had been together since the trial ended, and the first time any of them had felt safe enough to sit at a window table facing the street.
+
+The restaurant was quiet, a family-owned Italian place with wooden tables, candles in wine bottles, and the smell of garlic and tomatoes. They ordered a bottle of wine and talked about small things for a while, as if they were old friends catching up after a long separation.
+
+"I talked to Agent Park today," Maya said, setting down her glass. "Braga's final appeal was denied. He's being transferred to a federal prison in Colorado. Maximum security. He'll be eligible for parole in twenty-five years."
+
+"That's the last of it, then," Elias said. "The legal part."
+
+"The legal part. The other parts — the recovery, the rebuilding — those go on for a lot longer."
+
+Kara set down her glass. "I'm going to Colombia to follow the cartel connections. The Omega cell members who survived the purge. I want to trace where the money went after it left the shell companies."
+
+"That sounds dangerous."
+
+"So did this case. I'll be careful, and I'll have a DEA contact on the ground."
+
+They ate in comfortable silence for a while. Then Elias raised his glass.
+
+"I never properly thanked you. Either of you. For what you did."
+
+"You don't need to thank us," Maya said.
+
+"Maybe not. But I want to. I spent ten years feeling powerless — watching the forest get cut piece by piece and not being able to stop it. You gave me a way to fight back that actually worked."
+
+"We gave each other a way to fight back," Kara said.
+
+Elias raised his glass higher. "To Derek Prentice. The man who started it all."
+
+"To Derek," they said together.
+
+They drank. Outside the restaurant window, the city lights glowed against the dark sky. The rain began to fall, soft and steady, the way it always fell in Oregon. Maya watched the drops streak down the glass and thought about how far they had come from that first encrypted flash drive.
+
+Chapter 49: The Watershed
+
+The signing ceremony for the Ancient Forest Protection Act was held in the Roosevelt Room of the White House on a crisp autumn morning. Senator Diana Hartwell stood directly behind the president as he signed the bill into law with a dozen ceremonial pens, surrounded by members of Congress from both parties, tribal leaders from the Pacific Northwest, and conservation advocates who had fought for decades for this moment.
+
+Maya was there, standing near the back of the room. She had been invited as a personal guest of the senator and had flown to Washington for the first time in her life. She watched history happen from behind a row of taller people, and she did not mind at all.
+
+The bill designated the Cathedral watershed as a permanently protected national monument. It allocated four hundred million dollars for old-growth restoration across the Pacific Northwest. It mandated lifetime financial audits of any company convicted of environmental crimes on public land.
+
+And the Prentice Amendment, tucked into the bill's fine print, required all timber companies holding federal contracts to publicly disclose their shell company structures.
+
+When the president finished signing, he handed one of the pens to Senator Hartwell. She accepted it, stepped to the microphone, and spoke without notes.
+
+"Two years ago, I would not have been standing here. I would have been at my desk, calculating political angles, measuring the impact of this bill on my re-election numbers. I would have been managing my ambition instead of serving my country."
+
+She paused, and the room was silent.
+
+"I stand here today because a group of ordinary citizens did extraordinary things. A forensic accountant who looked at numbers others ignored and saw the truth. A journalist who risked her life to publish that truth. A logger who loved the forest more than his own livelihood. And a whistleblower who paid for his courage with his life."
+
+"This bill is their legacy. And I am deeply honored to have played a small part in making it real."
+
+Maya felt a hand on her shoulder. She turned. Elias stood beside her, wearing a suit that looked borrowed and did not quite fit.
+
+"I never thought I'd see this in my lifetime," he said quietly.
+
+"Neither did I."
+
+They watched the ceremony continue — the applause, the handshakes, the photographs that would appear on front pages across the country the next morning.
+
+"This changes things," Elias said.
+
+"It changes the law. The forest still has to heal on its own schedule."
+
+"One seedling at a time."
+
+"One seedling at a time."
+
+They smiled at each other. It was not an ending. It was a beginning.
+
+Chapter 50: The Cathedral
+
+Five years after the trial, Maya returned to the Cathedral.
+
+She drove herself this time, in a new Subaru that had replaced the one with the bullet-hole windshield. The road to Crescent Falls was familiar now. She passed the turnoff for the Timberline Motel without stopping. She drove past the silent NTH mill, where the sign had been taken down and weeds were growing through the pavement of the parking lot.
+
+The trail into the Cathedral was different too. The Forest Service had built a proper boardwalk over the most sensitive sections, and there was a small kiosk at the trailhead with information about the monument and its history. A photograph of the Lichen King smiled from the signage.
+
+The fire scar had faded significantly. New trees were growing where the burn had been, their tops reaching toward the light. The understory was dense with salal and Oregon grape, and the air smelled of damp soil and growing things.
+
+She walked the old trail alone. Her footsteps were quiet on the boardwalk. The canopy filtered the afternoon light into a green-gold glow that felt like walking underwater through a living cathedral.
+
+At the heart of the Cathedral, the ancient trees still stood. The Douglas fir that had survived the fire, its bark still marked by flame at the base but its crown full and impossibly green. The western red cedars with their buttressed bases, draped in moss. The hemlocks with their delicate, drooping needles.
+
+She placed her hand on the bark of the largest tree. The surface was rough and deep-furrowed, the texture of centuries pressing against her palm.
+
+Behind her, footsteps on the boardwalk. She turned.
+
+Elias stood at the edge of the grove. He was older now, his hair fully gray, his face lined by the years of outdoor work. But his eyes were the same sharp blue she remembered from their first meeting in this very forest.
+
+"You came back," he said.
+
+"I had to see it."
+
+"It's still here."
+
+"Yes. It's still here."
+
+They stood together in the silence of the ancient forest. A Steller's jay called overhead. The wind moved through the upper canopy, and the trees creaked softly with the movement.
+
+"Do you think Derek can see this?" Elias asked.
+
+Maya looked up at the light filtering through a thousand years of growth, through needles and branches and the living architecture of the old growth.
+
+"I don't know. But I like to think he can."
+
+They walked deeper into the Cathedral, through the groves that had survived the fire, past the seedlings that would become the next generation of giants. The forest was healing. Slowly, imperceptibly, but truly.
+
+Maya stopped at a small western red cedar, no taller than her waist, growing in a patch of light where a fallen tree had opened the canopy. She knelt and touched its soft needles, feeling the resilience of new life pressing upward from the soil.
+
+"One seedling at a time," she said.
+
+Elias nodded. He knelt beside her and pressed the soil gently around the cedar's base. "One seedling at a time. In fifty years, this one will be thirty feet tall. In a hundred, it will be part of the canopy."
+
+"In a thousand, it will be like those." She nodded at the ancients towering above them, their bark furrowed with centuries of growth.
+
+"Assuming we take care of it. Assuming we don't repeat the mistakes of the past."
+
+"We won't. Not this time. Not again."
+
+They stood together in the silence of the ancient forest. A breeze moved through the upper branches, and the trees creaked softly, their roots intertwined beneath the soil in a living network that had been growing and communicating for millennia.
+
+The sun broke through the clouds in a shaft of golden light, warming the grove. The ancient trees cast long shadows across the forest floor, and the new seedlings reached toward the light that fell between them. Some things ended. Others began again. The cycle continued, patient and enduring.
+
+The Cathedral stood, as it had stood for centuries, as it would stand for centuries more. And that, Maya thought as she rose and looked up at the green canopy filtering the afternoon light, was enough. She had done what she could. She had followed where Derek Prentice's encrypted files had led her. She had traced the money, exposed the truth, and helped save what remained of something truly irreplaceable.
+
+The rest was up to the trees, and the forest, and the long slow work of regeneration that would continue long after she was gone. And that, she realized, was exactly as it should be.

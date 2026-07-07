@@ -1,0 +1,12 @@
+file,status,notes,model
+planning/The_Blue_Hotel_outline.md,complete,50 chapter plan with premise and cast,deepseek-v4-flash
+txt/The_Blue_Hotel.txt,complete,50 chapters,deepseek-v4-flash
+metadata/The_Blue_Hotel_metadata.json,complete,all fields populated,deepseek-v4-flash
+tools/build_epub.py,complete,copied from template,deepseek-v4-flash
+tools/create_cover.py,complete,PIL-based,deepseek-v4-flash
+covers/The_Blue_Hotel.png,complete,1600x2560 PNG,deepseek-v4-flash
+epub/The_Blue_Hotel.epub,complete,EPUB3 format,deepseek-v4-flash
+README.md,complete,book overview and links,deepseek-v4-flash
+reports/final_report.md,complete,production summary,deepseek-v4-flash
+reports/manifest.csv,complete,file inventory,deepseek-v4-flash
+reports/progress.md,complete,progress milestones,deepseek-v4-flash

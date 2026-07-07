@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Body_in_the_Library/planning/The_Body_in_the_Library_outline.md,,markdown,deepseek-v4-flash
+The_Body_in_the_Library/txt/The_Body_in_the_Library.txt,,text,deepseek-v4-flash
+The_Body_in_the_Library/metadata/The_Body_in_the_Library_metadata.json,,,deepseek-v4-flash
+The_Body_in_the_Library/tools/create_cover.py,,python,deepseek-v4-flash
+The_Body_in_the_Library/covers/The_Body_in_the_Library.png,,png,deepseek-v4-flash
+The_Body_in_the_Library/tools/build_epub.py,,python,deepseek-v4-flash
+The_Body_in_the_Library/epub/The_Body_in_the_Library.epub,,epub,deepseek-v4-flash
+The_Body_in_the_Library/README.md,,markdown,deepseek-v4-flash
+The_Body_in_the_Library/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Body_in_the_Library/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Body_in_the_Library/reports/progress.md,,markdown,deepseek-v4-flash

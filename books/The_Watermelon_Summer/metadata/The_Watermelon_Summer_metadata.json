@@ -1,0 +1,39 @@
+{
+  "title": "The Watermelon Summer",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Southern Fiction",
+  "language": "en",
+  "short_description": "Three sisters in rural Georgia run their late father's watermelon stand and uncover long-buried family secrets that will change everything.",
+  "long_description": "Three sisters in rural Georgia spend one transformative summer running their late father's watermelon stand and learning the price of family secrets. After their father's sudden death, Delia, Rose, and Junie Harvell must decide whether to sell the family farm or keep it alive through the summer. The watermelon stand at the crossroads becomes the stage where old wounds are exposed, new alliances form, and the truth about their mother's disappearance twenty years ago finally surfaces. As the summer heat builds, the sisters uncover a lockbox in a dry well, discover their mother's true identity, and confront a web of secrets that stretches back to Charleston. By summer's end, they have paid the farm's debt, buried the family secrets, and found their way back to each other.",
+  "main_characters": [
+    "Delia Harvell — The oldest sister, practical and burdened, who inherited the farm and its debts",
+    "Rose Harvell — The middle sister, a high school English teacher from Atlanta, who learns to stop running",
+    "Junie Harvell — The youngest sister, who ran the watermelon stand alongside their father and never left the farm",
+    "Evelyn March — The Customer, their mother's best friend who has kept secrets for twenty years",
+    "Margaret Beck — Their maternal grandmother, who arrives from Charleston to reunite the family"
+  ],
+  "keywords": [
+    "watermelon",
+    "Georgia",
+    "southern fiction",
+    "sisters",
+    "family secrets",
+    "farm stand",
+    "rural life",
+    "grief",
+    "forgiveness",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Watermelon_Summer/txt/The_Watermelon_Summer.txt",
+  "EPUB_path": "books/The_Watermelon_Summer/epub/The_Watermelon_Summer.epub",
+  "cover_path": "books/The_Watermelon_Summer/covers/The_Watermelon_Summer.png",
+  "outline_path": "books/The_Watermelon_Summer/planning/The_Watermelon_Summer_outline.md",
+  "cover_script_path": "books/The_Watermelon_Summer/tools/create_cover.py",
+  "status": "completed",
+  "subgenre": "Southern Fiction",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11622
+  }
+}

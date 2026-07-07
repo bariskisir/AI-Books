@@ -1,0 +1,13 @@
+file,size_bytes
+planning/The_Piano_Tuner_outline.md,9911
+txt/The_Piano_Tuner.txt,69080
+metadata/The_Piano_Tuner_metadata.json,2831
+tools/build_epub.py,8280
+tools/create_cover.py,11103
+covers/The_Piano_Tuner.png,105531
+epub/The_Piano_Tuner.epub,220296
+README.md,285
+reports/final_report.md,1515
+reports/manifest.csv,345
+reports/progress.md,645
+Model,deepseek-v4-flash

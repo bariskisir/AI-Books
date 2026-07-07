@@ -1,0 +1,44 @@
+{
+  "title": "The Brine Communion",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Horror",
+  "subgenre": "Coastal Gothic / Folk Horror",
+  "language": "en",
+  "short_description": "A marine biologist returns to her childhood home in a Norfolk salt-marsh village and discovers a centuries-old covenant between the village and a living consciousness in the deep peat.",
+  "long_description": "When marine biologist Dr. Iris Vane returns to the isolated Norfolk salt-marsh village of Porthallow to settle her estranged mother's estate, she finds the community in the grip of a strange collective fervour. The locals participate in a ritual called the Brine Communion — drinking cups of marsh-brine during the full moon, which grants them waking visions of a drowned congregation beneath the peat. Iris discovers her mother was not merely a reclusive marsh-lover but the latest in a long line of Salt-Keepers who maintain a covenant between the village and something living in the deep peat layers. As the boundary between geological memory and the living present begins to collapse, Iris must reckon with what her mother hid from her, what the village has sacrificed to keep the covenant, and what the marsh truly wants in return. A story of memory, sacrifice, and the strange biology of consciousness, The Brine Communion is a coastal gothic novel that asks what we owe to the places that shaped us.",
+  "main_characters": [
+    "Dr. Iris Vane",
+    "Elias Carrick",
+    "Morgelyn 'Morg' Salt",
+    "Reverend Caleb Thorne",
+    "DI Kieran Ash"
+  ],
+  "keywords": [
+    "salt marsh",
+    "Norfolk",
+    "folk horror",
+    "coastal gothic",
+    "peat",
+    "fungal intelligence",
+    "covenant",
+    "memory",
+    "brine",
+    "sacrifice"
+  ],
+  "TXT_path": "books/The_Brine_Communion/txt/The_Brine_Communion.txt",
+  "EPUB_path": "books/The_Brine_Communion/epub/The_Brine_Communion.epub",
+  "cover_path": "books/The_Brine_Communion/covers/The_Brine_Communion.png",
+  "paths": {
+    "outline": "books/The_Brine_Communion/planning/The_Brine_Communion_outline.md",
+    "manuscript": "books/The_Brine_Communion/txt/The_Brine_Communion.txt",
+    "epub": "books/The_Brine_Communion/epub/The_Brine_Communion.epub",
+    "cover": "books/The_Brine_Communion/covers/The_Brine_Communion.png",
+    "metadata": "books/The_Brine_Communion/metadata/The_Brine_Communion_metadata.json"
+  },
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 27013
+  }
+}

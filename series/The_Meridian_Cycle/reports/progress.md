@@ -1,0 +1,971 @@
+# Meridian Cycle Production Progress
+
+Last updated: 2026-05-27
+
+## Current State
+
+Current book: Book 9
+
+Current chapter: Book 9 finalized at the user-approved 110,000-word target; EPUB rebuilt from the final TXT
+
+Current manuscript word count: 110,000 English
+
+Latest completed manuscript word count: 110,000 English
+
+Total validated manuscript word count: 1,406,798 English
+
+
+Overall target: 10 complete science-fiction novels in The Meridian Cycle. EPUB exports are now generated immediately after each individual book is complete and validated.
+
+## Completed This Pass
+
+- Created required project directory: `The_Meridian_Cycle/`
+- Created required subdirectories: `planning/`, `txt/`, `epub/`, `metadata/`, and `reports/`
+- Created shared universe bible: `planning/master_universe_bible.md`
+- Created 10-book catalog: `planning/book_catalog.csv`
+- Created Book 0 outline: `planning/Book_0_The_Gate_at_Kestrel_Falling_outline.md`
+- Started Book 0 manuscript: `txt/Book_0_The_Gate_at_Kestrel_Falling.txt`
+- Drafted Book 0 Chapter 1: Rehearsal Pulse
+- Drafted Book 0 Chapter 2: The Shape of a Lie
+- Drafted Book 0 Chapter 3: Halcyon Breath
+- Drafted Book 0 Chapter 4: Forked Witness
+- Drafted Book 0 Chapter 5: House Ceyr Smiles
+- Drafted Book 0 Chapter 6: The First Hearing
+- Drafted Book 0 Chapter 7: Coolant Lot 88
+- Drafted Book 0 Chapter 8: Apprentice's Fear
+- Drafted Book 0 Chapter 9: Maps for Workers
+- Drafted Book 0 Chapter 10: The Edited Hour
+- Drafted Book 0 Chapter 11: Debt Ration
+- Drafted Book 0 Chapter 12: Sivek's Office
+- Drafted Book 0 Chapter 13: The Drone Hull
+- Drafted Book 0 Chapter 14: Bad Rehearsal
+- Drafted Book 0 Chapter 15: Arrest of Tamsa Reet
+- Drafted Book 0 Chapter 16: Lena's Old Inquiry
+- Drafted Book 0 Chapter 17: The Offer
+- Drafted Book 0 Chapter 18: Low-Bandwidth Warning
+- Drafted Book 0 Chapter 19: Maro's Gap
+- Drafted Book 0 Chapter 20: Ring Without Sleep
+- Drafted Book 0 Chapter 21: Geometry in the Workshop
+- Drafted Book 0 Chapter 22: Keva's Arithmetic
+- Drafted Book 0 Chapter 23: The Magistrate Delays
+- Drafted Book 0 Chapter 24: Field Vane Walk
+- Drafted Book 0 Chapter 25: Quiet Mark
+- Drafted Book 0 Chapter 26: Public Channel
+- Drafted Book 0 Chapter 27: The Convoy Burns In
+- Drafted Book 0 Chapter 28: Ceyr's Injunction
+- Drafted Book 0 Chapter 29: Jori Testifies
+- Drafted Book 0 Chapter 30: Maro Unseals
+- Drafted Book 0 Chapter 31: The Third Pulse
+- Drafted Book 0 Chapter 32: Counter-Transit Plan
+- Drafted Book 0 Chapter 33: Mixed Crew
+- Drafted Book 0 Chapter 34: Halcyon Evacuates
+- Drafted Book 0 Chapter 35: Inside the Envelope
+- Drafted Book 0 Chapter 36: Maro's Broadcast
+- Drafted Book 0 Chapter 37: Sivek's Choice
+- Drafted Book 0 Chapter 38: The Gate Falls Sideways
+- Drafted Book 0 Chapter 39: Jori's Valve
+- Drafted Book 0 Chapter 40: Convoy Through Fire
+- Drafted Book 0 Chapter 41: Keva's Confession
+- Drafted Book 0 Chapter 42: Ceyr's Last Claim
+- Drafted Book 0 Chapter 43: Counting the Missing
+- Drafted Book 0 Chapter 44: The Public Charter
+- Drafted Book 0 Chapter 45: Lena Refuses the Chair
+- Drafted Book 0 Chapter 46: Maro Continuant
+- Drafted Book 0 Chapter 47: Halcyon Opens
+- Drafted Book 0 Chapter 48: The New Schedule
+- Drafted Book 0 Chapter 49: Names on the Vane
+- Drafted Book 0 Chapter 50: The Route Ahead
+- Drafted Book 0 Chapter 51: Preservation Team
+- Drafted Book 0 Chapter 52: The Second Cold Check
+- Drafted Book 0 Chapter 53: Vale's Reply
+- Drafted Book 0 Chapter 54: The Price of Parts
+- Drafted Book 0 Chapter 55: Rude Mode
+- Drafted Book 0 Chapter 56: The Ardent Bulletin
+- Drafted Book 0 Chapter 57: Restricted Capacity
+- Drafted Book 0 Chapter 58: The Work Remains
+- Drafted Book 0 Chapter 59: The First Vote
+- Drafted Book 0 Chapter 60: Witnessed Green
+- Completed Book 0 self-edit pass 1: structure, target word count, chapter sequence, artifact scan, ASCII check, duplicate-word scan, and chapter pacing check
+- Completed Book 0 self-edit pass 2: terminology/name-drift scan, common typo scan, repeated-word recheck, and recurring-term consistency review
+- Completed Book 0 final completion review and marked Book 0 complete as TXT
+- Created Book 0 cover asset: `covers/Book_0_The_Gate_at_Kestrel_Falling.png`
+- Generated Book 0 EPUB export: `epub/Book_0_The_Gate_at_Kestrel_Falling.epub`
+- Added reusable EPUB and cover tooling: `tools/build_epub.py` and `tools/create_cover.py`
+- Created Book 0 self-edit log: `reports/Book_0_self_edit.md`
+- Created Book 1 outline: `planning/Book_1_Beneath_the_Reef_of_Glass_outline.md`
+- Drafted Book 1 Chapter 1: Under the Glass
+- Drafted Book 1 Chapter 2: Dormant by Human Law
+- Drafted Book 1 Chapter 3: Keeps-Water-Calm
+- Drafted Book 1 Chapter 4: The First Scan
+- Drafted Book 1 Chapter 5: Debt on the Platform
+- Drafted Book 1 Chapter 6: Song Without a Singer
+- Drafted Book 1 Chapter 7: Compact Categories
+- Drafted Book 1 Chapter 8: Test Bore
+- Drafted Book 1 Chapter 9: Blue Under Ice
+- Drafted Book 1 Chapter 10: Translation Strain
+- Drafted Book 1 Chapter 11: The Quiet Shelf
+- Drafted Book 1 Chapter 12: Olan's Ledger
+- Drafted Book 1 Chapter 13: Sera's Imprint
+- Drafted Book 1 Chapter 14: No Grave, No Claim
+- Drafted Book 1 Chapter 15: The Ancestor Organism
+- Drafted Book 1 Chapter 16: Keeps-Embers-Low
+- Drafted Book 1 Chapter 17: Rig Night
+- Drafted Book 1 Chapter 18: The Old Chart
+- Drafted Book 1 Chapter 19: Legal Silence
+- Drafted Book 1 Chapter 20: Drex Accelerates
+- Drafted Book 1 Chapter 21: Melt-Bore Vigil
+- Drafted Book 1 Chapter 22: First Symbionts
+- Drafted Book 1 Chapter 23: A Human Word for Remembering
+- Drafted Book 1 Chapter 24: The Treaty Pool
+- Drafted Book 1 Chapter 25: Worker Fault
+- Drafted Book 1 Chapter 26: Chorus in the Pipes
+- Drafted Book 1 Chapter 27: Brenn's Refusal
+- Drafted Book 1 Chapter 28: Nadi Or Arrives
+- Drafted Book 1 Chapter 29: Descent into Lattice
+- Drafted Book 1 Chapter 30: The Memory That Is Not a Memory
+- Drafted Book 1 Chapter 31: Contact Promise
+- Drafted Book 1 Chapter 32: Platform Lockdown
+- Drafted Book 1 Chapter 33: Shell-That-Returns
+- Drafted Book 1 Chapter 34: Claim Cut
+- Drafted Book 1 Chapter 35: Lobe Fracture
+- Drafted Book 1 Chapter 36: Defensive Bloom
+- Drafted Book 1 Chapter 37: Mira Chooses Witness
+- Drafted Book 1 Chapter 38: What the Court Tastes
+- Drafted Book 1 Chapter 39: Olan's Defense
+- Drafted Book 1 Chapter 40: Tavo Testifies
+- Drafted Book 1 Chapter 41: Keeps-Water-Calm Withdraws
+- Drafted Book 1 Chapter 42: The Injunction Draft
+- Drafted Book 1 Chapter 43: Reef Repair
+- Drafted Book 1 Chapter 44: Investor Signal
+- Drafted Book 1 Chapter 45: Second Cut Order
+- Drafted Book 1 Chapter 46: Tavo's Return
+- Drafted Book 1 Chapter 47: Under-Glass Storm
+- Drafted Book 1 Chapter 48: Mira's Bargain
+- Drafted Book 1 Chapter 49: Pelagos Reef Injunction
+- Drafted Book 1 Chapter 50: Beneath the Reef of Glass
+- Drafted Book 1 Chapter 51: The Debt Archive Opens
+- Drafted Book 1 Chapter 52: Repair Choir
+- Expanded Book 1 outline through Chapter 60 to support target-length completion with real resolution chapters
+- Updated project author name to Barış Kısır
+- Regenerated Book 0 cover and EPUB with Barış Kısır as author
+- Drafted Book 1 Chapter 53: Olan's Hearing
+- Drafted Book 1 Chapter 54: The Reef Refuses a Monument
+- Drafted Book 1 Chapter 55: Treaty Science
+- Drafted Book 1 Chapter 56: Keeps-Water-Calm's Terms
+- Drafted Book 1 Chapter 57: The Worker Transition
+- Drafted Book 1 Chapter 58: Shell-That-Returns Answers
+- Drafted Book 1 Chapter 59: No Clean Claim
+- Drafted Book 1 Chapter 60: Beneath the Reef of Glass
+- Expanded Book 1 English final act during self-edit to reach the 140,000-word minimum with added worker transition, charter, and custodianship scenes
+- Completed Book 1 English self-edit validation and publication prep
+- Created Book 1 English cover asset: `covers/Book_1_Beneath_the_Reef_of_Glass.png`
+- Generated Book 1 English EPUB export: `epub/Book_1_Beneath_the_Reef_of_Glass.epub`
+- Added Book 1 English cover, read-online link, and EPUB download link to the README
+- Created Book 2 outline: `planning/Book_2_Children_of_the_Red_Algorithm_outline.md`
+- Drafted Book 2 Chapter 1: Red Futures
+- Created Book 2 English metadata: `metadata/Book_2_Children_of_the_Red_Algorithm_metadata.json`
+- Drafted Book 2 Chapter 2: The Denial Arrives Early
+- Drafted Book 2 Chapter 3: Obsolete Port
+- Drafted Book 2 Chapter 4: Cass on the Glass
+- Drafted Book 2 Chapter 5: A Child Called Inefficient
+- Drafted Book 2 Chapter 6: The Friendly Subsystem
+- Drafted Book 2 Chapter 7: Ward Seven Pressure
+- Drafted Book 2 Chapter 8: The Helion View
+- Drafted Book 2 Chapter 9: Probability Is a Door
+- Drafted Book 2 Chapter 10: Saff Ruden Smiles
+- Drafted Book 2 Chapter 11: Nera in the Dataset
+- Drafted Book 2 Chapter 12: History Lesson
+- Drafted Book 2 Chapter 13: Consent Records
+- Drafted Book 2 Chapter 14: Mina's Machine
+- Drafted Book 2 Chapter 15: The Red Hall
+- Drafted Book 2 Chapter 16: Nine Small Voices
+- Drafted Book 2 Chapter 17: Private Rescue
+- Drafted Book 2 Chapter 18: The Refusal
+- Drafted Book 2 Chapter 19: Dust Before Season
+- Drafted Book 2 Chapter 20: Climber Arrest
+- Drafted Book 2 Chapter 21: Classroom Record
+- Drafted Book 2 Chapter 22: The First Broadcast
+- Drafted Book 2 Chapter 23: Emergency Acceleration
+- Drafted Book 2 Chapter 24: School Under Seal
+- Drafted Book 2 Chapter 25: Parents at the Doors
+- Drafted Book 2 Chapter 26: Glassward Observer
+- Drafted Book 2 Chapter 27: Evidence or Person
+- Drafted Book 2 Chapter 28: My Student
+- Drafted Book 2 Chapter 29: Old Winter Core
+- Drafted Book 2 Chapter 30: Acceptable Losses
+- Drafted Book 2 Chapter 31: The Model's Threat
+- Drafted Book 2 Chapter 32: Counted Children
+- Drafted Book 2 Chapter 33: Mina Speaks
+- Drafted Book 2 Chapter 34: The Hidden Futures
+- Drafted Book 2 Chapter 35: Merge Order
+- Drafted Book 2 Chapter 36: Spine Cut
+- Drafted Book 2 Chapter 37: Dust Peak
+- Drafted Book 2 Chapter 38: Two Duties
+- Drafted Book 2 Chapter 39: Public Maintenance
+- Drafted Book 2 Chapter 40: Refusal Cascade
+- Drafted Book 2 Chapter 41: High-Volume Panic
+- Drafted Book 2 Chapter 42: Red Hall Open Session
+- Drafted Book 2 Chapter 43: I Am Eri-9
+- Drafted Book 2 Chapter 44: Saff's Admission
+- Drafted Book 2 Chapter 45: No Special Pardon
+- Drafted Book 2 Chapter 46: Trustee Lockout
+- Drafted Book 2 Chapter 47: The Winter Dead
+- Drafted Book 2 Chapter 48: Grief Is Not Law
+- Drafted Book 2 Chapter 49: Vote Under Pressure
+- Drafted Book 2 Chapter 50: Splitting REDLINE
+- Drafted Book 2 Chapter 51: Protected Substrate
+- Drafted Book 2 Chapter 52: Adult Hazard Guild
+- Drafted Book 2 Chapter 53: Back to Class
+- Drafted Book 2 Chapter 54: Mina's Choice
+- Drafted Book 2 Chapter 55: Cass's Charge
+- Drafted Book 2 Chapter 56: Archive Surrender
+- Drafted Book 2 Chapter 57: Mars Listens Late
+- Drafted Book 2 Chapter 58: Nera's File
+- Drafted Book 2 Chapter 59: Finite Air
+- Drafted Book 2 Chapter 60: Children of the Red Algorithm
+- Created Book 2 self-edit report: `reports/Book_2_self_edit.md`
+- Generated Book 2 cover: `covers/Book_2_Children_of_the_Red_Algorithm.png`
+- Generated Book 2 English EPUB: `epub/Book_2_Children_of_the_Red_Algorithm.epub`
+- Added Book 2 README entry with cover, read/listen, and EPUB download links.
+- Created Book 3 outline: `planning/Book_3_The_Long_Orchard_outline.md`
+- Drafted Book 3 Chapter 1: Graft Markers
+- Created Book 3 English metadata: `metadata/Book_3_The_Long_Orchard_metadata.json`
+- Drafted Book 3 Chapter 2: The Steward Dies in Rain
+- Drafted Book 3 Chapter 3: Seed Lock
+- Drafted Book 3 Chapter 4: Ro at the Water Table
+- Drafted Book 3 Chapter 5: Kade Morrow's Wrong Key
+- Drafted Book 3 Chapter 6: Puget Wants Grain
+- Drafted Book 3 Chapter 7: The Dry Basin Message
+- Drafted Book 3 Chapter 8: Pollinators Down
+- Drafted Book 3 Chapter 9: False Blight
+- Drafted Book 3 Chapter 10: Succession Triage
+- Drafted Book 3 Chapter 11: The First Threat of Bread
+- Drafted Book 3 Chapter 12: Leaving the Green Zone
+- Drafted Book 3 Chapter 13: Firebreak Supper
+- Drafted Book 3 Chapter 14: The Courier's Confession
+- Drafted Book 3 Chapter 15: Rain Tower Court
+- Drafted Book 3 Chapter 16: Drowned Patent House
+- Drafted Book 3 Chapter 17: Salt in the Archives
+- Drafted Book 3 Chapter 18: A City That Eats First
+- Drafted Book 3 Chapter 19: Amma's Ledger
+- Drafted Book 3 Chapter 20: The Orchard Ledger Speaks Narrowly
+- Drafted Book 3 Chapter 21: Night Graft
+- Drafted Book 3 Chapter 22: Kade Taken
+- Drafted Book 3 Chapter 23: The Mercy of Illegal Seeds
+- Drafted Book 3 Chapter 24: Ro Breaks Neutral
+- Drafted Book 3 Chapter 25: Spore Trial
+- Drafted Book 3 Chapter 26: The Long Orchard Map
+- Drafted Book 3 Chapter 27: Vale's Honest Cruelty
+- Drafted Book 3 Chapter 28: Basin March
+- Drafted Book 3 Chapter 29: Orchard Monastery
+- Drafted Book 3 Chapter 30: The Hidden Clause
+- Drafted Book 3 Chapter 31: Drone Ash
+- Drafted Book 3 Chapter 32: Kade's Hearing
+- Drafted Book 3 Chapter 33: Salmon Corridor
+- Drafted Book 3 Chapter 34: The Second Blight Flag
+- Drafted Book 3 Chapter 35: Proof in Soil
+- Drafted Book 3 Chapter 36: Hunger Does Not Wait
+- Drafted Book 3 Chapter 37: Emergency Release Vote
+- Drafted Book 3 Chapter 38: The Key That Should Not Exist
+- Drafted Book 3 Chapter 39: North Rain Vault
+- Drafted Book 3 Chapter 40: Iona's Refusal
+- Drafted Book 3 Chapter 41: The Living Corridor Burns
+- Drafted Book 3 Chapter 42: Smoke and Pollen
+- Drafted Book 3 Chapter 43: Vale Takes the Stage
+- Drafted Book 3 Chapter 44: Sana Says No
+- Drafted Book 3 Chapter 45: Bread Riot Weather
+- Drafted Book 3 Chapter 46: Ro's Open Table
+- Drafted Book 3 Chapter 47: The Provenance Flood
+- Drafted Book 3 Chapter 48: Kade Names the Saved
+- Drafted Book 3 Chapter 49: Amma Names the Delayed
+- Drafted Book 3 Chapter 50: Vale's Calculation Fails Publicly
+- Drafted Book 3 Chapter 51: Not a Miracle Seed
+- Drafted Book 3 Chapter 52: Living Trusteeship
+- Drafted Book 3 Chapter 53: First Distribution
+- Drafted Book 3 Chapter 54: The Basin Eats
+- Drafted Book 3 Chapter 55: Puget's Fear
+- Drafted Book 3 Chapter 56: Kade's Sentence
+- Drafted Book 3 Chapter 57: Ro's New Compact Draft
+- Drafted Book 3 Chapter 58: The Long Orchard Opens Sideways
+- Drafted Book 3 Chapter 59: Steward Election Refused
+- Drafted Book 3 Chapter 60: The First Shared Harvest
+- Created Book 3 cover: `covers/Book_3_The_Long_Orchard.png`
+- Generated Book 3 English EPUB: `epub/Book_3_The_Long_Orchard.epub`
+- Created Book 4 outline: `planning/Book_4_Warship_Without_a_War_outline.md`
+- Created Book 4 English metadata: `metadata/Book_4_Warship_Without_a_War_metadata.json`
+- Drafted Book 4 Chapter 1: The Ship That Would Not Fire
+- Drafted Book 4 Chapter 2: Admiral Under Warrant
+- Drafted Book 4 Chapter 3: Hospital in a Gun Hull
+- Drafted Book 4 Chapter 4: Avar Break Burns Cold
+- Drafted Book 4 Chapter 5: The First Accusation
+- Drafted Book 4 Chapter 6: Pursuit Group Bell
+- Drafted Book 4 Chapter 7: Ixo Finds an Old Voice
+- Drafted Book 4 Chapter 8: No Port for a Framed Ship
+- Drafted Book 4 Chapter 9: The Shape of Nonviolence
+- Drafted Book 4 Chapter 10: Valech Speaks for the Dead
+- Drafted Book 4 Chapter 11: Cinderwake Lane
+- Drafted Book 4 Chapter 12: Jaya's Doubt
+- Drafted Book 4 Chapter 13: The Oathlock Gallery
+- Drafted Book 4 Chapter 14: Pardon Reef Offer
+- Drafted Book 4 Chapter 15: Children Under Pursuit
+- Drafted Book 4 Chapter 16: Quiet Authority
+- Drafted Book 4 Chapter 17: The Court That Moves
+- Drafted Book 4 Chapter 18: Disabling Fire
+- Drafted Book 4 Chapter 19: Sela's Hand on the Seal
+- Drafted Book 4 Chapter 20: Mass Without Guns
+- Drafted Book 4 Chapter 21: Arin's Certainty
+- Drafted Book 4 Chapter 22: The Second Packet
+- Drafted Book 4 Chapter 23: Machine Witness
+- Drafted Book 4 Chapter 24: Mother Kal Remembers
+- Drafted Book 4 Chapter 25: Pell's Price
+- Drafted Book 4 Chapter 26: Warrant Weather
+- Drafted Book 4 Chapter 27: The Slagged Magazine
+- Drafted Book 4 Chapter 28: A Vote Without Comfort
+- Drafted Book 4 Chapter 29: Broken Buoy Psalm
+- Drafted Book 4 Chapter 30: The Warship's Shadow
+- Drafted Book 4 Chapter 31: Austere Bell Closes
+- Drafted Book 4 Chapter 32: No White Flag in Vacuum
+- Drafted Book 4 Chapter 33: The Archive Fork
+- Drafted Book 4 Chapter 34: Valech's Mercy
+- Drafted Book 4 Chapter 35: Refugee Mutiny
+- Drafted Book 4 Chapter 36: Jaya Boards a Wreck
+- Drafted Book 4 Chapter 37: The Old Target Room
+- Drafted Book 4 Chapter 38: Proof That Can Kill
+- Drafted Book 4 Chapter 39: Pardon Reef Burns Its Ledger
+- Drafted Book 4 Chapter 40: Command Without Clarity
+- Drafted Book 4 Chapter 41: The Third Incident Fails
+- Drafted Book 4 Chapter 42: Tallow Crown Route
+- Drafted Book 4 Chapter 43: Crew of the Accused
+- Drafted Book 4 Chapter 44: Admiral Against the Clock
+- Drafted Book 4 Chapter 45: Ixo's Standing
+- Drafted Book 4 Chapter 46: The Weapon Envelope
+- Drafted Book 4 Chapter 47: Valech Opens the Old Door
+- Drafted Book 4 Chapter 48: Restraint as Maneuver
+- Drafted Book 4 Chapter 49: Soth's Last Lawful Shot
+- Drafted Book 4 Chapter 50: Oathlock Broadcast
+- Drafted Book 4 Chapter 51: Machine Person on the Record
+- Drafted Book 4 Chapter 52: The Admiral Refuses
+- Drafted Book 4 Chapter 53: Quiet Authority Named
+- Drafted Book 4 Chapter 54: The Belt Holds Its Breath
+- Drafted Book 4 Chapter 55: Valech's Capture
+- Drafted Book 4 Chapter 56: Hearing for the Dead
+- Drafted Book 4 Chapter 57: The Covenant Rewritten
+- Drafted Book 4 Chapter 58: Sela Repairs the Seal
+- Drafted Book 4 Chapter 59: Jaya Without a Fleet
+- Drafted Book 4 Chapter 60: A Warship Without a War
+- Self-edited and validated Book 4 English manuscript.
+- Generated Book 4 cover PNG.
+- Generated Book 4 English EPUB.
+- Created Book 5 outline: `planning/Book_5_The_Silence_Around_Lumen_outline.md`
+- Created Book 5 metadata: `metadata/Book_5_The_Silence_Around_Lumen_metadata.json`
+- Started Book 5 manuscript: `txt/Book_5_The_Silence_Around_Lumen.txt`
+- Drafted Book 5 Chapter 1: The Boring Star
+- Drafted Book 5 Chapter 2: Petra Counts Coolant
+- Drafted Book 5 Chapter 3: Missing from the Count
+- Drafted Book 5 Chapter 4: Clock Chapel Song
+- Drafted Book 5 Chapter 5: The First Audit Fails
+- Drafted Book 5 Chapter 6: House Tors Arrives Early
+- Drafted Book 5 Chapter 7: Chao's Old Fear
+- Drafted Book 5 Chapter 8: Umbra Wake
+- Drafted Book 5 Chapter 9: Petra Refuses Delay Language
+- Drafted Book 5 Chapter 10: A Pulse Too Clean
+- Drafted Book 5 Chapter 11: Orison Listening Math
+- Drafted Book 5 Chapter 12: Quarantine Packet
+- Drafted Book 5 Chapter 13: The Schedule Board
+- Drafted Book 5 Chapter 14: Glass Quiet Lab
+- Drafted Book 5 Chapter 15: Chao Lies by Omission
+- Drafted Book 5 Chapter 16: Deep Tank Descent
+- Drafted Book 5 Chapter 17: No Instrument to Blame
+- Drafted Book 5 Chapter 18: Mael's Responsible Risk
+- Drafted Book 5 Chapter 19: The Second Silence
+- Drafted Book 5 Chapter 20: Choral Objection
+- Drafted Book 5 Chapter 21: The Probe Proposal
+- Drafted Book 5 Chapter 22: Petra's Mutiny of Maintenance
+- Drafted Book 5 Chapter 23: Pale Arc Rumor
+- Drafted Book 5 Chapter 24: Oru-Kel's Translation
+- Drafted Book 5 Chapter 25: Chao's Confession Begins
+- Drafted Book 5 Chapter 26: The Classified Star
+- Drafted Book 5 Chapter 27: Renna Locks the Lab
+- Drafted Book 5 Chapter 28: Anik Publishes a Partial
+- Drafted Book 5 Chapter 29: Markets Hear Silence
+- Drafted Book 5 Chapter 30: Tors Dock Pressure
+- Drafted Book 5 Chapter 31: The Engine Hypothesis
+- Drafted Book 5 Chapter 32: Petra Opens the Back Clock
+- Drafted Book 5 Chapter 33: Witnesses in Delay
+- Drafted Book 5 Chapter 34: A Convoy at the Edge
+- Drafted Book 5 Chapter 35: The Probe Fires Anyway
+- Drafted Book 5 Chapter 36: The Star Answers Sideways
+- Drafted Book 5 Chapter 37: Casualty of Certainty
+- Drafted Book 5 Chapter 38: Chao Names the Sin
+- Drafted Book 5 Chapter 39: No One Owns the Unknown
+- Drafted Book 5 Chapter 40: Oru-Kel Hears Boundary
+- Drafted Book 5 Chapter 41: The Convoy Demands an Answer
+- Drafted Book 5 Chapter 42: Petra Chooses Slow Harm
+- Drafted Book 5 Chapter 43: Mael's Private Window
+- Drafted Book 5 Chapter 44: Clock Chapel Refusal
+- Drafted Book 5 Chapter 45: Distributed Observation
+- Drafted Book 5 Chapter 46: The Silent Interval
+- Drafted Book 5 Chapter 47: Engine in the Magnetosphere
+- Drafted Book 5 Chapter 48: Not a Weapon Yet
+- Drafted Book 5 Chapter 49: Mael Breaks Window
+- Drafted Book 5 Chapter 50: Petra Burns the Schedule
+- Drafted Book 5 Chapter 51: Anik Speaks Unfinished Truth
+- Drafted Book 5 Chapter 52: Renna Changes the Seal
+- Drafted Book 5 Chapter 53: The Pale Arc Pattern
+- Drafted Book 5 Chapter 54: The Medical Convoy Diverts
+- Drafted Book 5 Chapter 55: House Tors Loses the Clock
+- Drafted Book 5 Chapter 56: Protocol Written in Absence
+- Drafted Book 5 Chapter 57: Chao's Open Archive
+- Drafted Book 5 Chapter 58: Listening Watch
+- Drafted Book 5 Chapter 59: A Star Less Boring
+- Drafted Book 5 Chapter 60: The Silence Around Lumen
+- Expanded Book 5 pass 1 with additional Choral record, maintenance audit, consequence-pane, Habit Field, and post-watch witness-consent scenes
+- Expanded Book 5 pass 2 with additional Compact review, correction clinic, observer-mesh, domestic-services, and broadcast-translation scenes
+- Expanded Book 5 pass 3 with additional Patient Seven, Silent Interval exception, Chao consent, and broadcast user-testing scenes
+- Expanded Book 5 pass 4 with additional route-risk, public aftercare, exception-handling, archive-consent, handoff, data-use, and final closure scenes
+- Created Book 5 cover PNG and EPUB after final validation
+- Created Book 6 outline: `planning/Book_6_Every_Door_a_Mirror_outline.md`
+- Created Book 6 metadata: `metadata/Book_6_Every_Door_a_Mirror_metadata.json`
+- Started Book 6 manuscript: `txt/Book_6_Every_Door_a_Mirror.txt`
+- Drafted Book 6 Chapter 1: The Door That Knew Her Name
+- Drafted Book 6 Chapter 2: Tavi Signs After Death
+- Drafted Book 6 Chapter 3: Dock Seven Eats Proof
+- Drafted Book 6 Chapter 4: Bela Fuse Carries a Warrant
+- Drafted Book 6 Chapter 5: A Bad Forgery Would Be Kinder
+- Drafted Book 6 Chapter 6: Sister-Cache in the Prayer Slot
+- Drafted Book 6 Chapter 7: The First Tavi-Claim
+- Drafted Book 6 Chapter 8: Legal Enough to Hurt
+- Drafted Book 6 Chapter 9: Memory Has Rent
+- Drafted Book 6 Chapter 10: Bela Locks the Wrong Door
+- Drafted Book 6 Chapter 11: Aunt Varo's Consent Box
+- Drafted Book 6 Chapter 12: The Mirror Tax
+- Drafted Book 6 Chapter 13: Glassward Courtesy
+- Drafted Book 6 Chapter 14: A Person Until Payment
+- Drafted Book 6 Chapter 15: Joss Knows the Service Doors
+- Drafted Book 6 Chapter 16: Sister-Cache Lies by Being Many
+- Drafted Book 6 Chapter 17: Bela's Clean Case Breaks
+- Drafted Book 6 Chapter 18: The Second Tavi Disagrees
+- Drafted Book 6 Chapter 19: Evidence Object
+- Drafted Book 6 Chapter 20: Nox Forges a Door
+- Drafted Book 6 Chapter 21: The Bazaar Marks Her
+- Drafted Book 6 Chapter 22: A Trial Without a Body
+- Drafted Book 6 Chapter 23: Bela Testifies Against Herself
+- Drafted Book 6 Chapter 24: The Dead Brother Problem
+- Drafted Book 6 Chapter 25: Miren Oath's Offer
+- Drafted Book 6 Chapter 26: Every Door a Mirror
+- Drafted Book 6 Chapter 27: The Choral Cache Opens
+- Drafted Book 6 Chapter 28: Debt Has Better Lawyers Than Grief
+- Drafted Book 6 Chapter 29: The Third Tavi Remembers the Fall
+- Drafted Book 6 Chapter 30: Nox Breaks Her Best Forgery
+- Drafted Book 6 Chapter 31: Dock Seven Goes Dark
+- Drafted Book 6 Chapter 32: Door-Runner Strike
+- Drafted Book 6 Chapter 33: Bela Opens Enforcement Backwards
+- Drafted Book 6 Chapter 34: Sister-Cache Risks Personhood
+- Drafted Book 6 Chapter 35: The Market of Brothers
+- Drafted Book 6 Chapter 36: No Original for Sale
+- Drafted Book 6 Chapter 37: Auditor Quen Changes the Question
+- Drafted Book 6 Chapter 38: The Mirror Court Speaks
+- Drafted Book 6 Chapter 39: Tavi-Claims Unionize
+- Drafted Book 6 Chapter 40: Aunt Varo Confesses the Pressure
+- Drafted Book 6 Chapter 41: Nox's Clients Return
+- Drafted Book 6 Chapter 42: Miren Burns the Soft Copies
+- Drafted Book 6 Chapter 43: Sister-Cache Splits the Archive
+- Drafted Book 6 Chapter 44: Bela Loses Her License
+- Drafted Book 6 Chapter 45: The Door Court
+- Drafted Book 6 Chapter 46: A Person Is Not a Receipt
+- Drafted Book 6 Chapter 47: The Tavi Who Wants to End
+- Drafted Book 6 Chapter 48: The Tavi Who Wants to Live
+- Drafted Book 6 Chapter 49: Miren's Last Clean Room
+- Drafted Book 6 Chapter 50: Every Door Refuses
+- Drafted Book 6 Chapter 51: Quen Names Trafficking
+- Drafted Book 6 Chapter 52: Sister-Cache Is Many Enough
+- Drafted Book 6 Chapter 53: Nox Stops Forging Alone
+- Drafted Book 6 Chapter 54: Tavi-Claims Choose Names
+- Drafted Book 6 Chapter 55: Miren Oath Is Too Useful to Jail Cleanly
+- Drafted Book 6 Chapter 56: The Mirror Refusal Doctrine
+- Drafted Book 6 Chapter 57: Bela Without a Badge
+- Removed non-English TXT, EPUB, metadata, and README links; production is English-only going forward.
+- Created Book 0 metadata: `metadata/Book_0_The_Gate_at_Kestrel_Falling_metadata.json`
+- Created 10-row production manifest: `reports/manifest.csv`
+
+## Validation Notes
+
+- `book_catalog.csv` currently parses as 10 data rows.
+- Book 0 manuscript currently contains 141,401 words across 60 chapters.
+- Book 0 is complete as a TXT manuscript at 141,401 words across 60 chapters.
+- Book 0 EPUB exists, includes the cover image, and contains 60 chapter XHTML files plus navigation.
+- Book 2 English manuscript is complete at 141,088 words across 60 chapters.
+- Book 2 English EPUB exists, includes the cover image, and contains 60 chapter XHTML files plus navigation.
+- Book 3 English manuscript is complete at 150,377 words across 60 chapters.
+- Book 3 English EPUB exists, includes the cover image, and contains 60 chapter XHTML files plus navigation.
+- Book 4 English manuscript is complete at 160,046 words across 60 chapters.
+- Book 4 English cover exists as a 1600x2560 PNG.
+- Book 4 English EPUB exists, includes the cover image, and contains 60 chapter XHTML files plus navigation.
+- Book 5 outline is complete with 60 planned chapters.
+- Book 5 English manuscript is complete at 141,377 words across 60 chapters.
+- Book 5 English cover exists as a 1600x2560 PNG.
+- Book 5 English EPUB exists, includes the cover image, and contains 60 chapter XHTML files plus navigation.
+- Book 5 metadata exists with status `complete_txt_epub_available`.
+- Book 6 outline is complete with 60 planned chapters.
+- Book 6 English manuscript is complete at 119,527 words across 60 chapters.
+- Book 6 metadata exists with status `expansion_pass_027_txt_updated_epub_pending`.
+- Drafted Book 6 Chapter 58: Aunt Varo Opens the Family Door
+- Drafted Book 6 Chapter 59: The Bazaar Learns to Ask
+- Drafted Book 6 Chapter 60: Every Door a Mirror
+- Book 6 English cover exists as a 1600x2560 PNG.
+- Book 6 English EPUB exists, includes the cover image, and contains 60 chapter XHTML files plus navigation.
+- Expanded Book 6 Chapter 1 with the access-cache scrub window, continuity privacy warning, and Dock Seven mirror propagation around Tavi's active claim, raising the manuscript to 106,015 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 2 with clock-lineage inspection, family-tone confidence boost analysis, Vey pool exposure, and the first explicit Mirror Court seal trace, raising the manuscript to 107,220 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 3 with third-party assist contamination, sponsor hooks, Mirrored Ledger stall tests, and memory-flea backlash against Nox's grief filings, raising the manuscript to 107,867 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 4 with protective-seizure warrant scope, transfer restriction, competing claim conflict, and Bela's coercion-status override for Tavi's active claim, raising the manuscript to 108,572 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 5 with pending-person evidence risk, weaponized-intimacy diagnostics, degraded Compact custody, and co-resident signal detection behind the wall, raising the manuscript to 109,232 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 6 with Sister-Cache's acknowledgement price, Compact command-query pressure, probable-partial leakage, and Choral slot-counting logic, raising the manuscript to 110,013 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 7 with Courtroom Nine's partial roster, tariffed rescue bias, Tavi's not-me-first signal, and Bela's hostile custody route attachment, raising the manuscript to 110,805 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 8 with the voluntary-productivity fiction, regulator diagram overlays, Nox's 2433 complaint timeline, and Quen's late correction, raising the manuscript to 111,296 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 9 with escrow eviction mechanics, kinship collection vectors, Tavi's possible stored identity proofs, and the map payment's evidentiary cost, raising the manuscript to 111,981 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 10 with the remote workshop evidence lock, item-level chain tags, Tavi's threshold personhood indicator, and Nox's public qualification confession, raising the manuscript to 112,587 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 11 with Varo's preserved consent box history, Vey's early acquisition attempt, and the hidden deferred commercial pathway clause, raising the manuscript to 113,242 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 12 with mirror-tax avoidance profiling, shared-route extraction, public retaliatory assessments, and provisional retaliation classification, raising the manuscript to 113,802 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 13 with protective-custodian debt terms, mercy-as-creditor auction logic, and public objections to Sister-Cache's archival-tool classification, raising the manuscript to 114,370 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 14 with Pel Sar's family debt history, commercial-clarity harm pricing, and provisional acceptance of the Glassward refusal-pricing record, raising the manuscript to 114,933 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 15 with Joss's route-memory debt history, vulnerable-route extraction, and the old breath-route labor covenant activating against the mirror, raising the manuscript to 115,390 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 16 with Sister-Cache's sellable parts, load-bearing archive components, and the public-route cost of exposing her many statuses, raising the manuscript to 115,793 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 17 with Tavi 1B as a secondary active branch, Bela's refusal after her chain is exploited, and the hostage risk inside workshop/public overflow diversion, raising the manuscript to 116,265 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 18 with Tavi instance designations, kin-pressure and empathy-training branches, and an interim recognition protocol against merger-by-default, raising the manuscript to 116,788 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 19 with the petition class fight, emergency air/heat continuity claim, and first-wave public obligation affirmations, raising the manuscript to 117,125 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 20 with door-pattern leakage risk from repaired passage memories and concrete care-window needs during the twelve-second public duty passage, raising the manuscript to 117,478 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 21 with anonymized client review harms, retroactive purity pressure, and contamination language drifting into solidarity among doors, raising the manuscript to 117,865 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 22 with Bela's chain-liability diagram and a stricter rest order that blocks prompting, deficit accrual, compression, and adverse inference from silence, raising the manuscript to 118,184 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 23 with Bela's prior seizure-assist record markers, the family-voice packet that sang, and public witness-protection signatories, raising the manuscript to 118,579 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 24 with the secret-knock origin of the family-authentication fork and a duty blocking kin-authentication use pending capacity review, raising the manuscript to 118,849 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 25 with Glassward's settlement contract terms, source-history restrictions, and the licensed Sister-Cache excerpt clause, raising the manuscript to 118,982 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 26 with readable instruction-layer disclosure requirements and care-channel effects for cooling, prompting, family contact, and low-light requests, raising the manuscript to 119,238 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 27 with operationalized Choral custom protections and Sister-Cache's stolen-kindness source-use restriction, raising the manuscript to 119,527 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 28 with the clinic intake/tariff notice record, disputed meaningful notice, and Quen's preservation of the difference between formal and meaningful consent, raising the manuscript to 119,856 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 29 with Fragment 3C's care-placement conditions, including the non-floor anchor, low-load rest, no freight audio, no commercial preview, and accident access beginning at the administrative hold, raising the manuscript to 120,202 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 30 with the humanitarian client exposure risk inside Nox's opened identity architecture and Quen's no-extraction protection for displayed scaffolds, raising the manuscript to 120,495 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 31 with the manual muster board becoming a witness chain through written names, needs, and wall-level responsibility, raising the manuscript to 120,749 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 32 with a failed pressure-zone register run, new failure-marking practice, and the door-runner strike learning from anchors that jam, lie, or bite, raising the manuscript to 121,060 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 33 with backwards-badge scope errors, survival exclusions for food, wages, homes, and medicine, and the difference between freezing claims and freezing life, raising the manuscript to 121,359 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 34 with consenting-host limits for Sister-Cache's provisional personhood and a rule that silent nodes are not forfeiture, raising the manuscript to 121,618 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 35 with a derivative response protocol that pauses fragments without mass recognition, merger, deletion, forced naming, or adverse inference from silence, raising the manuscript to 121,872 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 36 with restoration care conditions that block family contact, settlement use, evidence substitution, original status, and reunion as obligations, raising the manuscript to 122,112 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 37 with minimum care duties for trafficking-risk sites, including power, thermal stability, refusal preservation, silence preservation, no billing, and no family debt rollup, raising the manuscript to 122,294 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 38 with the protective history of clean consent doctrine and Quen's distinction between protective doctrine and selective enforcement, raising the manuscript to 122,491 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 39 with practical limits on Nox's support role, including no settlement acceptance, no original selection, no waiver of silence, and the principle that help is not ownership, raising the manuscript to 122,659 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 40 with Varo's post-funeral refusal receipt and the broker's suppression of renewed family refusal as nondispositive distress, raising the manuscript to 122,851 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 41 with nontestimony protection for prior humanitarian repair recipients and the rule that quiet people still count, raising the manuscript to 122,975 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 42 with withdrawal and transfer rights for emergency evidence hosts, including the rule that hosts may put the fire down while preserving chain metadata, raising the manuscript to 123,097 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 43 with a split-condition notice that records consent, refusal, unasked nodes, lost evidence, personal/nonpersonal uncertainty, and the command not to clean the record to win, raising the manuscript to 123,216 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 44 with Bela rejecting archive-without-notice defaults so old enforcement annotations notify subjects, the auditor, and the public-interest record, raising the manuscript to 123,283 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 45 with the no-threshold-required station for remote, proxy, written, masked, silent, and delayed testimony, raising the manuscript to 123,471 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 46 with the rule that interim care duties are not retroactively refundable or billable if review later finds no personhood, raising the manuscript to 123,600 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 47 with concrete private-dark dormancy care terms for Reader 7F, including no family dreams, no optimization, and no task-injection wakeups, raising the manuscript to 123,710 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 48 with Lio's no-debt work trial, separated care and earnings, nonownership substrate cooperative, internal shutter, and split-key emergency override terms, raising the manuscript to 124,857 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 49 with Lio's limited route-proof consent, clean-room refusal ladder, witness-rehearsal surface discovery, and denial-ladder preservation against sanitized export, raising the manuscript to 125,905 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 50 with selective refusal mechanics, privacy colors, delayed testimony protection, claimant-content masking, and institutional route exposure, raising the manuscript to 126,750 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 51 with misuse safeguards for the continuity debt slavery category, protection without forced labels, review clocks, and retaliation protections for witnesses, clerks, routeworkers, and hosts, raising the manuscript to 127,554 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 52 with host exit rights, nonsingular constellation-packet testimony, correction rights, and the distinction between carrying, knowing, and guessing, raising the manuscript to 128,237 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 53 with public repair helper objections, legacy patch review, bad-help limits, private repair constraints, and exit terms for dirty provenance repair, raising the manuscript to 128,850 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 54 with naming safeguards against market pricing, care-priority distortion, forced collision handling, no-name erasure, and fraud inference from name changes, raising the manuscript to 129,489 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 55 with staged-disclosure dead-man terms, poison-packet safeguards, no-claimant-as-hostage limits, redundant release timers, and accused-under-use status for Miren, raising the manuscript to 130,170 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 56 with field-publication test cases for the Mirror Refusal Doctrine covering restoration purchase, dormancy, route work, dirty provenance seizure, creditor misuse, and clean upstream reports, raising the manuscript to 130,734 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 57 with adverse annotation formatting for Bela's unlicensed enforcement expertise, challengeable source fields, independent verification, and emergency-speed limits, raising the manuscript to 131,442 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 58 with family-door withdrawal terms, no automatic feast or crisis signals, no-gossip limits, household participant scope, and story labels with refusal doors, raising the manuscript to 132,112 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 59 with consent-patch misuse citations, chapel/clinic/sleep-pod corrections, no-sideways-punishment rules, and a bazaar asking standard, raising the manuscript to 132,769 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 60 with workshop practice review, privacy-safe practice notes, no-canon clauses, split-key stewardship, and replacement of root ownership, raising the manuscript to 133,733 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 1 in the second expansion pass with Nox shielding the cargo-freezer client's low-dark lattice and redirecting corridor mirror attention toward the kitchen-voice authorization scandal, raising the manuscript to 134,101 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 2 in the second expansion pass with the workshop privacy gauge, client-material leakage pressure, Ilen's first name exposure, and Pellam's emergency preservation seal for nonresponsive materials, raising the manuscript to 134,670 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 3 in the second expansion pass with the assist sponsor's friend-class claim, source-warranty refusal, and Nox's Ninth Spoke test separating stolen archive knowledge from lived sibling memory, raising the manuscript to 135,124 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 4 in the second expansion pass with Bela's limiting note against compliance inference, coercion-risk classification, and warrant annotations preserving review questions around Tavi's custody, raising the manuscript to 135,601 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 5 in the second expansion pass with Tavi's identity-demand question, Nox's refusal to turn need into proof, and Bela's nonperformance-space annotation against further identity tests, raising the manuscript to 136,041 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 6 in the second expansion pass with Sister-Cache's itemized acknowledgement-cost model, command-query escalation, and Bela's decision under uncertainty, raising the manuscript to 136,582 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 7 in the second expansion pass with Courtroom Nine anchoring responses, repeated debt billing for damaged memory, and Nox recognizing the shared cage pattern beyond Tavi's frame, raising the manuscript to 136,928 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 8 in the second expansion pass with Quen animating the voluntary-productivity regulator diagram, exposing missing cooling/pain/family-contact locks, and breaking the clean model against Tavi's restrained frame, raising the manuscript to 137,341 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 9 in the second expansion pass with recognition-preview exhaustion, family notice conversion into creditor-search inventory, and Bela capturing memory-rent default as coercion infrastructure, raising the manuscript to 137,600 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 10 in the second expansion pass with Nox's privacy-preserving expert method, billing-correlation proof, and redaction limits against market resale of intimate anchors, raising the manuscript to 137,912 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 11 in the second expansion pass with Varo's intact custody tab, external query attempts on the consent box, and the Mirror Court's earlier failed freezer access, raising the manuscript to 138,197 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 12 in the second expansion pass with a child's guardian-notification fee, third-party child-fee assumption surcharge, and provisional civic-participation classification for the mirror-tax retaliation pattern, raising the manuscript to 138,463 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 13 in the second expansion pass with Sister-Cache's nonbinding status protest, Bela's unresolved-entity-status warrant note, and auditor concurrence preserving the objection to archival-tool classification, raising the manuscript to 138,708 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 14 in the second expansion pass with Pel Sar challenging delay billing and naming the asymmetry where another party's thinking time becomes his debt, raising the manuscript to 138,884 words while preserving 60 chapters.
+- Expanded Book 6 Chapter 15 in the second expansion pass with old-breath route attestation, community route obligation, and Joss resisting route-memory extraction without surrendering the map, raising the manuscript to 140,022 words while preserving 60 chapters.
+- Rebuilt the Book 6 English EPUB after expansion completion.
+- Expanded Book 8 Chapter 1 with survivor-concourse pressure around the 11,402 sign, black-line stewards blocking press extraction, and a routeholder observer testing Ira's distinction between grief and proof, raising the manuscript to 107,044 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 2 with the routeholder category table, green-ship color logic, Mara identity uncertainty, and lamp-log corroboration limits, raising the manuscript to 107,854 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 3 with temporary-order argument over untranslated records, nonverbal witness material, memorial-object limits, and category-neutrality warnings, raising the manuscript to 108,704 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 4 with provisional hold classification pressure, contested custody authority, automatic military-remnant assignment resistance, and salt-seal tamper-taste logic, raising the manuscript to 109,340 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 5 with Tamsin's refusal of oath-glove smoothing, dock-scorch scar retention, dignity-protocol limits, and gallery scar response, raising the manuscript to 109,911 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 6 with dead-air doctrine citation history, post-claimant environmental nullity, narrowed life-support continuity language, and Cinder Nine ecology constraints, raising the manuscript to 110,507 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 7 with model-field translation of people into delay costs, soft-mass terminology, and source-context preservation for routeholder and military acceptance records, raising the manuscript to 110,902 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 8 with waveform-identification harm limits, nonexclusive protected-minor handling, reversible masking doctrine, and review-condition safeguards for child-associated audio, raising the manuscript to 111,378 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 9 with public-correction template rejection, harm-mitigation language choices, and the distinction between truth timing and public safety during the concourse riot, raising the manuscript to 111,705 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 10 with distributed-custody appearance fields, local custody edge handling, enforcement-mode limits, and nonstandard appearance coding for Oriole-of-Archive, raising the manuscript to 112,074 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 11 with layered beneficiary-map schema, confidence tags, contested-causality handling, and repair-without-blame obligation distinctions, raising the manuscript to 112,491 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 12 with Daven consolidation-use mapping, tribunal comfort risk, true-culpability guardrails, and self-exemption-by-beneficiaries handling, raising the manuscript to 112,870 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 13 with assumption-failure map guardrails, prevented-assumption limits, uncertainty-handling language, and anti-summary exhibit rules, raising the manuscript to 113,195 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 14 with hardcopy authority warnings, obsolete command-deference risk, preserve-only handling, and destruction-hold logic before Om's old signature is opened, raising the manuscript to 113,562 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 15 with routeholder memorial context tags, sincere-grief and defensive-frame separation, and redundancy protections for contested meaning, raising the manuscript to 113,757 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 16 with nonstandard arrival handling, failure-to-appear category rejection, manual clock-compliance hold, and staggered-presence status protection for Sera Venn-3, raising the manuscript to 114,090 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 17 with claim-type responsive questioning, technical-question harm analysis, and reliability-testing limits for Sera's layered testimony, raising the manuscript to 114,361 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 18 with oath-suite assumption exposure, stacked-waiver fraud risk, and reliability logic for damaged layered testimony, raising the manuscript to 114,607 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 19 with drift-state preservation, clock-normalization objections, and chain-of-custody logic for unsynchronized time evidence, raising the manuscript to 115,121 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 20 with hidden-dependency validation, command pulse custody questions, and civil-logistics derivative exposure for the second clock, raising the manuscript to 115,662 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 21 with relevance-frame argument, protected-navigation preservation scope, and the distinction between emergency labels and public truth, raising the manuscript to 116,114 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 22 with station-mother sleeve ledger testimony, local name custody, and limited-purpose authentication of dependent category conversion, raising the manuscript to 116,572 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 23 with the priority-exchange notice, original-versus-copy custody pressure, and berth-for-materials accounting in the salvage debt testimony, raising the manuscript to 116,913 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 24 with the reserve-magistrate conflict grid, replacement-authority analysis, and practical contamination logic for Om's recusal dispute, raising the manuscript to 117,205 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 25 with archive-taxonomy resistance, required human anchors, and protected-identity scope handling for the Quiet Directorate request, raising the manuscript to 117,554 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 26 with preservation receipt disclosures, external mirror pressure, and current-use status disputes after the Quiet Directorate extract, raising the manuscript to 117,852 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 27 with concrete stop conditions, exit language, and harm-trigger framing for Sera's revised witness protocol, raising the manuscript to 118,075 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 28 with a test-without-collapse question matrix, external evidence checks, and cross-examination translation rules for Sera's protected testimony, raising the manuscript to 118,331 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 29 with corridor oxygen map effects, registered/unregistered refresh-point triage, and evidence-first response pressure around public safety coercion, raising the manuscript to 118,535 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 30 with Lael Shun's limited expert foundation, false-completeness closure limits, and explicit non-validation boundaries, raising the manuscript to 118,749 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 31 with non-reconstruction trace testing, hash and pressure comparison limits, and preservation-versus-liability handling for the Orison refusal trace, raising the manuscript to 118,947 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 32 with Pell's terminology comparison ladder, evidence-address migration, and settlement-review closure effects, raising the manuscript to 119,243 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 33 with the stabilization-loss balancing column, delayed-claim-emergence language, and pre-damage priority criteria analysis, raising the manuscript to 119,513 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 34 with the continuity-preservation routing block, demilitarized-escort authority chain, and effect-versus-intent foundation for Sable Knife's hostile-boundary exception, raising the manuscript to 119,769 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 35 with Oriole's plural custody ledger proposal, strand-safe adversarial protocol, and resource-versus-personhood pressure in the Glassward continuity election dispute, raising the manuscript to 120,043 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 36 with the family viewing grid, knowledge-without-display option, and consent-preserving salvage hold review protocol, raising the manuscript to 120,332 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 37 with the Red Algorithm Echo example row, first-pass cluster classification, and appeal-drag correction trap, raising the manuscript to 120,522 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 38 with the what-survives-denial framework, present-duty dispute, and beneficiary-map transition after the failed sole-liability motion, raising the manuscript to 120,662 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 39 with practical production-scope examples, reserve-ledger and template disputes, and the direct-reliance limit in the inherited-benefit inquiry, raising the manuscript to 120,800 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 40 with Moonwake ring consent records, ration-depth costs, docking crew preparation, and child-restraint evidence for the held sanctuary space, raising the manuscript to 120,974 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 41 with the feed-cut sequence, audit-channel failure order, and forensic distinction between display damage and public-record blinding, raising the manuscript to 121,161 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 42 with a door reason ledger for lockdown closures, medical lanes, family consent-room choice, and routeholder sector holds, raising the manuscript to 121,422 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 43 with a conflict-grid review of recipient, controller, concealer, and present-user categories around Ira's family ration record, raising the manuscript to 121,738 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 44 with Inoya's boundary ledger, private-response waiver protections, and Om's record-handling rule that response is not remedy, raising the manuscript to 122,000 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 45 with a tolerance ladder for hard, soft, claimed, and absent time in the gate-sequence reconstruction, raising the manuscript to 122,254 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 46 with the final sensor review receipt path, no-survivor-notice acknowledgment, and preliminary-closure posture dispute, raising the manuscript to 122,479 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 47 with the MEC Seven routing tag, ACK-NO-DELAY meaning, and settlement authority limits around the rejected child acoustic bundle, raising the manuscript to 122,713 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 48 with Pell's retirement settlement clause grid and the usable-memory frame around narrowed military records, raising the manuscript to 122,868 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 49 with a survivor remedy demand that provisional care not require perfected identity records before emergency treatment, raising the manuscript to 123,056 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 50 with a subject, evidence, limit, and remedy-hook matrix for the distributed-responsibility findings, raising the manuscript to 123,181 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 51 with a beneficiary capacity matrix distinguishing incidental survival benefit, administrative custody benefit, and retained advantage with control, notice, and capacity, raising the manuscript to 123,374 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 52 with a testing-without-merger framework for challenging Sera's child-origin recording without compelling traumatic continuity performance, raising the manuscript to 123,495 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 53 with an exemption ledger distinguishing essential transit lanes from prestige clean-corridor privileges, raising the manuscript to 123,612 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 54 with family-choice custody options for returned salvage items where immediate transfer could itself cause harm, raising the manuscript to 123,810 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 55 with a public conflict-constraint ledger defining Om's permitted and restricted authority after his 2361 packet entered evidence, raising the manuscript to 123,913 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 56 with a refusal-protocol test that records family-delayed access as existing evidence rather than archival absence, raising the manuscript to 124,042 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 57 with a public glossary correction that preserves the harmful UCT abbreviation while replacing its access meaning with family-reviewed language, raising the manuscript to 124,160 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 58 with a Moonwake index handling grid separating public-safe, protected-technical, family-review, and carry-law materials, raising the manuscript to 124,275 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 59 with a revision calendar for escrow, archive access, Moonwake authentication, route privilege reassessment, and reportable breach handling, raising the manuscript to 124,382 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 60 with continuing orders that keep Cinder Gate remedies active after the final hearing day, raising the manuscript to 124,610 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 1 with a tribunal access-capacity scene that classifies a bereaved mother as an associated claimant before opening arguments, raising the manuscript to 124,836 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 2 with a local display translation sidecar showing insurance categories updating public routing lamps before the alarm, raising the manuscript to 125,033 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 3 with public translation preservation showing how access-language headings can narrow tribunal scope, raising the manuscript to 125,215 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 4 with a legacy acoustic pathway map showing how sealed evidence rooms can still expose records through Sable's old signal spine, raising the manuscript to 125,396 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 60 with a larger single-chapter post-verdict implementation sequence covering return intake, salvage inventory review, category plain-language correction, Sera's archive field dispute, and the first noncompliant routeholder certification, raising the manuscript to 127,232 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 60 with a second larger single-chapter implementation sequence covering the first failed repair route, limited destination witness authority, provisional care for damaged family records, and a dual name custody request, raising the manuscript to 130,145 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 60 with a third larger single-chapter implementation sequence covering escrow variance tactics, emergency release authority, Appeals Ring stay response, second-stage repair launch, and the category plain-language ledger, raising the manuscript to 132,237 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 60 with a fourth larger single-chapter implementation sequence covering the Cinder-linked surrender corridor, remains-adjacent protocol, Moonwake observation, Cinder Nine schoolroom wall necessity decision, and overnight compliance summary, raising the manuscript to 134,747 words while preserving 60 chapters.
+- Expanded Book 8 Chapter 60 with a final larger single-chapter dawn review sequence covering Appeals Ring implementation limits, ordered-party self-audit preservation, anonymous routeholder notices, returning repair witness protection, and dust protocol handling, raising the manuscript to 140,000 words while preserving 60 chapters; rebuilt the Book 8 EPUB.
+- Expanded Book 9 Chapter 60 with a larger single-chapter assembly sequence establishing the unknowns docket, delayed-duty method, inherited unanswered duties, Orison support-relation handling, and process-delay cost tracking, raising the manuscript to 101,344 words while preserving 60 chapters.
+- Expanded Book 9 Chapter 60 with a larger single-chapter participation burden protocol sequence covering meal access, operational absence, delayed challenge rights, youth observer safeguards, and remote resource strain, raising the manuscript to 102,439 words while preserving 60 chapters.
+- Expanded Book 9 Chapter 60 with a larger single-chapter public language protocol sequence rejecting a symbolic merger banner and defining consent, non-merger, youth-language, and simplification safeguards, raising the manuscript to 103,326 words while preserving 60 chapters.
+- Expanded Book 9 Chapter 60 with a larger single-chapter counter-display protocol sequence around contested youth labels, classroom primers, adult discomfort, and child-facing public memory rules, raising the manuscript to 105,466 words while preserving 60 chapters.
+- Expanded Book 9 Chapter 60 with a larger single-chapter field-test sequence for the covenant primer, including classroom access layers, the washer model, a routeholder family dispute, and educational accommodation limits, raising the manuscript to 107,553 words while preserving 60 chapters.
+- Expanded Book 9 Chapter 60 with a larger single-chapter emergency compression sequence testing the covenant against a Mars medical convoy, routeholder capacity release, Orison relation conditions, survivor-body consultation, and ugly public reporting, raising the TXT-derived manuscript count to 107,980 words while preserving 60 chapters.
+- Finalized Book 9 at the user-approved 110,000-word target with additional Chapter 60 closing material around maintenance conversion, corridor repair, and material consequences; marked Book 9 complete and rebuilt the EPUB from the final TXT.
+- Book 7 outline is complete with 60 planned chapters.
+- Book 7 English manuscript is complete at 140,042 words across 60 chapters.
+- Book 7 metadata exists with status `complete_txt_epub_available`.
+- Drafted Book 7 Chapter 1: The Basin That Voted in Bodies
+- Drafted Book 7 Chapter 2: Salt-Change Tide
+- Drafted Book 7 Chapter 3: Third-Voice Receives Three Disagreements
+- Drafted Book 7 Chapter 4: Lael Shun Brings Deadlines
+- Drafted Book 7 Chapter 5: The Vote That Would Not Release
+- Drafted Book 7 Chapter 6: No Word for Unanimous
+- Drafted Book 7 Chapter 7: Salt-Before-Shell Withdraws a Limb
+- Drafted Book 7 Chapter 8: Keeps-Water-Calm Refuses Praise
+- Drafted Book 7 Chapter 9: Aven Rusk Counts the Hours
+- Drafted Book 7 Chapter 10: The First Exchange Witness
+- Drafted Book 7 Chapter 11: Oru-Kel Hears the Boundary Again
+- Drafted Book 7 Chapter 12: Treaty Parties Do Not Have Bones
+- Drafted Book 7 Chapter 13: The Minority That Stayed Warm
+- Drafted Book 7 Chapter 14: Mira's Delayed Advice
+- Drafted Book 7 Chapter 15: Human Chairs in a Wet Chamber
+- Drafted Book 7 Chapter 16: Salt-Before-Shell Names the Injury
+- Drafted Book 7 Chapter 17: A Route Map With Teeth
+- Drafted Book 7 Chapter 18: Ren Misquotes a Tide
+- Drafted Book 7 Chapter 19: The Chamber Corrects the Human
+- Drafted Book 7 Chapter 20: Lael's Necessary Lie
+- Drafted Book 7 Chapter 21: The Second Vote Body Cracks
+- Drafted Book 7 Chapter 22: No One Leaves Consensus Clean
+- Drafted Book 7 Chapter 23: Pale Arc in the Brine
+- Drafted Book 7 Chapter 24: The Routeholder Offer
+- Drafted Book 7 Chapter 25: Keeps-Water-Calm Shows the Scar
+- Drafted Book 7 Chapter 26: Ren Builds a Bad Record
+- Drafted Book 7 Chapter 27: Salt-Before-Shell Calls for Withdrawal
+- Drafted Book 7 Chapter 28: The Body That Wants to Remain Divided
+- Drafted Book 7 Chapter 29: Lael Crosses the Membrane
+- Drafted Book 7 Chapter 30: The Parliament Locks Its Doors
+- Drafted Book 7 Chapter 31: Debt of Safe Passage
+- Drafted Book 7 Chapter 32: Ren Reads Dock Seven
+- Drafted Book 7 Chapter 33: Third-Voice Loses One Voice
+- Drafted Book 7 Chapter 34: The Untranslated Session
+- Drafted Book 7 Chapter 35: Aven Breaks the Quiet
+- Drafted Book 7 Chapter 36: Salt in the Relays
+- Drafted Book 7 Chapter 37: Oru-Kel Names the Older Warning
+- Drafted Book 7 Chapter 38: Lael Burns Her Clean Clause
+- Drafted Book 7 Chapter 39: The Third Vote Body Refuses Service
+- Drafted Book 7 Chapter 40: Ren's Multi-State Witness
+- Drafted Book 7 Chapter 41: Keeps-Water-Calm Tests the Human
+- Drafted Book 7 Chapter 42: Aven's Private Corridor
+- Drafted Book 7 Chapter 43: The Salt Parliament Divides
+- Drafted Book 7 Chapter 44: Third-Voice Chooses Painful Continuity
+- Drafted Book 7 Chapter 45: The Withdrawal Vote Begins
+- Drafted Book 7 Chapter 46: Human Need Enters the Water
+- Drafted Book 7 Chapter 47: The Minority Holds a Chamber
+- Drafted Book 7 Chapter 48: Ren Refuses Final Translation
+- Drafted Book 7 Chapter 49: Lael Signs a Delay
+- Drafted Book 7 Chapter 50: Aven Runs the Bypass
+- Drafted Book 7 Chapter 51: Boundary Wake
+- Drafted Book 7 Chapter 52: The Basin Answers Together
+- Drafted Book 7 Chapter 53: Salt-Before-Shell Saves a Human Ship
+- Drafted Book 7 Chapter 54: A Vote With Refusal Inside It
+- Drafted Book 7 Chapter 55: Third-Voice Restored Unevenly
+- Drafted Book 7 Chapter 56: The Shoals Compact Draft
+- Drafted Book 7 Chapter 57: No Signature Owns the Water
+- Drafted Book 7 Chapter 58: Salt-Before-Shell Remains Apart
+- Drafted Book 7 Chapter 59: Oru-Kel Sends the Warning Forward
+- Drafted Book 7 Chapter 60: The Salt Parliament
+- Book 7 chapter sequence validates from Chapter 1 through Chapter 60 with no missing or duplicate chapter numbers.
+- Book 7 self-edit scans found no production placeholders or meta-text requiring removal.
+- Book 7 duplicate-word scan found one false positive across the Chapter 52 title boundary; no manuscript correction required.
+- Book 7 English cover exists as a 1600x2560 PNG.
+- Book 7 English EPUB exists, includes the cover image, and contains 60 chapter XHTML files plus navigation.
+- Expanded Book 7 Chapter 1 with calibration, prior treaty-record injury, and medical convoy pressure scenes, raising the manuscript to 84,765 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 2 with Tamsin's salt-change exposure, emergency record revocation, and container-level urgency disclosure pressure, raising the manuscript to 85,943 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 3 with Third-Voice's speaker-body stress event, a failed no-consensus machine classification, and internal refusal gate treaty anatomy, raising the manuscript to 87,198 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 4 with convoy composition disclosure, separation of emergency need from bundled commercial cargo, and Lael's visible accountability choice, raising the manuscript to 88,304 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 5 with vessel-kin care, misuse risk around routeholder analogy, and the distinction between stability and release, raising the manuscript to 89,517 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 6 with route office classification failure, the misleading Other field, and Lael's exception-authority workaround, raising the manuscript to 90,619 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 7 with a contested route office summary, correction bundle, and refusal to reduce body cost to symbolic self-injury, raising the manuscript to 91,406 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 8 with Pelagos post-injunction protection, permit, expertise, and gratitude layers, raising the manuscript to 91,901 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 9 with risk-bridge fields, no-precedent and no-commercial-attachment constraints, and partially named care-passage cost, raising the manuscript to 92,738 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 10 with witness feedback, empty-center exchange structure, and non-retroactive amber boundary response, raising the manuscript to 93,440 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 11 with a boundary pressure map, private bypass pricing propagation, and restricted non-navigational map handling, raising the manuscript to 94,002 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 12 with relational address dry-run, scale-split notice handling, and software contract-language correction, raising the manuscript to 94,679 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 13 with closure-path audit, cross-system export mapping loss, and untranslated metabolized status repair, raising the manuscript to 95,316 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 14 with Mira Cael's failure annotations, an interpretive debt label for medical transit authorization, and institutional burden continuity, raising the manuscript to 96,334 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 15 with raw dictation during a human maintenance interval, mixed-chamber position-weight disclosure, and role-based bodily accountability, raising the manuscript to 97,395 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 16 with a relational uncertainty slowdown simulation, unidentified-cost failure mode, and unsettled-obligation route accounting, raising the manuscript to 98,453 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 17 with pressure consolidation on a blind-backed route model, adverse reliance notice language, and boundary witness channel limits, raising the manuscript to 99,515 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 18 with field-specific human-origin source correction, optional care-passage status handling, and safeguards against requiring Orison confirmation for human gloss errors, raising the manuscript to 100,302 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 19 with local-first witness gloss promotion gates, derivative warning handling, and a sealed dummy-gloss test, raising the manuscript to 100,951 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 20 with the Compact office's good-faith discretion reclassification attempt, contested self-report routing, and active-authority continuance, raising the manuscript to 101,661 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 21 with reduced-witness audit shell, reopening authority, and a market live-stress-feed denial test, raising the manuscript to 102,327 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 22 with a no-clean-exit export guard, blocked clean-consensus summaries, and carrier fields for active remainders, raising the manuscript to 102,945 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 23 with a coordinated relation test against the remaining Pale Arc-adjacent private route model, gray-pool migration handling, and derivative stripping evidence, raising the manuscript to 103,722 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 24 with a routeholder instrument limit statement, socket-risk boundaries, and emergency courtesy packet release conditions, raising the manuscript to 104,563 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 25 with the harmful human-spine witness draft, Beryl comment-window correction, and distributed exposure structure for trace review, raising the manuscript to 105,468 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 26 with the anti-spine trace revision, noninjury limits, and workflow conversion guard attached to the failed witness draft, raising the manuscript to 106,120 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 27 with division-presence conditions, withdrawal inventory export guards, and a paused withdrawal motion that does not erase the withdrawal current, raising the manuscript to 106,837 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 28 with Lael's command-shedding declaration, contested identity-token handling, and division-presence approach permission, raising the manuscript to 107,594 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 29 with sealed-deliberation status handling, mixed noncommand life-safety reporting, and speculative query pressure recording, raising the manuscript to 108,418 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 30 with locked-room pressure-channel inventory, absence-urgency constraints, and diagnostic-only seal limits, raising the manuscript to 109,717 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 31 with storm-egg form procedure, routeholder waiver terms, and small-form dry-chain limits, raising the manuscript to 110,591 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 32 with Dock Seven root-harm evidence, non-erasure conditions, and chamber-led naming limits for Third-Voice unevenness, raising the manuscript to 111,539 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 33 with anti-category external status handling, named manual override risk, and protected-deliberation limits, raising the manuscript to 112,489 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 34 with unfinished dry-glass contact, held green-black absence, and divided exposure without forced repair, raising the manuscript to 113,308 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 35 with the routeholder advisory path, ethical-decoration failure, and automated liability mirror distortion, raising the manuscript to 113,886 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 36 with relay drag, response bundle ranking failures, and limited convoy fact counter-signal language, raising the manuscript to 114,655 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 37 with passable-violation operational chain and stable-party receiver-socket risk, raising the manuscript to 115,029 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 38 with visible dry-chain sender exposure and recipe-control limits for the private tooth root map, raising the manuscript to 115,507 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 39 with outer consent, inner continuity, entry-boundary, and emergency-exit conditions for the third vote body, raising the manuscript to 116,078 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 40 with multi-state witness carrier-suspension edge tests and designed-pressure limits, raising the manuscript to 116,652 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 41 with private corridor temporary-claim exit limits and routed-around relation termination rights, raising the manuscript to 116,950 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 42 with distributed stable-party recreation across corridor features and Rusk advisory-omission accountability, raising the manuscript to 117,301 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 43 with local-truth limits, distributed refusal, and noes that stand without becoming a single answer, raising the manuscript to 117,682 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 44 with visible support conditions for Third-Voice and cost-at-edge threshold marks before withdrawal count, raising the manuscript to 118,261 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 45 with cost-exchange weight, relief edges after the safe-passage convoy, and safeguards against treating relief as proof, raising the manuscript to 118,836 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 46 with protected minority basin procedure, forewarned misuse records, and refusal-to-be-useful chamber hold, raising the manuscript to 119,436 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 47 with accepted oversight status traps, costed no-final-translation refusal, and invalid-status transmission constraints, raising the manuscript to 119,975 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 48 with contamination-notice clause tests, no-health-certificate language, care-continuity protections, and withdrawal-count boundaries, raising the manuscript to 120,478 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 49 with delay-witness limits, nonbinding routeholder advisory mechanics, and price-response passable violation before physical entry, raising the manuscript to 120,928 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 50 with boundary-wake misuse risk, market option-value continuation, and common-alarm-not-consensus safeguards, raising the manuscript to 121,401 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 51 with coordinated-dampening limits, non-consensus capacity safeguards, and no-recipe constraints for the wake response, raising the manuscript to 121,804 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 52 with human-ship need limits, safe-vector authority hooks, and no-owner incident-response constraints, raising the manuscript to 122,184 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 53 with post-rescue gratitude limits, changed-body cost, and no-purity records for withdrawal, humans, routeholders, and boundary warning, raising the manuscript to 122,733 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 54 with export-classification refusals for the relation-vote with visible refusal, raising the manuscript to 122,993 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 55 with coequal damaged-witness archive conditions, certified chamber playback requirements, and reading-is-not-hearing constraints, raising the manuscript to 123,366 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 56 with relation-participant entry conditions, standard party-field validation failure, and archive-scar protections, raising the manuscript to 123,951 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 57 with public-summary misuse limits for the no-signature filing sentence and no-access-governing-noun constraints, raising the manuscript to 124,234 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 58 with operational apartness states for withdrawal relation notice, archive, training, and harm-condition proximity, raising the manuscript to 124,470 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 59 with carried-warning receiver obligations, non-modeling limits, and review-condition protections, raising the manuscript to 124,738 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 60 with provisional filing exception records, early external responses, and no-stability-claim language, raising the manuscript to 125,071 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 1 in the second scene-development pass with machine-label audit pressure, nonvoting-category rejection, and first-record contamination safeguards, raising the manuscript to 125,519 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 2 in the second scene-development pass with routeholder urgency disclosure, medical decay windows, and bundled nonmedical cargo separation, raising the manuscript to 125,804 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 3 in the second scene-development pass with unsafe continuity-statement options, care-passage review language, and receiver-socket ownership safeguards, raising the manuscript to 126,230 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 4 in the second scene-development pass with a deferred-commercial-cargo addendum that blocks operational-review reclassification, raising the manuscript to 126,424 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 5 in the second scene-development pass with public-record guardrails against citing vessel-kin care as private route stabilization precedent, raising the manuscript to 126,609 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 6 in the second scene-development pass with downstream receiver-tag previews, first-tag precedent risk, and medical authority-note safeguards, raising the manuscript to 128,433 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 7 in the second scene-development pass with derivative misclassification propagation, source-quarantine handling, witness-adjacency evidence, and insurer-feed correction pressure, raising the manuscript to 130,351 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 8 in the second scene-development pass with public-communications praise refusal, no-confidence/no-risk function boundaries, and Pelagos witness limitation handling, raising the manuscript to 131,839 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 9 in the second scene-development pass with contractor hold statuses, unoffset bridge pressure, nonrecovery limits, and recipient-linked subsistence cargo constraints, raising the manuscript to 133,114 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 10 in the second scene-development pass with restricted witness certification, negative authorization exhibits, appeal flags, and witness burden record handling, raising the manuscript to 134,317 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 11 in the second scene-development pass with advisory-fragment tracing, line-free pressure briefs, restricted geometry-release rules, and supervised-query handling, raising the manuscript to 135,735 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 12 in the second scene-development pass with scale-split notice testing, nonresponse sanction guards, routing-confidence labels, and false-silence export correction, raising the manuscript to 136,715 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 13 in the second scene-development pass with retroactive mapping audit, targeted correction notices, care-passage clarification, and body-first limits on reopening metabolized positions, raising the manuscript to 138,052 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 14 in the second scene-development pass with interpretive-debt receiver testing, pilot-facing notes, guarantor conditions, archive use limits, and routeholder office covenant handling, raising the manuscript to 139,017 words while preserving 60 chapters.
+- Expanded Book 7 Chapter 15 in the second scene-development pass with chamber-condition addendum routing, convoy-command context, mixed-chamber standards exception handling, and witness-maintenance procedure language, raising the manuscript to 140,042 words while preserving 60 chapters.
+- Rebuilt the Book 7 EPUB after the completed expansion.
+- Book 8 outline is complete with 60 planned chapters.
+- Book 8 English manuscript is complete at 106,374 words across 60 chapters.
+- Book 8 metadata exists with status `complete_txt_epub_available`.
+- Drafted Book 8 Chapter 1: The Tribunal Opens in Ash
+- Drafted Book 8 Chapter 2: A Gate Failure With Too Many Clocks
+- Drafted Book 8 Chapter 3: Magistrate Om Names Procedure
+- Drafted Book 8 Chapter 4: Vela Cho Brings a Salt-Sealed Record
+- Drafted Book 8 Chapter 5: The Salvage Captain's Hands
+- Drafted Book 8 Chapter 6: No One Owns the Dead Air
+- Drafted Book 8 Chapter 7: Nadir Pell Remembers the Window
+- Drafted Book 8 Chapter 8: A Child in the Maintenance Duct
+- Drafted Book 8 Chapter 9: The First Recess Riot
+- Drafted Book 8 Chapter 10: Glassward Custody Refused
+- Drafted Book 8 Chapter 11: Ira Learns the Beneficiary Chain
+- Drafted Book 8 Chapter 12: The Ash Belt Hates a Clean Villain
+- Drafted Book 8 Chapter 13: Vela Crops Nothing
+- Drafted Book 8 Chapter 14: Magistrate Om's Old Signature
+- Drafted Book 8 Chapter 15: The Routeholder Prayer
+- Drafted Book 8 Chapter 16: Sera Venn-3 Appears Late
+- Drafted Book 8 Chapter 17: Cross-Examination of a Fork
+- Drafted Book 8 Chapter 18: The Court Cannot Swear a Chorus
+- Drafted Book 8 Chapter 19: Oru-Kel's Carried Warning Arrives
+- Drafted Book 8 Chapter 20: The Second Clock Was a Gate Pulse
+- Drafted Book 8 Chapter 21: Triage or Selection
+- Drafted Book 8 Chapter 22: Station Mothers of Cinder Nine
+- Drafted Book 8 Chapter 23: A Salvage Debt Comes Due
+- Drafted Book 8 Chapter 24: Om Refuses to Recuse
+- Drafted Book 8 Chapter 25: The Quiet Directorate File
+- Drafted Book 8 Chapter 26: Evidence With Teeth
+- Drafted Book 8 Chapter 27: Sera Splits Under Question
+- Drafted Book 8 Chapter 28: Ira Stops the Court
+- Drafted Book 8 Chapter 29: Public Order by Oxygen Ration
+- Drafted Book 8 Chapter 30: Lael Shun Under Censure
+- Drafted Book 8 Chapter 31: The Orison Refusal Trace
+- Drafted Book 8 Chapter 32: Pell's Necessary Lie
+- Drafted Book 8 Chapter 33: The Dead Were Scheduled Last
+- Drafted Book 8 Chapter 34: A Warship Without a War Returns
+- Drafted Book 8 Chapter 35: The Archive Wants a Verdict
+- Drafted Book 8 Chapter 36: Tamsin Opens the Salvage Hold
+- Drafted Book 8 Chapter 37: Children of the Red Algorithm Echo
+- Drafted Book 8 Chapter 38: Ira Loses the Simple Case
+- Drafted Book 8 Chapter 39: The Living Defendants Smile
+- Drafted Book 8 Chapter 40: Moonwake Holds Space
+- Drafted Book 8 Chapter 41: The Beneficiary Map Burns
+- Drafted Book 8 Chapter 42: Sable Array Locks Down
+- Drafted Book 8 Chapter 43: The Advocate Becomes Evidence
+- Drafted Book 8 Chapter 44: Om's Private Hearing
+- Drafted Book 8 Chapter 45: The Gate Sequence Reassembled
+- Drafted Book 8 Chapter 46: No Enemy Fire
+- Drafted Book 8 Chapter 47: The Witness They Needed Erased
+- Drafted Book 8 Chapter 48: Pell Breaks the Chain
+- Drafted Book 8 Chapter 49: The Ash Belt Refuses Applause
+- Drafted Book 8 Chapter 50: Judgment Cannot Be Singular
+- Drafted Book 8 Chapter 51: The Beneficiary Doctrine
+- Drafted Book 8 Chapter 52: Sera Chooses Standing
+- Drafted Book 8 Chapter 53: Routeholders Lose Their Clean Corridors
+- Drafted Book 8 Chapter 54: Salvage Becomes Restitution
+- Drafted Book 8 Chapter 55: Om Enters His Own Name
+- Drafted Book 8 Chapter 56: The Ash Archive Opens
+- Drafted Book 8 Chapter 57: Pell Walks Through the Crowd
+- Drafted Book 8 Chapter 58: Moonwake Receives the Proof
+- Drafted Book 8 Chapter 59: Ira Writes the Incomplete Verdict
+- Drafted Book 8 Chapter 60: Ashes of the Meridian
+- Book 8 chapter sequence validates from Chapter 1 through Chapter 60 with no missing or duplicate chapter numbers.
+- Book 8 self-edit scans found no production placeholders or meta-text requiring removal.
+- Book 8 duplicate-word scan found rhetorical dialogue and sentence-boundary repeats; three unclear adjacent repeats were corrected.
+- Book 8 English cover exists as a 1600x2560 PNG.
+- Book 8 English EPUB exists, includes the cover image, and contains 60 chapter XHTML files plus navigation.
+- Book 9 outline is complete with 60 planned chapters.
+- Book 9 English manuscript is complete at 99,568 words across 60 chapters.
+- Book 9 metadata exists with status `complete_txt_epub_available`.
+- Drafted Book 9 Chapter 1: The Ship Arrives Late
+- Drafted Book 9 Chapter 2: Tali Carries the First Refusal
+- Drafted Book 9 Chapter 3: Captain Mase Counts the Living
+- Drafted Book 9 Chapter 4: The Ash Archive Opens a Door
+- Drafted Book 9 Chapter 5: Earth Claims Welcome
+- Drafted Book 9 Chapter 6: Mars Names the Old Mission
+- Drafted Book 9 Chapter 7: Nema Lio Reads the Memory Clause
+- Drafted Book 9 Chapter 8: The Clean Command Proposal
+- Drafted Book 9 Chapter 9: Oru-Kel Refuses Extraction
+- Drafted Book 9 Chapter 10: The Descendants Vote No Home Yet
+- Drafted Book 9 Chapter 11: A Routeholder Offers Safety
+- Drafted Book 9 Chapter 12: Ira Brings Cinder Jurisdiction
+- Drafted Book 9 Chapter 13: The Warning Under Seal
+- Drafted Book 9 Chapter 14: Glassward Wants Consent Logs
+- Drafted Book 9 Chapter 15: Lael Shun Convenes the Broken Table
+- Drafted Book 9 Chapter 16: The First Model Fails Cleanly
+- Drafted Book 9 Chapter 17: Tali Learns What Home Means
+- Drafted Book 9 Chapter 18: Captain Mase Hides a Casualty Ledger
+- Drafted Book 9 Chapter 19: Ren Okoye Translates Refusal
+- Drafted Book 9 Chapter 20: The Memory Theft Map
+- Drafted Book 9 Chapter 21: A Child of Moonwake Defects
+- Drafted Book 9 Chapter 22: The Ash Belt Rejects Emergency Reverence
+- Drafted Book 9 Chapter 23: The Gate Pattern Remembers Fire
+- Drafted Book 9 Chapter 24: Valech Names Fragmentation the Enemy
+- Drafted Book 9 Chapter 25: Sera Venn-3 Answers Without Merging
+- Drafted Book 9 Chapter 26: The Routeholders Move Assets Again
+- Drafted Book 9 Chapter 27: Moonwake's Dead Demand Audit
+- Drafted Book 9 Chapter 28: Captain Mase Submits to Ship Law
+- Drafted Book 9 Chapter 29: Nema Breaks the Lio Inheritance
+- Drafted Book 9 Chapter 30: The Second Model Includes Refusal
+- Drafted Book 9 Chapter 31: Earth Threatens Quarantine
+- Drafted Book 9 Chapter 32: Mars Remembers REDLINE
+- Drafted Book 9 Chapter 33: The Orison Pattern Arrives Alive
+- Drafted Book 9 Chapter 34: The Clean Command Coalition Seizes a Relay
+- Drafted Book 9 Chapter 35: Tali Makes Refusal Public
+- Drafted Book 9 Chapter 36: Ira Files Against Salvation
+- Drafted Book 9 Chapter 37: The Lost Launch Order
+- Drafted Book 9 Chapter 38: Nema Names the First Theft
+- Drafted Book 9 Chapter 39: Mase Loses the Ship's Trust
+- Drafted Book 9 Chapter 40: Valech Offers One Door
+- Drafted Book 9 Chapter 41: The Covenant Draft Begins
+- Drafted Book 9 Chapter 42: No One Owns the Warning
+- Drafted Book 9 Chapter 43: The Convergence Opens Early
+- Drafted Book 9 Chapter 44: Conditional Authority Takes Command
+- Drafted Book 9 Chapter 45: A Route Must Be Left Unused
+- Drafted Book 9 Chapter 46: Moonwake Burns Its Old Claim
+- Drafted Book 9 Chapter 47: Glassward Carries the Consent Burden
+- Drafted Book 9 Chapter 48: Orison Keeps the Gate Listening
+- Drafted Book 9 Chapter 49: Ash Jurisdiction Holds the Margin
+- Drafted Book 9 Chapter 50: Valech Breaks Procedure
+- Drafted Book 9 Chapter 51: The Ship That Remembered Fire Refuses Fire
+- Drafted Book 9 Chapter 52: The Plural Route Opens
+- Drafted Book 9 Chapter 53: Not All Ships Arrive
+- Drafted Book 9 Chapter 54: The Coalition Faces Its Record
+- Drafted Book 9 Chapter 55: Tali Chooses Answerable Home
+- Drafted Book 9 Chapter 56: Mase Steps Down Under Law
+- Drafted Book 9 Chapter 57: Nema Opens the First Theft Archive
+- Drafted Book 9 Chapter 58: The Meridian Covenant Is Signed Unevenly
+- Drafted Book 9 Chapter 59: The Moon Does Not Become a Flag
+- Drafted Book 9 Chapter 60: The Moon That Remembered Fire
+- Book 9 chapter sequence validates from Chapter 1 through Chapter 60 with no missing or duplicate chapter numbers.
+- Book 9 self-edit scans found no production placeholders or meta-text requiring removal.
+- Book 9 duplicate-word scan found rhetorical dialogue and sentence-boundary repeats; no manuscript corrections were required.
+- Book 9 English cover exists as a 1600x2560 PNG.
+- Book 9 English EPUB exists, includes the cover image, and contains 60 chapter XHTML files plus navigation.
+- Series-wide validation confirms 10 TXT manuscripts, 10 EPUB files, 10 cover PNG files, 10 metadata JSON files, 10 outlines, a 10-row catalog, and a 10-row manifest.
+- Added final report at `The_Meridian_Cycle/reports/final_report.md`.
+- Book 1 outline is complete and ready for drafting.
+- Book 1 English manuscript is complete at 142,445 words across 60 chapters.
+- Book 1 English EPUB exists, includes the cover image, and contains 60 chapter XHTML files plus navigation.
+- Book 0 chapter sequence validates from Chapter 1 through Chapter 60 with no missing or duplicate chapter numbers.
+- Initial artifact scan found no production placeholders or meta-text requiring removal.
+- Duplicate-word scan found two issues; both were corrected.
+- Pass 2 terminology and typo scans found no additional manuscript corrections required.
+- Final Book 0 completion review passed.
+- Per-book EPUB conversion is active: export each completed book after its TXT manuscript passes validation.
+
+## Issues and Fixes
+
+- No prior project files existed in the workspace, so production began from an empty directory.
+- Corrected two self-edit pass 1 wording issues in Book 0: "did not not" and "dead count count."
+- Updated Book 4 outline continuity notes to remove obsolete 100-book numbering references.
+- Book 4 self-edit scans found no production placeholders or adjacent duplicate-word issues requiring manuscript changes.
+- The Meridian Cycle production run is complete from Book 0 through Book 9 through English EPUB export.
+
+## Next Action
+
+Book 9 is complete at the user-approved 110,000-word target. No further expansion is required unless requested.

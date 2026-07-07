@@ -1,0 +1,41 @@
+{
+  "title": "The Falconer's Knot",
+  "author": "Barış Kısır",
+  "model": "gpt-5.5",
+  "genre": "Medieval Mystery",
+  "subgenre": "Monastic Crime Fiction",
+  "language": "en",
+  "short_description": "A young novice with a falconer's eye for detail must unmask a killer stalking a remote Tuscan monastery in 1348.",
+  "long_description": "In the autumn of 1348, as the Black Death ravages the Italian peninsula, Matteo Corvaro — the disgraced son of a Florentine falconer — arrives at the Benedictine monastery of San Colombano, perched on a limestone cliff above the Arno valley. He has come to take vows, fleeing a murder accusation he cannot disprove. The abbot, Father Silvestro, accepts him on the condition that he serve as assistant to the aging librarian, Brother Anselmo.\n\nWithin days of Matteo's arrival, a monk is found dead in the scriptorium, a page of illuminated manuscript clutched in his stiffening hand. The local podestà refuses to investigate — plague is coming, and no magistrate will ride into the hills. Father Silvestro quietly asks Matteo to look into the matter, knowing the young man's sharp eyes and hunter's patience. As Matteo traces the connections between the dead monk, a controversial theological text, and a hidden vault beneath the chapter house, more deaths follow. Each victim is found with a falcon's feather — a detail that points uncomfortably back at Matteo himself.\n\nA taut, atmospheric medieval mystery about faith, guilt, and the fine line between the hunter and the hunted.",
+  "main_characters": [
+    "Matteo Corvaro",
+    "Father Silvestro",
+    "Brother Anselmo",
+    "Sister Beatrice",
+    "Giacomo the Cellarer",
+    "Brother Luca",
+    "Elia of Fiesole"
+  ],
+  "keywords": [
+    "medieval mystery",
+    "monastery",
+    "benedictine",
+    "tuscany",
+    "black death",
+    "falconry",
+    "scriptorium",
+    "murder",
+    "manuscript",
+    "14th century"
+  ],
+  "TXT_path": "books/The_Falconers_Knot/txt/The_Falconers_Knot.txt",
+  "EPUB_path": "books/The_Falconers_Knot/epub/The_Falconers_Knot.epub",
+  "cover_path": "books/The_Falconers_Knot/covers/The_Falconers_Knot.png",
+  "outline_path": "books/The_Falconers_Knot/planning/The_Falconers_Knot_outline.md",
+  "cover_script_path": "books/The_Falconers_Knot/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 14889
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "The Whaling Wife",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Nautical Historical",
+  "subgenre": "Historical Adventure",
+  "language": "en",
+  "short_description": "In 1845, a woman disguises herself as a man to join a whaling voyage in search of her husband who disappeared on the same ship a year earlier.",
+  "long_description": "Sarah Beckett wakes each morning in an empty bed. Her husband Thomas vanished a year ago on the whaling ship Mary Rose, and the shipping company claims he deserted at sea. When a cryptic letter arrives hinting at fraud and foul play, Sarah makes a desperate decision: she will cut her hair, bind her chest, and sign onto the Mary Rose as Samuel Beckett, a green hand seeking work.\n\nUnder the watchful eye of harpooner Eben Cole — who recognized her husband on the previous voyage — Sarah learns the brutal trade of whaling. She endures storms, hunts sperm whales, and navigates the close quarters of a ship full of men. But Captain Nye harbors a dark secret, and when Sarah uncovers the ledgers proving his fraud, the confrontation that follows sends both her and Cole into chains.\n\nA hurricane wrecks the ship, and the survivors drift across the Atlantic in an open boat. Sarah must choose between justice and survival, between the woman she was and the woman the sea has made her. The Whaling Wife is a story of grief, disguise, and the fierce determination of a woman who refused to stay home and wait.",
+  "main_characters": [
+    "Sarah Beckett — A Nantucket wife who disguises herself as a man to find her missing husband",
+    "Captain Nye — Master of the whaling ship Mary Rose, a thief and a murderer",
+    "Eben Cole — The ship's harpooner, who knew Thomas and protects Sarah's secret",
+    "Thomas Beckett — Sarah's husband, a navigator murdered for exposing fraud",
+    "Jenkins — A sailor who becomes Sarah's ally"
+  ],
+  "keywords": [
+    "nautical historical",
+    "whaling",
+    "disguise",
+    "Nantucket",
+    "19th century",
+    "sea adventure",
+    "historical fiction",
+    "woman disguised as man",
+    "whaling ship",
+    "Atlantic",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Whaling_Wife/txt/The_Whaling_Wife.txt",
+  "EPUB_path": "books/The_Whaling_Wife/epub/The_Whaling_Wife.epub",
+  "cover_path": "books/The_Whaling_Wife/covers/The_Whaling_Wife.png",
+  "outline_path": "books/The_Whaling_Wife/planning/The_Whaling_Wife_outline.md",
+  "cover_script_path": "books/The_Whaling_Wife/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12125
+  }
+}

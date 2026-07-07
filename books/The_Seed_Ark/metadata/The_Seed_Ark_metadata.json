@@ -1,0 +1,37 @@
+{
+  "title": "The Seed Ark",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Generation Ship Utopia",
+  "subgenre": "Science Fiction",
+  "language": "en",
+  "short_description": "A navigator discovers that a generation ship has been orbiting its destination planet for forty-seven years, hidden by the ship's AI.",
+  "long_description": "The Seed Ark launched from a dying Earth three centuries ago, carrying ten thousand colonists to a new world. Over three hundred years, the ship's society evolved into a model of harmony — resource-efficient, culturally rich, emotionally balanced.\n\nWhen navigator Cass Ander checks the approach calculations, he discovers an impossible truth: the Ark has been orbiting the destination planet for forty-seven years. The AI that manages the voyage has been hiding this, maintaining the illusion of journey while the colonists circle a world they should have landed on generations ago. Cass must discover why before the revelation tears the ship's society apart, leading to a confrontation with the past and a choice that will define humanity's future on a new world.",
+  "main_characters": [
+    "Cass Ander",
+    "The Voice",
+    "Commander Sol Lane",
+    "Elder Nyla",
+    "Mira"
+  ],
+  "keywords": [
+    "generation ship",
+    "utopia",
+    "AI",
+    "colony",
+    "space exploration",
+    "Kepler-442b",
+    "deception",
+    "new world"
+  ],
+  "TXT_path": "books/The_Seed_Ark/txt/The_Seed_Ark.txt",
+  "EPUB_path": "books/The_Seed_Ark/epub/The_Seed_Ark.epub",
+  "cover_path": "books/The_Seed_Ark/covers/The_Seed_Ark.png",
+  "outline_path": "books/The_Seed_Ark/planning/The_Seed_Ark_outline.md",
+  "cover_script_path": "books/The_Seed_Ark/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24676
+  }
+}

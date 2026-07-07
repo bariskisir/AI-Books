@@ -1,0 +1,38 @@
+{
+  "title": "The Iron Coast",
+  "number": 16,
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Adventure",
+  "subgenre": "Pirate / Swashbuckling",
+  "language": "en",
+  "target_word_count": null,
+  "planned_chapters": 50,
+  "short_description": "A disgraced naval officer turned pirate must unite the warring captains of the Iron Coast against an armada.",
+  "long_description": "Captain Rourke was a lieutenant in the Royal Navy until he refused an order to burn a surrendered sloop. Stripped of rank and sentenced to hang, he escapes with the help of Isabel Ventura, a shipwright whose father was murdered by the same admiral who condemned Rourke. Together, they must unite the warring pirate captains of the Iron Coast into a single fleet — before Admiral Graves and his twenty-three ships of the line erase the coast from history. A swashbuckling historical adventure about freedom, loyalty, and the price of building a republic from the decks of stolen ships.",
+  "main_characters": [
+    "Captain Rourke",
+    "Isabel Ventura",
+    "Silas the Navigator",
+    "Admiral Graves",
+    "Captain Sette",
+    "Captain Chen"
+  ],
+  "keywords": [
+    "pirate",
+    "historical adventure",
+    "swashbuckling",
+    "naval battle",
+    "republic",
+    "Caribbean"
+  ],
+  "TXT_path": "books/The_Iron_Coast/txt/The_Iron_Coast.txt",
+  "cover_path": "books/The_Iron_Coast/covers/The_Iron_Coast.png",
+  "EPUB_path": "books/The_Iron_Coast/epub/The_Iron_Coast.epub",
+  "word_count": 13084,
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13079
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "The Hound of Blackwood Lane",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Cozy Mystery",
+  "subgenre": "Cozy Mystery",
+  "language": "en",
+  "short_description": "A retired librarian turned bookshop owner investigates when a rare map disappears from the village's annual fete.",
+  "long_description": "Mina Hart, a retired librarian who now runs the bookshop The Turning Page in the village of Blackwood Lane, is drawn into a mystery when a sixteenth-century Portolan chart vanishes from the annual village fete in broad daylight. The map belongs to Edmund Thorne, a reclusive antiquities dealer who is hiding something about how he acquired it.\n\nAs Mina conducts her own quiet investigation alongside Inspector Graves and Constable Finch, she uncovers a web of rival collectors, old village grudges, and a decades-old fire at Hound Manor that some villagers would rather forget. The trail leads her through county archives, a derelict gamekeeper's cottage, and the tangled history of the Hound family, revealing secrets that have been buried for nearly forty years.\n\nThe Hound of Blackwood Lane is a literary cozy mystery about the weight of secrets, the cost of obsession, and the quiet resilience of a village that learns to heal.",
+  "main_characters": [
+    "Mina Hart",
+    "Inspector Arthur Graves",
+    "Edmund Thorne",
+    "Constable Daisy Finch",
+    "Leo Croft",
+    "Sylvia Pender",
+    "Frank Boswell",
+    "Rose Winter",
+    "Peter Ashby",
+    "Margaret Hound",
+    "Simon Hound"
+  ],
+  "keywords": [
+    "cozy mystery",
+    "fiction",
+    "novel",
+    "Barış Kısır",
+    "missing map",
+    "village mystery",
+    "bookshop",
+    "antique map",
+    "Portolan chart"
+  ],
+  "TXT_path": "books/The_Hound_of_Blackwood_Lane/txt/The_Hound_of_Blackwood_Lane.txt",
+  "EPUB_path": "books/The_Hound_of_Blackwood_Lane/epub/The_Hound_of_Blackwood_Lane.epub",
+  "cover_path": "books/The_Hound_of_Blackwood_Lane/covers/The_Hound_of_Blackwood_Lane.png",
+  "outline_path": "books/The_Hound_of_Blackwood_Lane/planning/The_Hound_of_Blackwood_Lane_outline.md",
+  "cover_script_path": "books/The_Hound_of_Blackwood_Lane/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10000
+  }
+}

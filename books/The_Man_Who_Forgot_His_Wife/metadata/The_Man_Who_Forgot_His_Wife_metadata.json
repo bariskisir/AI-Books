@@ -1,0 +1,42 @@
+{
+  "title": "The Man Who Forgot His Wife",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Amnesia Thriller",
+  "subgenre": "Psychological Thriller",
+  "language": "en",
+  "short_description": "A man wakes from a coma remembering everything except the last five years — his wife, his child, and the crime he committed.",
+  "long_description": "Daniel Cross wakes from a three-month coma after a car accident with a peculiar form of amnesia: he remembers everything from birth to age thirty-two, but the last five years are gone — wiped clean. In those missing years, he married a woman named Sarah, became a father to a little girl named Emma, and committed a crime that left a woman dead.\n\nAs Detective Patricia Reeves closes in, Daniel must reconstruct the man he became, confront the truth about his marriage, and decide whether a man who cannot remember his sins can still be held accountable for them. His search leads him to a hidden storage unit filled with evidence, a business partner named Marcus Webb who wants him silenced, and the devastating realization that he was the architect of a fraud that destroyed dozens of families.\n\nWhen Marcus threatens Sarah and Emma, Daniel agrees to wear a wire for the police. But the operation goes wrong, and Daniel is stabbed — waking in the hospital a second time with all his memories restored. Now he must face what he did, accept the consequences, and find a way to become the man his daughter deserves.",
+  "main_characters": [
+    "Daniel Cross — A 37-year-old architect who loses five years of memory after a car accident",
+    "Sarah Cross — Daniel's wife, who knew about his secrets but stayed",
+    "Detective Patricia Reeves — The detective investigating Linda Pearce's death",
+    "Emma Cross — Daniel's four-year-old daughter",
+    "Linda Pearce — The victim who confronted Daniel about his crimes",
+    "Marcus Webb — Daniel's business partner and the architect of the fraud scheme"
+  ],
+  "keywords": [
+    "amnesia thriller",
+    "psychological thriller",
+    "memory loss",
+    "crime",
+    "fraud",
+    "redemption",
+    "family drama",
+    "suspense",
+    "mystery",
+    "Barış Kısır",
+    "fiction",
+    "novel"
+  ],
+  "TXT_path": "books/The_Man_Who_Forgot_His_Wife/txt/The_Man_Who_Forgot_His_Wife.txt",
+  "EPUB_path": "books/The_Man_Who_Forgot_His_Wife/epub/The_Man_Who_Forgot_His_Wife.epub",
+  "cover_path": "books/The_Man_Who_Forgot_His_Wife/covers/The_Man_Who_Forgot_His_Wife.png",
+  "outline_path": "books/The_Man_Who_Forgot_His_Wife/planning/The_Man_Who_Forgot_His_Wife_outline.md",
+  "cover_script_path": "books/The_Man_Who_Forgot_His_Wife/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11556
+  }
+}

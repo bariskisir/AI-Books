@@ -1,0 +1,13 @@
+file,size_bytes
+planning/The_Deep_Between_Stars_outline.md,2864
+txt/The_Deep_Between_Stars.txt,70557
+epub/The_Deep_Between_Stars.epub,311645
+covers/The_Deep_Between_Stars.png,180929
+metadata/The_Deep_Between_Stars_metadata.json,789
+tools/build_epub.py,5696
+tools/create_cover.py,6080
+README.md,353
+reports/final_report.md,939
+reports/manifest.csv,481
+reports/progress.md,40
+Model,deepseek-v4-flash

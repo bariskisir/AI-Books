@@ -1,0 +1,12 @@
+file,path,size_bytes,notes
+outline,planning/The_Pearl_Lagoon_outline.md,,50-chapter outline with premise and cast
+manuscript,txt/The_Pearl_Lagoon.txt,109194,Full manuscript 50 chapters
+epub,epub/The_Pearl_Lagoon.epub,236357,EPUB 3 ebook
+cover,covers/The_Pearl_Lagoon.png,72239,Cover image 1600x2560
+metadata,metadata/The_Pearl_Lagoon_metadata.json,,Production metadata
+build_script,tools/build_epub.py,,EPUB build script
+cover_script,tools/create_cover.py,,Cover generation script
+readme,README.md,,Per-book README
+final_report,reports/final_report.md,,Production summary
+manifest,reports/manifest.csv,,This file
+progress,reports/progress.md,,Progress tracking

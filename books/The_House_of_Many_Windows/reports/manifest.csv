@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_House_of_Many_Windows/planning/The_House_of_Many_Windows_outline.md,,markdown,deepseek-v4-flash
+The_House_of_Many_Windows/txt/The_House_of_Many_Windows.txt,,text,deepseek-v4-flash
+The_House_of_Many_Windows/metadata/The_House_of_Many_Windows_metadata.json,,json,deepseek-v4-flash
+The_House_of_Many_Windows/tools/create_cover.py,,python,deepseek-v4-flash
+The_House_of_Many_Windows/covers/The_House_of_Many_Windows.png,160122,png,deepseek-v4-flash
+The_House_of_Many_Windows/tools/build_epub.py,,python,deepseek-v4-flash
+The_House_of_Many_Windows/epub/The_House_of_Many_Windows.epub,290499,epub,deepseek-v4-flash
+The_House_of_Many_Windows/README.md,,markdown,deepseek-v4-flash
+The_House_of_Many_Windows/reports/final_report.md,,markdown,deepseek-v4-flash
+The_House_of_Many_Windows/reports/manifest.csv,,csv,deepseek-v4-flash
+The_House_of_Many_Windows/reports/progress.md,,markdown,deepseek-v4-flash

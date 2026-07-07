@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Mapmakers_Dream/planning/The_Mapmakers_Dream_outline.md,0,markdown,deepseek-v4-flash
+The_Mapmakers_Dream/txt/The_Mapmakers_Dream.txt,63953,text,deepseek-v4-flash
+The_Mapmakers_Dream/metadata/The_Mapmakers_Dream_metadata.json,0,json,deepseek-v4-flash
+The_Mapmakers_Dream/tools/create_cover.py,0,python,deepseek-v4-flash
+The_Mapmakers_Dream/covers/The_Mapmakers_Dream.png,91862,png,deepseek-v4-flash
+The_Mapmakers_Dream/tools/build_epub.py,0,python,deepseek-v4-flash
+The_Mapmakers_Dream/epub/The_Mapmakers_Dream.epub,203510,epub,deepseek-v4-flash
+The_Mapmakers_Dream/README.md,0,markdown,deepseek-v4-flash
+The_Mapmakers_Dream/reports/final_report.md,0,markdown,deepseek-v4-flash
+The_Mapmakers_Dream/reports/manifest.csv,0,csv,deepseek-v4-flash
+The_Mapmakers_Dream/reports/progress.md,0,markdown,deepseek-v4-flash

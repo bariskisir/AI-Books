@@ -1,0 +1,12 @@
+file,size_bytes,status,model
+planning/The_Horse_Whisperers_Daughter_outline.md,2496,complete,deepseek-v4-flash
+txt/The_Horse_Whisperers_Daughter.txt,51028,complete,deepseek-v4-flash
+metadata/The_Horse_Whisperers_Daughter_metadata.json,1189,complete,deepseek-v4-flash
+tools/build_epub.py,7711,complete,deepseek-v4-flash
+tools/create_cover.py,10304,complete,deepseek-v4-flash
+covers/The_Horse_Whisperers_Daughter.png,237406,complete,deepseek-v4-flash
+epub/The_Horse_Whisperers_Daughter.epub,245175,complete,deepseek-v4-flash
+README.md,1204,complete,deepseek-v4-flash
+reports/final_report.md,1214,complete,deepseek-v4-flash
+reports/manifest.csv,492,complete,deepseek-v4-flash
+reports/progress.md,185,complete,deepseek-v4-flash

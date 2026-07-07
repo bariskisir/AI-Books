@@ -1,0 +1,37 @@
+{
+  "title": "The Fair Exchange",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Economic Utopia",
+  "subgenre": "Social Science Fiction",
+  "language": "en",
+  "short_description": "In a moneyless Commonwealth where trust is the only currency, a young archivist discovers that five percent of all contributions are fraudulent -- and that the lie may be the only thing holding society together.",
+  "long_description": "In the Commonwealth, there is no money. Every citizen's worth is measured by what they contribute -- food grown, children taught, houses built, songs sung. The contribution network tracks everything on carved river stones, and trust is the only currency. When young archivist Jory Vane discovers that a systematic fraud has been inflating contributions for fourteen years, she faces an impossible choice: expose the truth and shatter the trust that holds society together, or stay silent and watch the system rot from within.\n\nAs Jory traces the phantom contributions to a shadowy figure called the Giver, she uncovers a web of complicity reaching from her mentor Master Lena to the council itself. The fraud was born of desperation during a winter famine, but became permanent -- a fiction used to balance the books and hide the Commonwealth's growing deficit. Now Jory must navigate the consequences of truth in a society built on trust, watching as citizens blame, flee, and struggle to rebuild.\n\nThe Fair Exchange is a meditation on the nature of trust, the cost of compassionate lies, and whether a community can survive the truth about itself. Through Jory's journey from dutiful archivist to reluctant reformer, the novel asks what we owe each other when the system we depend on is built on fiction.",
+  "main_characters": [
+    "Jory Vane",
+    "Master Lena",
+    "Councilor Thorne",
+    "The Giver",
+    "Eli the Carpenter"
+  ],
+  "keywords": [
+    "trust network",
+    "contribution economy",
+    "economic utopia",
+    "community",
+    "barter",
+    "fraud",
+    "transparency",
+    "speculative fiction"
+  ],
+  "TXT_path": "books/The_Fair_Exchange/txt/The_Fair_Exchange.txt",
+  "EPUB_path": "books/The_Fair_Exchange/epub/The_Fair_Exchange.epub",
+  "cover_path": "books/The_Fair_Exchange/covers/The_Fair_Exchange.png",
+  "outline_path": "books/The_Fair_Exchange/planning/The_Fair_Exchange_outline.md",
+  "cover_script_path": "books/The_Fair_Exchange/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 14909
+  }
+}

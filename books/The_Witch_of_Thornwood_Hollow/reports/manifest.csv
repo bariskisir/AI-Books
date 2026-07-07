@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Witch_of_Thornwood_Hollow/planning/The_Witch_of_Thornwood_Hollow_outline.md,,markdown,deepseek-v4-flash
+The_Witch_of_Thornwood_Hollow/txt/The_Witch_of_Thornwood_Hollow.txt,,text,deepseek-v4-flash
+The_Witch_of_Thornwood_Hollow/metadata/The_Witch_of_Thornwood_Hollow_metadata.json,,,deepseek-v4-flash
+The_Witch_of_Thornwood_Hollow/tools/create_cover.py,,python,deepseek-v4-flash
+The_Witch_of_Thornwood_Hollow/covers/The_Witch_of_Thornwood_Hollow.png,166964,png,deepseek-v4-flash
+The_Witch_of_Thornwood_Hollow/tools/build_epub.py,,python,deepseek-v4-flash
+The_Witch_of_Thornwood_Hollow/epub/The_Witch_of_Thornwood_Hollow.epub,273272,epub,deepseek-v4-flash
+The_Witch_of_Thornwood_Hollow/README.md,,markdown,deepseek-v4-flash
+The_Witch_of_Thornwood_Hollow/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Witch_of_Thornwood_Hollow/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Witch_of_Thornwood_Hollow/reports/progress.md,,markdown,deepseek-v4-flash

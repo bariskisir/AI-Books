@@ -1,0 +1,12 @@
+file,size_bytes,type,model
+The_Lost_Aisle/README.md,208,text/markdown,deepseek-v4-flash
+The_Lost_Aisle/covers/The_Lost_Aisle.png,73540,image/png,deepseek-v4-flash
+The_Lost_Aisle/epub/The_Lost_Aisle.epub,198925,application/epub+zip,deepseek-v4-flash
+The_Lost_Aisle/metadata/The_Lost_Aisle_metadata.json,1026,application/json,deepseek-v4-flash
+The_Lost_Aisle/planning/The_Lost_Aisle_outline.md,4358,text/markdown,deepseek-v4-flash
+The_Lost_Aisle/reports/final_report.md,1146,text/markdown,deepseek-v4-flash
+The_Lost_Aisle/reports/manifest.csv,371,text/csv,deepseek-v4-flash
+The_Lost_Aisle/reports/progress.md,28,text/markdown,deepseek-v4-flash
+The_Lost_Aisle/tools/build_epub.py,7011,text/x-python,deepseek-v4-flash
+The_Lost_Aisle/tools/create_cover.py,7346,text/x-python,deepseek-v4-flash
+The_Lost_Aisle/txt/The_Lost_Aisle.txt,68250,text/plain,deepseek-v4-flash

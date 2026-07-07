@@ -1,0 +1,16 @@
+{
+  "title": "The Echo Thief",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "language": "en",
+  "word_count": 24954,
+  "chapter_count": 50,
+  "TXT_path": "books\\The_Echo_Thief\\txt\\The_Echo_Thief.txt",
+  "EPUB_path": "books\\The_Echo_Thief\\epub\\The_Echo_Thief.epub",
+  "cover_path": "books\\The_Echo_Thief\\covers\\The_Echo_Thief.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24950
+  }
+}

@@ -1,0 +1,11 @@
+file,path
+outline,planning/The_Lantern_Index_outline.md
+manuscript,txt/The_Lantern_Index.txt
+metadata,metadata/The_Lantern_Index_metadata.json
+cover_script,tools/create_cover.py
+cover_image,covers/The_Lantern_Index.png
+epub_builder,tools/build_epub.py
+epub,epub/The_Lantern_Index.epub
+book_readme,README.md
+final_report,reports/final_report.md
+progress,reports/progress.md

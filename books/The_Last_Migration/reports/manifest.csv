@@ -1,0 +1,12 @@
+path,type,size_bytes,description,model
+The_Last_Migration/planning/The_Last_Migration_outline.md,planning,2483,Outline with premise,deepseek-v4-flash, and 50 chapter plan
+The_Last_Migration/txt/The_Last_Migration.txt,manuscript,72350,Full manuscript — 50 chapters,deepseek-v4-flash
+The_Last_Migration/metadata/The_Last_Migration_metadata.json,metadata,1234,Book metadata in JSON format,deepseek-v4-flash
+The_Last_Migration/tools/create_cover.py,script,7419,PIL-based cover generation script,deepseek-v4-flash
+The_Last_Migration/tools/build_epub.py,script,5799,EPUB 3 build script,deepseek-v4-flash
+The_Last_Migration/covers/The_Last_Migration.png,cover,56978,1600x2560 PNG cover image,deepseek-v4-flash
+The_Last_Migration/epub/The_Last_Migration.epub,epub,180533,EPUB 3 ebook with all 50 chapters,deepseek-v4-flash
+The_Last_Migration/README.md,documentation,272,Book README with cover and download link,deepseek-v4-flash
+The_Last_Migration/reports/final_report.md,report,953,Final report summary,deepseek-v4-flash
+The_Last_Migration/reports/manifest.csv,report,655,File manifest (this file),deepseek-v4-flash
+The_Last_Migration/reports/progress.md,report,29,Chapter completion status,deepseek-v4-flash

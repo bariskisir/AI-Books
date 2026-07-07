@@ -1,0 +1,36 @@
+{
+  "TXT_path": "books/The_Wrecking_Coast/txt/The_Wrecking_Coast.txt",
+  "keywords": [
+    "shipwreck",
+    "Ireland",
+    "survival",
+    "Atlantic",
+    "coastal adventure",
+    "smuggling",
+    "winter storm"
+  ],
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "short_description": "When the MV Sea Venture founders off the deadly coast of County Clare, eight survivors must fight the Atlantic winter and their own secrets to survive.",
+  "title": "The Wrecking Coast",
+  "subgenre": "Shipwreck Survival",
+  "long_description": "When the aging cargo vessel MV Sea Venture founders in a fierce Atlantic winter storm off the coast of County Clare, eight survivors wash ashore on a remote stretch of Ireland's deadly Wrecking Coast. Led by Finn O'Malley, a former naval rescue diver haunted by a past failure, the group must navigate treacherous cliffs, sea caves, and dwindling supplies as winter storms cut off all hope of rescue. As weeks pass, tensions erupt over food, leadership, and the dark secret cargo the ship was carrying — priceless Celtic antiquities being smuggled out of Ireland. The survivors must find a way to signal for help before the coast claims them one by one.",
+  "EPUB_path": "books/The_Wrecking_Coast/epub/The_Wrecking_Coast.epub",
+  "status": "completed",
+  "main_characters": [
+    "Finn O'Malley",
+    "Dr. Cara Sheridan",
+    "Elena Vasquez",
+    "Liam Brody",
+    "Seamus Caulfield"
+  ],
+  "language": "en",
+  "genre": "Coastal Adventure",
+  "word_count": 26131,
+  "chapter_count": 50,
+  "cover_path": "books/The_Wrecking_Coast/covers/The_Wrecking_Coast.png",
+  "stats": {
+    "total_chapters": 49,
+    "total_words": 26131
+  }
+}

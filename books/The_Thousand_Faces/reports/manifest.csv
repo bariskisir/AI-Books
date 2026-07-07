@@ -1,0 +1,12 @@
+file,path,size_bytes,status
+outline,books/The_Thousand_Faces/planning/The_Thousand_Faces_outline.md,,complete
+manuscript,books/The_Thousand_Faces/txt/The_Thousand_Faces.txt,,complete
+metadata,books/The_Thousand_Faces/metadata/The_Thousand_Faces_metadata.json,,complete
+cover,books/The_Thousand_Faces/covers/The_Thousand_Faces.png,110071,complete
+epub,books/The_Thousand_Faces/epub/The_Thousand_Faces.epub,,complete
+build_epub,books/The_Thousand_Faces/tools/build_epub.py,,complete
+create_cover,books/The_Thousand_Faces/tools/create_cover.py,,complete
+final_report,books/The_Thousand_Faces/reports/final_report.md,,complete
+manifest,books/The_Thousand_Faces/reports/manifest.csv,,complete
+progress,books/The_Thousand_Faces/reports/progress.md,,complete
+readme,books/The_Thousand_Faces/README.md,,complete

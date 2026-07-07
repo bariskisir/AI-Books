@@ -1,0 +1,12 @@
+file,status
+books/The_Color_of_Eight_Thoughts/planning/The_Color_of_Eight_Thoughts_outline.md,complete
+books/The_Color_of_Eight_Thoughts/txt/The_Color_of_Eight_Thoughts.txt,complete
+books/The_Color_of_Eight_Thoughts/covers/The_Color_of_Eight_Thoughts.png,complete
+books/The_Color_of_Eight_Thoughts/epub/The_Color_of_Eight_Thoughts.epub,complete
+books/The_Color_of_Eight_Thoughts/metadata/The_Color_of_Eight_Thoughts_metadata.json,complete
+books/The_Color_of_Eight_Thoughts/tools/build_epub.py,complete
+books/The_Color_of_Eight_Thoughts/tools/create_cover.py,complete
+books/The_Color_of_Eight_Thoughts/reports/final_report.md,complete
+books/The_Color_of_Eight_Thoughts/reports/manifest.csv,complete
+books/The_Color_of_Eight_Thoughts/reports/progress.md,complete
+books/The_Color_of_Eight_Thoughts/README.md,complete

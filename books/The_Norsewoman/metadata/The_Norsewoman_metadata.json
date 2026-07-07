@@ -1,0 +1,48 @@
+{
+  "title": "The Norsewoman",
+  "author": "Barış Kısır",
+  "model": "opus-4.8",
+  "genre": "Historical Fiction",
+  "subgenre": "Viking Historical Fiction",
+  "language": "en",
+  "short_description": "In 897 CE Iceland, the only female skald is summoned to compose a dying chieftain's memorial saga — and must choose between flattery and the truth his forty-year reign has been hiding.",
+  "long_description": "Iceland, 897 CE. Sigrid Ulfsdóttir is Reykjavik's only female skald, a woman known for composing verse that preserves the deeds of the dead with honesty rather than flattery. When the powerful chieftain Ragnar Blackhand lies dying from a sword wound, he summons Sigrid to compose his memorial saga — but the truth behind his forty-year reign is darker than legend allows.\n\nAs Sigrid works through conversations with the dying man, his calculating heir Eirik, his pragmatic second wife Astrid, and the long-silent völva Halla Ironteeth, she uncovers the crimes at the foundation of Ragnar's empire: land seized through arson and intimidation, a first wife who knew too much and did not survive the knowing. Rival heirs circle the hall, a young poet hired to compose the flattering alternative fights his own conscience, and the displaced son of Ragnar's oldest victim travels from the eastern valleys to speak at the thing.\n\nSet against the stark landscape of early Iceland, The Norsewoman is a novel about the obligation of honest witness — what it costs to tell the truth about power, and why the record must hold what actually happened, not the version power prefers.",
+  "main_characters": [
+    "Sigrid Ulfsdóttir, 38, female skald",
+    "Ragnar Blackhand, 71, dying chieftain",
+    "Eirik Ragnarsson, 40, eldest heir",
+    "Astrid Thorvaldsdóttir, 45, Ragnar's second wife",
+    "Gunnar the Bald, 52, loyal huscarl",
+    "Leif Skjaldmær, 29, young rival poet",
+    "Halla Ironteeth, 60, völva and seeress"
+  ],
+  "keywords": [
+    "Viking",
+    "Iceland",
+    "Norse",
+    "historical fiction",
+    "skald",
+    "medieval",
+    "poetry",
+    "chieftain",
+    "legacy",
+    "truth",
+    "women's fiction",
+    "Norse mythology",
+    "897 CE",
+    "settlement",
+    "thing assembly"
+  ],
+  "planned_chapters": 50,
+  "word_count": 19684,
+  "TXT_path": "books/The_Norsewoman/txt/The_Norsewoman.txt",
+  "EPUB_path": "books/The_Norsewoman/epub/The_Norsewoman.epub",
+  "cover_path": "books/The_Norsewoman/covers/The_Norsewoman.png",
+  "outline_path": "books/The_Norsewoman/planning/The_Norsewoman_outline.md",
+  "cover_script_path": "books/The_Norsewoman/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 19684
+  }
+}

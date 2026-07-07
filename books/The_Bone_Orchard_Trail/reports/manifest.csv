@@ -1,0 +1,12 @@
+Path,Type,Size (bytes),Status,model
+The_Bone_Orchard_Trail/planning/The_Bone_Orchard_Trail_outline.md,outline,7443,complete,deepseek-v4-flash
+The_Bone_Orchard_Trail/txt/The_Bone_Orchard_Trail.txt,manuscript,109956,complete,deepseek-v4-flash
+The_Bone_Orchard_Trail/epub/The_Bone_Orchard_Trail.epub,epub,321549,complete,deepseek-v4-flash
+The_Bone_Orchard_Trail/covers/The_Bone_Orchard_Trail.png,cover,164235,complete,deepseek-v4-flash
+The_Bone_Orchard_Trail/metadata/The_Bone_Orchard_Trail_metadata.json,metadata,2725,complete,deepseek-v4-flash
+The_Bone_Orchard_Trail/tools/build_epub.py,build_script,8287,complete,deepseek-v4-flash
+The_Bone_Orchard_Trail/tools/create_cover.py,cover_script,11218,complete,deepseek-v4-flash
+The_Bone_Orchard_Trail/reports/final_report.md,report,2075,complete,deepseek-v4-flash
+The_Bone_Orchard_Trail/reports/manifest.csv,manifest,0,complete,deepseek-v4-flash
+The_Bone_Orchard_Trail/reports/progress.md,progress,0,complete,deepseek-v4-flash
+The_Bone_Orchard_Trail/README.md,readme,2530,complete,deepseek-v4-flash

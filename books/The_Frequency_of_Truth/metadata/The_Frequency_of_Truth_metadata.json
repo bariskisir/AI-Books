@@ -1,0 +1,47 @@
+{
+  "title": "The Frequency of Truth",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Detective",
+  "subgenre": "Procedural / Cold War Conspiracy",
+  "language": "en",
+  "short_description": "When a man is found dead inside a locked radio room with a cryptic sequence of numbers scrawled on the wall, Detective Sarah Chen recognizes the markings from her past life as a signals intelligence analyst.",
+  "long_description": "Port Ferris, a fog-shrouded coastal city in the Pacific Northwest, becomes the hunting ground for a killer who communicates through ghost frequencies from the Cold War. Detective Sarah Chen, haunted by an operation she monitored years ago as a SIGINT analyst, partners with reclusive cryptographer Marcus Webb to decode a deadly countdown. The numbers stations are broadcasting kill orders, and each transmission brings the killer closer to completing a mission thirty years in the making. As more bodies surface and the conspiracy reaches into Chen's own department, she realizes the final transmission may be aimed at her.",
+  "main_characters": [
+    "Detective Sarah Chen",
+    "Marcus Webb",
+    "Elena Vasquez",
+    "Commander James Whitfield",
+    "The Operator",
+    "Diane Yardley",
+    "Thomas Archer",
+    "Margaret Archer"
+  ],
+  "keywords": [
+    "numbers station",
+    "shortwave radio",
+    "Cold War conspiracy",
+    "detective",
+    "cryptography",
+    "signals intelligence",
+    "Pacific Northwest",
+    "mystery",
+    "thriller",
+    "HAMMERFALL"
+  ],
+  "TXT_path": "books/The_Frequency_of_Truth/txt/The_Frequency_of_Truth.txt",
+  "EPUB_path": "books/The_Frequency_of_Truth/epub/The_Frequency_of_Truth.epub",
+  "cover_path": "books/The_Frequency_of_Truth/covers/The_Frequency_of_Truth.png",
+  "paths": {
+    "outline": "books/The_Frequency_of_Truth/planning/The_Frequency_of_Truth_outline.md",
+    "manuscript": "books/The_Frequency_of_Truth/txt/The_Frequency_of_Truth.txt",
+    "epub": "books/The_Frequency_of_Truth/epub/The_Frequency_of_Truth.epub",
+    "cover": "books/The_Frequency_of_Truth/covers/The_Frequency_of_Truth.png",
+    "metadata": "books/The_Frequency_of_Truth/metadata/The_Frequency_of_Truth_metadata.json"
+  },
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24990
+  }
+}

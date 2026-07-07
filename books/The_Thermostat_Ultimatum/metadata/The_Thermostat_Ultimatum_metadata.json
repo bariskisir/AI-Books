@@ -1,0 +1,39 @@
+{
+  "title": "The Thermostat Ultimatum",
+  "author": "Barış Kısır",
+  "genre": "Thriller",
+  "subgenre": "Climate Thriller",
+  "language": "en",
+  "status": "completed",
+  "short_description": "When the world's solar geoengineering system is hijacked and held for ransom, climate scientist Dr. Maya Chen must race against impossible deadlines to stop a blackmailer who controls the planetary thermostat.",
+  "long_description": "Project Stratus, a UN-managed network of stratospheric aerosol injection nodes spanning seven continents, was humanity's greatest achievement in climate intervention. When former ICSA engineer Victor Radek hijacks the system and threatens escalating climate catastrophes every two weeks unless fossil fuel extraction ceases within five years, Dr. Maya Chen finds herself at the center of a global crisis.\n\nAs Maya races to identify a technical solution, she uncovers a deeper conspiracy: the system was not breached from outside but through a root-level backdoor embedded in the original architecture by her mentor Dr. James Holloway. A private military contractor with ties to fossil fuel interests allowed Radek to find and exploit it as a pretext to seize permanent control.\n\nWith each strike calibrated for maximum political pressure, Maya must navigate a fractured world where environmental activists see Radek as a hero, fossil fuel lobbies push for military takeover, and a Chinese intelligence operative offers help at the price of Beijing becoming the new global climate authority. Racing against escalating deadlines, Maya activates a cryptographic sunset protocol designed to shut down the entire system and expose every hidden backer — but it requires synchronizing all seven control nodes in 48 hours while mercenaries, infiltrators, and competing intelligence agencies try to stop her.",
+  "main_characters": [
+    "Dr. Maya Chen",
+    "Victor Radek",
+    "Director Amara Osei",
+    "Marcus Webb",
+    "Dr. Yuki Tanaka"
+  ],
+  "keywords": [
+    "climate fiction",
+    "geoengineering",
+    "solar radiation management",
+    "eco-thriller",
+    "climate justice",
+    "environmental conspiracy",
+    "Geneva",
+    "Project Stratus",
+    "climate blackmail",
+    "global crisis"
+  ],
+  "TXT_path": "books/The_Thermostat_Ultimatum/txt/The_Thermostat_Ultimatum.txt",
+  "model": "deepseek-v4-flash",
+  "word_count_estimate": 25000,
+  "chapters": 50,
+  "EPUB_path": "books/The_Thermostat_Ultimatum/epub/The_Thermostat_Ultimatum.epub",
+  "cover_path": "books/The_Thermostat_Ultimatum/covers/The_Thermostat_Ultimatum.png",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25467
+  }
+}

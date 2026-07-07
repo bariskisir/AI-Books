@@ -1,0 +1,38 @@
+{
+  "title": "The Perfect Neighbor",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Domestic Thriller",
+  "subgenre": "Psychological Suspense",
+  "language": "en",
+  "short_description": "A new suburban mother discovers her perfect neighbor is living a stolen life.",
+  "long_description": "Claire Brennan moves to the quiet suburb of Stonewood looking for peace and community after the birth of her daughter. Her neighbor Becca seems like the perfect friend: warm, helpful, and always available. But small inconsistencies in Becca's stories begin to nag at Claire's journalist instincts.\n\nWhen Claire starts digging, she uncovers a web of stolen identities stretching back fifteen years. With the help of Detective Marcus Harris, Claire realizes the woman next door has erased at least eleven other women to build her perfect life — and Claire herself may be the next target.\n\nA tense domestic thriller about trust, instinct, and the danger of believing what we want to see.",
+  "main_characters": [
+    "Claire Brennan",
+    "Becca Porter (aka Emily Vance)",
+    "Detective Marcus Harris",
+    "Tom Brennan",
+    "Lily Brennan",
+    "Derek Porter"
+  ],
+  "keywords": [
+    "domestic thriller",
+    "identity theft",
+    "psychological suspense",
+    "suburban thriller",
+    "neighbor thriller",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Perfect_Neighbor/txt/The_Perfect_Neighbor.txt",
+  "EPUB_path": "books/The_Perfect_Neighbor/epub/The_Perfect_Neighbor.epub",
+  "cover_path": "books/The_Perfect_Neighbor/covers/The_Perfect_Neighbor.png",
+  "outline_path": "books/The_Perfect_Neighbor/planning/The_Perfect_Neighbor_outline.md",
+  "cover_script_path": "books/The_Perfect_Neighbor/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 12897
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "The Half-Life of Love",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Science Romance",
+  "subgenre": "Quantum Romance",
+  "language": "en",
+  "short_description": "A particle physicist and a potter meet at CERN and discover their relationship mirrors the behavior of entangled particles.",
+  "long_description": "Dr. Vera Vesna, a Serbian particle physicist working on entanglement experiments at CERN, has spent seven years chasing an anomaly in the data — a bump at 750 GeV that could rewrite the Standard Model. Her life is precision, measurement, and control.\n\nLuca Moretti, an Italian potter in Geneva for an artist residency, works with his hands. He centers clay on a wheel and waits for the kiln to reveal what the fire has made. His life is patience, intuition, and surrender.\n\nWhen they meet at a cafe on the Swiss-French border, their connection is instantaneous and inexplicable — much like the entangled particles Vera studies. As their relationship deepens, Vera realizes that love, like quantum mechanics, resists measurement. Every attempt to define it collapses possibility into fixed reality. Luca teaches her that some things cannot be proven — they can only be felt.\n\nSet against the hum of the Large Hadron Collider and the scent of wet terracotta, The Half-Life of Love is a novel about the places where science and art meet, the uncertainty that makes love possible, and the courage it takes to stop measuring and start living.",
+  "main_characters": [
+    "Dr. Vera Vesna — A particle physicist at CERN, Serbian, 34, driven and brilliant, chasing an anomaly that could change physics",
+    "Luca Moretti — A ceramic artist from Umbria, 36, intuitive, recovering from divorce, finding himself through clay",
+    "The Collider — The Large Hadron Collider itself, a character in its own right, the humming heart of CERN",
+    "Dr. Simone Dubois — Vera's French supervisor, supportive but career-focused",
+    "Ingrid — Vera's lab technician and closest friend, pragmatic and warm",
+    "Marco — Luca's brother, who runs the family pottery studio in Umbria",
+    "Professor Yutaka Tanaka — A visiting physicist from KEK in Japan, a mentor figure to Vera"
+  ],
+  "keywords": [
+    "science romance",
+    "CERN",
+    "particle physics",
+    "quantum entanglement",
+    "pottery",
+    "Geneva",
+    "LHC",
+    "romance",
+    "fiction",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Half_Life_of_Love/txt/The_Half_Life_of_Love.txt",
+  "EPUB_path": "books/The_Half_Life_of_Love/epub/The_Half_Life_of_Love.epub",
+  "cover_path": "books/The_Half_Life_of_Love/covers/The_Half_Life_of_Love.png",
+  "outline_path": "books/The_Half_Life_of_Love/planning/The_Half_Life_of_Love_outline.md",
+  "cover_script_path": "books/The_Half_Life_of_Love/tools/create_cover.py",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 11081
+  }
+}

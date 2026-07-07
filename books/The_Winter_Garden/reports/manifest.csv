@@ -1,0 +1,12 @@
+Path,Size(bytes),Type,model
+The_Winter_Garden/planning/The_Winter_Garden_outline.md,,markdown,deepseek-v4-flash
+The_Winter_Garden/txt/The_Winter_Garden.txt,,text,deepseek-v4-flash
+The_Winter_Garden/metadata/The_Winter_Garden_metadata.json,,,deepseek-v4-flash
+The_Winter_Garden/tools/create_cover.py,,python,deepseek-v4-flash
+The_Winter_Garden/covers/The_Winter_Garden.png,152243,png,deepseek-v4-flash
+The_Winter_Garden/tools/build_epub.py,,python,deepseek-v4-flash
+The_Winter_Garden/epub/The_Winter_Garden.epub,257922,epub,deepseek-v4-flash
+The_Winter_Garden/README.md,,markdown,deepseek-v4-flash
+The_Winter_Garden/reports/final_report.md,,markdown,deepseek-v4-flash
+The_Winter_Garden/reports/manifest.csv,,csv,deepseek-v4-flash
+The_Winter_Garden/reports/progress.md,,markdown,deepseek-v4-flash
