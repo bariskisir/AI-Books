@@ -1,0 +1,10 @@
+{
+  "title": "The Lantern Keeper",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "language": "en",
+  "status": "completed",
+  "TXT_path": "books/The_Lantern_Keeper/txt/The_Lantern_Keeper.txt",
+  "EPUB_path": "books/The_Lantern_Keeper/epub/The_Lantern_Keeper.epub",
+  "cover_path": "books/The_Lantern_Keeper/covers/The_Lantern_Keeper.png"
+}
