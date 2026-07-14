@@ -1,0 +1,18 @@
+{
+  "title": "The Clockwork Estuary",
+  "author": "Barış Kısır",
+  "model": "gpt-5.6-terra",
+  "genre": "Climate Mystery",
+  "subgenre": "Literary Speculative Fiction",
+  "language": "en",
+  "short_description": "A tidal engineer discovers that the machine protecting her drowned hometown is quietly choosing which neighborhoods the sea may keep.",
+  "long_description": "When engineer Lio Mercer returns to the estuary city of Vey, she believes the famous tidal clock is failing. Its gates open at impossible hours, its brass dials speak in obsolete measurements, and the city council insists the irregularities are harmless. But in the mud beneath the foundations she finds logs left by her vanished mentor: the clock does not predict the tide. It negotiates with it.\n\nAs old districts begin flooding in a sequence that resembles a map of political sacrifice, Lio must uncover who taught the machine to value some streets over others. The answer lies in her father's unfinished work, a hidden community built on barges, and the difficult difference between saving a city and preserving its right to choose what it becomes.\n\nThe Clockwork Estuary is a lyrical climate mystery about water, inheritance, public engineering, and the cost of calling a calculation inevitable.",
+  "main_characters": ["Lio Mercer", "Ansel Rook", "Mara Tern", "Councilor Veda Silt", "Ilan Mercer", "Ebb", "Dr. Hush Vale", "Niko Penn"],
+  "keywords": ["estuary", "tidal machine", "climate fiction", "flooded city", "engineering mystery", "public infrastructure", "memory", "coastal future"],
+  "outline_path": "books/The_Clockwork_Estuary/planning/The_Clockwork_Estuary_outline.md",
+  "TXT_path": "books/The_Clockwork_Estuary/txt/The_Clockwork_Estuary.txt",
+  "EPUB_path": "books/The_Clockwork_Estuary/epub/The_Clockwork_Estuary.epub",
+  "cover_path": "books/The_Clockwork_Estuary/covers/The_Clockwork_Estuary.png",
+  "status": "completed",
+  "stats": {"total_chapters": 50, "total_words": 10150}
+}
