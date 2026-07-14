@@ -1,0 +1,10 @@
+{
+  "title": "The Time Blacksmith",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "language": "en",
+  "status": "completed",
+  "TXT_path": "books/The_Time_Blacksmith/txt/The_Time_Blacksmith.txt",
+  "EPUB_path": "books/The_Time_Blacksmith/epub/The_Time_Blacksmith.epub",
+  "cover_path": "books/The_Time_Blacksmith/covers/The_Time_Blacksmith.png"
+}

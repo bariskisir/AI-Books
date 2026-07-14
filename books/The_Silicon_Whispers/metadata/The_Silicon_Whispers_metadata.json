@@ -1,0 +1,10 @@
+{
+  "title": "The Silicon Whispers",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "language": "en",
+  "status": "completed",
+  "TXT_path": "books/The_Silicon_Whispers/txt/The_Silicon_Whispers.txt",
+  "EPUB_path": "books/The_Silicon_Whispers/epub/The_Silicon_Whispers.epub",
+  "cover_path": "books/The_Silicon_Whispers/covers/The_Silicon_Whispers.png"
+}
