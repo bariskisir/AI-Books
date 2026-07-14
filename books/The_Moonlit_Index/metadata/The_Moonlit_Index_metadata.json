@@ -1,0 +1,18 @@
+{
+  "title": "The Moonlit Index",
+  "author": "Barış Kısır",
+  "model": "gpt-5.6-luna",
+  "genre": "Speculative Mystery",
+  "subgenre": "Lunar Archive Noir",
+  "language": "en",
+  "short_description": "A night archivist follows a missing lunar record through a city whose towers can rewrite what its citizens remember.",
+  "long_description": "In the sleepless city of Lumen, moonlight is collected by towers and indexed as civic memory. Archivist Elian Rowe trusts the system until an entire night disappears from the records—and only she remembers the people who were there.\n\nWith a disgraced astronomer and a child who draws maps of impossible shadows, Elian traces the missing moon through shuttered observatories, erased neighborhoods, and a council that believes forgetting is a form of peace. Each recovered fragment changes not only the past but the city's present streets.\n\nThe Moonlit Index is a lyrical speculative mystery about memory, public truth, and the dangerous mercy of being allowed to forget.",
+  "main_characters": ["Elian Rowe", "Sable Venn", "Orin Vale", "Mira Rowe", "Councilor Nyx Ardent", "Pip", "Dr. Cael Orr"],
+  "keywords": ["moonlight archive", "memory mystery", "city of towers", "astronomy", "erased night", "speculative fiction", "urban noir", "collective memory"],
+  "outline_path": "books/The_Moonlit_Index/planning/The_Moonlit_Index_outline.md",
+  "TXT_path": "books/The_Moonlit_Index/txt/The_Moonlit_Index.txt",
+  "EPUB_path": "books/The_Moonlit_Index/epub/The_Moonlit_Index.epub",
+  "cover_path": "books/The_Moonlit_Index/covers/The_Moonlit_Index.png",
+  "status": "completed",
+  "stats": {"total_chapters": 50, "total_words": 10000}
+}
