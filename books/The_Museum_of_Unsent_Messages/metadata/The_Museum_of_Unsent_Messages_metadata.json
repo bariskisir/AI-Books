@@ -1,0 +1,39 @@
+{
+  "title": "The Museum of Unsent Messages",
+  "author": "Barış Kısır",
+  "model": "gpt-5.6-sol",
+  "genre": "Speculative Mystery",
+  "subgenre": "Near-Future Literary Thriller",
+  "language": "en",
+  "short_description": "An archivist discovers future-dated unsent messages from her dead sister inside a museum built to preserve abandoned words.",
+  "long_description": "In the rain-soaked city of Bellwether, the Museum of Unsent Messages preserves apologies, confessions, and farewells that citizens composed but never delivered. Archivist Mara Vale believes abandoned words belong safely to the past—until the system produces a message in the voice of her sister Nia, who died seven years earlier, bearing a timestamp three days in the future.\n\nFollowing a trail through sealed exhibits, erased neighborhoods, and the predictive machinery beneath the museum, Mara discovers that the archive does more than remember hesitation. It learns from it. As a public memorial approaches and more impossible messages appear, she must decide whether a perfect prediction is a warning, a command, or merely another kind of ghost.\n\nThe Museum of Unsent Messages is a lyrical near-future mystery about grief, surveillance, and the freedom hidden inside words we choose not to send.",
+  "main_characters": [
+    "Mara Vale",
+    "Nia Vale",
+    "Jonas Reed",
+    "Director Elian Voss",
+    "Ivo Sen",
+    "Celeste Arin",
+    "Tomas Vale",
+    "Sera Quill"
+  ],
+  "keywords": [
+    "unsent messages",
+    "predictive archive",
+    "digital ghosts",
+    "sisters",
+    "grief",
+    "surveillance",
+    "memory museum",
+    "near future"
+  ],
+  "outline_path": "books/The_Museum_of_Unsent_Messages/planning/The_Museum_of_Unsent_Messages_outline.md",
+  "TXT_path": "books/The_Museum_of_Unsent_Messages/txt/The_Museum_of_Unsent_Messages.txt",
+  "EPUB_path": "books/The_Museum_of_Unsent_Messages/epub/The_Museum_of_Unsent_Messages.epub",
+  "cover_path": "books/The_Museum_of_Unsent_Messages/covers/The_Museum_of_Unsent_Messages.png",
+  "status": "completed",
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 10623
+  }
+}
