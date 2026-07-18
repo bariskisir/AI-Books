@@ -1,0 +1,25 @@
+import sys, os
+sys.stdout.reconfigure(encoding="utf-8")
+from pathlib import Path
+
+out = r"C:\Users\white\main\gitrepos\ai-books\books\The_Knife_Grinders_Saint\txt\The_Knife_Grinders_Saint.txt"
+txt = []
+
+def add(s):
+    txt.append(s)
+
+# Write header
+add("The Knife-Grinder's Saint")
+add("")
+add("A Novel in Fifty Chapters")
+add("")
+
+# Chapter 1
+add("Chapter 1: The Wheel")
+add("")
+add("The wheel turned. Liese could feel its rhythm in her bones before she could see, before she could speak, before she knew any word for stone or steel or blood.")
+add("")
+add("She was eight years old the first time her father let her work the treadle.")
+
+Path(out).write_text("\n".join(txt), encoding="utf-8")
+print("test done")

@@ -1,0 +1,36 @@
+{
+  "title": "The Broker of Last Looks",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Thriller",
+  "subgenre": "Conspiracy Thriller",
+  "language": "en",
+  "short_description": "A disgraced intelligence analyst runs a black-market service selling final death verifications to grieving families, until a client's confirmed-dead son appears on a livestream holding hostages.",
+  "long_description": "A disgraced intelligence analyst runs a black-market service selling final death verifications to grieving families, until a client's confirmed-dead son appears on a livestream holding hostages.",
+  "main_characters": [
+    "Julian Cross",
+    "Dr. Amara Singh",
+    "Derek Vancamp",
+    "Catherine Hale"
+  ],
+  "keywords": [
+    "thriller",
+    "novel",
+    "death verification",
+    "intelligence analyst",
+    "conspiracy",
+    "grief",
+    "black market"
+  ],
+  "TXT_path": "books/The_Broker_of_Last_Looks/txt/The_Broker_of_Last_Looks.txt",
+  "EPUB_path": "books/The_Broker_of_Last_Looks/epub/The_Broker_of_Last_Looks.epub",
+  "cover_path": "books/The_Broker_of_Last_Looks/covers/The_Broker_of_Last_Looks.png",
+  "outline_path": "books/The_Broker_of_Last_Looks/planning/The_Broker_of_Last_Looks_outline.md",
+  "cover_script_path": "books/The_Broker_of_Last_Looks/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

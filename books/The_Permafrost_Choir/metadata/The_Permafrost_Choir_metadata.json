@@ -1,0 +1,37 @@
+{
+  "title": "The Permafrost Choir",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Horror",
+  "subgenre": "Arctic Gothic",
+  "language": "en",
+  "short_description": "A climate research team drilling into Siberian permafrost unearths a cache of frozen human vocal cords that, when thawed, emit a hum that compels anyone who hears it to sing their own darkest secret aloud before falling into a catatonic trance.",
+  "long_description": "A climate research team drilling into Siberian permafrost unearths a cache of frozen human vocal cords that, when thawed, emit a hum that compels anyone who hears it to sing their own darkest secret aloud before falling into a catatonic trance.",
+  "main_characters": [
+    "Dr. Yelena Volkov",
+    "Mikkel Sorensen",
+    "Tomas Ortega",
+    "Anya Petrovna"
+  ],
+  "keywords": [
+    "horror",
+    "Arctic Gothic",
+    "permafrost",
+    "climate research",
+    "vocal cords",
+    "psychological horror",
+    "Siberia",
+    "novel"
+  ],
+  "TXT_path": "books/The_Permafrost_Choir/txt/The_Permafrost_Choir.txt",
+  "EPUB_path": "books/The_Permafrost_Choir/epub/The_Permafrost_Choir.epub",
+  "cover_path": "books/The_Permafrost_Choir/covers/The_Permafrost_Choir.png",
+  "outline_path": "books/The_Permafrost_Choir/planning/The_Permafrost_Choir_outline.md",
+  "cover_script_path": "books/The_Permafrost_Choir/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

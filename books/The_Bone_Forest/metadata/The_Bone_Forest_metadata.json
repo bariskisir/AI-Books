@@ -1,0 +1,37 @@
+{
+  "title": "The Bone Forest",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Horror",
+  "subgenre": "Psychological Horror",
+  "language": "en",
+  "short_description": "A wildlife biologist travels to an isolated forest where the trees grow from bone. The forest remembers every death that ever happened within its borders.",
+  "long_description": "Dr. Samir Nasser is a soil ecologist who has spent his career studying decomposition. When a colleague disappears in the Khara Forest — a protected woodland in northern Mongolia where the local herders refuse to set foot — he joins a small expedition to find her. What they discover defies everything he knows about biology: the trees of Khara grow from calcium-phosphate structures that resemble human bone. The soil is rich in organic compounds that should not exist at those concentrations. The forest is growing, spreading, consuming.\n\nAs the expedition members begin to disappear one by one, Samir realizes the forest is not a passive ecosystem. It is a predator that has been feeding for millennia, its roots threading through the mass graves of ancient battles, its canopy hiding something that moves between the trunks. The trees are not growing from bone. The trees are bone. And the forest has been waiting.",
+  "main_characters": [
+    "Dr. Samir Nasser",
+    "Yuna Batzorig",
+    "Dr. Elena Volkov",
+    "Temujin"
+  ],
+  "keywords": [
+    "horror",
+    "psychological horror",
+    "forest",
+    "bone",
+    "mongolia",
+    "ecology",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Bone_Forest/txt/The_Bone_Forest.txt",
+  "EPUB_path": "books/The_Bone_Forest/epub/The_Bone_Forest.epub",
+  "cover_path": "books/The_Bone_Forest/covers/The_Bone_Forest.png",
+  "outline_path": "books/The_Bone_Forest/planning/The_Bone_Forest_outline.md",
+  "cover_script_path": "books/The_Bone_Forest/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

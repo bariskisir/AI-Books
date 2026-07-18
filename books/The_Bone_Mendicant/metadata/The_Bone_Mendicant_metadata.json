@@ -1,0 +1,36 @@
+{
+  "title": "The Bone Mendicant",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Weird Fiction",
+  "subgenre": "Body Horror",
+  "language": "en",
+  "short_description": "A pathologist in a rainswept coastal town begins finding tiny inscribed bones inside her patients' joints, each message predicting the next death before it happens.",
+  "long_description": "A pathologist in a rainswept coastal town begins finding tiny inscribed bones inside her patients' joints, each message predicting the next death before it happens.",
+  "main_characters": [
+    "Dr. Iris Parveen",
+    "Constable Dreyfuss",
+    "The Ferryman Kell",
+    "Lena Noor"
+  ],
+  "keywords": [
+    "weird fiction",
+    "body horror",
+    "pathology",
+    "coastal",
+    "mystery",
+    "anatomical",
+    "novel"
+  ],
+  "TXT_path": "books/The_Bone_Mendicant/txt/The_Bone_Mendicant.txt",
+  "EPUB_path": "books/The_Bone_Mendicant/epub/The_Bone_Mendicant.epub",
+  "cover_path": "books/The_Bone_Mendicant/covers/The_Bone_Mendicant.png",
+  "outline_path": "books/The_Bone_Mendicant/planning/The_Bone_Mendicant_outline.md",
+  "cover_script_path": "books/The_Bone_Mendicant/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

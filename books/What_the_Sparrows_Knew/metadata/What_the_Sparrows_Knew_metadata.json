@@ -1,0 +1,37 @@
+{
+  "title": "What the Sparrows Knew",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Family Saga / Magical Undercurrent",
+  "language": "en",
+  "short_description": "Three generations of women in a Galician fishing village reckon with the disappearance of the family matriarch, whose presence still manifests as unexplained blooms of bioluminescence in the tide pools she tended.",
+  "long_description": "Three generations of women in a Galician fishing village reckon with the disappearance of the family matriarch, whose presence still manifests as unexplained blooms of bioluminescence in the tide pools she tended.",
+  "main_characters": [
+    "Lidia Nogueira",
+    "Sabela Nogueira",
+    "Carme Nogueira",
+    "Xoan (the lighthouse keeper)"
+  ],
+  "keywords": [
+    "Literary Fiction",
+    "family saga",
+    "Galicia",
+    "disappearance",
+    "grief",
+    "bioluminescence",
+    "fishing village",
+    "novel"
+  ],
+  "TXT_path": "books/What_the_Sparrows_Knew/txt/What_the_Sparrows_Knew.txt",
+  "EPUB_path": "books/What_the_Sparrows_Knew/epub/What_the_Sparrows_Knew.epub",
+  "cover_path": "books/What_the_Sparrows_Knew/covers/What_the_Sparrows_Knew.png",
+  "outline_path": "books/What_the_Sparrows_Knew/planning/What_the_Sparrows_Knew_outline.md",
+  "cover_script_path": "books/What_the_Sparrows_Knew/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

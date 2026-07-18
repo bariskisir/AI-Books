@@ -1,0 +1,36 @@
+{
+  "title": "A Hymn for Abyssal Light",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Science Fiction",
+  "subgenre": "First Contact",
+  "language": "en",
+  "short_description": "A deep-sea research team discovers an alien intelligence in the Mariana Trench that communicates through bioluminescent patterns, but translating its message reveals Earth's oceans are being terraformed for a species yet to arrive.",
+  "long_description": "A deep-sea research team discovers an alien intelligence in the Mariana Trench that communicates through bioluminescent patterns, but translating its message reveals Earth's oceans are being terraformed for a species yet to arrive.",
+  "main_characters": [
+    "Dr. Helena Voss",
+    "Commander James Okonkwo",
+    "Iris Koh",
+    "Theo Marcopoulos"
+  ],
+  "keywords": [
+    "science fiction",
+    "first contact",
+    "deep sea",
+    "alien intelligence",
+    "bioluminescence",
+    "ocean",
+    "terraforming"
+  ],
+  "TXT_path": "books/A_Hymn_for_Abyssal_Light/txt/A_Hymn_for_Abyssal_Light.txt",
+  "EPUB_path": "books/A_Hymn_for_Abyssal_Light/epub/A_Hymn_for_Abyssal_Light.epub",
+  "cover_path": "books/A_Hymn_for_Abyssal_Light/covers/A_Hymn_for_Abyssal_Light.png",
+  "outline_path": "books/A_Hymn_for_Abyssal_Light/planning/A_Hymn_for_Abyssal_Light_outline.md",
+  "cover_script_path": "books/A_Hymn_for_Abyssal_Light/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

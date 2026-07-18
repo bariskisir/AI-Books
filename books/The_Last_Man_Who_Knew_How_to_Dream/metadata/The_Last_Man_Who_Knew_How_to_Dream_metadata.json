@@ -1,0 +1,37 @@
+{
+  "title": "The Last Man Who Knew How to Dream",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Weird Fiction",
+  "subgenre": "Metaphysical Horror",
+  "language": "en",
+  "short_description": "In a world where humanity has bio-engineered away the need for sleep, the last surviving dreamer becomes a fugitive as his nightmares literally manifest into reality, and a government agency known as the Wake must decide whether to preserve or erase the only person who can still imagine something new.",
+  "long_description": "In a world where humanity has bio-engineered away the need for sleep, the last surviving dreamer becomes a fugitive as his nightmares literally manifest into reality, and a government agency known as the Wake must decide whether to preserve or erase the only person who can still imagine something new.",
+  "main_characters": [
+    "Solomon Grey",
+    "Agent Cassia Vane",
+    "Dr. Haruto Nomura",
+    "The Architect"
+  ],
+  "keywords": [
+    "weird fiction",
+    "metaphysical horror",
+    "dreams",
+    "sleepless society",
+    "manifestation",
+    "imagination",
+    "surveillance state",
+    "novel"
+  ],
+  "TXT_path": "books/The_Last_Man_Who_Knew_How_to_Dream/txt/The_Last_Man_Who_Knew_How_to_Dream.txt",
+  "EPUB_path": "books/The_Last_Man_Who_Knew_How_to_Dream/epub/The_Last_Man_Who_Knew_How_to_Dream.epub",
+  "cover_path": "books/The_Last_Man_Who_Knew_How_to_Dream/covers/The_Last_Man_Who_Knew_How_to_Dream.png",
+  "outline_path": "books/The_Last_Man_Who_Knew_How_to_Dream/planning/The_Last_Man_Who_Knew_How_to_Dream_outline.md",
+  "cover_script_path": "books/The_Last_Man_Who_Knew_How_to_Dream/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

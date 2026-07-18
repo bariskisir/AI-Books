@@ -1,0 +1,37 @@
+{
+  "title": "The Consequence of Forgotten Doors",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Weird Fiction",
+  "subgenre": "Portal / Liminal",
+  "language": "en",
+  "short_description": "A demolition crew in Oslo keeps finding doorframes in buildings that lead to rooms that were never built — and the rooms contain furniture, letters, and photographs belonging to people who never existed in this world, yet match the crew's own deepest regrets.",
+  "long_description": "A demolition crew in Oslo keeps finding doorframes in buildings that lead to rooms that were never built — and the rooms contain furniture, letters, and photographs belonging to people who never existed in this world, yet match the crew's own deepest regrets.",
+  "main_characters": [
+    "Sigrid Holst (the foreman)",
+    "Eirik Vold (the youngest worker)",
+    "Dr. Ananya Patel (a paranormal investigator)",
+    "The Man in the Grey Coat (a recurring figure in every room)"
+  ],
+  "keywords": [
+    "Weird Fiction",
+    "portal fantasy",
+    "liminal spaces",
+    "Oslo",
+    "demolition",
+    "regret",
+    "parallel worlds",
+    "novel"
+  ],
+  "TXT_path": "books/The_Consequence_of_Forgotten_Doors/txt/The_Consequence_of_Forgotten_Doors.txt",
+  "EPUB_path": "books/The_Consequence_of_Forgotten_Doors/epub/The_Consequence_of_Forgotten_Doors.epub",
+  "cover_path": "books/The_Consequence_of_Forgotten_Doors/covers/The_Consequence_of_Forgotten_Doors.png",
+  "outline_path": "books/The_Consequence_of_Forgotten_Doors/planning/The_Consequence_of_Forgotten_Doors_outline.md",
+  "cover_script_path": "books/The_Consequence_of_Forgotten_Doors/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

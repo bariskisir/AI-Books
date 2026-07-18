@@ -1,0 +1,37 @@
+{
+  "title": "The Memory of One Hand",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Thriller",
+  "subgenre": "Psychological Cat-and-Mouse",
+  "language": "en",
+  "short_description": "A disgraced neurosurgeon receiving anonymous memory fragments from an unknown sender must reconstruct the identity of a serial killer before the killer completes the pattern, only to realize each fragment is a memory the surgeon himself unknowingly erased from his own mind.",
+  "long_description": "A disgraced neurosurgeon receiving anonymous memory fragments from an unknown sender must reconstruct the identity of a serial killer before the killer completes the pattern, only to realize each fragment is a memory the surgeon himself unknowingly erased from his own mind.",
+  "main_characters": [
+    "Dr. Julian Cross",
+    "Detective Mara Okonkwo",
+    "Elena Cross",
+    "The Correspondent"
+  ],
+  "keywords": [
+    "thriller",
+    "psychological thriller",
+    "memory",
+    "neurosurgeon",
+    "serial killer",
+    "identity",
+    "novel",
+    "amnesia"
+  ],
+  "TXT_path": "books/The_Memory_of_One_Hand/txt/The_Memory_of_One_Hand.txt",
+  "EPUB_path": "books/The_Memory_of_One_Hand/epub/The_Memory_of_One_Hand.epub",
+  "cover_path": "books/The_Memory_of_One_Hand/covers/The_Memory_of_One_Hand.png",
+  "outline_path": "books/The_Memory_of_One_Hand/planning/The_Memory_of_One_Hand_outline.md",
+  "cover_script_path": "books/The_Memory_of_One_Hand/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

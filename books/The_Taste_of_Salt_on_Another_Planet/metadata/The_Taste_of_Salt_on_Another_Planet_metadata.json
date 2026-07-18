@@ -1,0 +1,37 @@
+{
+  "title": "The Taste of Salt on Another Planet",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Romance",
+  "subgenre": "Sci-Fi Romance",
+  "language": "en",
+  "short_description": "A marine biologist on a water-world colony falls in love with the alien ocean's sentient plankton swarm via a translator that maps its electrical fields to human emotions, but a corporate terraforming team plans to desalinate the entire ocean, which would kill her lover.",
+  "long_description": "A marine biologist on a water-world colony falls in love with the alien ocean's sentient plankton swarm via a translator that maps its electrical fields to human emotions, but a corporate terraforming team plans to desalinate the entire ocean, which would kill her lover.",
+  "main_characters": [
+    "Dr. Orla Finn",
+    "The Swarm",
+    "Commander Vance Holt",
+    "Biologist Sato Yuki"
+  ],
+  "keywords": [
+    "romance",
+    "sci-fi romance",
+    "marine biology",
+    "sentient ocean",
+    "alien intelligence",
+    "water world",
+    "terraforming conflict",
+    "novel"
+  ],
+  "TXT_path": "books/The_Taste_of_Salt_on_Another_Planet/txt/The_Taste_of_Salt_on_Another_Planet.txt",
+  "EPUB_path": "books/The_Taste_of_Salt_on_Another_Planet/epub/The_Taste_of_Salt_on_Another_Planet.epub",
+  "cover_path": "books/The_Taste_of_Salt_on_Another_Planet/covers/The_Taste_of_Salt_on_Another_Planet.png",
+  "outline_path": "books/The_Taste_of_Salt_on_Another_Planet/planning/The_Taste_of_Salt_on_Another_Planet_outline.md",
+  "cover_script_path": "books/The_Taste_of_Salt_on_Another_Planet/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

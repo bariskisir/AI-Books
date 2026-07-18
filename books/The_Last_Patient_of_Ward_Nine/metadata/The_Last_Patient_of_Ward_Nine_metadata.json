@@ -1,0 +1,37 @@
+{
+  "title": "The Last Patient of Ward Nine",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Horror",
+  "subgenre": "Medical Horror / Psychological",
+  "language": "en",
+  "short_description": "A night-shift nurse at a decommissioned psychiatric hospital discovers that Ward Nine's last patient, who was locked in a padded cell in 1972, is still alive and perfectly healthy, because something inside the cell has been feeding on everyone who has tried to let him out.",
+  "long_description": "A night-shift nurse at a decommissioned psychiatric hospital discovers that Ward Nine's last patient, who was locked in a padded cell in 1972, is still alive and perfectly healthy, because something inside the cell has been feeding on everyone who has tried to let him out.",
+  "main_characters": [
+    "Ruth Carver (nurse)",
+    "Patrick Shaw (orderly)",
+    "The Patient (unknown)",
+    "Dr. Malcolm Hedge"
+  ],
+  "keywords": [
+    "Horror",
+    "novel",
+    "psychiatric hospital",
+    "medical horror",
+    "isolation",
+    "entity",
+    "1970s",
+    "survival"
+  ],
+  "TXT_path": "books/The_Last_Patient_of_Ward_Nine/txt/The_Last_Patient_of_Ward_Nine.txt",
+  "EPUB_path": "books/The_Last_Patient_of_Ward_Nine/epub/The_Last_Patient_of_Ward_Nine.epub",
+  "cover_path": "books/The_Last_Patient_of_Ward_Nine/covers/The_Last_Patient_of_Ward_Nine.png",
+  "outline_path": "books/The_Last_Patient_of_Ward_Nine/planning/The_Last_Patient_of_Ward_Nine_outline.md",
+  "cover_script_path": "books/The_Last_Patient_of_Ward_Nine/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The Redactionists",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Thriller",
+  "subgenre": "Conspiracy",
+  "language": "en",
+  "short_description": "A metadata analyst at a defense contractor discovers her employer is systematically erasing people from all records—birth certificates, tax IDs, death notices—as if they never existed, and she's next on the list.",
+  "long_description": "A metadata analyst at a defense contractor discovers her employer is systematically erasing people from all records—birth certificates, tax IDs, death notices—as if they never existed, and she's next on the list.",
+  "main_characters": [
+    "Cate Moreland",
+    "Marcus Webb",
+    "Director Phelps",
+    "Lena the ghost"
+  ],
+  "keywords": [
+    "thriller",
+    "novel",
+    "conspiracy",
+    "defense contractor",
+    "metadata",
+    "erasure",
+    "identity theft",
+    "surveillance"
+  ],
+  "TXT_path": "books/The_Redactionists/txt/The_Redactionists.txt",
+  "EPUB_path": "books/The_Redactionists/epub/The_Redactionists.epub",
+  "cover_path": "books/The_Redactionists/covers/The_Redactionists.png",
+  "outline_path": "books/The_Redactionists/planning/The_Redactionists_outline.md",
+  "cover_script_path": "books/The_Redactionists/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

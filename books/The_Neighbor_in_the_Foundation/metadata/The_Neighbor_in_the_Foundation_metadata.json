@@ -1,0 +1,37 @@
+{
+  "title": "The Neighbor in the Foundation",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Horror",
+  "subgenre": "Lovecraftian Body Horror",
+  "language": "en",
+  "short_description": "After a century of unexplained sinkholes swallowing entire city blocks, a structural engineer hired to inspect the bedrock discovers the city is built not on stone but on the carapace of a sleeping entity whose breathing cycles cause the ground to collapse, and it is beginning to stir.",
+  "long_description": "After a century of unexplained sinkholes swallowing entire city blocks, a structural engineer hired to inspect the bedrock discovers the city is built not on stone but on the carapace of a sleeping entity whose breathing cycles cause the ground to collapse, and it is beginning to stir.",
+  "main_characters": [
+    "Sofia Reyes",
+    "Old Man Kellogg",
+    "Ana Reyes",
+    "The Driller"
+  ],
+  "keywords": [
+    "horror",
+    "Lovecraftian",
+    "body horror",
+    "cosmic horror",
+    "sinkholes",
+    "underground",
+    "novel",
+    "entity"
+  ],
+  "TXT_path": "books/The_Neighbor_in_the_Foundation/txt/The_Neighbor_in_the_Foundation.txt",
+  "EPUB_path": "books/The_Neighbor_in_the_Foundation/epub/The_Neighbor_in_the_Foundation.epub",
+  "cover_path": "books/The_Neighbor_in_the_Foundation/covers/The_Neighbor_in_the_Foundation.png",
+  "outline_path": "books/The_Neighbor_in_the_Foundation/planning/The_Neighbor_in_the_Foundation_outline.md",
+  "cover_script_path": "books/The_Neighbor_in_the_Foundation/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

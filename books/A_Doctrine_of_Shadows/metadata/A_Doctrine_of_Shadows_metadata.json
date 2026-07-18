@@ -1,0 +1,37 @@
+{
+  "title": "A Doctrine of Shadows",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Thriller",
+  "subgenre": "Political Thriller",
+  "language": "en",
+  "short_description": "A CIA linguist decoding a dead diplomat's encrypted journal realizes the coup she helped orchestrate in West Africa was a decoy for a much larger operation aimed at the Hague.",
+  "long_description": "A CIA linguist decoding a dead diplomat's encrypted journal realizes the coup she helped orchestrate in West Africa was a decoy for a much larger operation aimed at the Hague.",
+  "main_characters": [
+    "Maya Sorrent",
+    "Ellery Kane",
+    "General Seko Diallo",
+    "The Broker"
+  ],
+  "keywords": [
+    "thriller",
+    "political thriller",
+    "CIA",
+    "linguist",
+    "West Africa",
+    "novel",
+    "coup",
+    "International Criminal Court"
+  ],
+  "TXT_path": "books/A_Doctrine_of_Shadows/txt/A_Doctrine_of_Shadows.txt",
+  "EPUB_path": "books/A_Doctrine_of_Shadows/epub/A_Doctrine_of_Shadows.epub",
+  "cover_path": "books/A_Doctrine_of_Shadows/covers/A_Doctrine_of_Shadows.png",
+  "outline_path": "books/A_Doctrine_of_Shadows/planning/A_Doctrine_of_Shadows_outline.md",
+  "cover_script_path": "books/A_Doctrine_of_Shadows/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

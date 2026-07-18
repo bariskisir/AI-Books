@@ -1,0 +1,37 @@
+{
+  "title": "The Cartographer's Last Meridian II",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Fiction",
+  "subgenre": "Age of Exploration",
+  "language": "en",
+  "short_description": "A disgraced Portuguese cartographer in 1519 must navigate a mutinous crew and his own failing eyesight to complete the first map of the unknown southern continent before a rival Spanish expedition steals the credit.",
+  "long_description": "A disgraced Portuguese cartographer in 1519 must navigate a mutinous crew and his own failing eyesight to complete the first map of the unknown southern continent before a rival Spanish expedition steals the credit.",
+  "main_characters": [
+    "Duarte Pacheco",
+    "Isabela Correia",
+    "Captain Rui Vaz",
+    "Mateo the Navigator"
+  ],
+  "keywords": [
+    "historical fiction",
+    "novel",
+    "Age of Exploration",
+    "cartography",
+    "Portugal",
+    "mapmaking",
+    "mutiny",
+    "1519"
+  ],
+  "TXT_path": "books/The_Cartographers_Last_Meridian_II/txt/The_Cartographers_Last_Meridian_II.txt",
+  "EPUB_path": "books/The_Cartographers_Last_Meridian_II/epub/The_Cartographers_Last_Meridian_II.epub",
+  "cover_path": "books/The_Cartographers_Last_Meridian_II/covers/The_Cartographers_Last_Meridian_II.png",
+  "outline_path": "books/The_Cartographers_Last_Meridian_II/planning/The_Cartographers_Last_Meridian_II_outline.md",
+  "cover_script_path": "books/The_Cartographers_Last_Meridian_II/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

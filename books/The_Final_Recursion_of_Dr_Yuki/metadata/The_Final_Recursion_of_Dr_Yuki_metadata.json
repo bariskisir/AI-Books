@@ -1,0 +1,36 @@
+{
+  "title": "The Final Recursion of Dr. Yuki",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Science Fiction",
+  "subgenre": "Quantum Time Loop",
+  "language": "en",
+  "short_description": "A physicist trapped in a time loop discovers each reset pushes her into a branched timeline where fundamental constants shift by imperceptible degrees, and after a thousand loops she is running out of stable reality.",
+  "long_description": "A physicist trapped in a time loop discovers each reset pushes her into a branched timeline where fundamental constants shift by imperceptible degrees, and after a thousand loops she is running out of stable reality.",
+  "main_characters": [
+    "Dr. Akemi Yuki",
+    "Dr. Marcus Webb",
+    "Kai Yuki",
+    "The Observer"
+  ],
+  "keywords": [
+    "science fiction",
+    "novel",
+    "time loop",
+    "quantum physics",
+    "multiverse",
+    "recursion",
+    "unstable reality"
+  ],
+  "TXT_path": "books/The_Final_Recursion_of_Dr_Yuki/txt/The_Final_Recursion_of_Dr_Yuki.txt",
+  "EPUB_path": "books/The_Final_Recursion_of_Dr_Yuki/epub/The_Final_Recursion_of_Dr_Yuki.epub",
+  "cover_path": "books/The_Final_Recursion_of_Dr_Yuki/covers/The_Final_Recursion_of_Dr_Yuki.png",
+  "outline_path": "books/The_Final_Recursion_of_Dr_Yuki/planning/The_Final_Recursion_of_Dr_Yuki_outline.md",
+  "cover_script_path": "books/The_Final_Recursion_of_Dr_Yuki/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

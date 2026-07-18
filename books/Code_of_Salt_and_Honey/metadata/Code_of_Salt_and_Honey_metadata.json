@@ -1,0 +1,37 @@
+{
+  "title": "Code of Salt and Honey",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Mystery",
+  "subgenre": "Cozy Culinary Mystery",
+  "language": "en",
+  "short_description": "When a renowned honey sommelier is found dead in her tasting room locked from the inside, a pastry chef turned amateur sleuth must decode a trail of cryptic recipes left in the victim's handwriting to find the killer before the only surviving jar of a legendary honey spoils as evidence.",
+  "long_description": "When a renowned honey sommelier is found dead in her tasting room locked from the inside, a pastry chef turned amateur sleuth must decode a trail of cryptic recipes left in the victim's handwriting to find the killer before the only surviving jar of a legendary honey spoils as evidence.",
+  "main_characters": [
+    "Clara Ashford",
+    "Detective Miles Okonkwo",
+    "Thea Voss",
+    "Leo Marchetti"
+  ],
+  "keywords": [
+    "mystery",
+    "cozy mystery",
+    "culinary mystery",
+    "honey",
+    "locked room",
+    "amateur sleuth",
+    "novel",
+    "food"
+  ],
+  "TXT_path": "books/Code_of_Salt_and_Honey/txt/Code_of_Salt_and_Honey.txt",
+  "EPUB_path": "books/Code_of_Salt_and_Honey/epub/Code_of_Salt_and_Honey.epub",
+  "cover_path": "books/Code_of_Salt_and_Honey/covers/Code_of_Salt_and_Honey.png",
+  "outline_path": "books/Code_of_Salt_and_Honey/planning/Code_of_Salt_and_Honey_outline.md",
+  "cover_script_path": "books/Code_of_Salt_and_Honey/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

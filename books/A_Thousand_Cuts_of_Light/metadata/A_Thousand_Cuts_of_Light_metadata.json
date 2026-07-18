@@ -1,0 +1,36 @@
+{
+  "title": "A Thousand Cuts of Light",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Cyberpunk",
+  "subgenre": "Neural-Noir",
+  "language": "en",
+  "short_description": "A neural-cracked ex-advertiser discovers someone is planting deadly subliminals in the city's ambient data-layer and she is the only one who can see them.",
+  "long_description": "A neural-cracked ex-advertiser discovers someone is planting deadly subliminals in the city's ambient data-layer and she is the only one who can see them.",
+  "main_characters": [
+    "Zara Nkosi",
+    "Deckard Okafor",
+    "the Ghostweaver",
+    "Inspector Ryu Min-seo"
+  ],
+  "keywords": [
+    "cyberpunk",
+    "novel",
+    "neural interface",
+    "subliminal messaging",
+    "data layer",
+    "advertising",
+    "conspiracy"
+  ],
+  "TXT_path": "books/A_Thousand_Cuts_of_Light/txt/A_Thousand_Cuts_of_Light.txt",
+  "EPUB_path": "books/A_Thousand_Cuts_of_Light/epub/A_Thousand_Cuts_of_Light.epub",
+  "cover_path": "books/A_Thousand_Cuts_of_Light/covers/A_Thousand_Cuts_of_Light.png",
+  "outline_path": "books/A_Thousand_Cuts_of_Light/planning/A_Thousand_Cuts_of_Light_outline.md",
+  "cover_script_path": "books/A_Thousand_Cuts_of_Light/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

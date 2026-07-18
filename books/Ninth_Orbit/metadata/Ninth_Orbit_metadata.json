@@ -1,0 +1,37 @@
+{
+  "title": "Ninth Orbit",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Science Fiction",
+  "subgenre": "Generation Ship",
+  "language": "en",
+  "short_description": "Aboard a generation ship whose orbit has decayed, a maintenance crew finds the captain's log from two centuries ago revealing that the voyage has no destination — the mission was exile, not colonization.",
+  "long_description": "Aboard a generation ship whose orbit has decayed, a maintenance crew finds the captain's log from two centuries ago revealing that the voyage has no destination — the mission was exile, not colonization.",
+  "main_characters": [
+    "Jensen Okonkwo",
+    "Dr. Phaedra Voss",
+    "Kayin the historian",
+    "Lars the engineer"
+  ],
+  "keywords": [
+    "science fiction",
+    "novel",
+    "generation ship",
+    "exile",
+    "space",
+    "conspiracy",
+    "orbit decay",
+    "maintenance crew"
+  ],
+  "TXT_path": "books/Ninth_Orbit/txt/Ninth_Orbit.txt",
+  "EPUB_path": "books/Ninth_Orbit/epub/Ninth_Orbit.epub",
+  "cover_path": "books/Ninth_Orbit/covers/Ninth_Orbit.png",
+  "outline_path": "books/Ninth_Orbit/planning/Ninth_Orbit_outline.md",
+  "cover_script_path": "books/Ninth_Orbit/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

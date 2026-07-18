@@ -1,0 +1,37 @@
+{
+  "title": "Charisma Vaccine",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dystopian",
+  "subgenre": "Social Satire",
+  "language": "en",
+  "short_description": "In a near-future where social credit scores determine access to housing and healthcare, a failed influencer discovers an underground clinic that sells a vaccine to permanently reduce your charisma, granting a strange new freedom: the ability to be convincingly unlikable and thus left alone by the system.",
+  "long_description": "In a near-future where social credit scores determine access to housing and healthcare, a failed influencer discovers an underground clinic that sells a vaccine to permanently reduce your charisma, granting a strange new freedom: the ability to be convincingly unlikable and thus left alone by the system.",
+  "main_characters": [
+    "Jamal Pierce",
+    "Dr. Una Novak",
+    "Sable Cruz",
+    "Marcus the Hermit"
+  ],
+  "keywords": [
+    "dystopian",
+    "social satire",
+    "social credit score",
+    "influencer culture",
+    "charisma",
+    "anti-conformity",
+    "near-future",
+    "novel"
+  ],
+  "TXT_path": "books/Charisma_Vaccine/txt/Charisma_Vaccine.txt",
+  "EPUB_path": "books/Charisma_Vaccine/epub/Charisma_Vaccine.epub",
+  "cover_path": "books/Charisma_Vaccine/covers/Charisma_Vaccine.png",
+  "outline_path": "books/Charisma_Vaccine/planning/Charisma_Vaccine_outline.md",
+  "cover_script_path": "books/Charisma_Vaccine/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

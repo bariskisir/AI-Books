@@ -1,0 +1,37 @@
+{
+  "title": "A Wire Runs Through It",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Cyberpunk",
+  "subgenre": "Post-Collapse Tech Noir",
+  "language": "en",
+  "short_description": "In a Detroit where the neural cloud collapsed five years ago, a data archaeologist who pulls lost memories from dead implants discovers the collapse was not an accident but an assassination weapon fired at the city, and its trigger is still counting down.",
+  "long_description": "In a Detroit where the neural cloud collapsed five years ago, a data archaeologist who pulls lost memories from dead implants discovers the collapse was not an accident but an assassination weapon fired at the city, and its trigger is still counting down.",
+  "main_characters": [
+    "Rin Weaver",
+    "August Dorn",
+    "Nia Calderon",
+    "The Ghost in Sector G"
+  ],
+  "keywords": [
+    "cyberpunk",
+    "tech noir",
+    "neural implants",
+    "post-collapse",
+    "Detroit",
+    "data archaeologist",
+    "novel",
+    "memory"
+  ],
+  "TXT_path": "books/A_Wire_Runs_Through_It/txt/A_Wire_Runs_Through_It.txt",
+  "EPUB_path": "books/A_Wire_Runs_Through_It/epub/A_Wire_Runs_Through_It.epub",
+  "cover_path": "books/A_Wire_Runs_Through_It/covers/A_Wire_Runs_Through_It.png",
+  "outline_path": "books/A_Wire_Runs_Through_It/planning/A_Wire_Runs_Through_It_outline.md",
+  "cover_script_path": "books/A_Wire_Runs_Through_It/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

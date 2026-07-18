@@ -1,0 +1,37 @@
+{
+  "title": "A Map of Every Mourning",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Magical Realism",
+  "subgenre": "Contemporary Magical Realism",
+  "language": "en",
+  "short_description": "In a coastal Andalusian town where each resident's grief manifests as a visible weather pattern above their head, a young widow whose perpetual drought threatens the town's crops must convince a man carrying a hurricane to let her into his storm.",
+  "long_description": "In a coastal Andalusian town where each resident's grief manifests as a visible weather pattern above their head, a young widow whose perpetual drought threatens the town's crops must convince a man carrying a hurricane to let her into his storm.",
+  "main_characters": [
+    "Lucia Almendro",
+    "Santiago Velez",
+    "Abuela Paz",
+    "Rafael (deceased)"
+  ],
+  "keywords": [
+    "Magical Realism",
+    "novel",
+    "grief",
+    "weather",
+    "Andalusia",
+    "widow",
+    "community",
+    "healing"
+  ],
+  "TXT_path": "books/A_Map_of_Every_Mourning/txt/A_Map_of_Every_Mourning.txt",
+  "EPUB_path": "books/A_Map_of_Every_Mourning/epub/A_Map_of_Every_Mourning.epub",
+  "cover_path": "books/A_Map_of_Every_Mourning/covers/A_Map_of_Every_Mourning.png",
+  "outline_path": "books/A_Map_of_Every_Mourning/planning/A_Map_of_Every_Mourning_outline.md",
+  "cover_script_path": "books/A_Map_of_Every_Mourning/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

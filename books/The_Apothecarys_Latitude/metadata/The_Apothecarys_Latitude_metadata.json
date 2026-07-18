@@ -1,0 +1,36 @@
+{
+  "title": "The Apothecary's Latitude",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Fiction",
+  "subgenre": "Naval Exploration",
+  "language": "en",
+  "short_description": "In 1764, a British naval surgeon falsifies longitude readings to strand his ship on an unmapped Pacific island, believing its unique flora holds a scurvy cure — but the island keeps something else.",
+  "long_description": "In 1764, a British naval surgeon falsifies longitude readings to strand his ship on an unmapped Pacific island, believing its unique flora holds a scurvy cure — but the island keeps something else.",
+  "main_characters": [
+    "Surgeon Thomas Aldridge",
+    "Captain James Harrow",
+    "Miri",
+    "Bosun Pike"
+  ],
+  "keywords": [
+    "historical fiction",
+    "novel",
+    "18th century",
+    "Pacific island",
+    "scurvy",
+    "botanical medicine",
+    "naval exploration"
+  ],
+  "TXT_path": "books/The_Apothecarys_Latitude/txt/The_Apothecarys_Latitude.txt",
+  "EPUB_path": "books/The_Apothecarys_Latitude/epub/The_Apothecarys_Latitude.epub",
+  "cover_path": "books/The_Apothecarys_Latitude/covers/The_Apothecarys_Latitude.png",
+  "outline_path": "books/The_Apothecarys_Latitude/planning/The_Apothecarys_Latitude_outline.md",
+  "cover_script_path": "books/The_Apothecarys_Latitude/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Half Past Silence",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Mystery",
+  "subgenre": "Sensory Investigation",
+  "language": "en",
+  "short_description": "A deaf detective investigating a string of arsons in a coastal town discovers the fires are synchronized to an ultrasonic frequency only children can hear, and the next trigger is primed at the school.",
+  "long_description": "A deaf detective investigating a string of arsons in a coastal town discovers the fires are synchronized to an ultrasonic frequency only children can hear, and the next trigger is primed at the school.",
+  "main_characters": [
+    "Detective Isa Rezian",
+    "Leo Tran (interpreter)",
+    "Mayor Bethan Croft",
+    "The Whisperer"
+  ],
+  "keywords": [
+    "mystery",
+    "novel",
+    "deaf detective",
+    "arson",
+    "ultrasonic",
+    "sensory investigation",
+    "coastal town",
+    "children in peril"
+  ],
+  "TXT_path": "books/Half_Past_Silence/txt/Half_Past_Silence.txt",
+  "EPUB_path": "books/Half_Past_Silence/epub/Half_Past_Silence.epub",
+  "cover_path": "books/Half_Past_Silence/covers/Half_Past_Silence.png",
+  "outline_path": "books/Half_Past_Silence/planning/Half_Past_Silence_outline.md",
+  "cover_script_path": "books/Half_Past_Silence/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

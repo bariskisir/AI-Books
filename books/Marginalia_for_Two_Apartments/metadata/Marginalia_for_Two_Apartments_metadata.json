@@ -1,0 +1,36 @@
+{
+  "title": "Marginalia for Two Apartments",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Romance",
+  "subgenre": "Contemporary Romance",
+  "language": "en",
+  "short_description": "A NASA orbital dynamicist and a Brooklyn baker swap apartments for a year through a house-exchange site, leaving each other increasingly personal notes and recipes hidden in the margins of books around the flat, neither knowing the other has already fallen in love through their handwriting alone.",
+  "long_description": "A NASA orbital dynamicist and a Brooklyn baker swap apartments for a year through a house-exchange site, leaving each other increasingly personal notes and recipes hidden in the margins of books around the flat, neither knowing the other has already fallen in love through their handwriting alone.",
+  "main_characters": [
+    "Dr. Maya Chen",
+    "Leo Bastide",
+    "Sarah Chen",
+    "Dante"
+  ],
+  "keywords": [
+    "romance",
+    "contemporary romance",
+    "long-distance",
+    "epistolary",
+    "NASA",
+    "baking",
+    "apartment swap"
+  ],
+  "TXT_path": "books/Marginalia_for_Two_Apartments/txt/Marginalia_for_Two_Apartments.txt",
+  "EPUB_path": "books/Marginalia_for_Two_Apartments/epub/Marginalia_for_Two_Apartments.epub",
+  "cover_path": "books/Marginalia_for_Two_Apartments/covers/Marginalia_for_Two_Apartments.png",
+  "outline_path": "books/Marginalia_for_Two_Apartments/planning/Marginalia_for_Two_Apartments_outline.md",
+  "cover_script_path": "books/Marginalia_for_Two_Apartments/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

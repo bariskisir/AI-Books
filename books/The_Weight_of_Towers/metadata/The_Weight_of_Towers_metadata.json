@@ -1,0 +1,37 @@
+{
+  "title": "The Weight of Towers",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Contemporary",
+  "language": "en",
+  "short_description": "Structural engineer Mira Belmonte built the Torre del Mare, a masterpiece of coastal architecture. Thirty years later, she must oversee its demolition.",
+  "long_description": "Mira Belmonte was twenty-nine when she designed the Torre del Mare, a sweeping residential tower on the Mediterranean coast that won every architectural prize in Europe. The tower was her monument, proof that a woman from a fishing village could reshape skylines. Thirty-four years later, the ground beneath the tower is shifting. Saltwater intrusion has compromised the foundation. The tower must come down, and the city council has mandated that Mira — the only surviving member of the original design team — must supervise its demolition.\n\nReturning to the village she left decades ago, Mira confronts the people she abandoned: her brother who stayed to run the family boatyard, the childhood friend whose letters she never answered, and the son who grew up visiting her only on holidays. As the demolition date approaches, she must decide what is worth saving and what must be allowed to fall.",
+  "main_characters": [
+    "Mira Belmonte",
+    "Luca Belmonte",
+    "Elara Costa",
+    "Daniel Belmonte"
+  ],
+  "keywords": [
+    "literary fiction",
+    "architecture",
+    "demolition",
+    "family",
+    "coastal",
+    "mediterranean",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Weight_of_Towers/txt/The_Weight_of_Towers.txt",
+  "EPUB_path": "books/The_Weight_of_Towers/epub/The_Weight_of_Towers.epub",
+  "cover_path": "books/The_Weight_of_Towers/covers/The_Weight_of_Towers.png",
+  "outline_path": "books/The_Weight_of_Towers/planning/The_Weight_of_Towers_outline.md",
+  "cover_script_path": "books/The_Weight_of_Towers/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

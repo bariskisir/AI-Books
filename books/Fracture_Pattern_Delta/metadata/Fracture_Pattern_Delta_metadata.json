@@ -1,0 +1,37 @@
+{
+  "title": "Fracture Pattern Delta",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dystopian",
+  "subgenre": "Corporate Dystopia",
+  "language": "en",
+  "short_description": "In a city where all grief is treated as a treatable pathology by the state-licensed Mourning Authority, a bereaved father fakes remission while secretly building a resistance network inside the grief-therapy camps, learning that the Authority's cure is harvesting emotional resonance for corporate profit.",
+  "long_description": "In a city where all grief is treated as a treatable pathology by the state-licensed Mourning Authority, a bereaved father fakes remission while secretly building a resistance network inside the grief-therapy camps, learning that the Authority's cure is harvesting emotional resonance for corporate profit.",
+  "main_characters": [
+    "Caleb Strand",
+    "Dr. Helena Voss",
+    "Kai Strand",
+    "The Director of Emotional Remediation"
+  ],
+  "keywords": [
+    "dystopian",
+    "corporate dystopia",
+    "grief",
+    "emotional control",
+    "resistance",
+    "therapy camps",
+    "novel",
+    "biopunk"
+  ],
+  "TXT_path": "books/Fracture_Pattern_Delta/txt/Fracture_Pattern_Delta.txt",
+  "EPUB_path": "books/Fracture_Pattern_Delta/epub/Fracture_Pattern_Delta.epub",
+  "cover_path": "books/Fracture_Pattern_Delta/covers/Fracture_Pattern_Delta.png",
+  "outline_path": "books/Fracture_Pattern_Delta/planning/Fracture_Pattern_Delta_outline.md",
+  "cover_script_path": "books/Fracture_Pattern_Delta/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

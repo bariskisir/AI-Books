@@ -1,0 +1,37 @@
+{
+  "title": "Brass and Bone Requiem",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fantasy",
+  "subgenre": "Gaslamp Fantasy",
+  "language": "en",
+  "short_description": "In an alternate Victorian London where necromantic jazz raises the dead to dance for tourist coin, a bone-fiddle player discovers her music can resurrect not just bodies but the true memories the Empire has scrubbed from history.",
+  "long_description": "In an alternate Victorian London where necromantic jazz raises the dead to dance for tourist coin, a bone-fiddle player discovers her music can resurrect not just bodies but the true memories the Empire has scrubbed from history.",
+  "main_characters": [
+    "Mercy Harker",
+    "Inspector Thaddeus Flint",
+    "Lady Cordelia Ashworth",
+    "Kingsley the Brass"
+  ],
+  "keywords": [
+    "fantasy",
+    "gaslamp fantasy",
+    "necromancy",
+    "Victorian London",
+    "jazz",
+    "memory magic",
+    "alternate history",
+    "novel"
+  ],
+  "TXT_path": "books/Brass_and_Bone_Requiem/txt/Brass_and_Bone_Requiem.txt",
+  "EPUB_path": "books/Brass_and_Bone_Requiem/epub/Brass_and_Bone_Requiem.epub",
+  "cover_path": "books/Brass_and_Bone_Requiem/covers/Brass_and_Bone_Requiem.png",
+  "outline_path": "books/Brass_and_Bone_Requiem/planning/Brass_and_Bone_Requiem_outline.md",
+  "cover_script_path": "books/Brass_and_Bone_Requiem/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

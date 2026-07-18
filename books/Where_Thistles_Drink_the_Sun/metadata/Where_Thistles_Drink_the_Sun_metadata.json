@@ -1,0 +1,37 @@
+{
+  "title": "Where Thistles Drink the Sun",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fantasy",
+  "subgenre": "Dark Fantasy / Folk Horror",
+  "language": "en",
+  "short_description": "When children born under a blood-red moon begin speaking in tongues and driving their parents mad, a disgraced herbalist must return to the thorn-woven groves she fled decades ago to find the root of the curse.",
+  "long_description": "When children born under a blood-red moon begin speaking in tongues and driving their parents mad, a disgraced herbalist must return to the thorn-woven groves she fled decades ago to find the root of the curse.",
+  "main_characters": [
+    "Bramble Kest",
+    "Aldus the Reeve",
+    "Marrow (the village wyrd-woman)",
+    "Sorrow (Bramble's mute daughter)"
+  ],
+  "keywords": [
+    "Fantasy",
+    "dark fantasy",
+    "folk horror",
+    "herbalism",
+    "curses",
+    "thorn magic",
+    "rural isolation",
+    "novel"
+  ],
+  "TXT_path": "books/Where_Thistles_Drink_the_Sun/txt/Where_Thistles_Drink_the_Sun.txt",
+  "EPUB_path": "books/Where_Thistles_Drink_the_Sun/epub/Where_Thistles_Drink_the_Sun.epub",
+  "cover_path": "books/Where_Thistles_Drink_the_Sun/covers/Where_Thistles_Drink_the_Sun.png",
+  "outline_path": "books/Where_Thistles_Drink_the_Sun/planning/Where_Thistles_Drink_the_Sun_outline.md",
+  "cover_script_path": "books/Where_Thistles_Drink_the_Sun/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

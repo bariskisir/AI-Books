@@ -1,0 +1,36 @@
+{
+  "title": "Where the Salt Tide Turns",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Family Drama",
+  "language": "en",
+  "short_description": "A grieving marine biologist returns to her childhood island to catalog the dying tide pools and discovers her late mother's hidden journals revealing a decades-long affair with a woman, forcing her to reconcile the mother she knew with the woman she never met.",
+  "long_description": "A grieving marine biologist returns to her childhood island to catalog the dying tide pools and discovers her late mother's hidden journals revealing a decades-long affair with a woman, forcing her to reconcile the mother she knew with the woman she never met.",
+  "main_characters": [
+    "Dr. Cass Mercier",
+    "Vivienne Mercier",
+    "Daniel Mercier",
+    "Helena Orbach"
+  ],
+  "keywords": [
+    "literary fiction",
+    "grief",
+    "family secrets",
+    "queer",
+    "marine biology",
+    "island",
+    "mothers and daughters"
+  ],
+  "TXT_path": "books/Where_the_Salt_Tide_Turns/txt/Where_the_Salt_Tide_Turns.txt",
+  "EPUB_path": "books/Where_the_Salt_Tide_Turns/epub/Where_the_Salt_Tide_Turns.epub",
+  "cover_path": "books/Where_the_Salt_Tide_Turns/covers/Where_the_Salt_Tide_Turns.png",
+  "outline_path": "books/Where_the_Salt_Tide_Turns/planning/Where_the_Salt_Tide_Turns_outline.md",
+  "cover_script_path": "books/Where_the_Salt_Tide_Turns/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

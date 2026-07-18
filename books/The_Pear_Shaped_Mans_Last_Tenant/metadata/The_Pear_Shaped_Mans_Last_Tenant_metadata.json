@@ -1,0 +1,37 @@
+{
+  "title": "The Pear-Shaped Man's Last Tenant",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Horror",
+  "subgenre": "Cosmic Horror / Body Horror",
+  "language": "en",
+  "short_description": "A building superintendent in a crumbling Chicago tenement discovers the basement holds a being that can reshape flesh perfectly — and that every tenant who's met it has willingly traded their human form for something monstrous.",
+  "long_description": "A building superintendent in a crumbling Chicago tenement discovers the basement holds a being that can reshape flesh perfectly — and that every tenant who's met it has willingly traded their human form for something monstrous.",
+  "main_characters": [
+    "Emmett Grissom",
+    "Mrs. Kowel (the librarian on 3B)",
+    "The Pear-Shaped Man",
+    "Detective Cora Heyes"
+  ],
+  "keywords": [
+    "Horror",
+    "cosmic horror",
+    "body horror",
+    "tenement",
+    "Chicago",
+    "identity",
+    "transformation",
+    "novel"
+  ],
+  "TXT_path": "books/The_Pear_Shaped_Mans_Last_Tenant/txt/The_Pear_Shaped_Mans_Last_Tenant.txt",
+  "EPUB_path": "books/The_Pear_Shaped_Mans_Last_Tenant/epub/The_Pear_Shaped_Mans_Last_Tenant.epub",
+  "cover_path": "books/The_Pear_Shaped_Mans_Last_Tenant/covers/The_Pear_Shaped_Mans_Last_Tenant.png",
+  "outline_path": "books/The_Pear_Shaped_Mans_Last_Tenant/planning/The_Pear_Shaped_Mans_Last_Tenant_outline.md",
+  "cover_script_path": "books/The_Pear_Shaped_Mans_Last_Tenant/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

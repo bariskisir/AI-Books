@@ -1,0 +1,36 @@
+{
+  "title": "The Root Beneath the Porch",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Horror",
+  "subgenre": "Botanical Body Horror",
+  "language": "en",
+  "short_description": "After moving into her grandmother's farmhouse, a young botanist discovers the foundation rests on a living root system that has sustained the family for generations by consuming whatever it is fed.",
+  "long_description": "After moving into her grandmother's farmhouse, a young botanist discovers the foundation rests on a living root system that has sustained the family for generations by consuming whatever it is fed.",
+  "main_characters": [
+    "Maya Chen",
+    "Elias Chen",
+    "Gran Alice",
+    "The Root"
+  ],
+  "keywords": [
+    "horror",
+    "novel",
+    "botanical horror",
+    "family curse",
+    "rural isolation",
+    "body horror",
+    "generational trauma"
+  ],
+  "TXT_path": "books/The_Root_Beneath_the_Porch/txt/The_Root_Beneath_the_Porch.txt",
+  "EPUB_path": "books/The_Root_Beneath_the_Porch/epub/The_Root_Beneath_the_Porch.epub",
+  "cover_path": "books/The_Root_Beneath_the_Porch/covers/The_Root_Beneath_the_Porch.png",
+  "outline_path": "books/The_Root_Beneath_the_Porch/planning/The_Root_Beneath_the_Porch_outline.md",
+  "cover_script_path": "books/The_Root_Beneath_the_Porch/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

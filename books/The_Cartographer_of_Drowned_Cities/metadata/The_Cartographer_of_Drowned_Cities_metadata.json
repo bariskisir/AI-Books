@@ -1,0 +1,36 @@
+{
+  "title": "The Cartographer of Drowned Cities",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Weird Fiction",
+  "subgenre": "Impossible Geography",
+  "language": "en",
+  "short_description": "A woman who navigates impossible spaces is hired to find a city that exists only in the memories of the dying, only to discover it is bleeding into reality through their minds.",
+  "long_description": "A woman who navigates impossible spaces is hired to find a city that exists only in the memories of the dying, only to discover it is bleeding into reality through their minds.",
+  "main_characters": [
+    "Elara Voss",
+    "Silas Thorne",
+    "Dr. Helena Kwan",
+    "The Drowned Man"
+  ],
+  "keywords": [
+    "weird fiction",
+    "novel",
+    "impossible geography",
+    "memory cartography",
+    "drowning",
+    "urban decay",
+    "cognitive contamination"
+  ],
+  "TXT_path": "books/The_Cartographer_of_Drowned_Cities/txt/The_Cartographer_of_Drowned_Cities.txt",
+  "EPUB_path": "books/The_Cartographer_of_Drowned_Cities/epub/The_Cartographer_of_Drowned_Cities.epub",
+  "cover_path": "books/The_Cartographer_of_Drowned_Cities/covers/The_Cartographer_of_Drowned_Cities.png",
+  "outline_path": "books/The_Cartographer_of_Drowned_Cities/planning/The_Cartographer_of_Drowned_Cities_outline.md",
+  "cover_script_path": "books/The_Cartographer_of_Drowned_Cities/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

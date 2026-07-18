@@ -1,0 +1,37 @@
+{
+  "title": "The Cartographer's Last Meridian 3",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Fiction",
+  "subgenre": "Age of Exploration Drama",
+  "language": "en",
+  "short_description": "A disgraced Portuguese cartographer in 1519 joins Magellan's fleet to map the unknown strait at the southern tip of the continent, only to discover the voyage's true purpose is not trade but the silencing of everyone who knows the route.",
+  "long_description": "A disgraced Portuguese cartographer in 1519 joins Magellan's fleet to map the unknown strait at the southern tip of the continent, only to discover the voyage's true purpose is not trade but the silencing of everyone who knows the route.",
+  "main_characters": [
+    "Diogo Ribeiro",
+    "Captain-General Fernao de Magalhaes",
+    "Isabel de Castro",
+    "Enrique of Malacca"
+  ],
+  "keywords": [
+    "historical fiction",
+    "Age of Exploration",
+    "cartography",
+    "Magellan",
+    "betrayal",
+    "novel",
+    "16th century",
+    "sea voyage"
+  ],
+  "TXT_path": "books/The_Cartographers_Last_Meridian_3/txt/The_Cartographers_Last_Meridian_3.txt",
+  "EPUB_path": "books/The_Cartographers_Last_Meridian_3/epub/The_Cartographers_Last_Meridian_3.epub",
+  "cover_path": "books/The_Cartographers_Last_Meridian_3/covers/The_Cartographers_Last_Meridian_3.png",
+  "outline_path": "books/The_Cartographers_Last_Meridian_3/planning/The_Cartographers_Last_Meridian_3_outline.md",
+  "cover_script_path": "books/The_Cartographers_Last_Meridian_3/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

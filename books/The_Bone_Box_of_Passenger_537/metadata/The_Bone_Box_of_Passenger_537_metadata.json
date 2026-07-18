@@ -1,0 +1,37 @@
+{
+  "title": "The Bone-Box of Passenger 537",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Thriller",
+  "subgenre": "Conspiracy Thriller",
+  "language": "en",
+  "short_description": "A luggage handler at Heathrow finds a human finger bone in a diplomatic pouch from a country that no longer exists, triggering a cross-continental chase involving a defunct cold-war treaty and three people who should all be dead.",
+  "long_description": "A luggage handler at Heathrow finds a human finger bone in a diplomatic pouch from a country that no longer exists, triggering a cross-continental chase involving a defunct cold-war treaty and three people who should all be dead.",
+  "main_characters": [
+    "Leo Pham",
+    "Zara Kouri (disgraced MI5 analyst)",
+    "Colonel Yuri Morozov (retired)",
+    "Elena Vance (archivist)"
+  ],
+  "keywords": [
+    "Thriller",
+    "conspiracy thriller",
+    "Heathrow",
+    "cold war",
+    "diplomatic pouch",
+    "cover-up",
+    "airport",
+    "novel"
+  ],
+  "TXT_path": "books/The_Bone_Box_of_Passenger_537/txt/The_Bone_Box_of_Passenger_537.txt",
+  "EPUB_path": "books/The_Bone_Box_of_Passenger_537/epub/The_Bone_Box_of_Passenger_537.epub",
+  "cover_path": "books/The_Bone_Box_of_Passenger_537/covers/The_Bone_Box_of_Passenger_537.png",
+  "outline_path": "books/The_Bone_Box_of_Passenger_537/planning/The_Bone_Box_of_Passenger_537_outline.md",
+  "cover_script_path": "books/The_Bone_Box_of_Passenger_537/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

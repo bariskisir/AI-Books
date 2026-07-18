@@ -1,0 +1,36 @@
+{
+  "title": "The Ink That Remembers",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fantasy",
+  "subgenre": "Tattoo Magic",
+  "language": "en",
+  "short_description": "In a world where tattoos hold memories and indentured scribes carry the histories of noble houses on their skin, a memory-scarred apprentice discovers a lost ink recipe that can rewrite the past.",
+  "long_description": "In a world where tattoos hold memories and indentured scribes carry the histories of noble houses on their skin, a memory-scarred apprentice discovers a lost ink recipe that can rewrite the past.",
+  "main_characters": [
+    "Kaelen",
+    "Mistress Thivani",
+    "Lord Caspian Vex",
+    "Yara the Ink-Mute"
+  ],
+  "keywords": [
+    "fantasy",
+    "novel",
+    "tattoo magic",
+    "memory scribes",
+    "social hierarchy",
+    "forbidden knowledge",
+    "identity"
+  ],
+  "TXT_path": "books/The_Ink_That_Remembers/txt/The_Ink_That_Remembers.txt",
+  "EPUB_path": "books/The_Ink_That_Remembers/epub/The_Ink_That_Remembers.epub",
+  "cover_path": "books/The_Ink_That_Remembers/covers/The_Ink_That_Remembers.png",
+  "outline_path": "books/The_Ink_That_Remembers/planning/The_Ink_That_Remembers_outline.md",
+  "cover_script_path": "books/The_Ink_That_Remembers/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

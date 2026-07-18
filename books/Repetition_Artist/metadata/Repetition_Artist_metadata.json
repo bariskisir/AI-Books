@@ -1,0 +1,36 @@
+{
+  "title": "Repetition Artist",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Thriller",
+  "subgenre": "Psychological Thriller",
+  "language": "en",
+  "short_description": "A forensic timeline-analyst for the FBI notices that the same three-second micro-expression sequence appears in the confession footage of every serial killer she's worked on—as if someone taught them all the same tell.",
+  "long_description": "A forensic timeline-analyst for the FBI notices that the same three-second micro-expression sequence appears in the confession footage of every serial killer she's worked on—as if someone taught them all the same tell.",
+  "main_characters": [
+    "Ava Chen",
+    "Special Agent Marcus Pike",
+    "Dr. Julian Cross",
+    "the Unsub (Lydia Grant)"
+  ],
+  "keywords": [
+    "thriller",
+    "psychological thriller",
+    "forensic analysis",
+    "FBI",
+    "serial killers",
+    "micro-expressions",
+    "novel"
+  ],
+  "TXT_path": "books/Repetition_Artist/txt/Repetition_Artist.txt",
+  "EPUB_path": "books/Repetition_Artist/epub/Repetition_Artist.epub",
+  "cover_path": "books/Repetition_Artist/covers/Repetition_Artist.png",
+  "outline_path": "books/Repetition_Artist/planning/Repetition_Artist_outline.md",
+  "cover_script_path": "books/Repetition_Artist/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

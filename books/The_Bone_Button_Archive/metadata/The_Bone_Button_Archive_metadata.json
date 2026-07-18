@@ -1,0 +1,37 @@
+{
+  "title": "The Bone Button Archive",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Horror",
+  "subgenre": "Body Horror",
+  "language": "en",
+  "short_description": "A forensic archivist cataloging a Victorian button collection discovers each button is made from a different child's patella and that the collection is still growing.",
+  "long_description": "A forensic archivist cataloging a Victorian button collection discovers each button is made from a different child's patella and that the collection is still growing.",
+  "main_characters": [
+    "Elena Voss",
+    "Dr. Magnus Thorne",
+    "Cora Haskins",
+    "The Collector"
+  ],
+  "keywords": [
+    "horror",
+    "body horror",
+    "forensic archive",
+    "Victorian",
+    "buttons",
+    "novel",
+    "dark fantasy",
+    "obsession"
+  ],
+  "TXT_path": "books/The_Bone_Button_Archive/txt/The_Bone_Button_Archive.txt",
+  "EPUB_path": "books/The_Bone_Button_Archive/epub/The_Bone_Button_Archive.epub",
+  "cover_path": "books/The_Bone_Button_Archive/covers/The_Bone_Button_Archive.png",
+  "outline_path": "books/The_Bone_Button_Archive/planning/The_Bone_Button_Archive_outline.md",
+  "cover_script_path": "books/The_Bone_Button_Archive/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

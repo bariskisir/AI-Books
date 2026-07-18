@@ -1,0 +1,37 @@
+{
+  "title": "The Cartographers of Lost Time",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fantasy",
+  "subgenre": "Literary Fantasy",
+  "language": "en",
+  "short_description": "In a world where maps can reveal lost moments from history, a disgraced cartographer discovers a continent that should not exist.",
+  "long_description": "In the city of Velar, cartography is not the study of places but of moments. The Cartographers' Guild creates maps that reveal the temporal residue of landscapes — echoes of battles, fragments of forgotten conversations, the shadow of a kiss left on the air for centuries. Elara Venn was the youngest master cartographer in Guild history until a catastrophic misreading destroyed a district and cost her everything.\n\nSeven years later, a stranger brings her a fragment of an old map. The ink is not of any known origin. The coordinates lead to a place between known latitudes. When Elara touches the parchment, she sees a mountain range rising from a sea that dried up before mammals walked the Earth. The maps shows a time that predates the Guild, predates human civilization, predates the continents themselves. And something is looking back from that ancient emptiness.",
+  "main_characters": [
+    "Elara Venn",
+    "Silas Venn",
+    "Kael Marche",
+    "The Anchorite"
+  ],
+  "keywords": [
+    "fantasy",
+    "cartography",
+    "time",
+    "maps",
+    "guild",
+    "ancient",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Cartographers_of_Lost_Time/txt/The_Cartographers_of_Lost_Time.txt",
+  "EPUB_path": "books/The_Cartographers_of_Lost_Time/epub/The_Cartographers_of_Lost_Time.epub",
+  "cover_path": "books/The_Cartographers_of_Lost_Time/covers/The_Cartographers_of_Lost_Time.png",
+  "outline_path": "books/The_Cartographers_of_Lost_Time/planning/The_Cartographers_of_Lost_Time_outline.md",
+  "cover_script_path": "books/The_Cartographers_of_Lost_Time/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

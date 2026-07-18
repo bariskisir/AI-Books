@@ -1,0 +1,37 @@
+{
+  "title": "The Weavers of Oshun",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fantasy",
+  "subgenre": "Africanfuturism",
+  "language": "en",
+  "short_description": "A deaf teenage weaver in a floating Lagos market discovers her tapestries can physically re-weave time, but each use unravels a thread from her own lifespan.",
+  "long_description": "A deaf teenage weaver in a floating Lagos market discovers her tapestries can physically re-weave time, but each use unravels a thread from her own lifespan.",
+  "main_characters": [
+    "Damilola Akin",
+    "Mama Bisi",
+    "Kofi the Dyer",
+    "The Orisha's Voice"
+  ],
+  "keywords": [
+    "fantasy",
+    "Africanfuturism",
+    "weaving",
+    "Lagos",
+    "time manipulation",
+    "novel",
+    "deaf protagonist",
+    "Orisha"
+  ],
+  "TXT_path": "books/The_Weavers_of_Oshun/txt/The_Weavers_of_Oshun.txt",
+  "EPUB_path": "books/The_Weavers_of_Oshun/epub/The_Weavers_of_Oshun.epub",
+  "cover_path": "books/The_Weavers_of_Oshun/covers/The_Weavers_of_Oshun.png",
+  "outline_path": "books/The_Weavers_of_Oshun/planning/The_Weavers_of_Oshun_outline.md",
+  "cover_script_path": "books/The_Weavers_of_Oshun/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

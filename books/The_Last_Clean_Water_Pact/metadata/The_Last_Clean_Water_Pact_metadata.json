@@ -1,0 +1,36 @@
+{
+  "title": "The Last Clean Water Pact",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dystopian",
+  "subgenre": "Eco-Corporate Collapse",
+  "language": "en",
+  "short_description": "In a drought-ravaged America where water is doled by corporate hydration credits, a hydrologist discovers the aquifer beneath the dead zone is still full and the company has been lying for decades to keep prices high.",
+  "long_description": "In a drought-ravaged America where water is doled by corporate hydration credits, a hydrologist discovers the aquifer beneath the dead zone is still full and the company has been lying for decades to keep prices high.",
+  "main_characters": [
+    "Dr. Sasha Okonkwo",
+    "River Cole",
+    "Governor Paulsen",
+    "Kell-Ann Okonkwo"
+  ],
+  "keywords": [
+    "dystopian",
+    "novel",
+    "water scarcity",
+    "corporate control",
+    "drought",
+    "environmental collapse",
+    "resistance"
+  ],
+  "TXT_path": "books/The_Last_Clean_Water_Pact/txt/The_Last_Clean_Water_Pact.txt",
+  "EPUB_path": "books/The_Last_Clean_Water_Pact/epub/The_Last_Clean_Water_Pact.epub",
+  "cover_path": "books/The_Last_Clean_Water_Pact/covers/The_Last_Clean_Water_Pact.png",
+  "outline_path": "books/The_Last_Clean_Water_Pact/planning/The_Last_Clean_Water_Pact_outline.md",
+  "cover_script_path": "books/The_Last_Clean_Water_Pact/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

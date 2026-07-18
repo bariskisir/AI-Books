@@ -1,0 +1,36 @@
+{
+  "title": "These Days Like Glass",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Family Drama / Psychological",
+  "language": "en",
+  "short_description": "After their mother's death, three estranged siblings sorting her estate discover she spent forty years secretly building a detailed miniature replica of the house they grew up in, with each room frozen at a different decade and one hidden figure who does not belong to their family.",
+  "long_description": "After their mother's death, three estranged siblings sorting her estate discover she spent forty years secretly building a detailed miniature replica of the house they grew up in, with each room frozen at a different decade and one hidden figure who does not belong to their family.",
+  "main_characters": [
+    "Miriam Chen",
+    "Leo Chen",
+    "Nora Chen-Patel"
+  ],
+  "keywords": [
+    "Literary Fiction",
+    "novel",
+    "family",
+    "grief",
+    "memory",
+    "miniatures",
+    "secrets",
+    "siblings"
+  ],
+  "TXT_path": "books/These_Days_Like_Glass/txt/These_Days_Like_Glass.txt",
+  "EPUB_path": "books/These_Days_Like_Glass/epub/These_Days_Like_Glass.epub",
+  "cover_path": "books/These_Days_Like_Glass/covers/These_Days_Like_Glass.png",
+  "outline_path": "books/These_Days_Like_Glass/planning/These_Days_Like_Glass_outline.md",
+  "cover_script_path": "books/These_Days_Like_Glass/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The Bone Accord",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fantasy",
+  "subgenre": "Grimdark Political Fantasy",
+  "language": "en",
+  "short_description": "When the bone-oracle of a besieged mountain city dies mid-prophecy, her three apprentices must assemble her fragmented vision from the dead woman's skeleton before the invading army breaches the wall, but each bone tells a different version of the future.",
+  "long_description": "When the bone-oracle of a besieged mountain city dies mid-prophecy, her three apprentices must assemble her fragmented vision from the dead woman's skeleton before the invading army breaches the wall, but each bone tells a different version of the future.",
+  "main_characters": [
+    "Varen Halfbone",
+    "Morrow Kettle",
+    "Aspect",
+    "General Urzhan the Breaker"
+  ],
+  "keywords": [
+    "fantasy",
+    "grimdark",
+    "political fantasy",
+    "oracle",
+    "siege",
+    "prophecy",
+    "novel",
+    "bone magic"
+  ],
+  "TXT_path": "books/The_Bone_Accord/txt/The_Bone_Accord.txt",
+  "EPUB_path": "books/The_Bone_Accord/epub/The_Bone_Accord.epub",
+  "cover_path": "books/The_Bone_Accord/covers/The_Bone_Accord.png",
+  "outline_path": "books/The_Bone_Accord/planning/The_Bone_Accord_outline.md",
+  "cover_script_path": "books/The_Bone_Accord/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

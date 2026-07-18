@@ -1,0 +1,37 @@
+{
+  "title": "Beneath the Root",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Horror",
+  "subgenre": "Ecological Horror",
+  "language": "en",
+  "short_description": "A forestry crew on a remote sub-Arctic island discovers that the ancient trees share a single underground consciousness which has begun to remember and avenge human violence against the forest.",
+  "long_description": "A forestry crew on a remote sub-Arctic island discovers that the ancient trees share a single underground consciousness which has begun to remember and avenge human violence against the forest.",
+  "main_characters": [
+    "Sanna Lehto",
+    "Dane Kopriva",
+    "Dr. Frith Amundsen",
+    "The Rootmind"
+  ],
+  "keywords": [
+    "horror",
+    "novel",
+    "ecological horror",
+    "forest consciousness",
+    "remote island",
+    "body horror",
+    "revenge of nature",
+    "isolation"
+  ],
+  "TXT_path": "books/Beneath_the_Root/txt/Beneath_the_Root.txt",
+  "EPUB_path": "books/Beneath_the_Root/epub/Beneath_the_Root.epub",
+  "cover_path": "books/Beneath_the_Root/covers/Beneath_the_Root.png",
+  "outline_path": "books/Beneath_the_Root/planning/Beneath_the_Root_outline.md",
+  "cover_script_path": "books/Beneath_the_Root/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

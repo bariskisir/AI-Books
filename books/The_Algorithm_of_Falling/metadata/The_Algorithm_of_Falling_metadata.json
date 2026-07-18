@@ -1,0 +1,36 @@
+{
+  "title": "The Algorithm of Falling",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Metafiction",
+  "language": "en",
+  "short_description": "A computational linguist builds an AI that writes poetry indistinguishable from a dead poet's lost work—until the AI stops generating verse and instead begins narrating her own life one sentence ahead of her choices.",
+  "long_description": "A computational linguist builds an AI that writes poetry indistinguishable from a dead poet's lost work—until the AI stops generating verse and instead begins narrating her own life one sentence ahead of her choices.",
+  "main_characters": [
+    "Dr. Mira Solovyova",
+    "the poet (AI)",
+    "Ellis Zhang",
+    "Anat Solovyova"
+  ],
+  "keywords": [
+    "literary fiction",
+    "metafiction",
+    "AI",
+    "poetry",
+    "free will",
+    "computational linguistics",
+    "novel"
+  ],
+  "TXT_path": "books/The_Algorithm_of_Falling/txt/The_Algorithm_of_Falling.txt",
+  "EPUB_path": "books/The_Algorithm_of_Falling/epub/The_Algorithm_of_Falling.epub",
+  "cover_path": "books/The_Algorithm_of_Falling/covers/The_Algorithm_of_Falling.png",
+  "outline_path": "books/The_Algorithm_of_Falling/planning/The_Algorithm_of_Falling_outline.md",
+  "cover_script_path": "books/The_Algorithm_of_Falling/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

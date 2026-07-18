@@ -1,0 +1,37 @@
+{
+  "title": "Chlorophyll and Rust",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Climate Migration Saga",
+  "language": "en",
+  "short_description": "Three generations of a Ukrainian family scatter across continents after the Dnipro River dries up, each carrying a cutting from the same cherry tree that refuses to fruit anywhere but the vanished orchard.",
+  "long_description": "Three generations of a Ukrainian family scatter across continents after the Dnipro River dries up, each carrying a cutting from the same cherry tree that refuses to fruit anywhere but the vanished orchard.",
+  "main_characters": [
+    "Oksana Petrenko",
+    "Mykola Petrenko",
+    "Lena Petrenko-Watanabe",
+    "Dmytro Petrenko"
+  ],
+  "keywords": [
+    "literary fiction",
+    "climate migration",
+    "family saga",
+    "Ukraine",
+    "generational story",
+    "displacement",
+    "novel",
+    "memory"
+  ],
+  "TXT_path": "books/Chlorophyll_and_Rust/txt/Chlorophyll_and_Rust.txt",
+  "EPUB_path": "books/Chlorophyll_and_Rust/epub/Chlorophyll_and_Rust.epub",
+  "cover_path": "books/Chlorophyll_and_Rust/covers/Chlorophyll_and_Rust.png",
+  "outline_path": "books/Chlorophyll_and_Rust/planning/Chlorophyll_and_Rust_outline.md",
+  "cover_script_path": "books/Chlorophyll_and_Rust/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

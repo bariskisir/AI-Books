@@ -1,0 +1,37 @@
+{
+  "title": "The Cartographer of Silent Oceans",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Science Fiction",
+  "subgenre": "Hard SF / Oceanic",
+  "language": "en",
+  "short_description": "A deaf oceanographer charts the depths of Europa's subsurface ocean using seismic harmonics, only to discover the ice sheets are a living intelligence that communicates through the very patterns she maps.",
+  "long_description": "A deaf oceanographer charts the depths of Europa's subsurface ocean using seismic harmonics, only to discover the ice sheets are a living intelligence that communicates through the very patterns she maps.",
+  "main_characters": [
+    "Dr. Isla Voss",
+    "Commander Taro Nishimura",
+    "NEMO (the shipboard AI)",
+    "Elder Crest (the Europan intelligence)"
+  ],
+  "keywords": [
+    "Science Fiction",
+    "hard SF",
+    "oceanic",
+    "Europa",
+    "first contact",
+    "seismic harmonics",
+    "deaf protagonist",
+    "novel"
+  ],
+  "TXT_path": "books/The_Cartographer_of_Silent_Oceans/txt/The_Cartographer_of_Silent_Oceans.txt",
+  "EPUB_path": "books/The_Cartographer_of_Silent_Oceans/epub/The_Cartographer_of_Silent_Oceans.epub",
+  "cover_path": "books/The_Cartographer_of_Silent_Oceans/covers/The_Cartographer_of_Silent_Oceans.png",
+  "outline_path": "books/The_Cartographer_of_Silent_Oceans/planning/The_Cartographer_of_Silent_Oceans_outline.md",
+  "cover_script_path": "books/The_Cartographer_of_Silent_Oceans/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

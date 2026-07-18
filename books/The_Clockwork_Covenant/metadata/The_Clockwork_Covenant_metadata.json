@@ -1,0 +1,37 @@
+{
+  "title": "The Clockwork Covenant",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fantasy",
+  "subgenre": "Clockpunk",
+  "language": "en",
+  "short_description": "A disgraced toymaker in a city where magic is powered by clockwork must build a device that can rewind time itself before a celestial alignment cracks the realm apart.",
+  "long_description": "A disgraced toymaker in a city where magic is powered by clockwork must build a device that can rewind time itself before a celestial alignment cracks the realm apart.",
+  "main_characters": [
+    "Theo Brasswick",
+    "Kaelith Venn",
+    "Warden Orsik",
+    "The Grand Escapement"
+  ],
+  "keywords": [
+    "fantasy",
+    "novel",
+    "clockpunk",
+    "time manipulation",
+    "toymaker",
+    "celestial magic",
+    "guild politics",
+    "steampunk"
+  ],
+  "TXT_path": "books/The_Clockwork_Covenant/txt/The_Clockwork_Covenant.txt",
+  "EPUB_path": "books/The_Clockwork_Covenant/epub/The_Clockwork_Covenant.epub",
+  "cover_path": "books/The_Clockwork_Covenant/covers/The_Clockwork_Covenant.png",
+  "outline_path": "books/The_Clockwork_Covenant/planning/The_Clockwork_Covenant_outline.md",
+  "cover_script_path": "books/The_Clockwork_Covenant/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

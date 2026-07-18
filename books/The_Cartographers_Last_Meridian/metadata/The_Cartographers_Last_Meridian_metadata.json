@@ -1,0 +1,36 @@
+{
+  "title": "The Cartographer's Last Meridian",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Fiction",
+  "subgenre": "Exploration",
+  "language": "en",
+  "short_description": "In 1520s Seville, a blind cartographer who sailed with Magellan discovers the Crown's official world map deliberately omits a southern continent, and he must smuggle a true map out of the royal archive before the Inquisition silences him permanently.",
+  "long_description": "In 1520s Seville, a blind cartographer who sailed with Magellan discovers the Crown's official world map deliberately omits a southern continent, and he must smuggle a true map out of the royal archive before the Inquisition silences him permanently.",
+  "main_characters": [
+    "Mateo Alarcón",
+    "Isabel de Torres",
+    "Friar Clemente",
+    "Captain Rodrigo Sandoval"
+  ],
+  "keywords": [
+    "historical fiction",
+    "Age of Exploration",
+    "cartography",
+    "Magellan",
+    "Spain",
+    "Inquisition",
+    "conspiracy"
+  ],
+  "TXT_path": "books/The_Cartographers_Last_Meridian/txt/The_Cartographers_Last_Meridian.txt",
+  "EPUB_path": "books/The_Cartographers_Last_Meridian/epub/The_Cartographers_Last_Meridian.epub",
+  "cover_path": "books/The_Cartographers_Last_Meridian/covers/The_Cartographers_Last_Meridian.png",
+  "outline_path": "books/The_Cartographers_Last_Meridian/planning/The_Cartographers_Last_Meridian_outline.md",
+  "cover_script_path": "books/The_Cartographers_Last_Meridian/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

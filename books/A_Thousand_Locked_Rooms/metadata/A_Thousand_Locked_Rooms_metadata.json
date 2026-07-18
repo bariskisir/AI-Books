@@ -1,0 +1,36 @@
+{
+  "title": "A Thousand Locked Rooms",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Mystery",
+  "subgenre": "Locked Room",
+  "language": "en",
+  "short_description": "When a reclusive puzzle-maker dies in a room bolted from inside with no key in sight, his estranged daughter must solve the seven elaborate puzzles he left behind—each one a locked room hiding a darker family secret.",
+  "long_description": "When a reclusive puzzle-maker dies in a room bolted from inside with no key in sight, his estranged daughter must solve the seven elaborate puzzles he left behind—each one a locked room hiding a darker family secret.",
+  "main_characters": [
+    "Zara Quin",
+    "Detective Hale Moradi",
+    "Uncle Linus",
+    "Theo Quin"
+  ],
+  "keywords": [
+    "mystery",
+    "locked room",
+    "puzzle",
+    "inheritance",
+    "family secrets",
+    "puzzle box",
+    "novel"
+  ],
+  "TXT_path": "books/A_Thousand_Locked_Rooms/txt/A_Thousand_Locked_Rooms.txt",
+  "EPUB_path": "books/A_Thousand_Locked_Rooms/epub/A_Thousand_Locked_Rooms.epub",
+  "cover_path": "books/A_Thousand_Locked_Rooms/covers/A_Thousand_Locked_Rooms.png",
+  "outline_path": "books/A_Thousand_Locked_Rooms/planning/A_Thousand_Locked_Rooms_outline.md",
+  "cover_script_path": "books/A_Thousand_Locked_Rooms/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

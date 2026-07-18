@@ -1,0 +1,36 @@
+{
+  "title": "Permafrost Rising",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Science Fiction",
+  "subgenre": "Climate Fiction",
+  "language": "en",
+  "short_description": "A permafrost-core research team in Siberia extracts a viable 40,000-year-old bacterium that consumes plastic and excretes crude oil, triggering a global resource war that the microbe was deliberately buried to prevent.",
+  "long_description": "A permafrost-core research team in Siberia extracts a viable 40,000-year-old bacterium that consumes plastic and excretes crude oil, triggering a global resource war that the microbe was deliberately buried to prevent.",
+  "main_characters": [
+    "Dr. Kei Nishimura",
+    "Viktor Andreev",
+    "Sofia Marchetti",
+    "Bai Yutong"
+  ],
+  "keywords": [
+    "science fiction",
+    "cli-fi",
+    "permafrost",
+    "paleobiology",
+    "resource war",
+    "Siberia",
+    "novel"
+  ],
+  "TXT_path": "books/Permafrost_Rising/txt/Permafrost_Rising.txt",
+  "EPUB_path": "books/Permafrost_Rising/epub/Permafrost_Rising.epub",
+  "cover_path": "books/Permafrost_Rising/covers/Permafrost_Rising.png",
+  "outline_path": "books/Permafrost_Rising/planning/Permafrost_Rising_outline.md",
+  "cover_script_path": "books/Permafrost_Rising/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

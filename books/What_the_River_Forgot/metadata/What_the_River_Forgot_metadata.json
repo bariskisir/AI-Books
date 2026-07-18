@@ -1,0 +1,37 @@
+{
+  "title": "What the River Forgot",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Mystery",
+  "subgenre": "Coastal Noir",
+  "language": "en",
+  "short_description": "A retired marine biologist is pulled back into her past when bodies of missing fishermen wash ashore along a remote Oregon coast, each one with gill slits carved into their necks.",
+  "long_description": "A retired marine biologist is pulled back into her past when bodies of missing fishermen wash ashore along a remote Oregon coast, each one with gill slits carved into their necks.",
+  "main_characters": [
+    "Dr. Lena March",
+    "Sheriff Cal Pritchard",
+    "Boone Harlan",
+    "Rita Sully"
+  ],
+  "keywords": [
+    "mystery",
+    "coastal noir",
+    "marine biology",
+    "Oregon coast",
+    "fishermen",
+    "novel",
+    "small town",
+    "serial killer"
+  ],
+  "TXT_path": "books/What_the_River_Forgot/txt/What_the_River_Forgot.txt",
+  "EPUB_path": "books/What_the_River_Forgot/epub/What_the_River_Forgot.epub",
+  "cover_path": "books/What_the_River_Forgot/covers/What_the_River_Forgot.png",
+  "outline_path": "books/What_the_River_Forgot/planning/What_the_River_Forgot_outline.md",
+  "cover_script_path": "books/What_the_River_Forgot/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

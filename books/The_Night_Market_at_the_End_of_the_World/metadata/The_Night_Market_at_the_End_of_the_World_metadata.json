@@ -1,0 +1,36 @@
+{
+  "title": "The Night Market at the End of the World",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fantasy",
+  "subgenre": "Urban Fantasy",
+  "language": "en",
+  "short_description": "A smuggler of illegal magical artifacts discovers that the floating night market where she trades exists in a different timeline every sunset, and someone is hunting vendors across all of them to collapse the market into a single doomed reality.",
+  "long_description": "A smuggler of illegal magical artifacts discovers that the floating night market where she trades exists in a different timeline every sunset, and someone is hunting vendors across all of them to collapse the market into a single doomed reality.",
+  "main_characters": [
+    "Cora Fenn",
+    "The Lumen (Zebu)",
+    "Inspector Harrow",
+    "Mama Yemaya"
+  ],
+  "keywords": [
+    "fantasy",
+    "urban fantasy",
+    "night market",
+    "timeline",
+    "magical artifacts",
+    "smuggler",
+    "novel"
+  ],
+  "TXT_path": "books/The_Night_Market_at_the_End_of_the_World/txt/The_Night_Market_at_the_End_of_the_World.txt",
+  "EPUB_path": "books/The_Night_Market_at_the_End_of_the_World/epub/The_Night_Market_at_the_End_of_the_World.epub",
+  "cover_path": "books/The_Night_Market_at_the_End_of_the_World/covers/The_Night_Market_at_the_End_of_the_World.png",
+  "outline_path": "books/The_Night_Market_at_the_End_of_the_World/planning/The_Night_Market_at_the_End_of_the_World_outline.md",
+  "cover_script_path": "books/The_Night_Market_at_the_End_of_the_World/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

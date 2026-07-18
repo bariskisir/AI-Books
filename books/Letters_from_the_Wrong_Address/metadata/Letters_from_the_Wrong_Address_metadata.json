@@ -1,0 +1,37 @@
+{
+  "title": "Letters from the Wrong Address",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Romance",
+  "subgenre": "Epistolary Romance",
+  "language": "en",
+  "short_description": "An archivist digitizing a dead poet's love letters falls for the cold estate executor who despises the poet, then discovers the passionate letters were actually written to her in a timeline that never happened.",
+  "long_description": "An archivist digitizing a dead poet's love letters falls for the cold estate executor who despises the poet, then discovers the passionate letters were actually written to her in a timeline that never happened.",
+  "main_characters": [
+    "Iris Marchetti",
+    "Julian Strake",
+    "Elara Venn (the poet)",
+    "Constance (archivist friend)"
+  ],
+  "keywords": [
+    "romance",
+    "novel",
+    "epistolary",
+    "archivist",
+    "poetry",
+    "time-crossed love",
+    "estate drama",
+    "unrequited"
+  ],
+  "TXT_path": "books/Letters_from_the_Wrong_Address/txt/Letters_from_the_Wrong_Address.txt",
+  "EPUB_path": "books/Letters_from_the_Wrong_Address/epub/Letters_from_the_Wrong_Address.epub",
+  "cover_path": "books/Letters_from_the_Wrong_Address/covers/Letters_from_the_Wrong_Address.png",
+  "outline_path": "books/Letters_from_the_Wrong_Address/planning/Letters_from_the_Wrong_Address_outline.md",
+  "cover_script_path": "books/Letters_from_the_Wrong_Address/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

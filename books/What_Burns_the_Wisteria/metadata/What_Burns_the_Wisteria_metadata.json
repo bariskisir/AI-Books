@@ -1,0 +1,36 @@
+{
+  "title": "What Burns the Wisteria",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Magical Realism",
+  "subgenre": "Family Drama",
+  "language": "en",
+  "short_description": "Every spring, the Tanaka family's wisteria vine blooms in colors visible only to family members, each hue foretelling a death until the teenage granddaughter sees a color that means the vine itself will die by winter, along with the family's oldest secret.",
+  "long_description": "Every spring, the Tanaka family's wisteria vine blooms in colors visible only to family members, each hue foretelling a death until the teenage granddaughter sees a color that means the vine itself will die by winter, along with the family's oldest secret.",
+  "main_characters": [
+    "Emi Tanaka",
+    "Hanako Tanaka",
+    "Kenji Tanaka",
+    "Yuki Tanaka"
+  ],
+  "keywords": [
+    "magical realism",
+    "Japanese-American",
+    "family secrets",
+    "prophecy",
+    "intergenerational",
+    "floral",
+    "death"
+  ],
+  "TXT_path": "books/What_Burns_the_Wisteria/txt/What_Burns_the_Wisteria.txt",
+  "EPUB_path": "books/What_Burns_the_Wisteria/epub/What_Burns_the_Wisteria.epub",
+  "cover_path": "books/What_Burns_the_Wisteria/covers/What_Burns_the_Wisteria.png",
+  "outline_path": "books/What_Burns_the_Wisteria/planning/What_Burns_the_Wisteria_outline.md",
+  "cover_script_path": "books/What_Burns_the_Wisteria/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

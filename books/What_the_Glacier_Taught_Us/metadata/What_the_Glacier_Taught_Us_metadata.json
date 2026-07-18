@@ -1,0 +1,36 @@
+{
+  "title": "What the Glacier Taught Us",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Multigenerational Family Saga",
+  "language": "en",
+  "short_description": "Three generations of women reunite at a melting Alaskan glacier cabin when the matriarch reveals a diary written in a language no one can read, sparking a reckoning with their erased Indigenous heritage.",
+  "long_description": "Three generations of women reunite at a melting Alaskan glacier cabin when the matriarch reveals a diary written in a language no one can read, sparking a reckoning with their erased Indigenous heritage.",
+  "main_characters": [
+    "Ruth",
+    "Lena",
+    "Sophie",
+    "Old Esther"
+  ],
+  "keywords": [
+    "literary fiction",
+    "novel",
+    "Alaska",
+    "glacier",
+    "language loss",
+    "indigenous heritage",
+    "family secrets"
+  ],
+  "TXT_path": "books/What_the_Glacier_Taught_Us/txt/What_the_Glacier_Taught_Us.txt",
+  "EPUB_path": "books/What_the_Glacier_Taught_Us/epub/What_the_Glacier_Taught_Us.epub",
+  "cover_path": "books/What_the_Glacier_Taught_Us/covers/What_the_Glacier_Taught_Us.png",
+  "outline_path": "books/What_the_Glacier_Taught_Us/planning/What_the_Glacier_Taught_Us_outline.md",
+  "cover_script_path": "books/What_the_Glacier_Taught_Us/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}
