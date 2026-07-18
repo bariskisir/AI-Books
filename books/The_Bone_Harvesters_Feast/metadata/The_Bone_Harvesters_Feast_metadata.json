@@ -1,0 +1,37 @@
+{
+  "title": "The Bone Harvester's Feast",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Horror",
+  "subgenre": "Folk Horror",
+  "language": "en",
+  "short_description": "A small-town mortician discovers the dead buried in the local cemetery are regrowing their bones beneath the soil, and a secretive farmers' guild has been harvesting them for a centuries-old autumnal feast that keeps something beneath the church fed.",
+  "long_description": "A small-town mortician discovers the dead buried in the local cemetery are regrowing their bones beneath the soil, and a secretive farmers' guild has been harvesting them for a centuries-old autumnal feast that keeps something beneath the church fed.",
+  "main_characters": [
+    "Emmett Trask",
+    "Sheriff Della Harmon",
+    "Pastor Aldridge",
+    "Lenore Trask"
+  ],
+  "keywords": [
+    "horror",
+    "folk horror",
+    "body horror",
+    "rural",
+    "cult",
+    "ritual",
+    "small town",
+    "secrets"
+  ],
+  "TXT_path": "books/The_Bone_Harvesters_Feast/txt/The_Bone_Harvesters_Feast.txt",
+  "EPUB_path": "books/The_Bone_Harvesters_Feast/epub/The_Bone_Harvesters_Feast.epub",
+  "cover_path": "books/The_Bone_Harvesters_Feast/covers/The_Bone_Harvesters_Feast.png",
+  "outline_path": "books/The_Bone_Harvesters_Feast/planning/The_Bone_Harvesters_Feast_outline.md",
+  "cover_script_path": "books/The_Bone_Harvesters_Feast/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

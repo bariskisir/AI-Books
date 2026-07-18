@@ -1,0 +1,37 @@
+{
+  "title": "Last Exit Before the Sky",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dystopian",
+  "subgenre": "Climate Fiction",
+  "language": "en",
+  "short_description": "In a city sealed under a permanent dust-choked cloud, a courier who has never seen blue sky discovers the dome filters are being deliberately throttled to control the population.",
+  "long_description": "In a city sealed under a permanent dust-choked cloud, a courier who has never seen blue sky discovers the dome filters are being deliberately throttled to control the population.",
+  "main_characters": [
+    "Sarin Qadir",
+    "Old Man Yunes",
+    "Faiza Noor",
+    "Controller Dreyfuss"
+  ],
+  "keywords": [
+    "dystopian",
+    "climate fiction",
+    "domed city",
+    "courier",
+    "air filtration",
+    "novel",
+    "class control",
+    "solar punk"
+  ],
+  "TXT_path": "books/Last_Exit_Before_the_Sky/txt/Last_Exit_Before_the_Sky.txt",
+  "EPUB_path": "books/Last_Exit_Before_the_Sky/epub/Last_Exit_Before_the_Sky.epub",
+  "cover_path": "books/Last_Exit_Before_the_Sky/covers/Last_Exit_Before_the_Sky.png",
+  "outline_path": "books/Last_Exit_Before_the_Sky/planning/Last_Exit_Before_the_Sky_outline.md",
+  "cover_script_path": "books/Last_Exit_Before_the_Sky/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

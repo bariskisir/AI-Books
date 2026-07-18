@@ -1,0 +1,37 @@
+{
+  "title": "The Cartographer's Tongue",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Weird Fiction",
+  "subgenre": "New Weird",
+  "language": "en",
+  "short_description": "A disgraced cartographer in a city that rearranges its streets each dawn is hired by a silent patron to map a building that changes size depending on who looks at it.",
+  "long_description": "A disgraced cartographer in a city that rearranges its streets each dawn is hired by a silent patron to map a building that changes size depending on who looks at it.",
+  "main_characters": [
+    "Tomas Liev",
+    "The Patron",
+    "Inspector Yara Moroz",
+    "Juke the Errandman"
+  ],
+  "keywords": [
+    "weird fiction",
+    "new weird",
+    "cartography",
+    "sentient city",
+    "mutable architecture",
+    "novel",
+    "mystery",
+    "cults"
+  ],
+  "TXT_path": "books/The_Cartographers_Tongue/txt/The_Cartographers_Tongue.txt",
+  "EPUB_path": "books/The_Cartographers_Tongue/epub/The_Cartographers_Tongue.epub",
+  "cover_path": "books/The_Cartographers_Tongue/covers/The_Cartographers_Tongue.png",
+  "outline_path": "books/The_Cartographers_Tongue/planning/The_Cartographers_Tongue_outline.md",
+  "cover_script_path": "books/The_Cartographers_Tongue/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

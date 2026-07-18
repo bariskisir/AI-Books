@@ -1,0 +1,37 @@
+{
+  "title": "The Rotation of Unsaid Things",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Magical Realism",
+  "subgenre": "Andean Magical Realism",
+  "language": "en",
+  "short_description": "In a Peruvian village where unspoken resentments physically accumulate as black sediment in the communal well, a mute woman must find words for what she knows about the town's oldest secret before the well poisons everyone.",
+  "long_description": "In a Peruvian village where unspoken resentments physically accumulate as black sediment in the communal well, a mute woman must find words for what she knows about the town's oldest secret before the well poisons everyone.",
+  "main_characters": [
+    "Quilla Tupac",
+    "Don Federico Huaman",
+    "Sara Tupac",
+    "El Gringo"
+  ],
+  "keywords": [
+    "magical realism",
+    "Peru",
+    "Andes",
+    "secrets",
+    "community",
+    "silence",
+    "novel",
+    "folk magic"
+  ],
+  "TXT_path": "books/The_Rotation_of_Unsaid_Things/txt/The_Rotation_of_Unsaid_Things.txt",
+  "EPUB_path": "books/The_Rotation_of_Unsaid_Things/epub/The_Rotation_of_Unsaid_Things.epub",
+  "cover_path": "books/The_Rotation_of_Unsaid_Things/covers/The_Rotation_of_Unsaid_Things.png",
+  "outline_path": "books/The_Rotation_of_Unsaid_Things/planning/The_Rotation_of_Unsaid_Things_outline.md",
+  "cover_script_path": "books/The_Rotation_of_Unsaid_Things/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

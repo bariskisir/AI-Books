@@ -1,0 +1,37 @@
+{
+  "title": "Zero-Sum Heart",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Romance",
+  "subgenre": "Second Chance",
+  "language": "en",
+  "short_description": "A game theorist and an artist who broke up in grad school are forced to share a studio residency in Berlin, where their bitter rivalry masks a truth they've been avoiding for seven years.",
+  "long_description": "A game theorist and an artist who broke up in grad school are forced to share a studio residency in Berlin, where their bitter rivalry masks a truth they've been avoiding for seven years.",
+  "main_characters": [
+    "Dr. Mira Katz",
+    "Leo Brandt",
+    "Anika Voss",
+    "Jesper the curator"
+  ],
+  "keywords": [
+    "romance",
+    "novel",
+    "second chance",
+    "game theory",
+    "Berlin",
+    "artists",
+    "rivals to lovers",
+    "contemporary"
+  ],
+  "TXT_path": "books/Zero_Sum_Heart/txt/Zero_Sum_Heart.txt",
+  "EPUB_path": "books/Zero_Sum_Heart/epub/Zero_Sum_Heart.epub",
+  "cover_path": "books/Zero_Sum_Heart/covers/Zero_Sum_Heart.png",
+  "outline_path": "books/Zero_Sum_Heart/planning/Zero_Sum_Heart_outline.md",
+  "cover_script_path": "books/Zero_Sum_Heart/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

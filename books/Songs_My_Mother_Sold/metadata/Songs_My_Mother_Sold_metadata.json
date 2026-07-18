@@ -1,0 +1,37 @@
+{
+  "title": "Songs My Mother Sold",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Magical Realism",
+  "subgenre": "Contemporary Magical Realism",
+  "language": "en",
+  "short_description": "A jukebox repairman in coastal Kerala realizes every broken jukebox he fixes plays songs not from its records but from the suppressed memories of whoever is near it.",
+  "long_description": "A jukebox repairman in coastal Kerala realizes every broken jukebox he fixes plays songs not from its records but from the suppressed memories of whoever is near it.",
+  "main_characters": [
+    "Christo Palat",
+    "Meera Cherian",
+    "Old Father Isaac",
+    "The Woman in Song 7"
+  ],
+  "keywords": [
+    "magical realism",
+    "Kerala",
+    "jukebox",
+    "memory",
+    "music",
+    "novel",
+    "grief",
+    "coastal India"
+  ],
+  "TXT_path": "books/Songs_My_Mother_Sold/txt/Songs_My_Mother_Sold.txt",
+  "EPUB_path": "books/Songs_My_Mother_Sold/epub/Songs_My_Mother_Sold.epub",
+  "cover_path": "books/Songs_My_Mother_Sold/covers/Songs_My_Mother_Sold.png",
+  "outline_path": "books/Songs_My_Mother_Sold/planning/Songs_My_Mother_Sold_outline.md",
+  "cover_script_path": "books/Songs_My_Mother_Sold/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

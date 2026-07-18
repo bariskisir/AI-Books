@@ -1,0 +1,37 @@
+{
+  "title": "What the Tides Forgot",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Coastal Gothic",
+  "language": "en",
+  "short_description": "A marine biologist returns to her childhood home on the Oregon coast to settle her mother's estate and discovers that the tide pools behind the house hold specimens that defy known taxonomy and seem to remember her.",
+  "long_description": "A marine biologist returns to her childhood home on the Oregon coast to settle her mother's estate and discovers that the tide pools behind the house hold specimens that defy known taxonomy and seem to remember her.",
+  "main_characters": [
+    "Dr. Lena Aldaine",
+    "Will Poynter",
+    "Margo Aldaine",
+    "Old Sal Harker"
+  ],
+  "keywords": [
+    "literary fiction",
+    "novel",
+    "marine biology",
+    "Oregon coast",
+    "grief",
+    "memory",
+    "tide pools",
+    "family secrets"
+  ],
+  "TXT_path": "books/What_the_Tides_Forgot/txt/What_the_Tides_Forgot.txt",
+  "EPUB_path": "books/What_the_Tides_Forgot/epub/What_the_Tides_Forgot.epub",
+  "cover_path": "books/What_the_Tides_Forgot/covers/What_the_Tides_Forgot.png",
+  "outline_path": "books/What_the_Tides_Forgot/planning/What_the_Tides_Forgot_outline.md",
+  "cover_script_path": "books/What_the_Tides_Forgot/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "The Ledger of Seven Crossings",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Mystery",
+  "subgenre": "Historical Mystery",
+  "language": "en",
+  "short_description": "A retired archivist inherits a 19th-century lending library ledger with seven borrower names crossed out in blood; tracing each name reveals an unsolved murder tied to a secret society, and the seventh name belongs to the archivist herself, dated 1872.",
+  "long_description": "A retired archivist inherits a 19th-century lending library ledger with seven borrower names crossed out in blood; tracing each name reveals an unsolved murder tied to a secret society, and the seventh name belongs to the archivist herself, dated 1872.",
+  "main_characters": [
+    "Frances Tewksbury",
+    "Detective Reynard Cole",
+    "Dr. Simon Alcott",
+    "Marguerite Vance"
+  ],
+  "keywords": [
+    "mystery",
+    "historical mystery",
+    "archive",
+    "secret society",
+    "cold case",
+    "library",
+    "genealogy"
+  ],
+  "TXT_path": "books/The_Ledger_of_Seven_Crossings/txt/The_Ledger_of_Seven_Crossings.txt",
+  "EPUB_path": "books/The_Ledger_of_Seven_Crossings/epub/The_Ledger_of_Seven_Crossings.epub",
+  "cover_path": "books/The_Ledger_of_Seven_Crossings/covers/The_Ledger_of_Seven_Crossings.png",
+  "outline_path": "books/The_Ledger_of_Seven_Crossings/planning/The_Ledger_of_Seven_Crossings_outline.md",
+  "cover_script_path": "books/The_Ledger_of_Seven_Crossings/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

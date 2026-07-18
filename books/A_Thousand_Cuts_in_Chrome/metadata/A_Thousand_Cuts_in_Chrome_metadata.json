@@ -1,0 +1,37 @@
+{
+  "title": "A Thousand Cuts in Chrome",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Cyberpunk",
+  "subgenre": "Corporate Espionage / Bio-Hacking",
+  "language": "en",
+  "short_description": "A microchip smuggler with a memory-splicing implant discovers that the megacorp she steals from has been wiping and reselling the identities of death-row inmates as disposable workers — and that her own earliest memory is a brand she never bought.",
+  "long_description": "A microchip smuggler with a memory-splicing implant discovers that the megacorp she steals from has been wiping and reselling the identities of death-row inmates as disposable workers — and that her own earliest memory is a brand she never bought.",
+  "main_characters": [
+    "Kali Chen (aka \"Razorwire\")",
+    "Deacon (her fence, a former organ-legger)",
+    "Dr. Yuki Han (a neuro-engineer at OmniGen)",
+    "Viktor An (the Fixer)"
+  ],
+  "keywords": [
+    "Cyberpunk",
+    "corporate espionage",
+    "memory implants",
+    "identity",
+    "bio-hacking",
+    "megacorp",
+    "smuggler",
+    "novel"
+  ],
+  "TXT_path": "books/A_Thousand_Cuts_in_Chrome/txt/A_Thousand_Cuts_in_Chrome.txt",
+  "EPUB_path": "books/A_Thousand_Cuts_in_Chrome/epub/A_Thousand_Cuts_in_Chrome.epub",
+  "cover_path": "books/A_Thousand_Cuts_in_Chrome/covers/A_Thousand_Cuts_in_Chrome.png",
+  "outline_path": "books/A_Thousand_Cuts_in_Chrome/planning/A_Thousand_Cuts_in_Chrome_outline.md",
+  "cover_script_path": "books/A_Thousand_Cuts_in_Chrome/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

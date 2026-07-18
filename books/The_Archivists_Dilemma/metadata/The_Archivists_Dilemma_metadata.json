@@ -1,0 +1,37 @@
+{
+  "title": "The Archivist's Dilemma",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Mystery",
+  "subgenre": "Cozy Mystery / Academic",
+  "language": "en",
+  "short_description": "A meticulous university archivist who can spot a forged document by the smell of its ink discovers a set of love letters hidden in a 1906 geography textbook that, if authentic, would prove a beloved local philanthropist was actually a serial arsonist.",
+  "long_description": "A meticulous university archivist who can spot a forged document by the smell of its ink discovers a set of love letters hidden in a 1906 geography textbook that, if authentic, would prove a beloved local philanthropist was actually a serial arsonist.",
+  "main_characters": [
+    "Hugh Pargetter",
+    "Professor Irene Mallory",
+    "Detective Rosa Fuentes",
+    "Leo Abernathy (philanthropist, deceased)"
+  ],
+  "keywords": [
+    "Mystery",
+    "novel",
+    "archives",
+    "forgery",
+    "academic",
+    "historical crime",
+    "cozy mystery",
+    "letters"
+  ],
+  "TXT_path": "books/The_Archivists_Dilemma/txt/The_Archivists_Dilemma.txt",
+  "EPUB_path": "books/The_Archivists_Dilemma/epub/The_Archivists_Dilemma.epub",
+  "cover_path": "books/The_Archivists_Dilemma/covers/The_Archivists_Dilemma.png",
+  "outline_path": "books/The_Archivists_Dilemma/planning/The_Archivists_Dilemma_outline.md",
+  "cover_script_path": "books/The_Archivists_Dilemma/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

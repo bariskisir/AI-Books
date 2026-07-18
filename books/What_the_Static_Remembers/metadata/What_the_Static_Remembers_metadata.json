@@ -1,0 +1,36 @@
+{
+  "title": "What the Static Remembers",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Horror",
+  "subgenre": "Analog Horror",
+  "language": "en",
+  "short_description": "A radio engineer fixing a Cold War-era transmitter tower picks up broadcasts of his own childhood—recorded years before his birth—and the signal is changing the present to match them.",
+  "long_description": "A radio engineer fixing a Cold War-era transmitter tower picks up broadcasts of his own childhood—recorded years before his birth—and the signal is changing the present to match them.",
+  "main_characters": [
+    "Arden Kohl",
+    "Dr. Petra Vane",
+    "Colonel Yuri Resnik",
+    "The Voice on the Air"
+  ],
+  "keywords": [
+    "horror",
+    "analog horror",
+    "cold war",
+    "radio",
+    "time distortion",
+    "signal",
+    "novel"
+  ],
+  "TXT_path": "books/What_the_Static_Remembers/txt/What_the_Static_Remembers.txt",
+  "EPUB_path": "books/What_the_Static_Remembers/epub/What_the_Static_Remembers.epub",
+  "cover_path": "books/What_the_Static_Remembers/covers/What_the_Static_Remembers.png",
+  "outline_path": "books/What_the_Static_Remembers/planning/What_the_Static_Remembers_outline.md",
+  "cover_script_path": "books/What_the_Static_Remembers/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Zero Sum Ledger",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Thriller",
+  "subgenre": "Financial Conspiracy",
+  "language": "en",
+  "short_description": "A forensic accountant tracking a trillion-dollar conspiracy realizes the numbers only add up if one of her murdered colleagues is still logging into the system every Tuesday at 3 AM.",
+  "long_description": "A forensic accountant tracking a trillion-dollar conspiracy realizes the numbers only add up if one of her murdered colleagues is still logging into the system every Tuesday at 3 AM.",
+  "main_characters": [
+    "Zara Okonkwo",
+    "Marcus Duvall",
+    "The Ledgerkeeper",
+    "Detective Hiram Cross"
+  ],
+  "keywords": [
+    "thriller",
+    "novel",
+    "financial conspiracy",
+    "forensic accounting",
+    "murder mystery",
+    "shell corporations",
+    "dead man logging",
+    "corporate crime"
+  ],
+  "TXT_path": "books/Zero_Sum_Ledger/txt/Zero_Sum_Ledger.txt",
+  "EPUB_path": "books/Zero_Sum_Ledger/epub/Zero_Sum_Ledger.epub",
+  "cover_path": "books/Zero_Sum_Ledger/covers/Zero_Sum_Ledger.png",
+  "outline_path": "books/Zero_Sum_Ledger/planning/Zero_Sum_Ledger_outline.md",
+  "cover_script_path": "books/Zero_Sum_Ledger/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

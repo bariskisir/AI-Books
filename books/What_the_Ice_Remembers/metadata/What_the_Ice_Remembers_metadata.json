@@ -1,0 +1,37 @@
+{
+  "title": "What the Ice Remembers",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Science Fiction",
+  "subgenre": "First Contact Archaeology",
+  "language": "en",
+  "short_description": "A xenolinguist drilling into a frozen ocean on a moon of Saturn finds preserved in the ice not microorganisms but a complete alien conversation frozen mid-dialogue a million years ago, and thawing the last sentence unleashes an ancient signal straight back to the extinct civilization's homeworld.",
+  "long_description": "A xenolinguist drilling into a frozen ocean on a moon of Saturn finds preserved in the ice not microorganisms but a complete alien conversation frozen mid-dialogue a million years ago, and thawing the last sentence unleashes an ancient signal straight back to the extinct civilization's homeworld.",
+  "main_characters": [
+    "Dr. Soraya Al-Hassan",
+    "Captain Jan Eriksson",
+    "K-7 (ship AI)",
+    "The Interlocutor"
+  ],
+  "keywords": [
+    "science fiction",
+    "first contact",
+    "xenolinguistics",
+    "Saturn moon",
+    "alien archaeology",
+    "ice world",
+    "novel",
+    "signal"
+  ],
+  "TXT_path": "books/What_the_Ice_Remembers/txt/What_the_Ice_Remembers.txt",
+  "EPUB_path": "books/What_the_Ice_Remembers/epub/What_the_Ice_Remembers.epub",
+  "cover_path": "books/What_the_Ice_Remembers/covers/What_the_Ice_Remembers.png",
+  "outline_path": "books/What_the_Ice_Remembers/planning/What_the_Ice_Remembers_outline.md",
+  "cover_script_path": "books/What_the_Ice_Remembers/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

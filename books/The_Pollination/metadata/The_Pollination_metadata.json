@@ -1,0 +1,37 @@
+{
+  "title": "The Pollination",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dystopian",
+  "subgenre": "Emotional Harvest",
+  "language": "en",
+  "short_description": "After human emotions are classified as a finite resource harvested from the dying, a funeral home worker begins smuggling contraband feelings back to the living and discovers the grief cartel controls more than just death.",
+  "long_description": "After human emotions are classified as a finite resource harvested from the dying, a funeral home worker begins smuggling contraband feelings back to the living and discovers the grief cartel controls more than just death.",
+  "main_characters": [
+    "Elara Trench",
+    "Silas (smuggler)",
+    "Warden Paxton",
+    "Emmett (the feeless boy)"
+  ],
+  "keywords": [
+    "dystopian",
+    "novel",
+    "emotion harvesting",
+    "funeral home",
+    "grief",
+    "black market",
+    "totalitarian",
+    "feeling as currency"
+  ],
+  "TXT_path": "books/The_Pollination/txt/The_Pollination.txt",
+  "EPUB_path": "books/The_Pollination/epub/The_Pollination.epub",
+  "cover_path": "books/The_Pollination/covers/The_Pollination.png",
+  "outline_path": "books/The_Pollination/planning/The_Pollination_outline.md",
+  "cover_script_path": "books/The_Pollination/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

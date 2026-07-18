@@ -1,0 +1,37 @@
+{
+  "title": "The Laughter of Iron Harvests",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Fiction",
+  "subgenre": "Post-War / Psychological",
+  "language": "en",
+  "short_description": "In the muddy aftermath of the Battle of the Somme, a British sapper assigned to clear unexploded shells discovers the Germans buried a functioning gramophone beneath no-man's-land, and that its recordings contain the voices of soldiers from both sides — including his own brother who died two years earlier.",
+  "long_description": "In the muddy aftermath of the Battle of the Somme, a British sapper assigned to clear unexploded shells discovers the Germans buried a functioning gramophone beneath no-man's-land, and that its recordings contain the voices of soldiers from both sides — including his own brother who died two years earlier.",
+  "main_characters": [
+    "Corporal Arthur Finch",
+    "Captain Eleanor Finch (his sister, a field nurse)",
+    "Private Klaus Brenner (a German POW)",
+    "Major Horace Yarrow (the demolitions officer)"
+  ],
+  "keywords": [
+    "Historical Fiction",
+    "World War I",
+    "Somme",
+    "sapper",
+    "grief",
+    "gramophone",
+    "no-man's-land",
+    "novel"
+  ],
+  "TXT_path": "books/The_Laughter_of_Iron_Harvests/txt/The_Laughter_of_Iron_Harvests.txt",
+  "EPUB_path": "books/The_Laughter_of_Iron_Harvests/epub/The_Laughter_of_Iron_Harvests.epub",
+  "cover_path": "books/The_Laughter_of_Iron_Harvests/covers/The_Laughter_of_Iron_Harvests.png",
+  "outline_path": "books/The_Laughter_of_Iron_Harvests/planning/The_Laughter_of_Iron_Harvests_outline.md",
+  "cover_script_path": "books/The_Laughter_of_Iron_Harvests/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

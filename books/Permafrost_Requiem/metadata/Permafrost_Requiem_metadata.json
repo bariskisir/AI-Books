@@ -1,0 +1,37 @@
+{
+  "title": "Permafrost Requiem",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Dystopian",
+  "subgenre": "Climate Fiction",
+  "language": "en",
+  "short_description": "In 2072, a thawologist in Siberia uncovers a frozen viral archive that could rewrite human immunity, but the government wants it weaponized and the only person who can help is a climate refugee she betrayed years ago.",
+  "long_description": "In 2072, a thawologist in Siberia uncovers a frozen viral archive that could rewrite human immunity, but the government wants it weaponized and the only person who can help is a climate refugee she betrayed years ago.",
+  "main_characters": [
+    "Dr. Yelena Volkov",
+    "Amir Hassan",
+    "Colonel Dementiev",
+    "Kala the trapper"
+  ],
+  "keywords": [
+    "dystopian",
+    "novel",
+    "climate fiction",
+    "Siberia",
+    "permafrost",
+    "virus",
+    "thawologist",
+    "betrayal"
+  ],
+  "TXT_path": "books/Permafrost_Requiem/txt/Permafrost_Requiem.txt",
+  "EPUB_path": "books/Permafrost_Requiem/epub/Permafrost_Requiem.epub",
+  "cover_path": "books/Permafrost_Requiem/covers/Permafrost_Requiem.png",
+  "outline_path": "books/Permafrost_Requiem/planning/Permafrost_Requiem_outline.md",
+  "cover_script_path": "books/Permafrost_Requiem/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

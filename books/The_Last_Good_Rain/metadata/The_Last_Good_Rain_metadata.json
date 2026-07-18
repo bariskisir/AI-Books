@@ -1,0 +1,37 @@
+{
+  "title": "The Last Good Rain",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Magical Realism",
+  "subgenre": "Family Saga",
+  "language": "en",
+  "short_description": "When a drought grips their Kenyan village for the seventh year, a grandmother begins weaving clouds from river reeds, and her grandchildren must protect her magic from a preacher who calls it witchcraft.",
+  "long_description": "When a drought grips their Kenyan village for the seventh year, a grandmother begins weaving clouds from river reeds, and her grandchildren must protect her magic from a preacher who calls it witchcraft.",
+  "main_characters": [
+    "Nyokabi Wanjiku",
+    "Kip the grandson",
+    "Pastor Odhiambo",
+    "Makena the trader"
+  ],
+  "keywords": [
+    "magical realism",
+    "novel",
+    "Kenya",
+    "drought",
+    "family saga",
+    "weaving",
+    "clouds",
+    "witchcraft"
+  ],
+  "TXT_path": "books/The_Last_Good_Rain/txt/The_Last_Good_Rain.txt",
+  "EPUB_path": "books/The_Last_Good_Rain/epub/The_Last_Good_Rain.epub",
+  "cover_path": "books/The_Last_Good_Rain/covers/The_Last_Good_Rain.png",
+  "outline_path": "books/The_Last_Good_Rain/planning/The_Last_Good_Rain_outline.md",
+  "cover_script_path": "books/The_Last_Good_Rain/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

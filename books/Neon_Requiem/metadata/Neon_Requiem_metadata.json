@@ -1,0 +1,36 @@
+{
+  "title": "Neon Requiem",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Cyberpunk",
+  "subgenre": "Post-Cyberpunk",
+  "language": "en",
+  "short_description": "A data-courier with a cortical implant that lets her taste encrypted files must traffick a memory she never recorded—a dead CEO's final 47 seconds of consciousness—across a city where every corporation wants to swallow it and every memory is a weapon.",
+  "long_description": "A data-courier with a cortical implant that lets her taste encrypted files must traffick a memory she never recorded—a dead CEO's final 47 seconds of consciousness—across a city where every corporation wants to swallow it and every memory is a weapon.",
+  "main_characters": [
+    "Nix Song",
+    "Rourke (handler)",
+    "Imogen Voss",
+    "The Archivist"
+  ],
+  "keywords": [
+    "cyberpunk",
+    "post-cyberpunk",
+    "memory",
+    "implant",
+    "data courier",
+    "corporate warfare",
+    "novel"
+  ],
+  "TXT_path": "books/Neon_Requiem/txt/Neon_Requiem.txt",
+  "EPUB_path": "books/Neon_Requiem/epub/Neon_Requiem.epub",
+  "cover_path": "books/Neon_Requiem/covers/Neon_Requiem.png",
+  "outline_path": "books/Neon_Requiem/planning/Neon_Requiem_outline.md",
+  "cover_script_path": "books/Neon_Requiem/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

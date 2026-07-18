@@ -1,0 +1,37 @@
+{
+  "title": "Tides of a Saltless Sea",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Romance",
+  "subgenre": "Second Chance Romance",
+  "language": "en",
+  "short_description": "Two estranged oceanographers are forced to share a research station on the Dead Sea for six months and discover the chemistry they fled still pulls as strong as the tides.",
+  "long_description": "Two estranged oceanographers are forced to share a research station on the Dead Sea for six months and discover the chemistry they fled still pulls as strong as the tides.",
+  "main_characters": [
+    "Dr. Amira Hassan",
+    "Leo Castellano",
+    "Station Chief Ofer",
+    "Nadia Hassan"
+  ],
+  "keywords": [
+    "romance",
+    "second chance",
+    "oceanography",
+    "Dead Sea",
+    "research station",
+    "novel",
+    "enemies to lovers",
+    "science"
+  ],
+  "TXT_path": "books/Tides_of_a_Saltless_Sea/txt/Tides_of_a_Saltless_Sea.txt",
+  "EPUB_path": "books/Tides_of_a_Saltless_Sea/epub/Tides_of_a_Saltless_Sea.epub",
+  "cover_path": "books/Tides_of_a_Saltless_Sea/covers/Tides_of_a_Saltless_Sea.png",
+  "outline_path": "books/Tides_of_a_Saltless_Sea/planning/Tides_of_a_Saltless_Sea_outline.md",
+  "cover_script_path": "books/Tides_of_a_Saltless_Sea/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

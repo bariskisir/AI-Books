@@ -1,0 +1,37 @@
+{
+  "title": "A Crown of Severed Waves",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fantasy",
+  "subgenre": "Dark Fantasy / Nautical",
+  "language": "en",
+  "short_description": "A disgraced admiral whose bones were replaced with living coral strikes a bargain with a dying sea god to reclaim her rank, only to learn the god is using her bloodline to hatch a new ocean from the drowned cities of the old world.",
+  "long_description": "A disgraced admiral whose bones were replaced with living coral strikes a bargain with a dying sea god to reclaim her rank, only to learn the god is using her bloodline to hatch a new ocean from the drowned cities of the old world.",
+  "main_characters": [
+    "Admiral Iskra Velen",
+    "Naelen the Tide-Singer",
+    "Keeper Yarrow",
+    "The Drowned Prince"
+  ],
+  "keywords": [
+    "Fantasy",
+    "novel",
+    "nautical",
+    "coral",
+    "sea god",
+    "dark fantasy",
+    "bargain",
+    "drowned cities"
+  ],
+  "TXT_path": "books/A_Crown_of_Severed_Waves/txt/A_Crown_of_Severed_Waves.txt",
+  "EPUB_path": "books/A_Crown_of_Severed_Waves/epub/A_Crown_of_Severed_Waves.epub",
+  "cover_path": "books/A_Crown_of_Severed_Waves/covers/A_Crown_of_Severed_Waves.png",
+  "outline_path": "books/A_Crown_of_Severed_Waves/planning/A_Crown_of_Severed_Waves_outline.md",
+  "cover_script_path": "books/A_Crown_of_Severed_Waves/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

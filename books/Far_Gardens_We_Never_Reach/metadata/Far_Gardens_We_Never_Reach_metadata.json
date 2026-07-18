@@ -1,0 +1,37 @@
+{
+  "title": "Far Gardens We Never Reach",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Family Saga",
+  "language": "en",
+  "short_description": "Three generations of Ghanaian-British women confront what was lost and what was hidden when the family matriarch's funeral unearths a love letter written in 1967 to a man none of them knew existed.",
+  "long_description": "Three generations of Ghanaian-British women confront what was lost and what was hidden when the family matriarch's funeral unearths a love letter written in 1967 to a man none of them knew existed.",
+  "main_characters": [
+    "Grace Asante",
+    "Effie Asante",
+    "Yaa Asante",
+    "Kwame Boateng"
+  ],
+  "keywords": [
+    "literary fiction",
+    "family saga",
+    "Ghanaian-British",
+    "secrets",
+    "funeral",
+    "novel",
+    "London",
+    "Accra"
+  ],
+  "TXT_path": "books/Far_Gardens_We_Never_Reach/txt/Far_Gardens_We_Never_Reach.txt",
+  "EPUB_path": "books/Far_Gardens_We_Never_Reach/epub/Far_Gardens_We_Never_Reach.epub",
+  "cover_path": "books/Far_Gardens_We_Never_Reach/covers/Far_Gardens_We_Never_Reach.png",
+  "outline_path": "books/Far_Gardens_We_Never_Reach/planning/Far_Gardens_We_Never_Reach_outline.md",
+  "cover_script_path": "books/Far_Gardens_We_Never_Reach/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

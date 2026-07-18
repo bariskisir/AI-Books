@@ -1,0 +1,37 @@
+{
+  "title": "The Serpentine Atlas",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Fiction",
+  "subgenre": "18th Century Spy Drama",
+  "language": "en",
+  "short_description": "In 1720s Constantinople, a mapmaker's daughter secretly completes her executed father's forbidden survey of the Ottoman Empire, threading between Venetian spies, Ottoman scholars, and the Sultan's vizier.",
+  "long_description": "In 1720s Constantinople, a mapmaker's daughter secretly completes her executed father's forbidden survey of the Ottoman Empire, threading between Venetian spies, Ottoman scholars, and the Sultan's vizier.",
+  "main_characters": [
+    "Leyla Karasin",
+    "Ismail the Vizier",
+    "Captain Alvise Dandolo",
+    "Nana Hanim (scribe)"
+  ],
+  "keywords": [
+    "historical fiction",
+    "novel",
+    "Constantinople",
+    "cartography",
+    "Ottoman Empire",
+    "1720s",
+    "spy thriller",
+    "mapmaker"
+  ],
+  "TXT_path": "books/The_Serpentine_Atlas/txt/The_Serpentine_Atlas.txt",
+  "EPUB_path": "books/The_Serpentine_Atlas/epub/The_Serpentine_Atlas.epub",
+  "cover_path": "books/The_Serpentine_Atlas/covers/The_Serpentine_Atlas.png",
+  "outline_path": "books/The_Serpentine_Atlas/planning/The_Serpentine_Atlas_outline.md",
+  "cover_script_path": "books/The_Serpentine_Atlas/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

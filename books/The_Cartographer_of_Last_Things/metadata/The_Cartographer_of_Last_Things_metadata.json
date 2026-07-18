@@ -1,0 +1,36 @@
+{
+  "title": "The Cartographer of Last Things",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Science Fiction",
+  "subgenre": "Soft SF / Memory Drama",
+  "language": "en",
+  "short_description": "In a near-future where every object degrades into atoms within 48 hours of manufacture, a federal cartographer who maps the ghost-grid of vanished cities discovers a buried vault whose contents have not decayed for 200 years.",
+  "long_description": "In a near-future where every object degrades into atoms within 48 hours of manufacture, a federal cartographer who maps the ghost-grid of vanished cities discovers a buried vault whose contents have not decayed for 200 years.",
+  "main_characters": [
+    "Elara Venn",
+    "Kael Dorn",
+    "Doctor Amaya Rostov"
+  ],
+  "keywords": [
+    "Science Fiction",
+    "novel",
+    "entropy",
+    "memory",
+    "cartography",
+    "decay",
+    "mystery",
+    "urban ruins"
+  ],
+  "TXT_path": "books/The_Cartographer_of_Last_Things/txt/The_Cartographer_of_Last_Things.txt",
+  "EPUB_path": "books/The_Cartographer_of_Last_Things/epub/The_Cartographer_of_Last_Things.epub",
+  "cover_path": "books/The_Cartographer_of_Last_Things/covers/The_Cartographer_of_Last_Things.png",
+  "outline_path": "books/The_Cartographer_of_Last_Things/planning/The_Cartographer_of_Last_Things_outline.md",
+  "cover_script_path": "books/The_Cartographer_of_Last_Things/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

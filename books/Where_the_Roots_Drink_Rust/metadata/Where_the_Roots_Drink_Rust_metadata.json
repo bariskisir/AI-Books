@@ -1,0 +1,37 @@
+{
+  "title": "Where the Roots Drink Rust",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Weird Fiction",
+  "subgenre": "Eco-Weird / Southern Gothic",
+  "language": "en",
+  "short_description": "A botanist investigating a sinkhole in the Louisiana bayou finds a subterranean root system that grows through abandoned machinery, pulsing with recorded human voices from every disaster in the parish since 1823.",
+  "long_description": "A botanist investigating a sinkhole in the Louisiana bayou finds a subterranean root system that grows through abandoned machinery, pulsing with recorded human voices from every disaster in the parish since 1823.",
+  "main_characters": [
+    "Dr. Selene Broussard",
+    "Toussaint Roux",
+    "Beauregard Fitch",
+    "The Whisper (entity)"
+  ],
+  "keywords": [
+    "Weird Fiction",
+    "novel",
+    "bayou",
+    "ecological horror",
+    "memory",
+    "machinery",
+    "history",
+    "gothic"
+  ],
+  "TXT_path": "books/Where_the_Roots_Drink_Rust/txt/Where_the_Roots_Drink_Rust.txt",
+  "EPUB_path": "books/Where_the_Roots_Drink_Rust/epub/Where_the_Roots_Drink_Rust.epub",
+  "cover_path": "books/Where_the_Roots_Drink_Rust/covers/Where_the_Roots_Drink_Rust.png",
+  "outline_path": "books/Where_the_Roots_Drink_Rust/planning/Where_the_Roots_Drink_Rust_outline.md",
+  "cover_script_path": "books/Where_the_Roots_Drink_Rust/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

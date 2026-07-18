@@ -1,0 +1,36 @@
+{
+  "title": "The Seventh Guest at Stillwater Manor",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Mystery",
+  "subgenre": "Locked Room",
+  "language": "en",
+  "short_description": "Six strangers invited to a remote Scottish manor for a reclusive author's will reading find a seventh guest dead in a locked study with a page of an unpublished manuscript pinned to their chest.",
+  "long_description": "Six strangers invited to a remote Scottish manor for a reclusive author's will reading find a seventh guest dead in a locked study with a page of an unpublished manuscript pinned to their chest.",
+  "main_characters": [
+    "Detective Imogen Hart",
+    "Arthur Finch",
+    "Lady Marguerite Ashby",
+    "Niall MacBride"
+  ],
+  "keywords": [
+    "mystery",
+    "novel",
+    "locked room",
+    "Scottish manor",
+    "inheritance",
+    "unpublished manuscript",
+    "unreliable narrator"
+  ],
+  "TXT_path": "books/The_Seventh_Guest_at_Stillwater_Manor/txt/The_Seventh_Guest_at_Stillwater_Manor.txt",
+  "EPUB_path": "books/The_Seventh_Guest_at_Stillwater_Manor/epub/The_Seventh_Guest_at_Stillwater_Manor.epub",
+  "cover_path": "books/The_Seventh_Guest_at_Stillwater_Manor/covers/The_Seventh_Guest_at_Stillwater_Manor.png",
+  "outline_path": "books/The_Seventh_Guest_at_Stillwater_Manor/planning/The_Seventh_Guest_at_Stillwater_Manor_outline.md",
+  "cover_script_path": "books/The_Seventh_Guest_at_Stillwater_Manor/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

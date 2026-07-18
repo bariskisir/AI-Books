@@ -1,0 +1,37 @@
+{
+  "title": "The Osteomancer's Daughter",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Weird Fiction",
+  "subgenre": "Bone Magic",
+  "language": "en",
+  "short_description": "A woman who can read the dead in their bones is hired by a grieving industrialist to commune with his drowned wife, but the wife's skeleton tells a story of murder that reaches into the city's founding.",
+  "long_description": "A woman who can read the dead in their bones is hired by a grieving industrialist to commune with his drowned wife, but the wife's skeleton tells a story of murder that reaches into the city's founding.",
+  "main_characters": [
+    "Maren Chalk",
+    "Silas Humber",
+    "Elara Humber",
+    "Constable Thornwood"
+  ],
+  "keywords": [
+    "weird fiction",
+    "novel",
+    "bone magic",
+    "necromancy",
+    "industrial revolution",
+    "murder",
+    "gothic",
+    "skeletons"
+  ],
+  "TXT_path": "books/The_Osteomancers_Daughter/txt/The_Osteomancers_Daughter.txt",
+  "EPUB_path": "books/The_Osteomancers_Daughter/epub/The_Osteomancers_Daughter.epub",
+  "cover_path": "books/The_Osteomancers_Daughter/covers/The_Osteomancers_Daughter.png",
+  "outline_path": "books/The_Osteomancers_Daughter/planning/The_Osteomancers_Daughter_outline.md",
+  "cover_script_path": "books/The_Osteomancers_Daughter/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

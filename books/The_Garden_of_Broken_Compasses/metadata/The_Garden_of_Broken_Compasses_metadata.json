@@ -1,0 +1,36 @@
+{
+  "title": "The Garden of Broken Compasses",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Magical Realism",
+  "subgenre": "Slipstream",
+  "language": "en",
+  "short_description": "A retired cartographer in a drought-stricken valley begins drawing maps of a city that doesn't exist, but as the ink dries, the map's rivers appear in the dry creek beds and its streets overlay the dirt roads, pulling the entire town into a place that was never on any chart.",
+  "long_description": "A retired cartographer in a drought-stricken valley begins drawing maps of a city that doesn't exist, but as the ink dries, the map's rivers appear in the dry creek beds and its streets overlay the dirt roads, pulling the entire town into a place that was never on any chart.",
+  "main_characters": [
+    "Old Amparo Ruiz",
+    "Luz (her granddaughter)",
+    "Mayor Castellon",
+    "El Extranjero"
+  ],
+  "keywords": [
+    "magical realism",
+    "slipstream",
+    "cartography",
+    "drought",
+    "slow transformation",
+    "village life",
+    "novel"
+  ],
+  "TXT_path": "books/The_Garden_of_Broken_Compasses/txt/The_Garden_of_Broken_Compasses.txt",
+  "EPUB_path": "books/The_Garden_of_Broken_Compasses/epub/The_Garden_of_Broken_Compasses.epub",
+  "cover_path": "books/The_Garden_of_Broken_Compasses/covers/The_Garden_of_Broken_Compasses.png",
+  "outline_path": "books/The_Garden_of_Broken_Compasses/planning/The_Garden_of_Broken_Compasses_outline.md",
+  "cover_script_path": "books/The_Garden_of_Broken_Compasses/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

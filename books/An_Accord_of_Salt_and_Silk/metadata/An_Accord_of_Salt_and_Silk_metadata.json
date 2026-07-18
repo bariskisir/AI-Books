@@ -1,0 +1,37 @@
+{
+  "title": "An Accord of Salt and Silk",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Romance",
+  "subgenre": "Historical Romance / Silk Road",
+  "language": "en",
+  "short_description": "A Persian merchant's daughter and a Han Chinese diplomat must pose as a married couple to smuggle silkworm eggs out of the Tang Empire, only to find the counterfeit intimacy hardening into something dangerously real.",
+  "long_description": "A Persian merchant's daughter and a Han Chinese diplomat must pose as a married couple to smuggle silkworm eggs out of the Tang Empire, only to find the counterfeit intimacy hardening into something dangerously real.",
+  "main_characters": [
+    "Roxana of Merv",
+    "Chen Weizhi",
+    "Auntie Yufei (the caravan master)",
+    "General Li Fengjun"
+  ],
+  "keywords": [
+    "Romance",
+    "historical romance",
+    "Silk Road",
+    "Tang Dynasty",
+    "Persia",
+    "silkworm smuggling",
+    "arranged marriage",
+    "novel"
+  ],
+  "TXT_path": "books/An_Accord_of_Salt_and_Silk/txt/An_Accord_of_Salt_and_Silk.txt",
+  "EPUB_path": "books/An_Accord_of_Salt_and_Silk/epub/An_Accord_of_Salt_and_Silk.epub",
+  "cover_path": "books/An_Accord_of_Salt_and_Silk/covers/An_Accord_of_Salt_and_Silk.png",
+  "outline_path": "books/An_Accord_of_Salt_and_Silk/planning/An_Accord_of_Salt_and_Silk_outline.md",
+  "cover_script_path": "books/An_Accord_of_Salt_and_Silk/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

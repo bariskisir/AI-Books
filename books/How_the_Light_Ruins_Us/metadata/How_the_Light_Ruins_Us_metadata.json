@@ -1,0 +1,37 @@
+{
+  "title": "How the Light Ruins Us",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Contemporary Literary",
+  "language": "en",
+  "short_description": "A retired lighthouse keeper and a grieving photographer form an unlikely bond on Ireland's storm-battered western coast, each hiding a devastating truth about the same shipwreck decades apart.",
+  "long_description": "A retired lighthouse keeper and a grieving photographer form an unlikely bond on Ireland's storm-battered western coast, each hiding a devastating truth about the same shipwreck decades apart.",
+  "main_characters": [
+    "Cormac Shaw",
+    "Dr. Lena Vartanian",
+    "Padraig (ghost)",
+    "Siobhan Hearn"
+  ],
+  "keywords": [
+    "literary fiction",
+    "novel",
+    "lighthouse",
+    "grief",
+    "Ireland",
+    "shipwreck",
+    "secrets",
+    "memory"
+  ],
+  "TXT_path": "books/How_the_Light_Ruins_Us/txt/How_the_Light_Ruins_Us.txt",
+  "EPUB_path": "books/How_the_Light_Ruins_Us/epub/How_the_Light_Ruins_Us.epub",
+  "cover_path": "books/How_the_Light_Ruins_Us/covers/How_the_Light_Ruins_Us.png",
+  "outline_path": "books/How_the_Light_Ruins_Us/planning/How_the_Light_Ruins_Us_outline.md",
+  "cover_script_path": "books/How_the_Light_Ruins_Us/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Calibration Zero",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Cyberpunk",
+  "subgenre": "Neural Cyberpunk",
+  "language": "en",
+  "short_description": "A black-market neural calibrator who syncs illegal wetware for the Tokyo underworld discovers her own memory partitions were written by a corporation that died thirty years ago, which means she was never born.",
+  "long_description": "A black-market neural calibrator who syncs illegal wetware for the Tokyo underworld discovers her own memory partitions were written by a corporation that died thirty years ago, which means she was never born.",
+  "main_characters": [
+    "Saya Hoshino",
+    "Rin-7 (fixer)",
+    "Doctor Kuroda",
+    "The Architect (voice)"
+  ],
+  "keywords": [
+    "Cyberpunk",
+    "novel",
+    "neural implants",
+    "identity",
+    "Tokyo",
+    "wetware",
+    "memory",
+    "corporate conspiracy"
+  ],
+  "TXT_path": "books/Calibration_Zero/txt/Calibration_Zero.txt",
+  "EPUB_path": "books/Calibration_Zero/epub/Calibration_Zero.epub",
+  "cover_path": "books/Calibration_Zero/covers/Calibration_Zero.png",
+  "outline_path": "books/Calibration_Zero/planning/Calibration_Zero_outline.md",
+  "cover_script_path": "books/Calibration_Zero/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

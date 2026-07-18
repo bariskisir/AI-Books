@@ -1,0 +1,37 @@
+{
+  "title": "What the Gutter Remembers",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Literary Fiction",
+  "subgenre": "Urban Epistolary",
+  "language": "en",
+  "short_description": "A homeless woman in contemporary Mumbai writes unsent letters to the mother who abandoned her, tucking them into library books she reads in the archives, unaware that a lonely archivist has been collecting and answering them for twelve years.",
+  "long_description": "A homeless woman in contemporary Mumbai writes unsent letters to the mother who abandoned her, tucking them into library books she reads in the archives, unaware that a lonely archivist has been collecting and answering them for twelve years.",
+  "main_characters": [
+    "Meera D'Souza",
+    "Arun Bapat",
+    "Lata Gokhale",
+    "Rohan Khanna"
+  ],
+  "keywords": [
+    "literary fiction",
+    "epistolary novel",
+    "Mumbai",
+    "homelessness",
+    "library archives",
+    "unsent letters",
+    "redemption",
+    "India"
+  ],
+  "TXT_path": "books/What_the_Gutter_Remembers/txt/What_the_Gutter_Remembers.txt",
+  "EPUB_path": "books/What_the_Gutter_Remembers/epub/What_the_Gutter_Remembers.epub",
+  "cover_path": "books/What_the_Gutter_Remembers/covers/What_the_Gutter_Remembers.png",
+  "outline_path": "books/What_the_Gutter_Remembers/planning/What_the_Gutter_Remembers_outline.md",
+  "cover_script_path": "books/What_the_Gutter_Remembers/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

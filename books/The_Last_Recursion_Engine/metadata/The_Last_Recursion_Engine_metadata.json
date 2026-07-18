@@ -1,0 +1,37 @@
+{
+  "title": "The Last Recursion Engine",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Science Fiction",
+  "subgenre": "Quantum Thriller",
+  "language": "en",
+  "short_description": "A quantum programmer discovers her consciousness was forked across 47 parallel universes during a lab accident, and something is systematically deleting each copy one by one.",
+  "long_description": "A quantum programmer discovers her consciousness was forked across 47 parallel universes during a lab accident, and something is systematically deleting each copy one by one.",
+  "main_characters": [
+    "Dr. Mira Velen",
+    "Conrad Njiro",
+    "The Archivist",
+    "Juno-7 (fork #12)"
+  ],
+  "keywords": [
+    "science fiction",
+    "novel",
+    "quantum consciousness",
+    "parallel universes",
+    "identity",
+    "memory deletion",
+    "hard SF",
+    "thriller"
+  ],
+  "TXT_path": "books/The_Last_Recursion_Engine/txt/The_Last_Recursion_Engine.txt",
+  "EPUB_path": "books/The_Last_Recursion_Engine/epub/The_Last_Recursion_Engine.epub",
+  "cover_path": "books/The_Last_Recursion_Engine/covers/The_Last_Recursion_Engine.png",
+  "outline_path": "books/The_Last_Recursion_Engine/planning/The_Last_Recursion_Engine_outline.md",
+  "cover_script_path": "books/The_Last_Recursion_Engine/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

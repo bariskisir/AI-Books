@@ -1,0 +1,36 @@
+{
+  "title": "The Signal Through Static",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Science Fiction",
+  "subgenre": "First Contact",
+  "language": "en",
+  "short_description": "Radio astronomer Lena Voss detects a structured signal buried in cosmic microwave background radiation. Something is speaking through the oldest light in the universe.",
+  "long_description": "Dr. Lena Voss spends her nights listening to the echo of the Big Bang. As a radio astronomer at the remote Atacama observatory, she studies the cosmic microwave background — the ancient light that fills every corner of the sky. But when her deep-field correlation analysis returns a statistical anomaly that should not exist, she discovers something impossible: a structured pattern encoded in the static itself, a signal that predates the Earth, the Sun, even the Milky Way.\n\nThe discovery pulls her into a web of international intrigue, academic rivalry, and existential dread. The signal is not random. It is a message, repeating every 47 million years on a frequency no one thought to check. Decoding it means rewriting the history of the universe. But some truths were buried for a reason, and there are those who will do anything to keep the message in the static.",
+  "main_characters": [
+    "Dr. Lena Voss",
+    "Dr. Amir Hassan",
+    "Marcus Webb",
+    "The Unknown"
+  ],
+  "keywords": [
+    "science fiction",
+    "first contact",
+    "radio astronomy",
+    "cosmic microwave background",
+    "signal",
+    "novel",
+    "Barış Kısır"
+  ],
+  "TXT_path": "books/The_Signal_Through_Static/txt/The_Signal_Through_Static.txt",
+  "EPUB_path": "books/The_Signal_Through_Static/epub/The_Signal_Through_Static.epub",
+  "cover_path": "books/The_Signal_Through_Static/covers/The_Signal_Through_Static.png",
+  "outline_path": "books/The_Signal_Through_Static/planning/The_Signal_Through_Static_outline.md",
+  "cover_script_path": "books/The_Signal_Through_Static/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

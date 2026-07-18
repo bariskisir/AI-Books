@@ -1,0 +1,37 @@
+{
+  "title": "Seven Lies About the Same Event",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Mystery",
+  "subgenre": "Locked-Room Puzzle",
+  "language": "en",
+  "short_description": "When a tech billionaire is found dead in a hermetically sealed data-center vault, seven employees each confess to the murder, and the detective must map their contradictory stories against a single server log that cannot be forged.",
+  "long_description": "When a tech billionaire is found dead in a hermetically sealed data-center vault, seven employees each confess to the murder, and the detective must map their contradictory stories against a single server log that cannot be forged.",
+  "main_characters": [
+    "Detective Isa Marchetti",
+    "Leo Haddad",
+    "Priya Chandrasekhar",
+    "Cormac Voss"
+  ],
+  "keywords": [
+    "mystery",
+    "locked-room mystery",
+    "tech billionaire",
+    "data center",
+    "multiple confessors",
+    "server logs",
+    "whodunit",
+    "novel"
+  ],
+  "TXT_path": "books/Seven_Lies_About_the_Same_Event/txt/Seven_Lies_About_the_Same_Event.txt",
+  "EPUB_path": "books/Seven_Lies_About_the_Same_Event/epub/Seven_Lies_About_the_Same_Event.epub",
+  "cover_path": "books/Seven_Lies_About_the_Same_Event/covers/Seven_Lies_About_the_Same_Event.png",
+  "outline_path": "books/Seven_Lies_About_the_Same_Event/planning/Seven_Lies_About_the_Same_Event_outline.md",
+  "cover_script_path": "books/Seven_Lies_About_the_Same_Event/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

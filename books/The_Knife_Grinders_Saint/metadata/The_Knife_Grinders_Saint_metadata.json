@@ -1,0 +1,37 @@
+{
+  "title": "The Knife-Grinder's Saint",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Fiction",
+  "subgenre": "18th Century / Folk Crime",
+  "language": "en",
+  "short_description": "In 1780s Prague, a Jewish knife-grinder who can read the history of any blade by touching its edge is hunted by a nobleman who wants him to authenticate a dagger that supposedly killed a saint.",
+  "long_description": "In 1780s Prague, a Jewish knife-grinder who can read the history of any blade by touching its edge is hunted by a nobleman who wants him to authenticate a dagger that supposedly killed a saint.",
+  "main_characters": [
+    "Yakov Blumenthal",
+    "Count Vilem Hradek",
+    "Magdalena Svoboda",
+    "Brother Cyprian"
+  ],
+  "keywords": [
+    "Historical Fiction",
+    "novel",
+    "Prague",
+    "18th century",
+    "knife-grinder",
+    "relic",
+    "superstition",
+    "Jewish folklore"
+  ],
+  "TXT_path": "books/The_Knife_Grinders_Saint/txt/The_Knife_Grinders_Saint.txt",
+  "EPUB_path": "books/The_Knife_Grinders_Saint/epub/The_Knife_Grinders_Saint.epub",
+  "cover_path": "books/The_Knife_Grinders_Saint/covers/The_Knife_Grinders_Saint.png",
+  "outline_path": "books/The_Knife_Grinders_Saint/planning/The_Knife_Grinders_Saint_outline.md",
+  "cover_script_path": "books/The_Knife_Grinders_Saint/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

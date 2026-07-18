@@ -1,0 +1,36 @@
+{
+  "title": "The Hollow Protocol",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Thriller",
+  "subgenre": "Technothriller",
+  "language": "en",
+  "short_description": "A disgraced CIA geologist discovers that a string of earthquakes, sinkholes, and volcanic eruptions across the Ring of Fire are not natural disasters but targeted geological attacks, and the next tremor will trigger the Yellowstone supervolcano.",
+  "long_description": "A disgraced CIA geologist discovers that a string of earthquakes, sinkholes, and volcanic eruptions across the Ring of Fire are not natural disasters but targeted geological attacks, and the next tremor will trigger the Yellowstone supervolcano.",
+  "main_characters": [
+    "Dr. Ruth Keller",
+    "Agent Marcus Chen",
+    "Colonel Eva Vasquez",
+    "Viktor Petrov"
+  ],
+  "keywords": [
+    "thriller",
+    "technothriller",
+    "geological warfare",
+    "CIA",
+    "Yellowstone supervolcano",
+    "disaster",
+    "conspiracy"
+  ],
+  "TXT_path": "books/The_Hollow_Protocol/txt/The_Hollow_Protocol.txt",
+  "EPUB_path": "books/The_Hollow_Protocol/epub/The_Hollow_Protocol.epub",
+  "cover_path": "books/The_Hollow_Protocol/covers/The_Hollow_Protocol.png",
+  "outline_path": "books/The_Hollow_Protocol/planning/The_Hollow_Protocol_outline.md",
+  "cover_script_path": "books/The_Hollow_Protocol/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "The Cartographer's Last Latitude",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Historical Fiction",
+  "subgenre": "Nautical Adventure",
+  "language": "en",
+  "short_description": "A disgraced 18th-century cartographer, hired to chart an uncharted Arctic passage, discovers his maps are being used not for science but to strand a rival colonial fleet in permanent ice.",
+  "long_description": "A disgraced 18th-century cartographer, hired to chart an uncharted Arctic passage, discovers his maps are being used not for science but to strand a rival colonial fleet in permanent ice.",
+  "main_characters": [
+    "Elinor Voss",
+    "Captain Jorgen Brack",
+    "Silas Thorne",
+    "Mina Hedd"
+  ],
+  "keywords": [
+    "historical fiction",
+    "nautical",
+    "cartography",
+    "Arctic",
+    "18th century",
+    "betrayal",
+    "novel"
+  ],
+  "TXT_path": "books/The_Cartographers_Last_Latitude/txt/The_Cartographers_Last_Latitude.txt",
+  "EPUB_path": "books/The_Cartographers_Last_Latitude/epub/The_Cartographers_Last_Latitude.epub",
+  "cover_path": "books/The_Cartographers_Last_Latitude/covers/The_Cartographers_Last_Latitude.png",
+  "outline_path": "books/The_Cartographers_Last_Latitude/planning/The_Cartographers_Last_Latitude_outline.md",
+  "cover_script_path": "books/The_Cartographers_Last_Latitude/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

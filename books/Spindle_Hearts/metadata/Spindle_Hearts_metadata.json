@@ -1,0 +1,37 @@
+{
+  "title": "Spindle-Hearts",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fantasy",
+  "subgenre": "Industrial Fairy Tale",
+  "language": "en",
+  "short_description": "In a city where machinery runs on stolen fairy souls, a clockmaker's apprentice discovers she can hear the trapped spinners singing and must choose between the safety of her guild and freeing them.",
+  "long_description": "In a city where machinery runs on stolen fairy souls, a clockmaker's apprentice discovers she can hear the trapped spinners singing and must choose between the safety of her guild and freeing them.",
+  "main_characters": [
+    "Tamsin Cogg",
+    "Master Ashford",
+    "Rin the spinner",
+    "Inspector Holt"
+  ],
+  "keywords": [
+    "fantasy",
+    "novel",
+    "industrial fairy tale",
+    "clockwork",
+    "fairies",
+    "guilds",
+    "apprentice",
+    "souls"
+  ],
+  "TXT_path": "books/Spindle_Hearts/txt/Spindle_Hearts.txt",
+  "EPUB_path": "books/Spindle_Hearts/epub/Spindle_Hearts.epub",
+  "cover_path": "books/Spindle_Hearts/covers/Spindle_Hearts.png",
+  "outline_path": "books/Spindle_Hearts/planning/Spindle_Hearts_outline.md",
+  "cover_script_path": "books/Spindle_Hearts/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

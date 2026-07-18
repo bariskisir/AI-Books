@@ -1,0 +1,37 @@
+{
+  "title": "The Last Painted Lady of Harlan Street",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Mystery",
+  "subgenre": "Cozy Mystery / Art World",
+  "language": "en",
+  "short_description": "When a forger is found dead in his studio surrounded by perfect copies of a lost Renaissance fresco, the only person who can tell the real from the fake is his estranged daughter — a retired art restorer with early-onset prosopagnosia.",
+  "long_description": "When a forger is found dead in his studio surrounded by perfect copies of a lost Renaissance fresco, the only person who can tell the real from the fake is his estranged daughter — a retired art restorer with early-onset prosopagnosia.",
+  "main_characters": [
+    "Margot Cirelli",
+    "Detective Sam Okonkwo",
+    "Lucia Vasquez (Margot's former apprentice)",
+    "Edwin Cirelli (the dead forger)"
+  ],
+  "keywords": [
+    "Mystery",
+    "cozy mystery",
+    "art forgery",
+    "Renaissance",
+    "prosopagnosia",
+    "father-daughter",
+    "restoration",
+    "novel"
+  ],
+  "TXT_path": "books/The_Last_Painted_Lady_of_Harlan_Street/txt/The_Last_Painted_Lady_of_Harlan_Street.txt",
+  "EPUB_path": "books/The_Last_Painted_Lady_of_Harlan_Street/epub/The_Last_Painted_Lady_of_Harlan_Street.epub",
+  "cover_path": "books/The_Last_Painted_Lady_of_Harlan_Street/covers/The_Last_Painted_Lady_of_Harlan_Street.png",
+  "outline_path": "books/The_Last_Painted_Lady_of_Harlan_Street/planning/The_Last_Painted_Lady_of_Harlan_Street_outline.md",
+  "cover_script_path": "books/The_Last_Painted_Lady_of_Harlan_Street/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

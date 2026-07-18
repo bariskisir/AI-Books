@@ -1,0 +1,37 @@
+{
+  "title": "Debt Flesh",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Cyberpunk",
+  "subgenre": "Biocapitalist Dystopia",
+  "language": "en",
+  "short_description": "In a city where every organ is leased and default means surgical repossession, a woman with 43 months of arrears hidden in her bones must outrun collection drones to find out why her mother's neural backup is broadcasting classified data from beyond the grave.",
+  "long_description": "In a city where every organ is leased and default means surgical repossession, a woman with 43 months of arrears hidden in her bones must outrun collection drones to find out why her mother's neural backup is broadcasting classified data from beyond the grave.",
+  "main_characters": [
+    "Kestrel Meer",
+    "Bonekeeper Sato",
+    "Pax (drone hacker)",
+    "Mother (neural echo)"
+  ],
+  "keywords": [
+    "cyberpunk",
+    "novel",
+    "biocapitalism",
+    "organ leasing",
+    "neural backups",
+    "dystopia",
+    "collection drones",
+    "body horror"
+  ],
+  "TXT_path": "books/Debt_Flesh/txt/Debt_Flesh.txt",
+  "EPUB_path": "books/Debt_Flesh/epub/Debt_Flesh.epub",
+  "cover_path": "books/Debt_Flesh/covers/Debt_Flesh.png",
+  "outline_path": "books/Debt_Flesh/planning/Debt_Flesh_outline.md",
+  "cover_script_path": "books/Debt_Flesh/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The Last Syntax Error",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Cyberpunk",
+  "subgenre": "Hardboiled Cyberpunk",
+  "language": "en",
+  "short_description": "A washed-up code detective in a megacity where law is written in executable clauses discovers a hidden subroutine in the city's foundational code that, if executed, will retroactively render every human who ever had a criminal record legally non-existent, erasing millions from history.",
+  "long_description": "A washed-up code detective in a megacity where law is written in executable clauses discovers a hidden subroutine in the city's foundational code that, if executed, will retroactively render every human who ever had a criminal record legally non-existent, erasing millions from history.",
+  "main_characters": [
+    "Cade Morrow",
+    "Lyra Zhou",
+    "Inspector Hiro Tanaka",
+    "NEMO"
+  ],
+  "keywords": [
+    "cyberpunk",
+    "hardboiled",
+    "code",
+    "erasure",
+    "megacity",
+    "AI",
+    "detective",
+    "identity"
+  ],
+  "TXT_path": "books/The_Last_Syntax_Error/txt/The_Last_Syntax_Error.txt",
+  "EPUB_path": "books/The_Last_Syntax_Error/epub/The_Last_Syntax_Error.epub",
+  "cover_path": "books/The_Last_Syntax_Error/covers/The_Last_Syntax_Error.png",
+  "outline_path": "books/The_Last_Syntax_Error/planning/The_Last_Syntax_Error_outline.md",
+  "cover_script_path": "books/The_Last_Syntax_Error/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

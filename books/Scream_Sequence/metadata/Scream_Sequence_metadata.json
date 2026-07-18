@@ -1,0 +1,37 @@
+{
+  "title": "Scream Sequence",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Horror",
+  "subgenre": "Psychological Body Horror",
+  "language": "en",
+  "short_description": "A sound engineer recording ambient noise in an abandoned asylum captures a frequency that starts repeating inside her own body — her bones vibrate, her teeth hum — and the only way to stop it is to find who died screaming in the basement.",
+  "long_description": "A sound engineer recording ambient noise in an abandoned asylum captures a frequency that starts repeating inside her own body — her bones vibrate, her teeth hum — and the only way to stop it is to find who died screaming in the basement.",
+  "main_characters": [
+    "Orla Finch",
+    "Dr. Sebastian Cole",
+    "Maya the archivist",
+    "The Basement Voice"
+  ],
+  "keywords": [
+    "horror",
+    "novel",
+    "psychological body horror",
+    "sound engineer",
+    "asylum",
+    "frequency",
+    "bones",
+    "trauma"
+  ],
+  "TXT_path": "books/Scream_Sequence/txt/Scream_Sequence.txt",
+  "EPUB_path": "books/Scream_Sequence/epub/Scream_Sequence.epub",
+  "cover_path": "books/Scream_Sequence/covers/Scream_Sequence.png",
+  "outline_path": "books/Scream_Sequence/planning/Scream_Sequence_outline.md",
+  "cover_script_path": "books/Scream_Sequence/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

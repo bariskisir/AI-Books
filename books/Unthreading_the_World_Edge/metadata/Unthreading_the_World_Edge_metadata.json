@@ -1,0 +1,36 @@
+{
+  "title": "Unthreading the World-Edge",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Fantasy",
+  "subgenre": "Epic Fantasy",
+  "language": "en",
+  "short_description": "A blind weaver's apprentice who can feel the threads of fate discovers she accidentally severed a strand connecting a hero to their destiny, and must journey across the fractured kingdom to the World-Edge to mend it before the hero's death unravels history.",
+  "long_description": "A blind weaver's apprentice who can feel the threads of fate discovers she accidentally severed a strand connecting a hero to their destiny, and must journey across the fractured kingdom to the World-Edge to mend it before the hero's death unravels history.",
+  "main_characters": [
+    "Mara",
+    "Silvanus",
+    "Elder Yarrow",
+    "Rook"
+  ],
+  "keywords": [
+    "fantasy",
+    "epic fantasy",
+    "fate",
+    "weaving",
+    "destiny",
+    "blind protagonist",
+    "worldbuilding"
+  ],
+  "TXT_path": "books/Unthreading_the_World_Edge/txt/Unthreading_the_World_Edge.txt",
+  "EPUB_path": "books/Unthreading_the_World_Edge/epub/Unthreading_the_World_Edge.epub",
+  "cover_path": "books/Unthreading_the_World_Edge/covers/Unthreading_the_World_Edge.png",
+  "outline_path": "books/Unthreading_the_World_Edge/planning/Unthreading_the_World_Edge_outline.md",
+  "cover_script_path": "books/Unthreading_the_World_Edge/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

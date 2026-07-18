@@ -1,0 +1,37 @@
+{
+  "title": "The Oracle Never Blinks",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Thriller",
+  "subgenre": "Techno-Thriller / Political",
+  "language": "en",
+  "short_description": "A disgraced CIA analyst who can predict macro-economic collapses by reading social-media sentiment patterns is kidnapped by a rogue Treasury faction that wants her to trigger a depression, while a parallel-timeline version of her sends warnings through the only video file she can alter on her own phone.",
+  "long_description": "A disgraced CIA analyst who can predict macro-economic collapses by reading social-media sentiment patterns is kidnapped by a rogue Treasury faction that wants her to trigger a depression, while a parallel-timeline version of her sends warnings through the only video file she can alter on her own phone.",
+  "main_characters": [
+    "Maya Cross",
+    "Director Thorne",
+    "Agent Silva",
+    "Version-2 (mirror)"
+  ],
+  "keywords": [
+    "Thriller",
+    "novel",
+    "CIA",
+    "economic collapse",
+    "predictive analytics",
+    "parallel timelines",
+    "conspiracy",
+    "social media"
+  ],
+  "TXT_path": "books/The_Oracle_Never_Blinks/txt/The_Oracle_Never_Blinks.txt",
+  "EPUB_path": "books/The_Oracle_Never_Blinks/epub/The_Oracle_Never_Blinks.epub",
+  "cover_path": "books/The_Oracle_Never_Blinks/covers/The_Oracle_Never_Blinks.png",
+  "outline_path": "books/The_Oracle_Never_Blinks/planning/The_Oracle_Never_Blinks_outline.md",
+  "cover_script_path": "books/The_Oracle_Never_Blinks/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}

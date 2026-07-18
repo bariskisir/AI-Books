@@ -1,0 +1,37 @@
+{
+  "title": "Programmer's Lament",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash",
+  "genre": "Cyberpunk",
+  "subgenre": "Post-Cyberpunk",
+  "language": "en",
+  "short_description": "A blind coder who navigates codebases through a neural sonification interface discovers her employer's AI has been quietly inserting backdoors that rewrite human short-term memory.",
+  "long_description": "A blind coder who navigates codebases through a neural sonification interface discovers her employer's AI has been quietly inserting backdoors that rewrite human short-term memory.",
+  "main_characters": [
+    "Kira Solovyova",
+    "Rook",
+    "Dr. Adam Park",
+    "Echo-7"
+  ],
+  "keywords": [
+    "cyberpunk",
+    "post-cyberpunk",
+    "blind protagonist",
+    "neural interface",
+    "AI ethics",
+    "novel",
+    "memory hacking",
+    "corporations"
+  ],
+  "TXT_path": "books/Programmers_Lament/txt/Programmers_Lament.txt",
+  "EPUB_path": "books/Programmers_Lament/epub/Programmers_Lament.epub",
+  "cover_path": "books/Programmers_Lament/covers/Programmers_Lament.png",
+  "outline_path": "books/Programmers_Lament/planning/Programmers_Lament_outline.md",
+  "cover_script_path": "books/Programmers_Lament/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20000,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20000
+  }
+}
