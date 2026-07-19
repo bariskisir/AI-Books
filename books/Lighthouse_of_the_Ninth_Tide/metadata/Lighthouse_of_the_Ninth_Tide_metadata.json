@@ -1,0 +1,38 @@
+{
+  "title": "Lighthouse of the Ninth Tide",
+  "author": "Barış Kısır",
+  "model": "tencent/hy3",
+  "genre": "Adventure / Maritime",
+  "subgenre": "Isolation and rescue at sea",
+  "language": "en",
+  "premise": "The last keeper of a lighthouse on a tide-bound rock must light the lamp nine times against a legendary storm that only comes once a generation — and the ninth lighting is for the ship carrying the person he swore never to save.",
+  "short_description": "The last keeper of a rock lighthouse must light the lamp nine times against a once-a-generation storm; the ninth lighting is reserved for the ship bearing the one person he swore he would never save.",
+  "long_description": "On the Ninth Tide — a storm that surfaces once in a generation and drowns whole fleets — lighthouse-keepers are bound by an old covenant to light the lamp nine times, each flare a beacon pulled from the keeper's own years of life. Cael is the last of his line, and he has lit the lamp eight times, growing older and thinner with each. The ninth lighting is foretold to summon the ship that carries the one he betrayed: the woman who went to sea to escape him and whom he let go. As the sky bruises and the rock begins to founder, Cael must decide whether the ninth light is an act of mercy, penance, or the final vanity of a man who mistook duty for love. The tide will take what it takes; the question is only who he lights it for.",
+  "main_characters": [
+    "Cael — the last lighthouse keeper",
+    "Mire — the woman who went to sea",
+    "The Pilot — the storm's harbinger",
+    "Old Wynne — Cael's predecessor and warning",
+    "TheChild Below — the stowaway who sees the light"
+  ],
+  "keywords": [
+    "adventure",
+    "maritime",
+    "lighthouse",
+    "storm",
+    "isolation",
+    "redemption",
+    "novel"
+  ],
+  "TXT_path": "books/Lighthouse_of_the_Ninth_Tide/txt/Lighthouse_of_the_Ninth_Tide.txt",
+  "EPUB_path": "books/Lighthouse_of_the_Ninth_Tide/epub/Lighthouse_of_the_Ninth_Tide.epub",
+  "cover_path": "books/Lighthouse_of_the_Ninth_Tide/covers/Lighthouse_of_the_Ninth_Tide.png",
+  "outline_path": "books/Lighthouse_of_the_Ninth_Tide/planning/Lighthouse_of_the_Ninth_Tide_outline.md",
+  "cover_script_path": "books/Lighthouse_of_the_Ninth_Tide/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 19266,
+  "stats": {
+    "total_chapters": 45,
+    "total_words": 19266
+  }
+}

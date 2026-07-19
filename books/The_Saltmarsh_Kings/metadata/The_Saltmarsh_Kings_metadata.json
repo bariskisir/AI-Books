@@ -1,0 +1,39 @@
+{
+  "title": "The Saltmarsh Kings",
+  "author": "Barış Kısır",
+  "model": "tencent/hy3",
+  "genre": "Historical Fiction",
+  "subgenre": "Tidal-flat dynastic saga",
+  "language": "en",
+  "premise": "On a shifting estuary border between two rival kingdoms, a family of salt-harvesters becomes the unelected arbiter of every treaty, smuggling run, and flood — until the youngest daughter, born with the tide in her lungs, decides the marsh will choose its own king.",
+  "short_description": "A dynasty of salt-harvesters rules a contested tidal estuary through knowledge of the water no army can master, until the youngest child, who breathes with the tide, turns the marsh against its keepers.",
+  "long_description": "Where two kingdoms meet, the land is neither solid nor sea. The saltmarsh feeds both crowns and belongs to neither. For three generations the Emberlyn family has read the tides, harvested the white gold, and brokered the fragile peace between realms that would otherwise drown each other. Their power is quiet, rooted in silt and patience — until the youngest daughter is pulled from the channel with water in her chest and no fear of it. As the old kings die and new ones sharpen their hunger, she learns the marsh is not a border to be governed but a living thing with its own claim. To save her family she must Become what the water made her, and let the Saltmarsh choose a king that no throne will sanction.",
+  "main_characters": [
+    "Mara Emberlyn — the tide-born youngest daughter",
+    "Old Hest Emberlyn — the family's tide-reader patriarch",
+    "King Aldric of the High Shore",
+    "Queen Sefa of the Reaching Sands",
+    "Cobb — the marsh-bred foster son and ferryman"
+  ],
+  "keywords": [
+    "historical fiction",
+    "saltmarsh",
+    "dynastic saga",
+    "tides",
+    "estuary",
+    "coming of age",
+    "political intrigue",
+    "novel"
+  ],
+  "TXT_path": "books/The_Saltmarsh_Kings/txt/The_Saltmarsh_Kings.txt",
+  "EPUB_path": "books/The_Saltmarsh_Kings/epub/The_Saltmarsh_Kings.epub",
+  "cover_path": "books/The_Saltmarsh_Kings/covers/The_Saltmarsh_Kings.png",
+  "outline_path": "books/The_Saltmarsh_Kings/planning/The_Saltmarsh_Kings_outline.md",
+  "cover_script_path": "books/The_Saltmarsh_Kings/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 18489,
+  "stats": {
+    "total_chapters": 45,
+    "total_words": 18489
+  }
+}
