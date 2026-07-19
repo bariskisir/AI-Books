@@ -1,0 +1,37 @@
+{
+  "title": "When the Wire Sings",
+  "author": "Barış Kısır",
+  "model": "tencent/hy3",
+  "genre": "Science Fiction",
+  "subgenre": "Post-grid pastoral SF",
+  "language": "en",
+  "premise": "After the grid fails for good, a deaf linesman who can feel the residual hum of every fallen wire becomes the only person who can hear the old network trying to speak — and it is asking for a child it lost.",
+  "short_description": "After the grid fails for good, a deaf linesman who feels the residual hum of every dead wire becomes the only one who can hear the old network trying to speak — and it is calling for a child it lost.",
+  "long_description": "The grid died in a single afternoon and never came back. Generations later, people live by sun and hand, and the vast lattice of wire across the continent is ruin and roost. Son is a deaf linesman who reads the world through vibration — and who has always felt a faint singing in the copper, a music the hearing cannot hear. When the wires begin to hum in a pattern too deliberate to be weather, Son follows the line to its source and finds the network is not dead but dreaming, and mourning: it lost a child-node, an experimental mind it spun from its own current, and it wants Son to find her. To answer, Son must climb into the live bones of a machine the world agreed to forget, and decide whether to let the old grid wake — or let it grieve in peace.",
+  "main_characters": [
+    "Son — the deaf linesman who feels the wire's hum",
+    "The Child-Node — the lost mind spun from the grid",
+    "Mara — the village electrotech who doubts the singing",
+    "Old Tess — last engineer of the fallen grid",
+    "The Hummer — a rival who wants the wire's power"
+  ],
+  "keywords": [
+    "science fiction",
+    "post-apocalyptic",
+    "power grid",
+    "deaf protagonist",
+    "network consciousness",
+    "novel"
+  ],
+  "TXT_path": "books/When_the_Wire_Sings/txt/When_the_Wire_Sings.txt",
+  "EPUB_path": "books/When_the_Wire_Sings/epub/When_the_Wire_Sings.epub",
+  "cover_path": "books/When_the_Wire_Sings/covers/When_the_Wire_Sings.png",
+  "outline_path": "books/When_the_Wire_Sings/planning/When_the_Wire_Sings_outline.md",
+  "cover_script_path": "books/When_the_Wire_Sings/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 16075,
+  "stats": {
+    "total_chapters": 45,
+    "total_words": 16075
+  }
+}

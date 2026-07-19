@@ -1,0 +1,38 @@
+{
+  "title": "The Bone Orchard",
+  "author": "Barış Kısır",
+  "model": "tencent/hy3",
+  "genre": "Gothic / Speculative",
+  "subgenre": "Southern Gothic with quiet magic",
+  "language": "en",
+  "premise": "In a drowned Southern county, the dead are buried standing in a grove so their bones will root and fruit; a grieving gravedigger discovers one tree is growing a child who should not yet be hers to lose.",
+  "short_description": "In a flooded Southern county the dead are buried standing so their bones will root and fruit; a grieving gravedigger finds a tree growing the child she has not yet lost, and must decide what harvest to allow.",
+  "long_description": "The county flooded a century ago and never drained. Its people learned to bury their dead upright in a flooded grove, where bone takes root and the orchard yields pale, sweet fruit that tastes of the one it grew from. Del is the grove's gravedigger, a woman who has buried everyone she loved and eaten none of their fruit — until a sapling unfurls with the face of the daughter she is still carrying. The orchard, it seems, grows what is owed as much as what is lost. As the standing dead begin to stir and the water rises again, Del must walk the flooded rows and reckon with a power that turns grief into harvest, and decide whether to let the bone orchard keep its due or cut the tree she cannot bear to lose.",
+  "main_characters": [
+    "Del — the grove's gravedigger",
+    "The Turner — keeper of the standing dead",
+    "Ruthie — Del's expectant companion",
+    "Old Marris — the orchard's first planter",
+    "The Child-in-the-Tree"
+  ],
+  "keywords": [
+    "gothic",
+    "southern gothic",
+    "speculative",
+    "flood",
+    "grief",
+    "magical realism",
+    "novel"
+  ],
+  "TXT_path": "books/The_Bone_Orchard/txt/The_Bone_Orchard.txt",
+  "EPUB_path": "books/The_Bone_Orchard/epub/The_Bone_Orchard.epub",
+  "cover_path": "books/The_Bone_Orchard/covers/The_Bone_Orchard.png",
+  "outline_path": "books/The_Bone_Orchard/planning/The_Bone_Orchard_outline.md",
+  "cover_script_path": "books/The_Bone_Orchard/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 18474,
+  "stats": {
+    "total_chapters": 45,
+    "total_words": 18474
+  }
+}

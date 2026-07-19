@@ -1,0 +1,38 @@
+{
+  "title": "A Cartography of Small Fires",
+  "author": "Barış Kısır",
+  "model": "tencent/hy3",
+  "genre": "Literary Fiction",
+  "subgenre": "Quiet domestic epic",
+  "language": "en",
+  "premise": "A cartographer who maps only the places she has lost returns to the village of her childhood to chart the small, deliberate fires — arguments, affairs, forgivings — that quietly burned three households into one entangled family.",
+  "short_description": "A cartographer who maps only what she has lost returns home to chart the small, deliberate fires — the unspoken hurts and quiet mercies — that fused three households into one tangled family.",
+  "long_description": "Eli has spent her adult life making maps of absence: the drained lake, the razed orchard, the lover's empty chair. Commissioned to survey a valley she fled at seventeen, she instead begins to map something stranger — the small fires that shaped the people she left behind. Her mother's silence, her brother's defection, the neighbor woman who kept the porch light on through every winter, the husband who learned to apologize with bread. As Eli walks the lanes with her instruments, the village reveals itself as a single organism stitched from a hundred minor combustions: angers banked, trusts lit, griefs that smoldered for decades. To finish the map she must decide whether to publish the wounds or let them stay, warm and unhonored, among the living.",
+  "main_characters": [
+    "Eli — the cartographer who maps only loss",
+    "Mother Wyn — keeper of the unspoken",
+    "Brother Tomas — the one who left and returned changed",
+    "Nerin — the neighbor who kept the porch light burning",
+    "Old Pell — the village record-keeper"
+  ],
+  "keywords": [
+    "literary fiction",
+    "cartography",
+    "family saga",
+    "rural village",
+    "memory",
+    "domestic drama",
+    "novel"
+  ],
+  "TXT_path": "books/A_Cartography_of_Small_Fires/txt/A_Cartography_of_Small_Fires.txt",
+  "EPUB_path": "books/A_Cartography_of_Small_Fires/epub/A_Cartography_of_Small_Fires.epub",
+  "cover_path": "books/A_Cartography_of_Small_Fires/covers/A_Cartography_of_Small_Fires.png",
+  "outline_path": "books/A_Cartography_of_Small_Fires/planning/A_Cartography_of_Small_Fires_outline.md",
+  "cover_script_path": "books/A_Cartography_of_Small_Fires/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 18555,
+  "stats": {
+    "total_chapters": 45,
+    "total_words": 18555
+  }
+}
