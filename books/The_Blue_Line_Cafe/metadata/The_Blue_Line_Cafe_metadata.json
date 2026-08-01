@@ -1,0 +1,37 @@
+{
+  "title": "The Blue Line Cafe",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Romance",
+  "subgenre": "Second-chance contemporary",
+  "language": "en",
+  "premise": "When chef Emi Tanaka returns to her hometown to save her mother's cafe, she finds the man she left at eighteen — Liam, now the cafe's morning baker — still making the same cinnamon rolls, and still angry. Over one summer, they must decide whether a decade of silence is a recipe they can break.",
+  "short_description": "Emi, a Chicago sous-chef, returns to Port Meridian to help her mother Rosa, who has Parkinson's.",
+  "long_description": "Emi, a Chicago sous-chef, returns to Port Meridian to help her mother Rosa, who has Parkinson's. Liam, the morning baker, is furious she left and plans to sell. An intercepted letter, a summer of brunch service, and Rosa's decline force Emi to choose between the Chicago job and the cafe — and Liam.",
+  "main_characters": [
+    "Emi Tanaka — driven, wounded, brilliant chef",
+    "Liam O'Brien — steady, funny, buried grief",
+    "Rosa — Emi's mother, magnetic, fading",
+    "June — Emi's best friend, cafe regular",
+    "Marcus — the Chicago mentor, a temptation"
+  ],
+  "keywords": [
+    "romance",
+    "second chance",
+    "food writing",
+    "small town",
+    "contemporary",
+    "novel"
+  ],
+  "TXT_path": "books/The_Blue_Line_Cafe/txt/The_Blue_Line_Cafe.txt",
+  "EPUB_path": "books/The_Blue_Line_Cafe/epub/The_Blue_Line_Cafe.epub",
+  "cover_path": "books/The_Blue_Line_Cafe/covers/The_Blue_Line_Cafe.png",
+  "outline_path": "books/The_Blue_Line_Cafe/planning/The_Blue_Line_Cafe_outline.md",
+  "cover_script_path": "books/The_Blue_Line_Cafe/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 21400,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 21400
+  }
+}

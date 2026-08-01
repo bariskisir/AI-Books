@@ -1,0 +1,39 @@
+{
+  "title": "The Dust Reckoning",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Historical Fiction",
+  "subgenre": "Dust Bowl family saga",
+  "language": "en",
+  "premise": "Oklahoma, 1935. When the dust buries their farm a third time, the Vogel family splits: seventeen-year-old Cora joins the westbound harvest trucks, while her mother June stays to keep the land alive with a ledger of seeds and a stubborn windbreak. The reckoning comes when the two halves must choose what home means.",
+  "short_description": "Cimarron County, Oklahoma, 1935-36.",
+  "long_description": "Cimarron County, Oklahoma, 1935-36. The third dust storm buries the Vogel farm; June stays with windbreaks and seed ledgers while Cora rides the harvest trucks west, meets the organizers, and is beaten in a strike. The Cimarron floods; Cora returns to sandbag with her mother; the family reckons with what home means.",
+  "main_characters": [
+    "Cora Vogel — seventeen, stubborn, hungry for the world",
+    "June Vogel — her mother, quiet steel, rooted",
+    "Walter Vogel — father, broken by the land, gone west first",
+    "Sammy — younger brother, stays with June",
+    "Miguel — organizer, tender, marked",
+    "Mrs. Halloran — neighbor, the betrayal"
+  ],
+  "keywords": [
+    "historical fiction",
+    "dust bowl",
+    "Oklahoma",
+    "1935",
+    "family saga",
+    "migration",
+    "novel"
+  ],
+  "TXT_path": "books/The_Dust_Reckoning/txt/The_Dust_Reckoning.txt",
+  "EPUB_path": "books/The_Dust_Reckoning/epub/The_Dust_Reckoning.epub",
+  "cover_path": "books/The_Dust_Reckoning/covers/The_Dust_Reckoning.png",
+  "outline_path": "books/The_Dust_Reckoning/planning/The_Dust_Reckoning_outline.md",
+  "cover_script_path": "books/The_Dust_Reckoning/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 108091,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 108091
+  }
+}

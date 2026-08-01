@@ -1,0 +1,39 @@
+{
+  "title": "The Chrome Gospel",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Cyberpunk",
+  "subgenre": "Corporate espionage noir",
+  "language": "en",
+  "premise": "In a flooded Neo-Kolkata, memory broker Alia Sen sells other people's pasts until a gig forces her to install a client's memory of a murder she did not commit. To survive the corporation that framed her, Alia must trace the chrome chip through the city's data-sea.",
+  "short_description": "2089 Neo-Kolkata.",
+  "long_description": "2089 Neo-Kolkata. Memory broker Alia Sen takes a routine transfer gig and ends up with a memory of committing murder. Framed by Ereshkigal Corp, she traces the chip through the Data-Sea with ex-constable Rakesh and chip-surgeon Vada, broadcasts the true memory, and donates her first honest memory to the Dead Choir.",
+  "main_characters": [
+    "Alia Sen — memory broker, cynical, secretly principled",
+    "Rakesh — ex-constable with a stolen badge",
+    "Vada — chip-surgeon, sardonic, addicted to reading memories",
+    "the Preacher — gospel-chip evangelist",
+    "the Surgeon — Ereshkigal's memory-editor",
+    "the Dead Choir — monks who collect memory-donations"
+  ],
+  "keywords": [
+    "cyberpunk",
+    "noir",
+    "memory",
+    "Neo-Kolkata",
+    "corporate thriller",
+    "neurotech",
+    "novel"
+  ],
+  "TXT_path": "books/The_Chrome_Gospel/txt/The_Chrome_Gospel.txt",
+  "EPUB_path": "books/The_Chrome_Gospel/epub/The_Chrome_Gospel.epub",
+  "cover_path": "books/The_Chrome_Gospel/covers/The_Chrome_Gospel.png",
+  "outline_path": "books/The_Chrome_Gospel/planning/The_Chrome_Gospel_outline.md",
+  "cover_script_path": "books/The_Chrome_Gospel/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 15473,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 15473
+  }
+}

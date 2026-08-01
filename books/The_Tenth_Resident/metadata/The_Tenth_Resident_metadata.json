@@ -1,0 +1,37 @@
+{
+  "title": "The Tenth Resident",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Dystopian",
+  "subgenre": "Social-scoring surveillance",
+  "language": "en",
+  "premise": "In a city where every resident carries a civic score and the bottom tenth is deleted from public memory, archivist Elif Demir discovers the deleted are not erased — they are sealed. Her own number comes up next quarter. To survive, she must find the one name the system cannot delete.",
+  "short_description": "Meridian City, 2077.",
+  "long_description": "Meridian City, 2077. Archivist Elif discovers the deleted are sealed in the Cinders, alive but unremembered, and the quota is gamed. She shelters Andre, her score drops, and she is sealed herself — inside, she finds the Regulator's founding name and broadcasts it, overturning the protocol.",
+  "main_characters": [
+    "Elif Demir — municipal archivist, precise, furious",
+    "Andre — the deleted, gentle",
+    "Ozan — ledger auditor with a conscience",
+    "Nyla — teenage censor, curious, brave",
+    "the Regulator — a system, voice in the walls",
+    "the Benefactor — suave, monstrous"
+  ],
+  "keywords": [
+    "dystopian",
+    "social scoring",
+    "surveillance",
+    "archive",
+    "novel"
+  ],
+  "TXT_path": "books/The_Tenth_Resident/txt/The_Tenth_Resident.txt",
+  "EPUB_path": "books/The_Tenth_Resident/epub/The_Tenth_Resident.epub",
+  "cover_path": "books/The_Tenth_Resident/covers/The_Tenth_Resident.png",
+  "outline_path": "books/The_Tenth_Resident/planning/The_Tenth_Resident_outline.md",
+  "cover_script_path": "books/The_Tenth_Resident/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 23615,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23615
+  }
+}

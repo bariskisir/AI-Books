@@ -1,0 +1,38 @@
+{
+  "title": "The Last Wrangler",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Western",
+  "subgenre": "End-of-an-era cattle drive",
+  "language": "en",
+  "premise": "Montana, 1912. The railroads have won, but veteran wrangler Cole Hayden takes one last herd of longhorns over the Beartooth Pass for an old rancher who refuses to sell — and finds his estranged son riding in a rival outfit.",
+  "short_description": "Cole Hayden, 58, takes one last drive over the Beartooth Pass; the crew includes a young vaquero, a Black cowboy, a drunk cook — and his estranged son Will rides for the rival Wainwrights.",
+  "long_description": "Cole Hayden, 58, takes one last drive over the Beartooth Pass; the crew includes a young vaquero, a Black cowboy, a drunk cook — and his estranged son Will rides for the rival Wainwrights. Blizzard, stampede, rustlers, and a railhead showdown force father and son to choose sides.",
+  "main_characters": [
+    "Cole Hayden — weathered, kind, principled",
+    "Samuel Brandt — stubborn, generous rancher",
+    "Will Hayden — Cole's son, proud, angry",
+    "Joaquin — young vaquero, fierce",
+    "Ezra — stoic cowboy, marksman",
+    "Wainwright — greedy rancher"
+  ],
+  "keywords": [
+    "western",
+    "cattle drive",
+    "Montana",
+    "1912",
+    "end of an era",
+    "novel"
+  ],
+  "TXT_path": "books/The_Last_Wrangler/txt/The_Last_Wrangler.txt",
+  "EPUB_path": "books/The_Last_Wrangler/epub/The_Last_Wrangler.epub",
+  "cover_path": "books/The_Last_Wrangler/covers/The_Last_Wrangler.png",
+  "outline_path": "books/The_Last_Wrangler/planning/The_Last_Wrangler_outline.md",
+  "cover_script_path": "books/The_Last_Wrangler/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 26231,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 26231
+  }
+}

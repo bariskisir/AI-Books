@@ -1,0 +1,38 @@
+{
+  "title": "The Ocean Memorial",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Thriller",
+  "subgenre": "Deep-sea technothriller",
+  "language": "en",
+  "premise": "Marine salvage engineer Noor Haddad is hired to raise a luxury yacht from the floor of the Mid-Atlantic ridge — forbidden by three governments. The yacht sank with a data core that never surfaced, and Noor's own brother is on the crew list of the dead.",
+  "short_description": "2089.",
+  "long_description": "2089. Noor takes the forbidden salvage of the Lucida to find her brother Karim's body and the data core that exposes a conspiracy. Sabotage, a booby-trapped wreck, and two rival factions contest the core; Noor broadcasts the evidence and gives Karim a sea burial — the Ocean Memorial.",
+  "main_characters": [
+    "Noor Haddad — salvage engineer, brilliant, grieving",
+    "Karim — her brother, dead, present in memory",
+    "Ole — Norwegian dive master, loyal, funny",
+    "Director Voss — Meridian head, cold",
+    "Sato — rival firm's agent",
+    "Dr. Adebayo — ship's scientist, ally"
+  ],
+  "keywords": [
+    "thriller",
+    "deep sea",
+    "salvage",
+    "Mid-Atlantic",
+    "technothriller",
+    "novel"
+  ],
+  "TXT_path": "books/The_Ocean_Memorial/txt/The_Ocean_Memorial.txt",
+  "EPUB_path": "books/The_Ocean_Memorial/epub/The_Ocean_Memorial.epub",
+  "cover_path": "books/The_Ocean_Memorial/covers/The_Ocean_Memorial.png",
+  "outline_path": "books/The_Ocean_Memorial/planning/The_Ocean_Memorial_outline.md",
+  "cover_script_path": "books/The_Ocean_Memorial/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 23169,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23169
+  }
+}

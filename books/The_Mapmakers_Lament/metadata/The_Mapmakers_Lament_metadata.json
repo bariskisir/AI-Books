@@ -1,0 +1,38 @@
+{
+  "title": "The Mapmakers Lament",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Literary Fiction",
+  "subgenre": "Memory & cartography",
+  "language": "en",
+  "premise": "Cartographer Jonah Reyes has spent forty years mapping the fictional island of his childhood — a place that never existed, drawn from the lies of a father he barely knew. When a real expedition claims to have found the island, Jonah must decide whether to publish the truth or let the lie become his legacy.",
+  "short_description": "Jonah's life's work is Isla Perdida, a beloved fictional island from his father's shipwreck story.",
+  "long_description": "Jonah's life's work is Isla Perdida, a beloved fictional island from his father's shipwreck story. A real expedition claims to have found it — a bare rock. Jonah sails there, publishes a two-faced map (the bare rock and the beloved fiction), and reconciles with his father's ghost.",
+  "main_characters": [
+    "Jonah Reyes — cartographer, precise, melancholic",
+    "Father Reyes — dead, present in marginalia",
+    "Dr. Ana Soler — expedition scientist, skeptical, warm",
+    "the Trust Director — ambitious",
+    "Marta — Jonah's daughter, a linguist",
+    "Isla Perdida — the island as a character"
+  ],
+  "keywords": [
+    "literary fiction",
+    "cartography",
+    "memory",
+    "father and son",
+    "Lisbon",
+    "novel"
+  ],
+  "TXT_path": "books/The_Mapmakers_Lament/txt/The_Mapmakers_Lament.txt",
+  "EPUB_path": "books/The_Mapmakers_Lament/epub/The_Mapmakers_Lament.epub",
+  "cover_path": "books/The_Mapmakers_Lament/covers/The_Mapmakers_Lament.png",
+  "outline_path": "books/The_Mapmakers_Lament/planning/The_Mapmakers_Lament_outline.md",
+  "cover_script_path": "books/The_Mapmakers_Lament/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24949,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24949
+  }
+}

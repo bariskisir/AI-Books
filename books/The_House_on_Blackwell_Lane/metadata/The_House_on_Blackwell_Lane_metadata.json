@@ -1,0 +1,38 @@
+{
+  "title": "The House on Blackwell Lane",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Horror",
+  "subgenre": "Haunted house / psychological",
+  "language": "en",
+  "premise": "Grief counselor Iris Marsh inherits her estranged aunt's Victorian on Blackwell Lane and moves in to heal. But the house remembers her — every floorboard knows her name — and its previous resident collected the grief of strangers behind a hundred locked doors.",
+  "short_description": "Iris inherits the listening house of her aunt Edith, a grief collector.",
+  "long_description": "Iris inherits the listening house of her aunt Edith, a grief collector. As she opens the locked rooms of strangers' stories, her own buried guilt surfaces — she was driving the car when her sister died. The final locked room is her own; she must enter the memory of the crash and choose to let it go.",
+  "main_characters": [
+    "Iris Marsh — grief counselor, compassionate, avoidant",
+    "Edith — dead aunt, present in the house's voice",
+    "the House — a character: creaks, wallpapers, door-knobs",
+    "Danny — the neighbor boy who sees",
+    "Mrs. Pemberton — town archivist",
+    "the Listeners — recorded voices of grief-stories"
+  ],
+  "keywords": [
+    "horror",
+    "haunted house",
+    "psychological",
+    "grief",
+    "New England",
+    "novel"
+  ],
+  "TXT_path": "books/The_House_on_Blackwell_Lane/txt/The_House_on_Blackwell_Lane.txt",
+  "EPUB_path": "books/The_House_on_Blackwell_Lane/epub/The_House_on_Blackwell_Lane.epub",
+  "cover_path": "books/The_House_on_Blackwell_Lane/covers/The_House_on_Blackwell_Lane.png",
+  "outline_path": "books/The_House_on_Blackwell_Lane/planning/The_House_on_Blackwell_Lane_outline.md",
+  "cover_script_path": "books/The_House_on_Blackwell_Lane/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 23298,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23298
+  }
+}

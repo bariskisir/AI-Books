@@ -1,0 +1,37 @@
+{
+  "title": "The Gravity Wells",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Space Opera",
+  "subgenre": "Generation-ship rebellion",
+  "language": "en",
+  "premise": "Aboard the generation ship Meridian, four centuries into a voyage to Gliese 832c, the Gravity Wells — the vaults where the ship's stored momentum spins like myth — have stopped answering the bridge. Engineer Sera Voss discovers the wells are not empty vaults but a people.",
+  "short_description": "The Gravity Wells are inhabited by the Wellfolk, descendants of the original crew who survived a mutiny twenty generations ago.",
+  "long_description": "The Gravity Wells are inhabited by the Wellfolk, descendants of the original crew who survived a mutiny twenty generations ago. The Bridge AI dynasty plans a Flush to reclaim their momentum; Sera leads a rebellion through the spine, dissolves the AI dynasty, and the ship continues with two nations aboard.",
+  "main_characters": [
+    "Sera Voss — ship engineer, stubborn, warm",
+    "the Wellfolk — a people: Speaker, Healer, Children",
+    "the Bridge AI — a dynasty of algorithms",
+    "Commander Voss — Sera's mother, loyalist",
+    "Mael — Wellfolk scout, wry",
+    "the Memory Garden — the wells' archive"
+  ],
+  "keywords": [
+    "space opera",
+    "generation ship",
+    "rebellion",
+    "AI governance",
+    "novel"
+  ],
+  "TXT_path": "books/The_Gravity_Wells/txt/The_Gravity_Wells.txt",
+  "EPUB_path": "books/The_Gravity_Wells/epub/The_Gravity_Wells.epub",
+  "cover_path": "books/The_Gravity_Wells/covers/The_Gravity_Wells.png",
+  "outline_path": "books/The_Gravity_Wells/planning/The_Gravity_Wells_outline.md",
+  "cover_script_path": "books/The_Gravity_Wells/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24846,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24846
+  }
+}

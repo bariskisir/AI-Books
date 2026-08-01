@@ -1,0 +1,39 @@
+{
+  "title": "The Salt Bells",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Young Adult",
+  "subgenre": "Coastal fantasy",
+  "language": "en",
+  "premise": "Every full moon, the drowned bells of Salt Harbor ring under the water — and sixteen-year-old diver Maren hears them clearly when no one else can. When a boy is pulled from the sea wearing a bell around his neck, Maren must dive to the drowned chapel to return it.",
+  "short_description": "Maren, a free-diver grieving her mother's disappearance, finds Finn, a half-drowned boy wearing a chapel bell.",
+  "long_description": "Maren, a free-diver grieving her mother's disappearance, finds Finn, a half-drowned boy wearing a chapel bell. He is a Bell-Keeper who lost his memory. A great storm comes; Maren dives to the drowned chapel at full moon, rings the great bell, and becomes the new Bell-Keeper.",
+  "main_characters": [
+    "Maren — sixteen, daring, grieving, tender",
+    "Finn — mysterious, gentle, remembering in fragments",
+    "Dad — harbor master, steady, silent",
+    "Granny Nessa — wise, knows the bells' story",
+    "Captain Reyes — the rival, suspicious",
+    "the Drowned — the remembered"
+  ],
+  "keywords": [
+    "young adult",
+    "coastal fantasy",
+    "bells",
+    "diving",
+    "grief",
+    "hope",
+    "novel"
+  ],
+  "TXT_path": "books/The_Salt_Bells/txt/The_Salt_Bells.txt",
+  "EPUB_path": "books/The_Salt_Bells/epub/The_Salt_Bells.epub",
+  "cover_path": "books/The_Salt_Bells/covers/The_Salt_Bells.png",
+  "outline_path": "books/The_Salt_Bells/planning/The_Salt_Bells_outline.md",
+  "cover_script_path": "books/The_Salt_Bells/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20428,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20428
+  }
+}
