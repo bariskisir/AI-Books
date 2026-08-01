@@ -1,0 +1,40 @@
+{
+  "title": "The Signal Garden",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Science Fiction",
+  "subgenre": "Near-future eco-thriller",
+  "language": "en",
+  "premise": "Biophysicist Mira Voss builds an illegal research station deep in the Norwegian spruce forest to study a fungus that seems to remember — and answer — the dying calls of trees. When a salvage drone returns with soil holding a signal that matches the station's own encryption, Mira and her estranged brother have 72 hours to decode a forest that is talking to itself.",
+  "short_description": "A mycologist exiled for her unorthodox theories discovers the forest is answering her research station's own encryption — and has 72 hours to decode it before the burn order lands.",
+  "long_description": "2043. Dr. Mira Voss was expelled from academia for her papers on mycelial memory; now she listens to a spruce forest from a one-room station in northern Norway, built in an old logging barracks. When her estranged brother Leo — ex-military comms engineer, now a salvage drone pilot — chases a crashed drone to the same coordinates, the soil there carries a signal encoded with Mira's own key. Twenty years ago she planted that grove as her dissertation. Now the forest is answering. As the Agency's burn-and-seed order closes in, Mira and Leo must hold the fire line long enough to decode a message written across forty kilometers of root network — a question the forest has been waiting a generation to ask.",
+  "main_characters": [
+    "Dr. Mira Voss — biophysicist, exiled for her mycelial memory papers",
+    "Leo Voss — her estranged brother, ex-military comms engineer, salvage drone pilot",
+    "Dr. Hanne Ruud — grizzled regional ecologist, ally",
+    "Agent Falk — Agency enforcer with a soft spot for trees",
+    "Runa — Mira's daughter, at university, appears by voice-call",
+    "The Groves — the fungus, a character: sets, signals, memory"
+  ],
+  "keywords": [
+    "science fiction",
+    "near-future",
+    "eco-thriller",
+    "mycelium",
+    "Norway",
+    "climate",
+    "signal processing",
+    "novel"
+  ],
+  "TXT_path": "books/The_Signal_Garden/txt/The_Signal_Garden.txt",
+  "EPUB_path": "books/The_Signal_Garden/epub/The_Signal_Garden.epub",
+  "cover_path": "books/The_Signal_Garden/covers/The_Signal_Garden.png",
+  "outline_path": "books/The_Signal_Garden/planning/The_Signal_Garden_outline.md",
+  "cover_script_path": "books/The_Signal_Garden/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 22578,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 22578
+  }
+}

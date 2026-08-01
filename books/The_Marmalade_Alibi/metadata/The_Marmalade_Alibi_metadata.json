@@ -1,0 +1,41 @@
+{
+  "title": "The Marmalade Alibi",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Cozy Mystery",
+  "subgenre": "Small-town whodunit",
+  "language": "en",
+  "premise": "When the town's beloved marmalade magnate dies at the annual preserve-tasting, sixty-year-old amateur sleuth Nora Vale is certain the killer is the jar of key-lime marmalade that should not exist. Armed with a sugar thermometer, a scandalous recipe diary, and her knitting, Nora must prove that the secret ingredient was murder.",
+  "short_description": "When the marmalade magnate dies at the preserve tasting, retired teacher Nora Vale must prove the killer was a jar of key-lime marmalade that should not exist.",
+  "long_description": "Brambleton, Vermont, 2009 — the 47th Annual Marmalade Festival. Homer Pettigrew, founder of Pettigrew Preserves, tastes the prize entry and drops dead, and Nora Vale, sixty-two, retired home-economics teacher and president of the Preservation Society, knows exactly what killed him: key-lime marmalade, which was not in the competition, and which Homer was violently allergic to. Armed with her sugar thermometer, a scandalous recipe diary unearthed from 1968, and knitting for cover, Nora unravels swapped labels, a botched batch, and an impossible alibi — and at the awards ceremony, with the killer cornered by a parking-lot chase, proves that the secret ingredient was murder.",
+  "main_characters": [
+    "Nora Vale — sixty-two, sharp, kind, underestimated",
+    "Homer Pettigrew — the victim, beloved, complicated",
+    "Clara Pettigrew — the widow, cool, secretly relieved",
+    "Teddy Pettigrew — the nephew, feckless, golden",
+    "Marge Goodbody — rival jam-maker, loud, honest",
+    "Edgar Pine — food historian, precise, hiding something",
+    "Cyrus Pettigrew — the brother, bitter, wants the orchard",
+    "Officer Danvers — young cop, learns"
+  ],
+  "keywords": [
+    "cozy mystery",
+    "whodunit",
+    "marmalade",
+    "small town",
+    "Vermont",
+    "food writing",
+    "novel"
+  ],
+  "TXT_path": "books/The_Marmalade_Alibi/txt/The_Marmalade_Alibi.txt",
+  "EPUB_path": "books/The_Marmalade_Alibi/epub/The_Marmalade_Alibi.epub",
+  "cover_path": "books/The_Marmalade_Alibi/covers/The_Marmalade_Alibi.png",
+  "outline_path": "books/The_Marmalade_Alibi/planning/The_Marmalade_Alibi_outline.md",
+  "cover_script_path": "books/The_Marmalade_Alibi/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 20587,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 20587
+  }
+}

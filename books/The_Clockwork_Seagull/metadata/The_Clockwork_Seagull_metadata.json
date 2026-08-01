@@ -1,0 +1,40 @@
+{
+  "title": "The Clockwork Seagull",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Middle Grade",
+  "subgenre": "Steampunk adventure",
+  "language": "en",
+  "premise": "When the clockwork seagull built by twelve-year-old Linus inherits its inventor's final message, Linus and his brass bird must cross the steam-filled city of Meridian to deliver a stolen gear — a gear that, if it reaches the Clocktower, will stop the city's eternal fog and reveal what the Council has been hiding in the mist.",
+  "short_description": "Twelve-year-old Linus and his clockwork seagull must deliver a stolen gear to the Clocktower — a gear that will lift the fog and reveal what the Council hides in the mist.",
+  "long_description": "In Meridian, a brass-and-cobble city where the fog is engineered and the steam never stops, twelve-year-old Linus Okafor finishes the clockwork seagull his grandfather left half-built — and the gull's head holds a recording: \"Take the gear to the Clocktower. It stops the fog. Trust no uniform.\" With Wren, a messenger girl who knows every rooftop, Kettle, a retired boiler-car driver, and a rescued under-city girl named Minnow, Linus crosses the steam districts, the water-lock quarter, and the market of gears — chased by the Fog-Master's clockwork hawks — to place the gear in the great clock's heart and lift the fog from a secret the Council has sealed beneath the steam: a drowned under-city, full of people.",
+  "main_characters": [
+    "Linus Okafor — twelve, inventive, shy, brave",
+    "The Seagull — brassy, moody, loyal; speaks in chimes and scratches",
+    "Wren — messenger girl, fast, funny, secretly kind",
+    "Kettle — retired boiler-car driver, gruff, warm, steam-bearded",
+    "Grandfather Amos — dead but present via notes and the gull",
+    "Fog-Master Hale — cold, methodical, afraid of the light",
+    "Minnow — a small rescued under-city girl"
+  ],
+  "keywords": [
+    "middle grade",
+    "steampunk",
+    "adventure",
+    "clockwork",
+    "fog city",
+    "friendship",
+    "novel"
+  ],
+  "TXT_path": "books/The_Clockwork_Seagull/txt/The_Clockwork_Seagull.txt",
+  "EPUB_path": "books/The_Clockwork_Seagull/epub/The_Clockwork_Seagull.epub",
+  "cover_path": "books/The_Clockwork_Seagull/covers/The_Clockwork_Seagull.png",
+  "outline_path": "books/The_Clockwork_Seagull/planning/The_Clockwork_Seagull_outline.md",
+  "cover_script_path": "books/The_Clockwork_Seagull/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 19465,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 19465
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "The Quarry Season",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Literary Fiction",
+  "subgenre": "Small-town coming-of-age",
+  "language": "en",
+  "premise": "In a Pennsylvania quarry town where the stone works is shutting down, seventeen-year-old Nadine spends the last summer of high school learning that the families who blast the hills have spent three generations blasting each other — and that she must decide which injuries get handed down and which get buried in the pit.",
+  "short_description": "The summer the quarry dies, seventeen-year-old Nadine Reilly must decide which family injuries get handed down and which get buried in the pit.",
+  "long_description": "Bissell, Pennsylvania, 2003. The Sayre Quarry — the millwrights' Reillys against the blasting Delgados for three generations — is shutting down, and seventeen-year-old Nadine Reilly is spending the last summer of high school watching her father Emmett lose the bid to run its demolition. When she finds her late grandfather's survey book, it holds a secret mapped in chalk and ink: the buried springs beneath the pit, a water source that could save the town and drown the Delgados' pride at once. As the season runs from July heat to October flood, Nadine must climb the face of the last blast of her town's history, and learn what the old millwrights knew — that repair is threaded, never replaced.",
+  "main_characters": [
+    "Nadine Reilly — seventeen, observant, guilty, fierce",
+    "Emmett Reilly — her father, millwright, hands that know steel",
+    "Dolores Reilly — her mother, laundress of other people's sorrows",
+    "Rafe Delgado — the blaster's son, quiet and tender",
+    "Old Papa Delgado — patriarch, blaster of record",
+    "Sister Kayleen — pragmatic older sister",
+    "Mr. Tinney — town lawyer who engineers the reservoir scheme"
+  ],
+  "keywords": [
+    "literary fiction",
+    "coming of age",
+    "small town",
+    "quarry town",
+    "family saga",
+    "Pennsylvania",
+    "2003",
+    "novel"
+  ],
+  "TXT_path": "books/The_Quarry_Season/txt/The_Quarry_Season.txt",
+  "EPUB_path": "books/The_Quarry_Season/epub/The_Quarry_Season.epub",
+  "cover_path": "books/The_Quarry_Season/covers/The_Quarry_Season.png",
+  "outline_path": "books/The_Quarry_Season/planning/The_Quarry_Season_outline.md",
+  "cover_script_path": "books/The_Quarry_Season/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 13397,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 13397
+  }
+}

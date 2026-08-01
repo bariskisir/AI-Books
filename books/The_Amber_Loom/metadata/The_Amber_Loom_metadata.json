@@ -1,0 +1,40 @@
+{
+  "title": "The Amber Loom",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Fantasy",
+  "subgenre": "Folk horror",
+  "language": "en",
+  "premise": "In a village where the weaving of cloth is believed to weave the seasons themselves, apprentice weaver Ilsa finds a loom threaded with amber — the locked color of a village winter that should have ended three years ago. To un-weave it she must follow the thread to the woman who wove it, her own grandmother, buried in the hill.",
+  "short_description": "Apprentice weaver Ilsa inherits a loom threaded with the locked amber of a winter that should have ended — and must follow the thread into the hill to un-weave it.",
+  "long_description": "In Brekkelund, the seasons are threads, and each year the weavers of the Hall weave Spring over Winter. Three years ago Ilsa's grandmother Anke wove the season that refused — an amber thread that locked the village into cold, famine, and the grey people, villagers half-unwoven into thread themselves. Now the loom sits threaded with amber, warm and alive, and apprentice weaver Ilsa discovers her grandmother wove herself into the pattern to hold the winter — because something older than the seasons wants the village's cold: the Hill-God, owed a debt in wool. To un-weave the winter without unmaking the village, Ilsa must enter the weave itself, confront the Hill-God in the underhill loom-chamber, and re-weave the amber as something the debt has never seen: dusk.",
+  "main_characters": [
+    "Ilsa Wren — apprentice weaver, nineteen, inventive and afraid",
+    "Greta — the village weaver, keeper of secrets, missing a hand lost to the loom",
+    "Anke — Ilsa's grandmother, present in the weave",
+    "Tobin — shepherd boy, Ilsa's friend, woven grey",
+    "The Hill-God — the debt in wool, speaks in loom creaks",
+    "The Elders — guardians of the Hall",
+    "The Grey People — half-unwoven villagers"
+  ],
+  "keywords": [
+    "fantasy",
+    "folk horror",
+    "weaving",
+    "seasons",
+    "village",
+    "liminal",
+    "novel"
+  ],
+  "TXT_path": "books/The_Amber_Loom/txt/The_Amber_Loom.txt",
+  "EPUB_path": "books/The_Amber_Loom/epub/The_Amber_Loom.epub",
+  "cover_path": "books/The_Amber_Loom/covers/The_Amber_Loom.png",
+  "outline_path": "books/The_Amber_Loom/planning/The_Amber_Loom_outline.md",
+  "cover_script_path": "books/The_Amber_Loom/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 23701,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23701
+  }
+}
