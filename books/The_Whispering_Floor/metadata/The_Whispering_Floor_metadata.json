@@ -1,0 +1,28 @@
+{
+  "title": "The Whispering Floor",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Horror",
+  "subgenre": "Haunted house",
+  "language": "en",
+  "premise": "The floorboards of the Renwick house whisper — they have for a hundred years, and the Renwicks have learned to listen. When young widow Eve Renwick inherits the house, she discovers the whispering is not the house's ghosts but its memory, and the memory is asking her to finish what the house began.",
+  "short_description": "The floorboards of the Renwick house whisper — they have for a hundred years, and the Renwicks have learned to listen. When young widow Eve Renwick inherits the house, she discovers the whispering is not the house's ghosts but its memory, and the memory is asking her to finish what the house began.",
+  "long_description": "The floorboards of the Renwick house whisper — they have for a hundred years, and the Renwicks have learned to listen. When young widow Eve Renwick inherits the house, she discovers the whispering is not the house's ghosts but its memory, and the memory is asking her to finish what the house began.",
+  "main_characters": [],
+  "keywords": [
+    "horror",
+    "haunted house",
+    "novel"
+  ],
+  "TXT_path": "books/The_Whispering_Floor/txt/The_Whispering_Floor.txt",
+  "EPUB_path": "books/The_Whispering_Floor/epub/The_Whispering_Floor.epub",
+  "cover_path": "books/The_Whispering_Floor/covers/The_Whispering_Floor.png",
+  "outline_path": "books/The_Whispering_Floor/planning/The_Whispering_Floor_outline.md",
+  "cover_script_path": "books/The_Whispering_Floor/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24929,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24929
+  }
+}

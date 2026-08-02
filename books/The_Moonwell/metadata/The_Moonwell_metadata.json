@@ -1,0 +1,28 @@
+{
+  "title": "The Moonwell",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Fantasy",
+  "subgenre": "High fantasy",
+  "language": "en",
+  "premise": "Every village on the peninsula of Carrow keeps a moonwell — a stone basin that fills with moonlight and gives the village its luck. When the moonwell of Thornwater runs dry, apprentice well-keeper Wren must walk to the moon itself to find out why, carrying the village\\'s last silvered cup.",
+  "short_description": "Every village on the peninsula of Carrow keeps a moonwell — a stone basin that fills with moonlight and gives the village its luck. When the moonwell of Thornwater runs dry, apprentice well-keeper Wren must walk to the moon itself to find out why, carrying the village\\'s last silvered cup.",
+  "long_description": "Every village on the peninsula of Carrow keeps a moonwell — a stone basin that fills with moonlight and gives the village its luck. When the moonwell of Thornwater runs dry, apprentice well-keeper Wren must walk to the moon itself to find out why, carrying the village\\'s last silvered cup.",
+  "main_characters": [],
+  "keywords": [
+    "fantasy",
+    "high fantasy",
+    "novel"
+  ],
+  "TXT_path": "books/The_Moonwell/txt/The_Moonwell.txt",
+  "EPUB_path": "books/The_Moonwell/epub/The_Moonwell.epub",
+  "cover_path": "books/The_Moonwell/covers/The_Moonwell.png",
+  "outline_path": "books/The_Moonwell/planning/The_Moonwell_outline.md",
+  "cover_script_path": "books/The_Moonwell/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 25606,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25606
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "The Terraformers Prayer",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Science Fiction",
+  "subgenre": "Colonial SF",
+  "language": "en",
+  "premise": "The terraforming of Mars has taken four centuries, and the first generation born fully Martian has no memory of Earth. When the water-cycle project fails and the ice begins to retreat, engineer Imani Osei must decide whether to save the colony with Earth\\'s old technology — or listen to the planet\\'s new voice, which the terraformers have been praying to for a hundred years.",
+  "short_description": "The terraforming of Mars has taken four centuries, and the first generation born fully Martian has no memory of Earth. When the water-cycle project fails and the ice begins to retreat, engineer Imani Osei must decide whether to save the colony with Earth\\'s old technology — or listen to the planet\\'s new voice, which the terraformers have been praying to for a hundred years.",
+  "long_description": "The terraforming of Mars has taken four centuries, and the first generation born fully Martian has no memory of Earth. When the water-cycle project fails and the ice begins to retreat, engineer Imani Osei must decide whether to save the colony with Earth\\'s old technology — or listen to the planet\\'s new voice, which the terraformers have been praying to for a hundred years.",
+  "main_characters": [],
+  "keywords": [
+    "science fiction",
+    "colonial sf",
+    "novel"
+  ],
+  "TXT_path": "books/The_Terraformers_Prayer/txt/The_Terraformers_Prayer.txt",
+  "EPUB_path": "books/The_Terraformers_Prayer/epub/The_Terraformers_Prayer.epub",
+  "cover_path": "books/The_Terraformers_Prayer/covers/The_Terraformers_Prayer.png",
+  "outline_path": "books/The_Terraformers_Prayer/planning/The_Terraformers_Prayer_outline.md",
+  "cover_script_path": "books/The_Terraformers_Prayer/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 23657,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23657
+  }
+}

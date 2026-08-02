@@ -1,0 +1,1012 @@
+The Starving Stars
+A Novel
+---
+Chapter 1: The Dimming Catalog
+
+At 3:17 in the morning, the dome at San Pellegrino was an eye turned on a single star, and Dr. Lena Voss was the only one awake to hold its gaze. She had pulled the night shift as she always pulled it — she could not sleep, and the telescope asked nothing of her but attention, and attention was the one thing she had never learned to ration. Before her on the console the sky unrolled as a ledger: column after column of stars, each with its magnitude, its period, its fraction. One thousand and forty-three entries. Twenty years of nights. The community called them anomalies; she called them hers.
+
+The method was simple, and its simplicity was the entire offense. For twenty years she had taken the same stars, in the same filters, at the same airmass, and measured them against their neighbors, and the pattern did not move. Whatever dimmed a star in her catalog dimmed it by the same regular fraction, on the same regular schedule — a thousand and forty-three independent losses of light, all keeping identical time. Not fade and fade again, but something like a pulse. Like breathing, if the sky could breathe.
+
+The notebooks were on the shelf behind her, bound in black, each spine labelled with a year. Jacob had bought her the first one, the year they married; she had filled it by Christmas, and he had laughed and bought her five more. He was five years gone now, his radio astronomy a quiet place in the house that still smelled faintly of flowers no one brought anymore. The catalog had been her refuge before his illness took its slow, patient way with him; afterward it became the only thing that never left her. One thousand and forty-three stars, and not one of them had died on her.
+
+That was why she noticed tonight. Not the pattern — the rupture of it.
+
+Entry 1,044, the newest, the dimmest, the one she had logged the previous autumn and gone on checking because its rate was so extreme it made her uneasy: SP-0001, at 1,200 AU, a red dwarf her colleagues had nicknamed the Lantern for the way its faint light hung in the instruments like a coal at the bottom of a well. And tonight the Lantern dimmed again — but off-schedule. A full half-percent early, a pulse out of rhythm, the ledger's first irregularity in twenty years.
+
+Her hand stopped above the keyboard. The dome creaked around her like a held breath. Outside, over the Atacama, the sky was a ledger of appetite she had spent her whole life learning to read, and for the first time, a line in it had failed to keep its place.
+
+She checked the time stamp. Then she checked it again.
+
+Chapter 2: The Statistical Artifact
+
+The colloquium was held in the Institute's great hall, under a ceiling painted with the old constellations, and Lena stood before a hundred of her colleagues and showed them the sky they had refused to see.
+
+She had prepared a talk with a title she now regretted for its presumption — "Regular Dimming in Main-Sequence Stars: A Catalog" — and she delivered it flatly: catalog numbers and periods, the fraction held constant across a thousand objects, the schedules that kept like clockwork. She let the charts do the arguing. When she finished, the silence was the particular silence of a room that has already decided.
+
+Dr. Prasad rose from the front row. He was the Institute director, a man whose kindness she had once believed in, and he thanked her for an exhaustive and rigorous presentation in the tone of a man closing a file. The dimming, he said, admitted of mundane explanations — detector drift, CCD aging, dust settling into the line of sight, correlated error between stations that shared instruments. He did not call her work a lie. He called it something worse: a statistical artifact, an artifact of measurement, a pattern that emerged from the equipment rather than the sky. The room murmured its agreement. The ceiling's painted stars looked down on her without interest.
+
+She was not surprised. She had heard the argument for years, and she kept a reply for it that she saved for the hours no one else would see.
+
+That night, at 3 a.m., alone in her office with the observatory's raw frames, she ran the verification again — the same stars, the same filters, the same airmass, but this time against the archive, this time against the independent observatories, this time against the sort of noise the committee had blamed. The pattern did not break. It held, entry for entry, to the third decimal. A thousand and forty-three stars losing the same fraction of light on the same schedule was not an artifact of anything a CCD could do. A detector ages; it does not keep time.
+
+Dr. Osei found her at the terminal, his tea going cold, his jacket over his arm. He was the only one of them who had believed her, and he stood behind her for a long moment looking at the screen where the pattern repeated itself like a signature.
+
+"You've checked it again," he said.
+
+"Someone has to." She did not look up. "The artifact doesn't keep time, Osei."
+
+"No," he said. And then, quietly, with the wonder of a man who has decided to be damned along with her: "It doesn't. Which is why my survey flight to the Lantern was approved this morning. Six months out, six months back. I'm going to look at your off-schedule star, Lena, and I'm going to find out what's eating the light."
+
+She turned to face him. "You said it's being eaten."
+
+"Someone is taking the light," Osei said. "I've thought so for a year. I just didn't have the funding to say it out loud."
+
+Chapter 3: Dr. Osei's Vessel
+
+The Kumasi lifted from the Martian orbit the way survey ships always lifted — without ceremony, a spark of fusion light crossing a month of scheduled silence before her first message could crawl home. Lena watched the departure on the long baseline feed from San Pellegrino, and for weeks afterward she lived on the crumbs of his logs, relayed and re-relayed across the widening dark, each one months older than the paper it arrived on.
+
+She kept them in a folder the Observatory's system would not let her name — she named it OSEI in block capitals anyway — and she read each transmission the way she read her own data: slowly, twice, looking for the place where it stopped making sense.
+
+The early entries were full of wonder. "The Lantern is everything you said it would be," he wrote, three months out. "A red coal at the bottom of a well. I've never seen a star so small hold so still." Later: "Its dimming is uncommonly uniform. You'd call it regular; I'd call it regular to the point of insolence. No flare, no dust, no eclipsing companion — just a steady, obedient fade, exactly on your schedule. It dims like it's being drawn off, Lena, like a tap." She read that line four times before she let herself believe he had written it.
+
+The log that changed everything arrived eleven weeks after it was sent. She opened it in her office with the dome turning overhead, and the prose was shorter than his habit, the sentences broken off like snapped thread.
+
+"The star isn't dimming. I've been looking at it for a month, and the instruments are fine, and the star is not dimming. Something between me and it is eating the light. Not absorbing it — taking it. I've watched the photons leave the star's surface and fail to arrive. There's a shadow that isn't a shadow between us, and it drinks."
+
+She read it standing. The dome creaked. The sky over the Atacama had gone the color of old brass.
+
+The final entry came a week later, and it was two lines, and the second line was broken by static and by something else — a hesitation that had no business in a survey report, a pause like a man deciding whether to spend his last words on a warning or a goodbye.
+
+"There's a shape, Lena." Static. "There's a shape around the star. It's bigger than I thought. It's —" And then the relay folded in on itself, and there was nothing after that but the carrier tone, clean and endless, the sound of a channel with no one on the other end.
+
+The folder held no more. She read the two lines until she could say them by heart, and then she closed the file, and the silence that came off the screen was the first true silence she had known since she was twenty and had not yet learned what the sky could hold.
+
+Chapter 4: The Silence
+
+Days passed. Then weeks. The relay kept its carrier tone, and the Institute kept its composure, and Lena learned the particular cruelty of a bureaucracy that could make even a lost ship sound like a paperwork problem.
+
+"Telemetry failure," read the first internal memo, circulated the morning after Osei's last transmission. "Power budget," read the second, three days later. The word "Kumasi" appeared in fewer and fewer sentences; the word "anomaly" appeared in more. Dr. Prasad assured the board that the survey vessel's silence was consistent with a degraded antenna and a long repair cycle, and that a recovery mission would be considered in due course. Lena sat in the back of the meeting and said nothing, because she had learned that the artifact — her artifact — had taught them all to hear her as static.
+
+But at night, alone, she went back to the raw data. There had been a final packet, she remembered, an imaging pass that had cleared the buffer an hour before the ship went dark, and the Institute had filed it without anyone reading it. She pulled it down with a scientist's discipline and a widow's dread.
+
+The frame was partial, noise-torn, the sort of image you would normally discard. It showed the Lantern's face — and the Lantern was not round. Against the star's red surface, thin against its light, there was a geometry: a line, a facet, an edge that had no business belonging to a star, something with corners where a star should have a curve. It was silhouetted, black against the coal, drinking the light that should have arrived.
+
+And between the star and the Kumasi — she enlarged the frame, hands steady on the controls, heart not steady at all — there was a second object. Smaller. Dark. Motionless in the space the ship had occupied.
+
+She saved the frame under her own name, in a directory no one else knew existed. She printed it, and the print sat on her desk beside Jacob's photograph, and in the morning she looked at it in the flat desert light and tried to make it into dust, a glitch, a smudge on the optics. She could not. The edge did not waver. The corners did not blur. It held its geometry the way the pattern in her catalog held its schedule, with a patience that was beginning to feel like intent.
+
+That night she stood on the observatory catwalk in the thin, cold air, and the sky over the Atacama was a ledger of a thousand and forty-four entries, and she knew, without a single measurement to support her, that there was something in it now that had not been there before.
+
+Chapter 5: The Recovery Mission
+
+The Institute authorized the recovery mission on a Thursday, in the manner of a body doing what it had to do and resenting it. The deep-system survey ship Aurora had been standing down for two years, her fusion torch mothballed, her crew scattered; she was refitted and re-crewed in ninety days, and her profile was printed in the briefing Lena was not invited to attend but read anyway, through channels that did not technically exist.
+
+Outbound: 1,200 astronomical units. Object of interest: SP-0001, the Lantern. Primary mission: locate and recover the survey vessel Kumasi and her crew, or their records. Secondary mission: characterize the anomalous object imaged by the Kumasi's final pass. Duration: fourteen months, including station time. The words "anomalous object" were used exactly once. The word "shape" appeared nowhere.
+
+Captain Reyes came to the Institute three weeks before launch, and Lena watched him from the back of the observation gallery the way she watched everything now — from a distance, with her hands folded, measuring. He was a freight-and-tug veteran in his fifties, a man built of flat planes and uninflected sentences, and he took the briefing with the patience of a man who had spent his life ferrying dangerous things across the dark and had developed a professional dislike of surprises. When the committee showed him the Kumasi's last frame, with its geometry, with its corners, he looked at it for a long moment and then he said, "That's not debris."
+
+There was a small silence. Dr. Prasad recovered first. The committee had a word for it, Prasad explained: the silhouette was consistent with a fragment of the vessel itself, or with a secondary body in the Lantern's system, an artifact of the sensor damage that had silenced the Kumasi in the first place. The word "artifact" came up again. It came up a lot.
+
+Reyes said, "Whatever it is, it's between us and the wreck, and I'd rather know what it is before I get there than after." The committee agreed that this was sensible, and the meeting adjourned, and Lena sat very still in the gallery until the room was empty and the painted constellations looked down on her alone.
+
+The crew list was published the next morning. Reyes. An engineer named Ishii, whose file she read with reluctant approval. A navigation officer named Petrov. A doctor. Two mission specialists. Lena read the list three times, and her name was not on it, and she understood in that moment that the Institute had decided the shape was debris, and that the only way the shape would ever be anything else was if she were on that ship when it arrived.
+
+Chapter 6: Lena Joins
+
+She went to Reyes first, because she had learned that Prasad would never be moved and Reyes might be, and because the captain had looked at the shape and told the truth about it without being asked.
+
+He met her in his office at the Institute — a small room with a window that looked out over the launch plain, where the Aurora stood in the haze like a needle laid flat. He listened to her case with his eyes on the ship and his hands folded, and when she finished he said, "The committee wants a recovery, not a debate."
+
+"Then the committee has decided what it will find."
+
+"Has it?"
+
+She put the catalog on his desk. Not the data — the notebooks, the black-bound first one, the year she married Jacob. "SP-0001 dims by the same fraction on the same schedule as a thousand and forty-two other stars," she said. "I've logged that star for a year. I know its rhythm better than anyone alive, and whatever is out there — whatever ate Osei's light — it keeps a schedule. If we're going to meet it, we should go when it's not feeding."
+
+Reyes opened the notebook. He turned pages slowly, a man who respected evidence without liking it. "You think the silhouette is something alive."
+
+"I think it keeps time," she said. "That's the one thing the committee couldn't explain, and it's the only thing that matters."
+
+He closed the notebook and looked at her for a long moment. Then he said, "I'll take you on one condition. You keep the schedule to yourself until I ask for it. I don't need a crew scared of a shape before we're out of the belt."
+
+She agreed. She would have agreed to anything.
+
+The exobiologist was added against his wishes. Dr. Adebayo came to the refit hangar with a packed bag and a face like a man being sent to a fire, and when Lena introduced herself he said, "I've read your catalog, Dr. Voss. Do you know what it is?" She waited. "It's a death register," he said. "A thousand and forty-three appointments with something that doesn't care. And you're going out to add to it."
+
+They lifted on a clear morning. The launch threw the Aurora up through the Atacama's thin blue, and Lena watched from the observation port as the terminator slid across the Earth like a lid closing — the long shadow of night advancing over oceans, over deserts, over the small bright dome of San Pellegrino falling away behind them, an eye closing on the one watcher who had ever stayed awake.
+
+Chapter 7: The Aurora
+
+The Aurora was not built for comfort, and she did not pretend to be. A fusion torch ran out her stern like a rod of held sun; a rotating habitat ring turned her axis slow enough that the crew could keep their bones and their temper; and furled around her equator, folded in carbon-laced vanes the color of old moon, rode the photon sail — a square kilometer of mirror-film, thinner than a thought, that was the ship's only brake and her only way home. Every plan for the mission ended at the sail, and Lena learned that fact on the first day and never forgot it.
+
+Reyes ran the ship like a tug: schedules, drills, meal at the same hour, a joke delivered in the same flat tone. Ishii, the engineer, knew every valve and every whisper in the hull, and spent her off-hours with her hands on the sail's rigging like a woman checking a sleeping animal. Petrov, the navigator, was young and quick and afraid in a way he worked to hide, and he checked the stranding distances every morning before breakfast. The doctor read. The mission specialists argued about a film in the common ring, and argued about it again the next night, and the pattern of it became a kind of music.
+
+Lena found her place in the library — a small compartment lined with the ship's reference stacks, which were thorough and unremarkable until she pulled a worn binder from the shelf and found her own catalog inside it, the full run of her data, bound and cross-indexed, thumbed through by hands she did not know. Osei's handwriting was in the margin. "Check this one," he had written beside SP-0001, in pencil, and the star had a second line under it in the same pencil, drawn twice, like a man underlining a warning and then underlining it again.
+
+"You brought your work," Adebayo said from the door.
+
+"It was already aboard," she said. "Someone thought it mattered."
+
+The silence between the stars was not like any silence on Earth. It was not the absence of sound but the absence of everything — the hum of the ring, the whisper of coolant, and beyond the hull a black that pressed at the viewports like a weight. The first week, the crew talked over it. The second week, they talked around it. Adebayo stopped coming to meals, and when Lena found him in the library with the catalog open to the Lantern's entry, he said, without looking up, "Do you know what your catalog is, Dr. Voss? It's a ledger of meals. Someone's dinner, and we're sailing down their throat."
+
+Reyes found them there. He stood in the doorway, hands in his pockets, and he said it with the same flat certainty he said everything: "We're going out to find a dead man. We are not going out to die."
+
+And the ship carried that with her, out past the belt, out past the last of the planets, into the long fall toward a star that was not dimming but being eaten.
+
+Chapter 8: The Flight
+
+The weeks unspooled across the dark, and the solar system fell behind them the way a landscape falls behind a train — the planets small and bright and then small, and then gone, and then only the sun, a star like any other, growing no smaller because even at this distance it was still the brightest thing in the sky.
+
+Ahead, the Lantern. At first it was nothing — a red ember at the limit of the instruments, a coal so far off it might have been a flaw in the optics. Lena watched it grow with the same patience she had given it for a year, and the ship settled around her: Reyes at the helm in his steady way, Ishii humming at the sail's rigging, Petrov doing the arithmetic of their approach every morning, and Adebayo growing quieter with every light-hour, reading the catalog she had not asked him to carry and had not asked him to put down.
+
+There was friction. She and Reyes disagreed about speed — she wanted to approach on the star's schedule, he wanted to approach on the ship's, and the argument was conducted entirely in polite sentences and resolved in his favor, which she accepted because he was right about the fuel and she knew it. Adebayo's fear she understood, and she left him alone with it, because she had learned that a fear given words too early becomes a fear shared, and the crew had enough weight in the dark without hers added to it.
+
+The first long-range imaging came at four hundred light-hours, and it was Ishii who processed it, and Ishii who went quiet.
+
+The Lantern was not round.
+
+Lena stood behind her at the console, and the two of them watched the reconstructed image assemble itself out of the noise — the red coal at the heart of it, and around the coal, crossing its face, thin as a pencil line against the burning: an edge. A facet. A geometry with corners, holding its shape against the star's light the way the object in Osei's last frame had held it, and the way nothing born of a star should hold.
+
+Reyes came and looked. Petrov came and looked. Adebayo stood in the doorway and did not come in. No one said the word "shape." No one had to.
+
+"What are we looking at?" Reyes asked.
+
+Lena enlarged the frame, her hands steady on the controls, her heart not steady at all. The edge did not waver. The corners did not blur. "It's not a star," she said. "It's something between us and the star. The star's light is being held."
+
+No one asked what she meant. The crew stopped joking that night, and the silence outside the hull seemed to press closer, and the Lantern came on ahead of them, red and holding, red and holding, like a coal in the grip of a hand they could not yet see.
+
+Chapter 9: The Black Star
+
+They arrived at 1,200 astronomical units with the torch throttled to a whisper, and the viewport filled with a sight that her instruments had measured and her mind refused.
+
+The Lantern was nearly black.
+
+Not cold — not a cinder, not a stone. There was still light in it, a thin red thread running through the center of its mass like a nerve, like the last coal in the bottom of a well that had been almost entirely drawn off. The star that had once burned with the quiet steady fire of a red dwarf was a shell now, a dark body with a wound of light at its core, and she understood in the same breath that the dimming had not been a fading at all. A star that dims by a fraction keeps its shape. This star had been drained — its light taken, its substance drawn out of it — and what remained was the almost-empty bowl of what it had been.
+
+And around the bowl, wrapped in the dark, wider than the orbit of Jupiter: the filaments.
+
+They were barely visible, thinner than the resolving power of the instruments had any right to catch — threads kilometers across, but across astronomical distances they were hairlines of darkness against the black, traced in silhouette only where they crossed the star's faint red thread, catching it, drawing it off. There was a web. There had always been a web. Lena's hands moved to her console before her mind had caught up, and she watched the feed of the structure assemble itself on the screen, line by line, and the scale of it did not arrive as a number but as a pressure, the way the dark of the outer system pressed at the hull.
+
+A thread crossing the star's face was millions of kilometers long. A strand curving away into the black was millions more. The structure had no center she could find; it was all edge, all web, all the impossible thinness of something that had built itself at a scale her species had never had a word for.
+
+Adebayo stopped speaking. He had come to the bridge with the catalog open, and he stood at the viewport with his mouth slightly open, and Lena watched him try and fail to put a word to what he was seeing, and then give up on words entirely. It was the silence of a man who has looked at something and understood, all at once, that he is beneath its notice.
+
+She went to her notebook — the black-bound one, the current one — and she wrote in her own exacting hand, as she had written a thousand entries: the date, the position, the magnitude, the period. But the name she gave it was not a catalog name. She wrote:
+
+Feeder-1.
+
+Then she sat back, and the ship hung in the web's shadow, and outside, patient as a ledger, the star continued to be eaten.
+
+Chapter 10: The Structure
+
+They spent three days imaging the web before they went anywhere near it, because Reyes believed in looking before touching, and because Ishii wanted a map, and because no one aboard — not even Lena — was ready to move.
+
+Close imaging resolved what distance had only suggested. The filaments were not simple threads. They were lattices — a geometry of nodes and strands, mineral and organic at once, the way bone and crystal and the woven fiber of a living thing could all be true of the same structure at the same time. Impossible thinness at every scale: shears of material a molecule thick and a continent long, nodes like cathedral spires woven of nothing, an architecture that had no business holding itself up and did anyway, embedded in the star's red light, drinking it, drawing it off along the web's edges toward the black.
+
+Not a machine. She had thought it might be a machine — the committee's word "artifact" had prepared her for a mechanism, something built, something inert. It was not inert. Time-lapse pulled the structure apart and let her watch it move: slow folds of the web's farthest strands, a node rotating on its axis like a joint turning, a pulse passing along the length of a filament the way a pulse passes along a vein. It breathed. There was no better word for it. The entire structure, the whole star-wrapping architecture, expanded and contracted by a fraction of a percent on a period that she recognized without having to check the notebooks.
+
+It was matching the catalog. Entry for entry, schedule for schedule, the Lantern's feeding rhythm was the structure's breathing. The star was not dimming. The star was dinner.
+
+"The velocity of the outer strands," Petrov said, and his voice had gone flat, the voice of a man reading numbers to keep from reading the picture. "They're moving with the star's rotation. It's not approaching us. We're inside it."
+
+Nobody corrected him. The ship hung in the web's outer shadow, and on the third day Ishii brought up the long-lens view she had been avoiding, and there it was: the Kumasi, in the web.
+
+She was intact. She hung among the strands the way a fly hangs in a web that has finished with it — dark, still, her running lights off, her antenna folded, her hull untouched, pristine, as if she had simply stopped. Osei's ship. Osei's silence, given a shape.
+
+Adebayo was the first to speak, and his voice was barely a voice. "Is anyone alive over there?"
+
+No one answered. The time-lapse moved on, the web breathing, the star's red thread pulsing, and the Kumasi held her place in the lattice, whole and silent, the way the dead are whole, the way the dead are silent.
+
+Reyes stood at the viewport with his arms crossed, looking at the wreck of the ship he had come to save, and Lena watched him work out the sentence he would say next. When it came, it was the only one that could have.
+
+"We go in slow," he said. "And we take her."
+
+Chapter 11: The Feeder
+
+Ishii built the time-lapse over two days, stitching a thousand frames into a single slow breath, and when they first played it in the common room no one spoke. The web moved. It had not been moving, all those hours of watching; the filaments lay like the grain of a leaf against the red thread of the star, and they had begun to believe the structure was a sculpture, dead, finished, a monument to something that had ceased. But compressed into minutes, it breathed. The folds advanced and retreated in a rhythm as regular as a metronome, and Lena sat forward with her hand over her mouth because she had seen that rhythm before. She had seen it on paper, in ink, in 1,043 rows of her own handwriting.
+
+The feeder's meals matched the catalog entry for entry. Star by star, fraction by fraction, schedule by schedule: a feeding here, a long gap, a feeding there, and every star she had ever written down was a star this thing, or something like it, had eaten. It had been eating this star for millennia. The red thread at the center was all that was left of SP-0001, the Lantern, the dimmest light in her book, and the thread was being drawn out of it the way a straw draws the last of a glass.
+
+It was not hostile. That was the first thing Lena understood, and the understanding sat in her like a swallowed stone. The web was not afraid of them, not angry, not even curious. It had not so much as twitched toward the Aurora. The ship was a mote in the dark beside it; they were beneath its notice. It did not know they existed, and that was the horror, not malice, not appetite turned toward them, but the total, absolute indifference of something so vast it could not register them at all.
+
+The Kumasi hung in the strands a few thousand kilometers off, a dark needle, intact. Pristine. Silent. The web had taken her the way it took light, without effort, without intention, the way water takes a leaf. Osei's ship would hang there forever, Lena thought, a memorial the universe had not bothered to make.
+
+Reyes broke the silence. "We go in slow," he said. "We recover her. We do not touch a single strand. Ishii, plot the approach so we don't get tangled in whatever keeps her."
+
+"There's nothing keeping her," Adebayo said quietly. His voice was thin. "It doesn't know she's there."
+
+Reyes looked at him. "Then we take her and go."
+
+Lena did not say what she was thinking, that nothing here would let them go, because nothing here had noticed them to let them go. She wrote in her notebook, under Feeder-1, in her exact, small hand: Beneath notice. Beneath notice is where we live now. And she watched the web breathe, and she thought of Jacob, and of all the nights they had spent believing the dimming was dust, was drift, was anything but this, a mouth, patient and open, drinking the sky.
+
+Chapter 12: The Filaments
+
+Reyes did not wait for the approach to be approved. The Kumasi was two weeks' slow drift away, and he put the time to use. "I want to know where the filaments go," he said. "All of them. Especially the ones that don't point at the star."
+
+It took Ishii and Lena three days to trace a single thread. The web's nearest filament, the one they had drifted alongside on the way in, ran from the structure's outer fold outward into the dark, and the imagers followed it, further than the eye, further than the instrument horizon, further than Lena's estimate of the whole star system. It did not end. It thinned, and then it stopped thinning and ran on, a hair of matter across an emptiness that had no right to hold a hair of matter, carrying light with it.
+
+"It's a drain," Ishii said. "It's not holding anything. It's carrying the light away. Like a pipe."
+
+Lena had been staring at the plot for an hour. She had the catalog open on the display beside it, her own handwriting scanned and searchable, and she was doing what she had done every night of her adult life: she was matching rows. Entry 141. Entry 302. Entry 871. The pattern was there in the filament's slow geometry, in the distances between its anchor points, in the fractions of light it transported, the same fractions, the same schedules. The same meal.
+
+She understood it all at once, the way a falling object understands gravity: there was not a feeder here. There was a network. Every dimming star in her catalog had one, a web around it, a filament draining it, a schedule that never varied. Every one of the 1,043. The feeders were not separate things. They were one thing, spread across the light-years, a single organism so large that a star was to it what a cell was to a body, something to be fed on, to be drained, to be kept.
+
+The chart filled in as she worked. The catalog plotted itself: 1,043 points of appetite, strung on threads she could now imagine, a constellation of hunger. Her life's work had been a census of mouths.
+
+She pushed the display toward the crew. No one spoke. Adebayo looked at it and went very still; Petrov stood with his arms crossed, and his jaw worked; Ishii's hand had stopped over the console, trembling, the way it did when she was about to tell someone something they did not want to hear.
+
+Lena said, "It's one animal." Her voice came out level, exact, as if she were reading a measurement. "And we are in its stomach."
+
+The filament glowed on the screen, patient, endless, carrying the star's stolen light away to whatever it fed next.
+
+Chapter 13: The Capture
+
+The web was faster than it looked. That was the thing no one had understood. Time-lapse had made it seem slow, a breathing, a slow fold, the patience of geology, but time-lapse had lied about the speed by telling the truth about the size. The filament was wide as a continent and thin as a thread, and what looked like a drift was a closing.
+
+It crossed the Aurora's course at a few hundred meters per second. It came out of the dark on their port bow, and the proximity alarm did not finish its first tone before the strand was against the hull, not a strike, a touch, a settling. Lena felt the ship change pitch under her feet, a long slow tilt like a boat taking on water, and the engines, which Reyes had already spooled up, answered with a groan that had no result in it.
+
+"Ishii," Reyes said, very even. "Full stop. All mains. Nothing."
+
+"They're at full, sir." Ishii's hands moved across her board, once, twice, three times, each pass a refusal. "We're not moving. It's, we're not moving."
+
+The web folded. The strand they had touched lifted, a second came up under it, a third, and the Aurora rose into the pocket they made the way a stone rises into a settling hand. The ship's lights dimmed as the filaments closed, heat leaving through the hull, light leaving through the windows, the whole bright body of the ship draining into the dark that held it, the way the star beyond them drained into the same dark. They were being fed on. Lena knew it before anyone said it, because she had read the pattern; the web did not take what was offered, it took what was there, and the ship was there.
+
+Petrov was at the nav board, and his voice went up half an octave. "Cut it. Cut it and burn."
+
+"Nothing burns," Reyes said. His voice did not rise; it dropped, and the drop held the room. "We are inside something bigger than this ship, and we are not going to make it bigger by thrashing. Lena. Tell me what you see."
+
+She had been watching the star. Through the strands, through the walls of the web that had wrapped them, the red thread of SP-0001 was visible, dying in its cage, and she was reading it the way she had read it ten thousand nights from her desk, the way she had read it when she was wrong and when she was right. The light was not steady. It rose, and it fell, and it rose again on a schedule she had written down when she was a young woman and had checked, alone, at three in the morning, all her life.
+
+"There's a gap," she said. "It feeds in pulses. There's a window, hours, maybe a day, when it stops taking." She looked up from the star to the crew. "When the web opens to feed, it will open a little everywhere. That's when we slip through."
+
+Reyes looked at her for a long moment. "You're certain."
+
+"I was certain enough to write it down for twenty years."
+
+He nodded once. "Then we wait for the gap. And we are going to be ready for it when it comes."
+
+Chapter 14: The Drawn-In
+
+The web did not drag them; it let them fall. With the mains silent and the hull wrapped in filaments, the Aurora began to move toward the structure's heart the way a ship on a river moves, not by its own will, but because everything around it was going the same way. The interior of the feeder opened around them: not a void but a place, a vast slow cathedral of light, where the stolen energy of the star ran in streams so thick they could be seen from the bridge windows, amber and red, winding toward the depths where the red thread burned.
+
+Lena stood at the viewport and did not move for a long time. The roots were there, she could see them now, the descending filaments, each a hundred kilometers of matter plunging into the star's surface, into the dying red heart, drinking. It was not an image of destruction. It was an image of processing: light in, light moved, light stored, light carried away. The feeder did not destroy the star. It farmed it. It had been farming it so long the star was an ember in its keeping, and the whole architecture of the web was a set of mouths and veins around a meal.
+
+The ship's clocks had begun to drift. Lena noticed it first; she noticed patterns, it was what she was for. The atomic clock in the lab read four minutes behind the log. The heat was leaving. She could feel it in the metal, in the cold seeping up through the deck plates, the ship's warmth walking out of her into the filaments that held her, and she understood, with a strange calm, that this was what the web did. It did not attack. It did not hurry. It simply took, gently, ceaselessly, whatever was there to take.
+
+Adebayo found her at the viewport, wrapped in his survival suit, his face pale in the red light. "It's taking us," he said. "I can feel it. My hands are cold. I've been warm for an hour and my hands are cold."
+
+"It's taking the ship," Lena said. "The heat, the light, the radio. It took the Kumasi the same way. That's why it's silent. It didn't destroy her. It just, it fed, and she stopped being warm enough to sing."
+
+He was quiet a long moment, watching the roots descend. "That's worse," he said finally. "That's so much worse. A thing that eats us, you can fight that. A thing that just doesn't notice us, while it eats everything around us, there's nothing to fight. There's no enemy. There's just the meal, and us in it."
+
+Lena thought of her notebook, of the word she had written there. "Beneath notice," she said.
+
+"Yes," he said. "Consumed without being noticed. That's us. That's the whole ship. We're not being killed, Lena. We're being overlooked."
+
+She did not answer. She was watching the red thread at the heart of the structure, and in her head, with the clocks drifting and her hands growing cold, she was counting. The gap was coming. The web would open. She had written it down twenty years ago, and it had never once been wrong, and she held onto that the way a drowning woman holds a line.
+
+Chapter 15: The Crew's Fear
+
+It was Petrov who broke. They had been in the web for nine hours, the ship cold, the lights running at a fraction, the filaments pressing against every viewport with the slow pulse of a heart the size of a world, and Petrov stood and said, "I'm cutting it."
+
+"No," Reyes said.
+
+"We burn through one strand and we're loose. One strand. I've done the math." Petrov's hands were shaking at his sides. "The torch cuts through a meter of hull plate in a minute. One strand and we."
+
+"And we light up like a beacon," Ishii said. She was at the engine console, and her hands were shaking too, but her voice was steady. "We burn, the web takes the heat, and it takes us. You know this. You did the math and then you forgot the web was the one eating us."
+
+Petrov stared at her. The room was very quiet. Adebayo, wrapped in his suit, had not spoken in an hour; he sat against the bulkhead with his eyes on the red light beyond the glass, his terror on him like a second skin, but under it there was something else, a terrible curiosity, the look of a man who has found the thing he spent his life wondering whether it existed.
+
+Lena closed her notebook. She had been working in it for an hour, in the dark, by the last of the ship's light, and now she stood and laid it open on the table.
+
+"Here," she said, and her voice was quiet, exact, the voice she used for measurements. "Entry 001. SP-0001. The Lantern. I made this entry in 2067, the night Jacob and I first saw it dim. And I have re-verified it, here, here, and here, every three years since. The fraction, the schedule, the pulse. It has never once been wrong."
+
+Petrov did not look at the book. "What does it have to do with us?"
+
+"It has been eating for six hours," Lena said. "Its meals run eleven to thirteen hours. It is due to close its feeding in, she consulted the column, a habit, even now, five hours, give or take. When it stops, the web relaxes. Every filament slackens, everywhere, because the whole organism pauses together. That is our window. That is the only window. We do not cut our way out of a mouth that is currently closing. We wait for it to open, and we walk through."
+
+Silence. Ishii's hands had stopped shaking. Reyes came around the table and looked at the page, then at Lena.
+
+"You're asking us to trust a notebook."
+
+"I'm asking you to trust twenty years. It's all I've ever had."
+
+He looked at her a long moment. Then he straightened. "Five hours," he said. "We use them. Ishii, plot the exact exit, where the web is thinnest at slack. Petrov, the mains ready to light the instant we're through. We go cold, we go dark, we go quiet, and when the mouth opens we are already running. Understand?"
+
+Petrov nodded. The fear was still on him, but the plan had put a floor under it. Adebayo looked up from the red light at last. "I'll take a camera," he said, barely a whisper. "I want to see it, when it opens."
+
+Chapter 16: The Roots
+
+The gap came on schedule. Lena felt it first as a change in the ship, a slackening, a letting-go, the pressure of the filaments against the hull easing like a held breath released, and then the web opened, and for the first time in hours there was sky.
+
+They had timed it perfectly. The mains lit in the same heartbeat; the Aurora slid out of the pocket of filaments on a course Ishii had plotted in the dark; and as they cleared the web's edge, the view opened, and no one on the bridge spoke.
+
+The star was visible whole. SP-0001, the Lantern, a red thread at the center of a tangle of roots, and the roots were the thing. They descended into its surface everywhere, hundreds of them, each wide as a continent, plunging through the star's outer layers into its heart, and they did not look like machines and they did not look like plants; they looked like a hand, a vast patient hand, laid over a dying fire.
+
+Lena raised her eyes and followed the filaments outward. And then she stopped.
+
+One root did not end at the star. It did not join the network's deeper threads and run away into the dark toward the other dimming stars. It ran toward them, toward the Aurora's wake, toward the solar system, a single filament so long that its far end was lost in the direction of Sol, its near end here, at the Lantern, and she understood in the same falling instant that it was not a root at all. It was the same thing, the same structure, the same single organism, and it had been passing through their home.
+
+"The Oort cloud," she heard herself say. Her voice was very small. "It goes through the Oort cloud. Through the comets. Through." She could not finish. She was thinking of the sky over San Pellegrino, of Jacob's dishes listening for something beyond the planets, of all the years she had spent mapping dimming stars and never once thought to ask what lay between them.
+
+"Centuries," she said. "It's been passing through our system for centuries. Not feeding there. There's nothing to feed on out there, nothing bright enough, it's just passing. It's a root, and our whole solar system is the dirt it's passing through."
+
+Adebayo, at the window, had gone very white. "And it noticed us," he said.
+
+Lena shook her head. "It didn't notice us. It can't. We're beneath its notice. We always were." She opened her notebook, and her hand was shaking, and she wrote anyway, in her exact small hand: The catalog was never a map of dimming. It was a menu. And this, she underlined the single long line on the chart, this is the stem of the thing we have been eating beside.
+
+"Set course," Reyes said quietly. "We burn away from here. We put the whole web behind us. And we tell them at home." He paused. "We tell them there's a road through our sky, and it's wider than we are."
+
+Chapter 17: The Light-Years
+
+Behind them, the web closed. The gap ended exactly when Lena's schedule said it would, and the filaments resumed their patient taking, and the red thread of SP-0001 went on being drained in its cage, and the Aurora burned outward on a course that put light-years of ordinary dark between the crew and the thing they had touched. They did not watch it go. No one on the bridge could bear to watch it go.
+
+It took them four days to burn the tension out of the ship. Reyes ran the crew through drills, hull checks, heat checks, the long slow work of taking back what the web had taken, and in the evenings Lena sat in the lab with her notebook and the long-range imager, and she did the thing she always did with data: she assembled it into a shape she could hold.
+
+The shape was the network. It assembled itself on the chart as she worked, a map of 1,043 stars strung on threads, and for the first time she could see it whole, not the feeders, which were the bodies, but the threads between them, the veins of a single vast thing. It spanned light-years. That was not a metaphor; it was a measurement. The organism's smallest dimension was the distance from the Lantern to the next dimming star, and there were hundreds of those distances, and the thing that had made them was older than the stars it fed on.
+
+And at the edge of the chart, where the threads ended in the direction of home, a new point had appeared.
+
+She found it on the sixth day, on a routine re-imaging of the inner system, and the moment she saw it she went still. It was small, nothing, against the scale of what they had seen, a speck where the Oort cloud thinned toward the comets, but it was not a comet. It was a shard of the web. It had detached from the root that passed through their system, or had been cast from it, and it was moving inward, and it had begun to catch sunlight, and it was accelerating.
+
+She knew, because she had spent her life reading light, exactly what it was. A seed. A fragment of the network, folded, given to a new sun, the way the feeder had once been given to the Lantern, the way the Lantern had once been a bright star with people watching it not know what they watched.
+
+She wrote the warning herself. It was a cold document, exact, full of measurements: position, vector, acceleration, intercept time. Months of lag lay between them and home, and she counted them as she wrote, and she knew the message would arrive to a world that still called her work an artifact, to a committee that had named her dimming stars a statistical error.
+
+"Ishii," she said. "Send it. Encrypted, priority, to the Observatory and to Earth command."
+
+"What do I call it?"
+
+Lena looked at the speck on the chart, and at the map of threads around it, and at the menu she had spent her life writing.
+
+"Tell them it's coming," she said. "And tell them the catalog was never a curiosity. It was an invasion map. It has always been an invasion map."
+
+Chapter 18: The Fragment
+
+The first clean image arrived on the ninth day out, from a relay the Observatory had left ringing in the outer system, and it confirmed everything Lena had written and everything she had feared. The seed was a shard of web-stuff kilometers across, irregular, dark, folded, and as they watched, over the course of a week of frames, it unfolded.
+
+Not the way a machine unfolds. The way a wing unfolds. It spread a sail of its own, film thin and wide as a small moon, web-film catching the sunlight of the inner system, and it began to move with the light the way a ship moves with wind. It was not falling toward the sun on gravity. It was sailing. It had opened its mouth to the light, and the light was carrying it inward, and it was already accelerating beyond anything that fell.
+
+"Its speed is climbing," Ishii said. "If it holds, it reaches the inner system in, she ran the numbers twice, eleven months. Mars orbit in fourteen. Earth."
+
+"We know where Earth is," Reyes said quietly.
+
+Eleven months. Lena sat with the number and did not move. She had come out here to find a dead man, and she had found a mouth, and now the mouth had sent a child ahead of it, and the child was sailing on the same light that had carried her own ship across the dark. Mirrors, she thought. Not opposites. Mirrors.
+
+"The sail," she said. She was not sure she had meant to say it aloud, but it was out now, and everyone was looking at her. "Our sail. A square kilometer of mirror-film. It's our brake, without it we can't stop at home. It's our only way to slow down, and if we use it now we never stop." She stopped. The room was very quiet. "And it's the only thing in this ship that can reach the seed in time."
+
+Petrov said, "Reach it to do what?"
+
+Lena looked at the unfolding thing on the chart, at its sail of stolen light, at the shape of a mouth folded shut at its center.
+
+"Meet it," she said. "Out there, while it's small. While it's still a child. Before it learns to feed." Her hands were shaking, and she hated that, and she did not hide it. "I didn't come out here to find Osei. I came out here because I was the one who noticed. And I have noticed, we have noticed, that it is heading where we live. I will not sit in this ship and watch it arrive."
+
+Reyes studied her for a long moment. He had the look of a man doing arithmetic he did not want to do, and when he spoke his voice was even, dry, freight-and-tug, and it held them all.
+
+"We're going out to find a dead man," he said. "We are not going out to die. But we are not going home to watch." He nodded once. "Start the math, Lena. Tell me what it costs to give the ship away."
+
+Chapter 19: The Warning
+
+The answer from Earth took months to arrive, and when it came it was short. Return. Do not engage. Await the fleet. There is no fleet. Lena read it three times, at the end of the long lag, in the quiet of the lab, and then she read it a fourth time because the first three she could not believe it said what it said. Await the fleet. She checked the message's timestamp, and its transmission path, and the authorization code, and it was real. The world had looked at the numbers she sent, the seed, the vector, the eleven months, and had decided to wait for a fleet that did not exist.
+
+"They think it's a comet," Adebayo said when she told them. "They read 'shard of web-stuff' and they hear 'rock.' They're waiting for the rock to pass and for everything to be fine."
+
+"They're not waiting for anything," Reyes said. He had read the message standing, and he had not sat down since. "They're afraid. Afraid moves slowly. Afraid waits for someone else to have the idea first." He looked at the crew. "There is no ship on Earth that can reach that thing in eleven months. There is no fleet. There is us, and there is the sail, and there is a thing with a mouth, sailing on light toward a world that still calls our work an artifact."
+
+The decision was not a vote. Reyes laid it out, and the crew looked at it, and one by one they agreed, and the mission stopped being an assignment and became a choice, the oldest kind, the kind a person makes once, in the dark, with the numbers on the table. Lena felt the change like a floor giving way and a floor appearing beneath it. They were no longer obeying. They were deciding. It was terrible, and it was the first time since the web had touched the hull that the fear in her had a shape it could hold.
+
+They sent the reply together, Reyes and Lena standing at the transmitter, and it was even shorter than the order they were refusing: Seed inbound. We are already there. We will meet it where it is small. And they turned the ship, and they began to burn for home.
+
+At San Pellegrino, in the same months, the Observatory turned its dome, and every dome, and every telescope the world possessed, on the dark body crossing the Kuiper belt, growing a sail. The sky changed for everyone. It had always been changing; no one had been looking. Now they looked, and what they saw was a thing that was not a rock, moving with purpose, sailing on light.
+
+The world had an intruder in it. And the only ship in reach was the one that had been told to come home.
+
+Chapter 20: The Solar Intruder
+
+The telescopes of Earth confirmed it first, a dozen observatories, then a hundred, all sweeping the same patch of the Kuiper belt because Lena's numbers had told them where to look. The dark body was exactly where she had said it would be, on exactly the vector she had given, and it was not a rock. It had a sail. It grew one, frame by frame, web-film unfurling across the stars, and the world that had called the dimming a statistical artifact learned the word "seed" in a single news cycle.
+
+The press named it the Cinder. It was a good name, dark and small, and it fit what the telescopes showed, a folded ember of a thing, kilometers across, its sail spread to the light, moving inward with a steadiness that read as purpose. The observatories watched it the way a village watches a fire on a far hill. Governments held meetings; nothing was decided; the fleet that did not exist was still being awaited, because to do nothing was what doing nothing looked like, and the sky still held the intruder.
+
+And the catalog became famous. Lena learned it from the ship's feed, months late, in a burst of messages that had been piling up in the void: her name, her notebooks, her 1,043 rows of dimming stars, her three a.m. verifications, her small exact handwriting, scanned, reproduced, argued over by people who had never heard of her a year ago. The artifact had become a discovery. The discovery had become a warning. She read the coverage in the lab, alone, and felt the strange vertigo of a person whose life's work has been believed at last, at the worst possible moment.
+
+Among the messages was one from Dr. Prasad.
+
+It was short, and it had taken months to cross the dark, and she read it standing up. He had written to apologize, not for the committee, not for the word artifact, but for the years, for the dismissal, for being certain when certainty was a way of not looking. "You were right," the message said, in the cramped formal hand of a man who had practiced the sentence. "I am sorry I did not look. I am looking now." There was a postscript, the last line of the message, and it was the one she could not stop reading: "Tell me what we watch for, and we will watch it with you."
+
+Lena sat in the quiet of the ship, the message glowing on the display, and she thought of all the nights she had spent believing alone, and of the years when being right had meant being alone. The sky had an intruder in it. And for the first time since Jacob died, she was not alone in watching.
+
+She wrote back. It was months to Earth, and the seed was still sailing inward, and she wrote anyway, because watching was the only thing they had, and it was the one thing that had never failed her.
+
+Chapter 21: The Return Flight
+
+The Aurora turned inward, and the moment she did, home stopped being a direction and became a debt. Reyes gave the order without ceremony — a course change, a throttle note — but every burn after it was fuel that had once been measured against fourteen months of return. Lena watched the numbers fall on her console and understood what the arithmetic meant: they were spending their way home, and the expenditure had no end but the fragment.
+
+The chase took them back across the light they had already crossed. The Lantern fell behind them, a red ember again, and before them the solar system reasserted itself — thin, distant, but real: the Oort cloud's slow debris, then the Kuiper belt, then the long empty hall of the inner dark. Rations tightened. The habitat ring spun a fraction slower to save power. Ishii walked the corridors with a hand against the hull, feeling for warmth, for anything the web had left them; the ship was colder now, and she said so.
+
+Adebayo changed during the return. The fear did not leave him, but it stopped being the only thing. He spent hours at the imager, watching the fragment's light grow from a rumor to a point to a small dark thing with a sail of its own, and Lena watched him make notes in a language that was almost his own. "It's not feeding," he said once. "It's travelling. It's going somewhere it chose."
+
+"Everything in the catalog is feeding," Lena said.
+
+"Not this. This one is afraid. You can see it in the course corrections. Small ones. Nervous ones."
+
+She did not argue. She had seen the same thing and had not yet named it.
+
+It was in those weeks that Lena ran the numbers that ended every other plan. She fed the fragment's mass, its acceleration, its sail area into the survey's old intercept models — the ones written for comets, for debris, for things that did not steer. The answer came back clean and terrible: no Earth-built weapon could match the seed's speed. Nothing launched from home would ever catch it. The only object in the system that could reach the fragment before it reached the inner worlds was the Aurora's own sail — and only if it was cut loose, re-tasked, and sent ahead.
+
+She took the printout to Reyes. He read it in silence, read it again, and then he did something she would remember for the rest of her life: he nodded, and began, quietly, to plan the giving away of his ship's return.
+
+Chapter 22: The Countdown
+
+The numbers were simple. It was the price that was hard.
+
+Lena stood before the crew in the ring's common bay, the fragment's figures projected above them like a verdict, and she read them aloud the way she read the catalog — steadily, without mercy for herself or anyone. Relative velocity at intercept: just under a tenth of the speed of light. Fragment mass: unknown, modeled at the low end, four million tons of web-stuff and folded sail. Sail mass: negligible by comparison — a square kilometer of mirror-film weighing less than the ship's water tanks. Kinetic energy of the contact: the sort of number that belonged in the histories of extinction.
+
+"If we strike at full closing speed," she said, "the math says the fragment does not survive the contact. The web may regrow, but the seed — the part that thinks, the part that steers — it is at the mouth, and the mouth is at the center of mass. We do not have to kill it. We have to remove the part that decides."
+
+"And the price?" Petrov asked. He had been quiet since the web. They all had.
+
+"The sail is our brake," Reyes said. "It is the only thing that stops us at Earth. Cut it loose, send it ahead, and the Aurora does not stop. She drifts — a year, maybe more, life support stretched to the last ration, waiting for a rescue that has not been built yet. We vote on that."
+
+They voted. Every hand went up, including Adebayo's. His hand shook, but it went up, and when he lowered it he looked at Lena as though he had surprised himself.
+
+"What remains," Ishii said, "is the steering. A sail with no one aboard. A ram with no guidance but ours."
+
+Her problem was the one that occupied the next three weeks. The sail could not think. It could only push and be pushed. She re-tasked the guidance packs meant for landing — cold-gas thrusters, a few kilos of reaction mass each — and strapped them to the sail's back. She wrote the control software that would fire them against the light-pressure, yawing the mirror, tilting it against the beam. She tested it on the ship's own sail model until her hands were raw with the fine work.
+
+"It will not be precise," she told them. "It will be good enough. A kilometer of mirror does not need to be a marksman. It needs to be a wall."
+
+Lena wrote the final entry in her notebook before the vote was a day old: a sail is a thing that turns light into motion. Ours will turn light into an ending. She underlined the word. She had learned, from the feeder, that light could be food. She was learning now that it could be a weapon, and that the two were the same thing seen from opposite ends of an appetite.
+
+The plan took shape. It had a name, soon, in the crew's mouths, though no one had chosen it: the sail as a missile of light.
+
+Chapter 23: The Plan
+
+The engineering was brutal and beautiful in equal measure.
+
+The sail would be cut free on a tangent, so that the Aurora's own burn could not strike it; it would fall away on light-pressure alone while the ship swung wide. Then the guidance packs would wake, and the lasers would wake, and the sail would begin its long curving fall onto the fragment's path — not chasing it, but waiting for it, folded into the geometry of the intercept the way a web is folded into a corner before the fly arrives.
+
+The ship's photon lasers — built for communications, for the deep survey's relay line — were re-tasked into a steering beam. They would hold the sail's course from a distance of light-hours, a thread of coherent light linking the Aurora to the mirror, the mirror to the seed. The same sunlight that fed the fragment would feed the sail's acceleration: the web-film drank light and grew, and so would the mirror, pushed, lifted, driven by the very currency the enemy traded in.
+
+Lena did the margins herself, late into the watches, her old hands steady over the console. Timing: the sail must arrive when the fragment was still far out, still small, still slow. Margins: if the sail missed, there was no second chance — the seed would sweep past, and the inner system would receive it with no answer. Risks: the fragment might notice the mirror; the fragment might fight. Every risk was written down, given a probability, and accepted, because the alternative was a number she would not write down.
+
+"It may see us coming," Adebayo said at the briefing. "It steers. It corrected course in the Oort cloud. It will correct again."
+
+"Then we correct faster," Reyes said.
+
+"Captain — it may not let the sail get close. It may cast shards. It may —"
+
+"Then the sail is still worth it," Reyes said. "A kilometer of mirror, coming in at a tenth of light. If it hits nothing but empty web, it tears a path through whatever it touches. It gives the fragment something to think about that is not the inner worlds."
+
+The sacrifice was named openly, in the ring bay, in front of the crew, because Reyes would not let it happen in silence. "The Aurora will not come home under her own power," he said. "That is the price, and I want every one of you to say the words with me before we cut the tethers. Say them now, so that none of us is surprised later."
+
+They said the words. Lena said them. Adebayo said them, and wept, and said them again.
+
+The ship became, in that hour, two things at once: a weapon and a witness. It would deliver the blow, and it would remember the blow being delivered — remember the fragment's unraveling, remember the light returning, remember, on the long drift home, that it had chosen.
+
+The plan had a last line, written in Lena's hand, at the bottom of the page: the seed sails on light because light is the only road. We will meet it on the road, in the light, before it learns to be anywhere else.
+
+Chapter 24: The Sail
+
+The deployment was scheduled for the quiet hours of the ship's artificial night, when the ring's lights were dimmed and the only sound was the slow breath of the life support.
+
+The sail had been carried braked and folded in its bay for the whole outward voyage — a square kilometer of mirror-film, lighter than thought, stowed like a seed. Now the bay opened, and the film unfurled into the dark. It did not deploy fast. It opened the way a flower might open, if a flower were the size of a city and made of light: slow panels, then faster, the reflective surface catching the sun and flaring, so that for a few seconds the Aurora traveled in the middle of a second, softer sun of its own making.
+
+Lena stood at the observation blister with the others, her breath held. The sail was the last beautiful thing, she thought. Everything since the web had been dark and hungry and sharp-edged; here was something that existed only to receive light and become motion. Jacob would have loved it. Jacob, who had spent his life listening to the sky, who had loved the way radio waves arrived at the dish like light arriving at a sail — carried, patient, unstoppable. She put her hand flat against the glass, as if she could feel the mirror's tension through the kilometers between them.
+
+The Aurora's shadow slid across the sail as the ship turned — a dark blot moving over the bright field, and then gone, and the sail was afloat in full sunlight, already beginning to feel the pressure, already beginning to move.
+
+The final tethers were cut one by one. Ishii did it by hand, from the bay, her voice steady over the intercom as each line went. "Tether one — free. Tether two — free." The sail sagged, then steadied, then began, almost imperceptibly, to accelerate.
+
+"It's moving," Adebayo said. His voice was strange. "It's already moving."
+
+"It will never stop now," Lena said. "Not until it is told to. Not until it arrives."
+
+The guidance packs woke with a series of small reports — cold-gas bursts, adjusting the mirror's angle by fractions of a degree. The sail curved, caught the full face of the light, and slid away from the ship on a long diagonal, growing smaller, growing brighter, until it was a star among stars, and then a star that was not among them, and then nothing but a point of light carrying the whole crew's hope away with it.
+
+Reyes watched it go without sentiment. When it had shrunk to a mote, he said, "She's on her line. Begin the laser lock."
+
+Lena did not look away until the point had merged with the general field of stars. Then she opened her notebook, and she wrote, in her careful hand: the sail belongs to the plan now. It no longer belongs to us. She closed the notebook. She had the feeling, standing at the glass, that she had just watched something she would spend the rest of her life describing, and never once describe well.
+
+Chapter 25: The Redirect
+
+The guidance packs fired in a sequence that became a music of small corrections — a hiss, a pause, a hiss — and the sail answered them the way a needle answers a magnet, tilting, yawing, its course bending by degrees onto the intercept path.
+
+Ishii watched the telemetry the way she had watched her instruments in the web: without blinking, without trusting anything that did not come from the ship's own sensors. "The light-pressure is holding," she said. "She's tracking. Error under two-tenths of a degree, and shrinking."
+
+"Good," Reyes said. "Hold the beam."
+
+The fragment was visible now on the main display — a dark seed, kilometers across, riding a sail of its own web-film, folded and unfolding in the slow rhythm of a thing that was not quite alive and not quite dead. It caught the sun the same way the Aurora's mirror did. The thought struck Lena with the force of a measurement: two sails in the dark, one of light, one of hunger, sailing on the same road.
+
+She said it aloud. "We built a mirror. It built a mirror. We are the same shape."
+
+"Don't," Adebayo said. "Don't do that to yourself. We're not the same shape. Ours doesn't eat."
+
+"Ours eats light," Lena said. "That's all a sail is. An appetite for light, turned into motion. The only difference is what we do when we arrive."
+
+Adebayo was quiet for a long moment. Then he said, in a low voice, "That's the difference that matters, then."
+
+The redirect took days. Each firing moved the sail's intercept point by a measurable span; each measurement narrowed the funnel the fragment was being steered into. The Aurora rode behind the sail, holding the laser lock, a thread of coherent light stretched over light-hours — the ship as the hand, the beam as the arm, the sail as the fist. It was, Lena thought, the closest thing to prayer she had done in years: holding a line of light steady while something enormous and blind and hungry came down it.
+
+At the end of the fourth day, the fragment's course changed.
+
+It was not large — a shift of a few thousand kilometers over hours. It might have been nothing, a fold of its web-film catching an eddy of the solar wind. But Lena had watched the feeder's rhythms for twenty years, and she knew the difference between a schedule and a reaction. This was a reaction. It had seen something. It was correcting for them.
+
+"They've noticed," she said.
+
+"Or it," Reyes said.
+
+"Or it. The fragment — it has noticed the sail."
+
+The duel had begun. She wrote it in the margin of the day's log: two minds, one vast and one human, each steering a sail of light at the other. The fragment ahead, drinking sunlight to grow; the mirror behind it, drinking sunlight to arrive. The road was narrow, and it was theirs.
+
+Chapter 26: The Collision Course
+
+The fragment's attention, once given, did not waver.
+
+For three days it ran straight, and Lena let herself believe the correction had been a coincidence. Then the filaments shifted — Lena saw it in the imager's slow frames, the seed's outline breathing, its sail of web-film folding in a new arrangement — and its course changed again, this time with purpose. It was not fleeing. It was aiming. Whatever it was, wherever it had come from, it had learned, in the eons of its feeding, how to survive a threat: it did not run from the thing coming at it. It turned to face it.
+
+"Shards," Reyes said. The display lit with them — a spray of smaller objects, cast loose from the seed's mass, tumbling outward on diverging vectors. A defense, or a litter, or a blind thrown out ahead of itself to see what it struck.
+
+"Some of them are on a course for the sail," Ishii said. "Small. Maybe a kilo, maybe a ton. Dust, mostly. But at the speed we're closing —"
+
+"They'll ablate the mirror," Lena finished. "Every grain that hits the sail is a patch of thrust that stops being there."
+
+"Then we patch it," Ishii said. "The guidance packs can rebalance. We lose a little. We can lose a little."
+
+The sail adjusted — a slow tilt, rolling its face against the incoming litter, presenting a changing surface to the grains that might strike it. The lasers corrected with it, holding the beam, and the Aurora burned hard to keep the thread from breaking. Fuel that had been measured against a year of drifting now burned against the hours before contact.
+
+Then the fragment did the thing Lena had not predicted, and she had to write it down before she believed it: it began to feed on the sunlight meant for the sail.
+
+The steering beam passed close to the seed on its long arc, a column of coherent light connecting the ship to the mirror. The fragment's web-film reached for it. Not to destroy it — to drink it. The filament-threads angled into the beam's edge and took the light, absorbed it, converted it, and the seed's sail brightened as it ate the road meant for the thing pursuing it.
+
+"It's stealing the beam," Adebayo said. His voice was thin. "It's eating our light."
+
+"It's eating everything," Lena said. "That's what it is. That's what they are. They don't attack what they can eat."
+
+"Then what do we do?"
+
+"Give it something it can't digest." She looked at the numbers, the beam's power, the sail's acceleration, the fragment's greed. "We push more through. We make the beam brighter. We let it drink, and we let the drink make us faster."
+
+It was a contest over light itself — light as food, light as weapon, light as the only currency in the dark. The fragment drank; the ship poured; the sail accelerated on what was left, and the two of them, eater and pursued, fell inward together on their collision course.
+
+Chapter 27: The Fragment's Defense
+
+The dust arrived first, and it was worse than the models.
+
+What had looked on the display like a sparse spray resolved at closer range into a cloud — filament-dust, grains of web-stuff that had once carried light across light-years, now tumbling loose in the seed's wake. The sail flew into it at a fraction of light-speed, and the mirror began to die by micrometers. Every grain that struck pitted a patch of the film, vaporized it, left a tiny blind spot where the sunlight no longer pushed. Ishii's guidance packs fired and fired, fighting the erosion, rebalancing the thrust; the sail limped, its perfect face becoming a face of scars.
+
+"Thrust is degrading," Ishii said. "Four percent. Seven. We're losing maybe a tenth of what we planned."
+
+"Then we're slower," Reyes said.
+
+"We're slower," she agreed. "Still on line. Still on the intercept. But slower, and the fragment is not slower."
+
+Lena watched the imager's long frames and saw the seed's true shape for the first time, all defenses stripped by her attention. It was not a star-killer, not the vast indifferent web of the feeder — it was a mouth. A mouth folded shut, kilometers across, its sail of web-film arranged around a central darkness like lips arranged around a throat. It was the part of the feeder that reached, the part that ate; everything about it was built for a single act.
+
+It was hungry. And — she saw it in the small, nervous corrections, in the way the filaments twitched away from the sail's approach — it was afraid.
+
+She said it to Adebayo, who had been watching the same frames. "It's afraid of us."
+
+He did not answer for a long time. When he did, his voice had the flat quality of a man stating an unwanted fact. "It behaves like a frightened animal. Look at the course changes. Too many, too small. A thing that knew it was safe wouldn't move like that. It's — it knows the sail is coming. It knows what the sail is. And it's afraid."
+
+"The horror," Lena said slowly, "is not that it's a monster."
+
+"No," Adebayo said. "The horror is that it's a self. It's doing what it must, the way any animal does what it must. It's frightened the way we're frightened. We are about to kill something that is afraid of us, and we are afraid of it, and neither of us has a choice." He was weeping, quietly, without moving. "That's the worst part. There's no evil. There's just appetite, and fear, and the dark."
+
+The ram would still reach it. The numbers said so — barely. Ishii rebalanced the guidance packs for the hundredth time; the sail's scarred face caught what sunlight it could and pushed. The fragment's mouth unfolded a hand's width, tasting the light, tasting the fear, tasting the approach of the thing that had decided, kilometers of mirror-film wide, to arrive.
+
+Lena wrote the time in her notebook. She wrote the word "afraid" and underlined it, because it was a measurement, and she would not lose it.
+
+Chapter 28: The Chase
+
+The final hours were the longest of her life.
+
+The sail limped on, patched and scarred, its thrust degraded and falling; every grain of the dust cloud it had already crossed kept working against it, tiny losses compounding into a wound. The fragment, by contrast, ran clean — its web-film whole, its mouth half-open now, drinking the light, its course bending inward as it tasted the inner system ahead of it and hurried toward it.
+
+Lena worked the numbers beside Ishii, the two of them shoulder to shoulder in the cold, the ship's heat budget cut to the bone to feed the lasers. "Closing speed," Ishii said. "We're down fourteen percent. Intercept shifts. We lose another hour for every —"
+
+"Give it more," Lena said. "Push the beam. Let the fragment drink all of it, and let the sail eat the shadow."
+
+The Aurora burned everything. The fusion torch flared beyond its rated endurance; the lasers held; the beam stretched between the ship and the mirror, thinner than a hair over light-hours, carrying power that had been meant for a year of drifting and spending it now, in hours, on a single act. The fuel gauge fell like a heartbeat into illness.
+
+The fragment crossed the Kuiper cliff, still inward. The sail closed on it. The gap between them narrowed from days to hours to a span of hours that Lena could hold in her hands.
+
+"Impact point," Reyes said. "Set it."
+
+Ishii had the fragment's center of mass modeled to the width of the seed's folded mouth. She placed the reticle there, where the lips came together, where the throat was. "There," she said. "If we hit there, we don't need to break it. We break the part that decides."
+
+"Hold it," Reyes said.
+
+The countdown was spoken aloud, by Reyes, in his steady freight-tug voice, the same voice that had said We are not going out to die. He did not raise it. He said the numbers the way he had said course corrections for twenty years: "T-minus four hours. Three. Two."
+
+The sail's scarred face caught the sun one last time and pushed. The fragment's mouth opened wider, drinking, hurrying, afraid. The two sails raced each other down the light, one of hunger, one of light, and behind them the Aurora fell, emptied of fuel, its lasers still locked, holding the line with the last of its power, because holding the line was the only thing left that mattered.
+
+"One hour," Reyes said. "Helm is yours, Lena."
+
+She had no helm. She had a notebook, and a number, and the weight of twenty years of a sky that had been quietly eaten. She said, "Forty-two minutes," and it was a prayer.
+
+Chapter 29: The Impact
+
+The sail struck at a fraction of the speed of light, and for one moment there was no sound anywhere in the solar system that could carry what had happened.
+
+The flash came first — not from the sail itself, but from the instant of contact, the vaporization of a square kilometer of mirror-film against four million tons of web-stuff. The impact converted the sail's entire kinetic mass into a single white line drawn across the dark, a sheet of light that bloomed and held and then began to tear.
+
+On the Aurora, the crew did not breathe. The display went white, then red, then settled into bands of static as the ship's sensors tried and failed to make sense of the geometry of the event. Lena gripped the console until her knuckles went white, counting the seconds the way she had counted the feeder's schedule, waiting for the light to resolve into something she could name.
+
+It resolved.
+
+The fragment came apart — not exploding, not the way a vessel breaks. It unraveled. The web-film that had folded around the mouth tore along its own seams, streaming outward in filaments that caught the sunlight and glittered, scattering across the outer system like a struck bell losing its shape. The mouth, the central darkness, the part that decided: it was gone, vaporized in the line of light, and what remained was not a thing anymore, only a field of debris where a self had been.
+
+And then, in the same minute, something else happened, something the crew felt before they saw it and saw before they understood it.
+
+Sol brightened.
+
+It was not a flare, not an event on the sun. It was a clearing — as if a curtain had been torn away from between the world and its star. The light that arrived at the Aurora was measurably, visibly brighter than the light that had left it hours before, and the crew, who had been living under a sky that was quietly, secretly eaten, felt the increase like the easing of a weight they had not known they carried.
+
+Adebayo let out his breath in a sound that was half sob, half laugh. He was weeping; he had been weeping for minutes without noticing. "It's gone," he said. "It's actually gone. We — it's gone."
+
+Lena did not weep. She marked the time in her catalog — the date, the hour, the light-level before and after, the scatter pattern of the debris — because that was what she was, that was what twenty years had made her: a woman who received the end of the world and wrote it down. She wrote: The seed is dead. The network has lost a child.
+
+Then she closed the notebook, and she looked up at the brightening sky, and she allowed herself, for one minute, to feel the enormity of what they had done: a kilometer of mirror, given away, had removed a thing from the dark that would otherwise have eaten everything they loved.
+
+Reyes, at the helm, said nothing for a long time. Then he said, quietly, "Helm, mark the intercept. Log it for the record." And the Aurora, which had given away its return, began its long drift, home.
+
+Chapter 30: The Debris
+
+The shards spread across the outer system like a question with no single answer.
+
+For weeks after the impact, the Aurora's instruments tracked them — thousands of pieces of the seed's web-film, some no larger than a hand, a few the size of small moons, all tumbling outward on the fragment's old course, slowly turning, catching the sun, glittering. The crew logged them one by one: mass, vector, rotation. Lena's catalog grew a new appendix, its entries written in the careful hand of a woman cataloguing the remains of the thing that had nearly ended her world.
+
+Some of the shards were still moving inward.
+
+Reyes found the course data first. A dozen pieces, the largest of them the size of a small town, had not scattered with the rest. They had held their momentum, bent it, and continued sunward — tumbling, scarred, but aimed. The hunt began. Ishii retasked the ship's sensors; Petrov ran the intercept models; Lena plotted the drift of every piece against the light, and watched, with a cold certainty, as the fragments' paths curved toward the inner system.
+
+"Are they — are they steering?" Adebayo asked.
+
+"No," Lena said. "They're falling. They're dead. But they're still moving, and we have no sail to stop them."
+
+"Then we watch," Reyes said. "And we warn."
+
+The warning went home at the speed of light, and home answered at the same speed, months of lag folded into a message that arrived like a hand on the shoulder: the Observatory had joined the search. Telescopes on Earth and the Moon and in orbit were turning to the field of debris, cataloguing every piece, tracking the inward ones, building the maps that would tell the world which of the seed's remains mattered and which would burn up and which would, perhaps, need to be met.
+
+The cost settled in the same weeks. Without the sail, the Aurora could not brake. She was drifting, her fusion torch cold, her fuel gone, her life support stretched across the months to rescue. The crew rationed air and heat and light as carefully as they had rationed fuel, and the ship grew colder, and they did not complain, because they had chosen it, and because the sky, when they could see it, was brighter than it had been in their lifetimes.
+
+Lena kept the first shard's decay curve on her desk — the seed's remains cooling in the dark, its warmth bleeding away hour by hour, its light falling toward the temperature of the void. It was, she thought, the closest thing to a requiem the network would ever get: a number, falling, in a notebook that had once been a dinner menu and was now, slowly, becoming something else.
+
+She wrote at the bottom of the page, in her careful hand: the catalog was a map of appetite. Let it also be a map of what appetite leaves behind.
+
+Chapter 31: The Aftermath
+
+The Aurora drifted. That was the whole of their existence now: drift, and the arithmetic of waiting. The sail was gone, a memory of mirror flung into the dark at a fraction of light-speed, and with it the power to brake, to steer, to come home on schedule. Ishii had run the numbers until her hands stopped shaking: life support for nine months. The relief ship, launched the day the warning arrived, would reach them in thirteen.
+
+Lena spent the hours in the observation blister, watching the stars through the strands of her own catalog. She had made them a map of appetite, and now the map was all she had to give. The seed was dead. Sol had brightened as if a curtain were torn. Somewhere in the night behind them, the feeder continued its meal, indifferent to the child that had been taken from it.
+
+Four months of margin, Reyes told her, settling onto the bench beside her. Four months of rationed air, four months in which nothing could be allowed to fail. He had given away his ship's return without being ordered to. Lena had watched him do it, and had not known until that moment what a man could choose.
+
+We'll make it, she said.
+
+We will, he said, and there was no comfort in it, only fact.
+
+Earth's gratitude arrived before Earth did, a compressed burst that took the weeks to cross the void. The Institute had voted, the committee had dissolved, and the Observatory would be rebuilt: new instruments, a new mandate. The watch. Someone had used the word already, in the official dispatch, and Lena read it three times in the dark, the way she had once re-read her dimmest stars.
+
+She opened a fresh notebook. The first page she had kept empty for twenty years, and she wrote in it now, in her precise hand, the date and the sky and the beginning of the schedule that would outlive her. Entry one: the feeder, its mealtimes, its patience. A ledger that would never be closed, because the work was never over, and the sky was a dinner menu, and someone had to read it.
+
+Reyes watched her write. What is that? he asked.
+
+The future, Lena said. Ours.
+
+Chapter 32: The Vindication
+
+The confirmation arrived as a spectral profile, folded into a routine telemetry packet, and Lena read it alone in the ship's dark. Independent measurements. Twelve observatories, three orbital platforms, two lunar arrays. The pattern she had catalogued for twenty years was real. The dimming was not CCD aging, not dust drift, not correlated error: it was feeding, and she had said so, and she had been right.
+
+She did not weep. She sat with the profile in her lap and let the years fall away from her: the colloquium where the room had smiled; the committee report that had named her life's work an artifact; the three a.m. re-verifications, alone, hand over the keyboard. All of it true. All of it, now, in other people's hands.
+
+Prasad's message came months late, carried by the same light that had once carried her warning. He wrote it himself, the director who had dismissed her, and he did not spare himself. The catalog is confirmed, he wrote. The artifact is a discovery. I named it so, and I was wrong, and I am sorry. I have published the retraction. You were the only one who never stopped looking.
+
+Lena read it twice, then filed it. She had not needed his apology; she had needed the sky to be what she had seen, and it was.
+
+The records she had been denied came with it: the Kumasi's last telemetry, Osei's logs in full, the partial image she had filed under her own name and never been allowed to forget. She read them all in one sitting, in the observation blister, with the stars of her catalog burning overhead, and she did what she had been putting off since the day they left.
+
+She opened the feeder's entry. She wrote it with her own hand, in the notebook that would become the first ledger of the watch. Feeder-1. The red thread at the center. The filaments wider than the orbit of Jupiter. The schedule, hour by hour, the mealtimes she had learned at the cost of everything. She wrote what she had seen in the gap between feedings: the roots descending, the long root that passed through their own system toward Sol, the seed that had sailed inward and died, unraveled, scattered.
+
+When she finished, the pen was wet in her hand. She closed the notebook and pressed the flat of her palm to its cover, the way Jacob had pressed his to a spectrograph, taking a reading, taking a truth.
+
+She had been right. Being right had cost a ship, a man, a sail, a year of her life. It had also given the world a sky it could read. She sat a long time in the dark, and the margin of her triumph was the margin of their air, and she was at peace with both.
+
+Chapter 33: The Observatory
+
+The relief ship arrived on schedule, thirteen months to the day, and the Aurora was towed home like a spent thing, her hull scored by the web's patience, her spine empty where the sail had been. The crew walked off on their own feet. Adebayo wept on the pad and would not say why. Reyes stood at the base of the gantry with his hands behind his back, watching the ship that would never fly again be hauled into the cradle, and he did not move for a long time.
+
+Lena came home to the Observatory rebuilt. It was the same mountain, the same altitude, the same thin air that made her chest ache, but the dome had grown, new instruments thrust from the rock like eyes opening, and where the old catwalk had ended, new catwalks ran out into the dark. The Institute had renamed it the watch-post. Someone had hung a plaque with the date of the impact, and under it, in smaller letters, the words of her own dispatch: THE SKY IS A DINNER MENU.
+
+She walked the catwalks that first night and let the place become hers again. The cold. The whine of the drives. The dome turning, slow and patient, an eye on the sky that had nearly ended. Her desk was her desk again: her notebooks stacked in the order she had left them, Jacob's instruments in the drawer where she kept them, the window on the stars.
+
+But the sky was not the sky. She stood at the rail and looked up, and every point of light was a question of appetite. She had spent her life reading them as data, as fusion and distance and age; now she read them as mouths. That one, steady, could be feeding and she would not know for years. That one had been eating for millennia before she was born. The sky had not changed. She had.
+
+Cold, said Reyes, coming up behind her, and she heard the years in his voice, and the steadiness.
+
+Always was, she said.
+
+They stood together under the dome, the first night of the new watch, and neither of them said what it was to be the only people alive who had seen a star eaten. The dome turned. The instruments recorded. Somewhere beyond the horizon, the light of the dead seed was still arriving, still falling, still telling the story of the day the world had been saved by a square kilometer of mirror and the refusal of one woman to stop counting.
+
+Below them, on the grounds, the memorial mirror was being installed, angled at the sun, catching the light it had once used to save them. Lena watched the workmen until the low sun put a blade of glare across it, and she thought of Jacob, who had loved light, and she let herself be glad.
+
+Chapter 34: The Watch
+
+The watch had a liturgy, and Lena taught it.
+
+Shifts, first: the all-sky survey ran through every clock hour, three observers, four telescopes, the catalog hanging over them like a schedule of hours. Protocols: any star that dimmed off its curve was flagged, re-observed, confirmed, and reported, the same path her own discovery had taken, now worn smooth by procedure. And the reading: each shift began with the ledger, the entries opened to the night's mealtimes, so that the watchers knew before they looked what the sky was scheduled to consume.
+
+The catalog re-read as a feeding schedule. Lena had done the re-reading herself, star by star, and the number that emerged made her sit down: the network's meals were regular, and they were predictable, and she had predicted them for twenty years without knowing what she was predicting. The charts she drew now were maps of appetite. Filaments, stars, seeds. The shape of a thing that spanned light-years and did not know they were there.
+
+She trained the watchers in pairs, the way Osei had once trained her. Record, she told them, on the first night of each course. Recording is watching. Watching is defending. The sky is not going to stop being hungry, and we are not going to stop being here.
+
+Reyes visited twice a year, though he had no duty at the Observatory and no reason she could name. He stood under the dome with her and watched the sky that had nearly ended, and they spoke in the shorthand of people who had shared a held breath. Once, at the rail, he said, You know it'll outlast us. The watching.
+
+Yes, Lena said. That's the point.
+
+She did not say that the watch was a prayer in the form of a schedule, but she thought it, standing in the dark with the instruments humming and the dome turning and the stars of her catalog burning overhead, each one a mouth she had learned to read. The feeder kept its mealtimes. The root kept passing through their system, a continent of dark thread at the speed of thought, still there, still passing, still between them and the sun's hidden neighbor.
+
+The first class of watchers graduated in the spring. Lena stood at the front of the dome and watched them take the ledgers, and she saw in their faces the thing she had felt on the night of the pulse out of rhythm, hand over the keyboard: the knowledge that the sky was not background, that it was watching too, that the work was not over and never would be.
+
+Record, she told them. Record everything. The schedule holds. The sky holds. So do we.
+
+Chapter 35: The Feeder Watched
+
+They had re-observed the feeder on the first anniversary of the impact, a thin beam of light sent out across twelve hundred AU to return, months later, carrying a number. Lena stood at the terminal the night the return arrived, and the number was what she had expected and what she had dreaded.
+
+The feeder was still feeding.
+
+It had not acknowledged the loss of its seed. It had not paused, not grieved, not changed its mealtimes by a single hour. The red thread at the center of the web still burned at the bottom of its starvation; the filaments still drank; the schedule still held, regular as clockwork, the same fractions she had written down years ago in the catalog of a woman who had not known what she was reading.
+
+Or it had already cast others. The imaging could not tell them. A seed the size of the one they had killed, folded in the web, would be beneath resolution until it moved; and if the feeder had cast a dozen, or a hundred, they would only learn of each one when it sailed into light and began to grow its sail. The horror of it was not the feeding. It was the patience. It was the thought that the feeder had been at this for eons before Sol had light, and would continue, and that its arithmetic did not include them.
+
+Lena filed the report. Feeder-1: no change. She wrote it in the ledger and then sat a long time with her hands folded, doing the small math of her own life against the feeder's, and finding no common measure.
+
+The catalog grew. New instruments, new wavelengths, new eyes in orbit and on the Moon, all pointed at the same question: what is being eaten, and where, and by what. The entries multiplied. The watch extended. But the feeder's light pulsed on, steady, unhurried, and the Observatory recorded it, and Lena watched it, and she thought that there was a form of courage in recording a thing that would not even notice you recording it.
+
+She wrote in the margin of the report, in her precise hand: It does not know we are here. It has never known. And that, she thought, closing the ledger, was the whole of the fear and the whole of the hope, because a thing that did not notice them had no reason to hurry, and a thing that had no reason to hurry could be watched for a very long time.
+
+She read the entry again in the morning. It did not change. The feeder fed.
+
+Chapter 36: The New Star Charts
+
+The public charts were beautiful, and Lena hated them a little.
+
+They were drawn for children and for news-feeds, the dimming stars rendered as warm embers, the filaments as rivers of gold thread across the dark, the network as a web of light, a galaxy of appetite made lovely, made safe, made something you could hang on a wall. The world had learned to read the sky differently. The word artifact was gone from the mouths that had used it; the word feeder was in every schoolroom; the sky that had once been a field of data was now a field of hunger, and the public wanted it drawn as a fairy tale.
+
+The private charts were different. Lena kept them in the ledgers, in her own hand, and they showed the sky as it was: a ledger of appetite, the stars as mouths on a schedule, the filaments as lines of theft carrying stolen light away from suns that would not see it again for eons. No warmth in these. No rivers of gold. Only the arithmetic.
+
+She did the public ones anyway, because the world needed a shape it could bear, and because the children who learned to love the golden threads would be the watchers of the next generation. She stood at the back of the dome the afternoon a school class visited, and she watched them point at the charts, and she heard the guide say the word feeder with the ease of a nursery rhyme, and she let it be.
+
+Reyes was there. He came more often now, though neither of them had named the reason, and he stood beside her in the dim light with his hands behind his back, the way he had stood on the pad the day the Aurora was cradled.
+
+They'll never know, he said, of the children.
+
+No, Lena said. That's the work. They don't have to know. They only have to watch.
+
+She said it plainly, and meant it, and found that she had made her peace with the public sky and its lovely lies, because the lie was the prayer, and the prayer was the schedule, and the schedule was the watch. The children filed out past them into the thin bright air, and Lena stayed at the rail, and Reyes stayed with her, and the friendship deepened by a degree she would not have been able to name aloud, under the turning dome, in the sky that had nearly ended and had not.
+
+She drew the public chart for that month that night, in the office, and she drew the private one from the same data, and she kept them in separate drawers, and she slept the sleep of a woman who had seen the sky and had not looked away.
+
+Chapter 37: The Catalog Expanded
+
+The number went up on the Observatory's board at the start of the third year: 2,311.
+
+Lena had spent her twenties and thirties and forties building a catalog of 1,043 stars, and the watch had added more than a thousand more in the time it took the world to believe. They came in from every station, the Atacama and the Antarctic, the orbital arrays, the lunar farside, the deep-space sentinels on their long loops, each one a star that dimmed on a regular schedule by a regular fraction, each one a mouth, each one a meal, each one a line on the map of the network.
+
+The feeding schedules were predicted now. The watch ran them forward and backward, the way Lena had once run her own, and the predictions held: the mealtimes were regular, and they were shared, and the geography of the network emerged from the data like a shape coming out of darkness. Filaments. Stars. Seeds. The single organism she had seen at twelve hundred AU was not single. It was a web, and the web had continents, and the continents were patient.
+
+Earth's observatories joined the watch, then the Moon's, then the orbital platforms. The ledgers multiplied; the watch became communal; the one woman's obsession became a vigil kept in shifts by hands she had never met, in time zones she had never visited, in languages she could not read. Lena walked the new wing and watched the banks of screens, and she thought of the night she had sat alone with 1,043 stars and a grief she could not name, and she did not know whether to be glad or undone.
+
+She kept one private page. The root. The long filament that had passed through their system toward Sol, that she had seen in the gap between feedings, the size of continents, moving at the speed of thought. The public charts did not draw it. The official reports did not map it. But Lena kept it, on a single sheet in the back of her private ledger, and she added to it every observation that touched its path, and the line it drew across their solar system grew longer, year by year, century by century.
+
+Still there. Still passing. Still between them and the sun's hidden neighbor, and whatever the network had been doing to their star for the last two hundred years.
+
+She closed the ledger. On the board, the number held: 2,311 stars, and the watch on each of them, and the root, unnumbered, unplotted, passing.
+
+She wrote the date. She wrote the count. She wrote, in the margin, the words she had learned to say like a prayer: record, watch, endure.
+
+Chapter 38: The Student
+
+Mira Chen arrived in the spring, on the strength of a thesis the committee had read three times, and she stood in the doorway of Lena's office with the thin high-altitude light behind her and asked, before she had been offered a seat, to see the ledgers.
+
+Everyone asks, Lena said. Most of them ask for the public ones.
+
+I don't want the public ones, Mira said. I want the private page. The root.
+
+Lena looked at her a long moment. She was young, brilliant, and born, the records said, in the same year Lena had started the catalog, the same year the pattern had first shown itself, the same year Lena had begun to count. She had grown up in a world that already knew the sky was a ledger. She had learned the word feeder with her alphabet.
+
+I don't show anyone the root, Lena said.
+
+Then I'll wait, Mira said, until you do.
+
+She was good. Lena tested her for a season and found what she had not expected to find: a mind that moved through the data the way hers did, at three in the morning, suspicious of every clean line, in love with the pattern beneath the pattern. She took to the ledgers. She took to the shifts. She asked the questions the other watchers were too polite to ask, and Lena answered them, and one night, at the rail under the turning dome, Mira asked the one Lena had been avoiding since the day of the impact.
+
+What will we do, Mira said, when one of them wakes near a star with people?
+
+Lena stood a long time without answering. The dome turned. The instruments recorded. She thought of the seed, hungry and afraid, unfolding its sail, sailing inward on the same sunlight that fed them; of the kilometer of mirror that had been their only return ticket and their only weapon; of the sacrifice Reyes had made without being ordered to.
+
+We'll meet it where it's small, she said. Out there, before it reaches the inner system. That's what the sail was. That's what we are now, the people who'll be there when it wakes, because no one else will be in time.
+
+Mira was quiet. And if we're not enough?
+
+Then we'll have watched, Lena said, and we'll have recorded, and the next watch will have our ledgers, and they'll be enough. She turned from the rail. You'll be enough. That's why I'm showing you the root.
+
+She showed her that night, the single sheet in the back of the private ledger, the long line across their system, still passing, still between them and the sun's hidden neighbor. Mira read it in silence, and then she looked up, and her eyes were bright, and she said the words Lena had been waiting a lifetime to hear from anyone.
+
+I'll carry it, Mira said. When you're done.
+
+Chapter 39: The Legacy
+
+Lena wrote the mission record in the fifth year of the watch, in the office that had been hers for longer than the mission had lasted, and she wrote it slowly, in her precise hand, because it was the last time she would tell the story and she wanted it told right.
+
+She wrote the flight out and the shape in the light; the feeder and its mealtimes; the roots and the root; the seed and the sail. She wrote the names: Osei, who saw the shape first and paid for it. Adebayo, who recognized a self in the dark and wept. Ishii, who fought the sail's erosion with her hands. Reyes, who gave away his ship's return without being ordered to, and named it plainly, and never spoke of it again. She wrote her own name last, and it felt like signing a ledger.
+
+The Aurora's log was published that autumn, every byte, and the world read the flight the way it had learned to read the sky, as a story of hunger and light and the small brave arithmetic in between. The mission became what missions become: a chapter, a course in academies, a shape of hull. The sentinels were already being built on the Aurora's pattern. The doctrine of the seed was already written: intercept in the outer system, meet it where it is small. Her life's work had become a kind of farming; the fields were light, and the harvest was survival.
+
+The memorial mirror was dedicated the same year. It stood on the observatory grounds, a square kilometer shrunk to the size of a door, angled at the sun, catching the light it had once used to save the world. Lena stood at its dedication and let the glare fall across her face, and she thought of Jacob, who had loved light, who had watched the sky with her, who had died five years before the night the pattern broke its rhythm.
+
+She went back to her office after, and she opened the drawer where she kept his instruments, and for the first time in years she took them out and set them on the desk, beside her own. The spectrograph he had pressed his palm to. The filter wheels. The little brass eyepiece he had carried in his coat, that he had used to show her the sky before she had ever learned to read it.
+
+She used them that night. She ran his instruments over a star in her catalog, and they were good, and they were hers now, and the grief that had built the catalog settled in her chest like something that had finally found its place. He had watched the sky with her. The sky was what they kept.
+
+She closed the drawer on the way out, but she left the eyepiece on the desk, where she would use it again.
+
+Chapter 40: The Second Dimming
+
+The alarm did not sound like an alarm. It was a soft chime, the same note the Observatory used for any routine flag, and it came in at three in the morning, and Lena heard it from the office where she had been checking data for the four hundredth night in a row.
+
+She had not been on watch for years. The shifts belonged to Mira and the watchers Mira had trained; Lena's hands were old now, her eyes tired, her place in the rhythm long since passed to younger hands. But the chime was hers, somehow, before she knew why. It was the same hour as the night the Lantern had dimmed off its rhythm. The same hour as the night that had started everything.
+
+She crossed to the board and read the flagged star, and her old hands found the ledgers without being asked, and she stood a long time in the dark with the numbers falling into place, the way they had fallen into place on the night of the pulse out of rhythm, hand over the keyboard.
+
+A star in the catalog had dimmed again. Off-schedule. By a regular fraction, on a curve she had seen once before, in a pattern she had spent her life learning to read.
+
+She did not panic. She checked the reading from two more stations, the way the protocol demanded, and the protocol held, and the readings held, and she wrote it in the ledger with her own hand because she had written the first entry of the watch and she would write this one too. A new feeding had begun, far off, at the edge of the catalog, thousands of light-years away. Too far to matter this year. Too close to ignore.
+
+She thought of the feeder, still feeding, indifferent. She thought of the seed, hungry and afraid. And she thought, with a clarity that cost her something, that the network was not one organism after all. It was many. It was vast. It was a web of hungers, and one of them had stirred, and the watch had caught it, and the world would be warned because a woman in an observatory had never stopped counting.
+
+She stood at the board until the dome turned to the dawn, and then she called Mira, and she said the words she had been waiting thirty years to say to someone who would carry them.
+
+Wake the watch, Lena said. It's started again. The work is never over.
+
+Mira was silent a moment, and Lena heard her breath steady itself, the way hers had on the night of the pulse.
+
+I'll bring the ledgers, Mira said.
+
+Good, said Lena. Record everything.
+
+Chapter 41: The Alarm
+The alarm came at 2:47 in the morning, the hour Lena had kept for thirty years, the hour the first pulse had come. She was at her desk, where she had always been, running checks on checks, when SP-4713 lit the screen. Off-schedule. Dimming by four hundredths of a percent on a fraction that matched nothing in her ledger — a new pulse, a new rhythm, someone else's mealtime beginning. She did not move. Her hand found the keyboard and stopped there, the way it had stopped the first time, and she remembered the shape of that night: the cup going cold, the dome turning, the sky with something new in it.
+
+By dawn three stations had confirmed. The Moon's array saw it; the orbital net saw it; the old survey instruments that had once dismissed her saw it, and the number was the same to the same decimal place. SP-4713 was three thousand light-years out, at the very edge of the catalog, so far that the light reaching them had left before the Aurora had launched, before the seed had sailed. Too far to matter this year. Too close to ignore.
+
+The Observatory answered with procedure instead of panic. Lena was called to the morning briefing — the memory of the mission, the keeper of the sail's story — and she stood before the great chart and put her finger on the star and said, quietly, that she knew what it was. She knew the shape of a feeding when she saw it, the way a doctor knows a wound. The young watchers looked at her the way she had once looked at Osei. They wanted her to say it was nothing; she did not say it.
+
+Reyes came to her afterward, gray now, steady as ever, and stood with her under the dome. "It's far," he said.
+
+"It's far," she agreed. "Far is where they start."
+
+She did not say that being right had never once meant being safe. The sky held its breath, and so did she, and the alarm went on because no one had thought to turn it off, and would not stop until the dimming had found its rhythm and the watchers had written it down, and she had written it down, and the catalog had grown one entry older.
+
+Chapter 42: The Preparation
+The doctrine of the seed was written in a week and taught for years. Lena wrote the first page herself, in her own hand, because the ledgers had always been handwritten and the doctrine was only the ledger grown large: intercept in the outer system, meet it where it is small, do not wait for it to come to you. Meet it where it is hungry and young. Meet it where it is still afraid.
+
+The watch-post was armed that season. The telescopes that had been watching became instruments of sight and of intent; the lasers that had once steered the Aurora's sail were rebuilt, tuned, aimed at the dark; and in the yards a new class of sail-ships took shape, built on the Aurora's lines, square kilometers of mirror-film folded in their holds like wings. Reyes came down from his retirement to read the blueprints and found nothing to argue with. "It's the same sail," he said. "We're just sending it out earlier, so it never has to come home as a weapon." He tapped the frame. "That's the difference. It goes out a weapon and stays a weapon."
+
+Lena reviewed the plans with Mira Chen at the long table, their two shadows thrown across the chart by the desk lamp, and Mira asked the question she asked every season: whether it was right to build a defense against a thing that had never meant them harm. Lena had an answer now that she had not had on the night of the first dimming. "The seed wasn't evil," she said. "Neither is a flood. We don't build walls against floods because the water hates us. We build them because we want to go on living, and the water doesn't care either way."
+
+"Farming," Mira said, remembering her words. "Not war."
+
+"Farming," Lena agreed. "The fields are light. The harvest is survival." She slid the plans across the table. "Now — the guidance packs. Ishii's design. Tell me where they still fight the erosion."
+
+Mira bent to the numbers, and Lena watched her work, and thought that she had spent her life watching one thing after another, and that this — a mind like her own turning to the same sky — was the thing she had not known she was hoping for. The doctrine would outlive her. That was the point of doctrine.
+
+Chapter 43: The Sentinel
+The first sentinel ship was named the Vigil, and Lena named her, standing on the pad with the wind of the high desert in her hair, her hand flat on the cold hull. She had not been asked to name it, but no one argued, because everyone who knew the story knew that the naming was the whole thing: a ship built to watch, built to wait, built never to come home and never to want to.
+
+Reyes stood at the edge of the pad, old and steady, and watched the crew board — young, trained by him and by her records, taught the doctrine before they were taught the ship. He said nothing, which was his way of saying everything. Lena thought of the Aurora, of the square kilometer of mirror sliding away into the dark, of Ishii's hands fighting the erosion, and she let herself, for one long moment, believe that this ship would never need to be what the sail had been.
+
+The countdown went in the dome's calm voice. The Vigil lifted on a column of fusion light, climbing on the same fire that had carried the Aurora out, and when it cleared the atmosphere the sail opened — a kilometer of mirror-film unfolding in the sun, catching it, holding it, turning it into motion. The watchers on the catwalk breathed at once, as if they had all been holding the same breath. Lena thought of the fragment unfolding its sail of web-film in the dark, and for the second time in her life she saw two sails in the sky, one of light and one of purpose, and understood that the difference was a choice, not a physics.
+
+Mira stood beside her, not speaking. Reyes came up the ladder and stood on her other side, and the three of them watched the Vigil's light cross the terminator and go on, into the dark where the watch would be kept.
+
+"It's on the station now," Reyes said, "that the sentinels stand in the Aurora's shape."
+
+"In her shape," Lena said, "and in ours." She did not say what she was thinking, that the watch had been one woman with notebooks and a three a.m. habit and was now a fleet, because the thought was too large to hold and too true to waste on words. The sail caught the sun a last time, far away, and the Vigil became a point of light, and the point became a star, and the star became a watch.
+
+Chapter 44: The Bright Star
+The dimming star's light came back on a Tuesday, at the end of the morning shift, when the sky was paling and no one was looking for a miracle. The first person to see it was a night tech running the reduction routine, and she nearly did not file it, because the number made no sense, and then she did, and the Observatory's silence held for exactly one full minute before the soft chime went off — the one they used for new entries, for anything beautiful.
+
+Lena was in the archive. Mira found her there, ran the whole way down the catwalk, and put the printout in her hands without a word. The curve was old and new at once: SP-4713, the star that had begun to dim, rising again — not simply stopping its dimming, but brightening, past its old luminosity, into a light the records had never seen. The feeder there had moved on, or finished, or died. Lena read the numbers twice, then a third time, and her hands were shaking, and that was all right, because everyone's hands were shaking.
+
+The whole station gathered on the catwalk to watch the dawn, though the star itself was three thousand years gone and its returned light was older than the Observatory itself. It did not matter. What mattered was in the data, in the ledger, in the one line Lena read aloud to the morning shift, her voice level, her eyes bright: SP-4713. Brightness rising. First return on record.
+
+"Hunger is not eternal," she said, and it was the first thing she had ever said that felt like an answer rather than a question.
+
+Mira wrote the entry into the catalog in her own hand, under the direction Lena gave, and Lena watched the pen move and thought of all the entries that had been losses, every one a star being eaten, every one a meal on the sky's long menu. This was the first entry that was a gift. The sky gave something back, and she thought of Jacob, who had loved light, and she allowed herself to believe he had seen this, somewhere, in whatever kept the past alive.
+
+The catalog was a ledger of appetite and endurance, and that day it became, for the first time, a ledger of return.
+
+Chapter 45: The Vigil
+The quiet held. That was the strange and terrible thing: the quiet held. The second dimming never became a third. The network's far filaments kept their ancient clock, feeding stars no human eye would ever name, and the fragments did not come again, and the watch became a routine, and the routine became a life.
+
+Lena learned the shape of the vigil as she had learned the shape of the sky: by keeping it. The shifts came and went; the telescopes turned; the all-sky survey ran its endless sweep, and every morning the new data met the old catalog and found nothing that should not be there. The watchers she had trained trained others. The domes never stopped turning, because the sky did not stop, and the Observatory became what the Institute had promised it would become: a lighthouse. Its light went up, not out, and the ships passing through the dark between the stations could see it, and so could the stars, in their fashion.
+
+She and Mira charted together, their long shadows crossing the same table, their pens moving in the same rhythm. Lena's hands had begun to slow. She did not speak of it, but Mira noticed, and set the charts a little closer, and said nothing, which was its own kind of watching.
+
+The fear had become a profession. The profession had become a life. There were nights when Lena stood under the dome and remembered the black star, the web wider than the orbit of Jupiter, the root passing through the system at the speed of thought, and the memory had lost its teeth — not because it had stopped being terrible, but because she had stopped being able to keep it at the front of her mind. Terrible things could be outlived. That was the thing the sky had taught her that the feedings had not.
+
+She wrote in her private ledger that night, the page she kept for herself: the root, still there, still passing. Then she closed the ledger, set the alarm, and slept, and the telescopes turned through the dark without her, and the quiet held.
+
+Chapter 46: The Year's Passing
+The year at the Observatory had the seasons of the high desert and the seasons of the sky. Summer brought the dust and the training classes; winter brought the clear, brutal dark and the long nights of survey; and between them the watchers celebrated births and marked deaths, and the memorial wall in the lower hall grew one name at a time.
+
+Osei's name was read in the spring, at the annual memorial, as it had been read every year since the Aurora returned without him. Lena read it herself this time, her voice level, her eyes on the small bronze plate, and she said the words she always said: that he had seen the shape first, that he had paid for it, that the watch was his before it was hers. Reyes stood at the back, gray, leaning on the rail, and she thought he might be the only other person alive who could hear the shape of the name properly, the way a bell's true note is only audible at a distance.
+
+The light from the stars arrived late. She said this to the new watchers in the spring, as she said it every season, because it was the fact that had shaped her whole life: the sky was always the past, and the watchers were always the present, and between them stretched the only distance that mattered. They wrote it in their notebooks, and she remembered being them.
+
+Reyes sent her the recording at midsummer, with no note attached, and she knew what it was before she opened it: the only footage of the sail's flight, kept all these years, the mirror-film sliding away from the Aurora, catching the sun, becoming a point of light. She watched it in the dark of her office, once, and then again, and she did not weep, because she had spent those tears the first time, years ago, in the cold of the long drift home. She saved the file under her own name and went up to the catwalk, and the sky was clear, and the Vigil's point of light was where she had learned to look for it.
+
+The human scale against the cosmic: a year is nothing to the stars. But the year had been kept, and kept well, and that, she thought, was the whole of the art.
+
+Chapter 47: The Milky Way
+On the clear winter nights, when the seeing was perfect and the dome was hers alone, Lena looked at the galaxy whole, and the looking was its own kind of arithmetic.
+
+A hundred billion suns. She said the number to herself the way other people said prayers, letting it fill the space of the dome. A hundred billion suns, each a possible meal, each a point of light that might have its feeder, its schedule, its long slow subtraction. The network's reach was not bounded by the catalog; the catalog was only what one woman could write down in one lifetime. The eons of feeding stretched behind the catalog and ahead of it. The feeders had been at this when the first star here had formed, and would be at it when the last one guttered.
+
+She had known the horror of the total since the flight, since the night the chart had filled in and she had understood that the dimming was one organism wearing a sky. But age had taught her the other side of the number, and she set it against the horror the way she set the two columns of a ledger: the galaxy still shines. The feeders have eaten for eons, and the Milky Way endures. The balance was not inevitable — nothing about it was inevitable, that was the terror and the gift — but endurance was the only evidence they had, and she had spent forty years gathering evidence.
+
+She wrote her thesis in the dark of the dome, a long paper with a short name — "On the Survival of the Galaxy" — and the thesis had no monsters in it, only numbers, because the numbers were the only honest witnesses. A hymn in numbers, Mira called it, and the name stuck, and the paper was read in academies on Earth and the Moon and in the high orbits, where the watchers read it as a kind of scripture and the engineers read it as a specification.
+
+She closed the file at last and stood, and the Milky Way lay over the valley like a pale scar, like a promise, and she thought: we do not know how this ends. No one has ever lived long enough to find out. We only know it has not ended yet, and that we are still here to look.
+
+She set the alarm for 2:47, out of habit, and went down to sleep, and the galaxy went on turning overhead, uneaten, shining, refusing to be anything but what it was.
+
+Chapter 48: The Long Watch
+The decades passed the way the high desert passed time: slowly, and then all at once. Lena's hand slowed; she wrote her entries with greater care and fewer of them; the catalog was Mira's now, in practice if not in name, and the two of them had stopped pretending otherwise, which was the truest thing the watch had ever taught them. The ledgers passed back and forth across the long table like a tide, and the entries grew in Mira's hand, and Lena read them and found nothing to change.
+
+The watch had never failed. She said it to herself on the nights when the wind came down off the cordillera and the old fears knocked at the glass. The watch had never failed; the fragments had not come again; the second dimming had never become a third; and the quiet, which was itself a kind of fear and a kind of hope, had held for longer than anyone had dared to promise.
+
+She taught her last class in the autumn, the young watchers and the young engineers and the young sailors who would crew the sentinels, and she told them what she had always told them: record everything, doubt everything, and meet it where it is small. They asked her what it had been like, on the Aurora, in the web, and she told them the truth in plain words — the heat leaking, the light being taken, the long dark — and she did not make it more terrible than it was, because the truth was terrible enough, and the truth was also survivable, and they needed to know both at once.
+
+The transfer of the ledgers was a small ceremony in the archive room, lit by the desk lamp, witnessed by Reyes, who had come up the mountain one last time. Lena set the notebooks on the table, the bound volumes of her life's work, two thousand three hundred eleven entries and their schedules, the pages of her own private root, and she signed her name, and Mira signed after hers, in the same book, in the same ink, and the two signatures lay side by side like two stars in the same constellation.
+
+"It's yours now," Lena said, and Mira said, "No. It's ours. You taught me the handwriting."
+
+Lena laughed, which surprised her, and she looked at Reyes, and Reyes smiled, which surprised him, and the three of them stood in the archive in the light of the lamp, and the sky outside went on, and the watch was a relay, and the hands had passed the light.
+
+Chapter 49: The Signal
+The signal came from the deep network on a night when the Observatory was quiet, the way the first signal had come: not an alarm, not a chime, just a filament that had shifted where no filament should be, a thread of the network's chart moving by a fraction of a degree against the fixed dark. The station's own watch caught it first — a young watcher on the graveyard shift, running the daily comparison — and by morning the whole Observatory stood around the chart in silence.
+
+It was not a fragment. They established that within hours, with relief, and then with the deeper unease that follows relief: nothing had detached, nothing was sailing inward, the sentinels had not moved. It was a dimming. Far away, at the edge of the catalog's reach, a star had begun to lose its light on the same fraction, the same schedule, the same patient rhythm — a new feeding, somewhere else, again. Lena read the numbers with her old eyes and her old hands, and they told her what she already knew: her own catalog, written in the sky. A feeder had begun, far away, as if to remind them.
+
+"Should we—" Mira began, and stopped, because there was no "we should." The watch doctrine was the answer, and the doctrine was older than Mira now: observe, record, wait. Intercept it where it is small — but this one was three thousand years away and off the chart entirely, and no sail could reach it in a human lifetime. It was a meal happening far off, a table being set in another country.
+
+The Observatory held its breath for a day, and then went back to work, because that was what the Observatory was for. Lena stood at the chart with Mira beside her and Reyes's memory behind her, and she put her finger on the dimming star and said, quietly, "Another one has begun."
+
+"Then the watch continues," Mira said.
+
+"The watch continues," Lena agreed. "And the sentinels stand. And the world is warned." She looked up at the dome, at the pale slit of sky, and she did not pray, because she did not believe, but she stood in the attitude of prayer, which was, she had decided long ago, close enough to be useful. The dimming went on, far away, and the watch went on, and the catalog grew one more entry, and the stars went on with their long patience, and so, in her fashion, did she.
+
+Chapter 50: The Stars Endure
+Lena watched the sky one last time from the observatory catwalk, wrapped in a coat that had belonged to her for forty years, her hands folded on the rail, her breath going up in the thin cold air. It was winter, the seeing was perfect, and the sky was the sky she had known her whole life: the same ledger, the same dome of possible meals, the same stars about their ancient business.
+
+Some dimmed. She knew their names, their fractions, their schedules; she had written them down with her own hand, and Mira after her, and the watchers would write them after Mira. Some brightened — the returns, the first of which she had read aloud on a Tuesday morning, and there were more now, a slow trickle of stars coming back, hunger ending elsewhere, the ledger balanced in secret. She looked for the Lantern, the dimmest star in the old catalog, the one that had started everything, and found it where it had always been, a red ember, still being fed upon, still patient. The feeder was watched. The fragment's lesson was remembered. The doctrine was taught in the academies and built into the sentinel hulls, and the Vigil's light had become, to the generations who had never known the sky without it, simply part of the sky.
+
+Mira came up the ladder and stood beside her, and the two of them were silent for a long time, because they had been silent together for years and had never needed more.
+
+"The ledgers are closed," Mira said at last. "The catalog is—" She stopped. "It's a thousand eyes now. It was one. It's a thousand."
+
+"It was never one," Lena said. "It was Osei's eyes, and Prasad's, and the night tech's, and Ishii's hands on the sail. It was the whole chain of hands." She turned from the rail and looked at Mira, at the woman who had been a girl at the long table, and she felt the weight of the thing she was about to do, and she found she was not afraid, which surprised her, because she had been afraid of small things her whole life and had spent the fear on small things only.
+
+"Will you keep it?" she asked. "The watch. The name. The two-forty-seven habit."
+
+"Every night," Mira said.
+
+Lena's final entry was in the archive below, in the book Mira had opened for her, in her own hand, the handwriting grown careful and slow: the date, the sky, and the words they had both known were coming: They continue, and so do we.
+
+Mira put a hand on her arm and left her there, and Lena looked up at the winter sky, at the pale scar of the Milky Way, at the million points of light going about their business, being eaten or not being eaten, enduring or not enduring, and she thought of Jacob, and of Osei, and of the sail sliding away into the dark, the last beautiful thing.
+
+The dome opened wider, as if the sky were coming to meet her, and the last light of her life came down on the catwalk, and she stood in it, and the stars endured.

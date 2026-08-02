@@ -1,0 +1,28 @@
+{
+  "title": "The Orbital Canticle",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Science Fiction",
+  "subgenre": "Space opera",
+  "language": "en",
+  "premise": "In 2210, the orbital monastery of St. Elara has sung the same daily canticle to Earth for two hundred years — a hymn of blessing transmitted from the Lagrange point. When the canticle suddenly changes, novice Sister Vesna discovers the monastery has been singing a warning, not a blessing, and the change is a distress call from Earth itself.",
+  "short_description": "In 2210, the orbital monastery of St. Elara has sung the same daily canticle to Earth for two hundred years — a hymn of blessing transmitted from the Lagrange point. When the canticle suddenly changes, novice Sister Vesna discovers the monastery has been singing a warning, not a blessing, and the change is a distress call from Earth itself.",
+  "long_description": "In 2210, the orbital monastery of St. Elara has sung the same daily canticle to Earth for two hundred years — a hymn of blessing transmitted from the Lagrange point. When the canticle suddenly changes, novice Sister Vesna discovers the monastery has been singing a warning, not a blessing, and the change is a distress call from Earth itself.",
+  "main_characters": [],
+  "keywords": [
+    "science fiction",
+    "space opera",
+    "novel"
+  ],
+  "TXT_path": "books/The_Orbital_Canticle/txt/The_Orbital_Canticle.txt",
+  "EPUB_path": "books/The_Orbital_Canticle/epub/The_Orbital_Canticle.epub",
+  "cover_path": "books/The_Orbital_Canticle/covers/The_Orbital_Canticle.png",
+  "outline_path": "books/The_Orbital_Canticle/planning/The_Orbital_Canticle_outline.md",
+  "cover_script_path": "books/The_Orbital_Canticle/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24443,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24443
+  }
+}

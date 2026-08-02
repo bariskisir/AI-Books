@@ -1,0 +1,28 @@
+{
+  "title": "The Gilded Root",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Fantasy",
+  "subgenre": "Low fantasy",
+  "language": "en",
+  "premise": "The gilded root is a golden tuber that grows only in the shadow of the old palace, and the city of Marrakech-of-the-West has fed on it for three hundred years. When the root begins to wither, gardener Thalia digs down to find its source — and discovers the palace was built on the back of a living thing.",
+  "short_description": "The gilded root is a golden tuber that grows only in the shadow of the old palace, and the city of Marrakech-of-the-West has fed on it for three hundred years. When the root begins to wither, gardener Thalia digs down to find its source — and discovers the palace was built on the back of a living thing.",
+  "long_description": "The gilded root is a golden tuber that grows only in the shadow of the old palace, and the city of Marrakech-of-the-West has fed on it for three hundred years. When the root begins to wither, gardener Thalia digs down to find its source — and discovers the palace was built on the back of a living thing.",
+  "main_characters": [],
+  "keywords": [
+    "fantasy",
+    "low fantasy",
+    "novel"
+  ],
+  "TXT_path": "books/The_Gilded_Root/txt/The_Gilded_Root.txt",
+  "EPUB_path": "books/The_Gilded_Root/epub/The_Gilded_Root.epub",
+  "cover_path": "books/The_Gilded_Root/covers/The_Gilded_Root.png",
+  "outline_path": "books/The_Gilded_Root/planning/The_Gilded_Root_outline.md",
+  "cover_script_path": "books/The_Gilded_Root/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 25084,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25084
+  }
+}

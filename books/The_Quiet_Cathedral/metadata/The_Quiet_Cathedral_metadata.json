@@ -1,0 +1,28 @@
+{
+  "title": "The Quiet Cathedral",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Literary Fiction",
+  "subgenre": "Religious literary",
+  "language": "en",
+  "premise": "The cathedral of St. Anne has been silent for a generation — the organ broken, the choir dismissed, the bell rung only for the dead. When the new organist, 29-year-old Miriam, is hired to rebuild the instrument, she discovers the silence was a choice, and the choice was her grandfather\\'s.",
+  "short_description": "The cathedral of St. Anne has been silent for a generation — the organ broken, the choir dismissed, the bell rung only for the dead. When the new organist, 29-year-old Miriam, is hired to rebuild the instrument, she discovers the silence was a choice, and the choice was her grandfather\\'s.",
+  "long_description": "The cathedral of St. Anne has been silent for a generation — the organ broken, the choir dismissed, the bell rung only for the dead. When the new organist, 29-year-old Miriam, is hired to rebuild the instrument, she discovers the silence was a choice, and the choice was her grandfather\\'s.",
+  "main_characters": [],
+  "keywords": [
+    "literary fiction",
+    "religious literary",
+    "novel"
+  ],
+  "TXT_path": "books/The_Quiet_Cathedral/txt/The_Quiet_Cathedral.txt",
+  "EPUB_path": "books/The_Quiet_Cathedral/epub/The_Quiet_Cathedral.epub",
+  "cover_path": "books/The_Quiet_Cathedral/covers/The_Quiet_Cathedral.png",
+  "outline_path": "books/The_Quiet_Cathedral/planning/The_Quiet_Cathedral_outline.md",
+  "cover_script_path": "books/The_Quiet_Cathedral/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 22317,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 22317
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "The Starving Stars",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Science Fiction",
+  "subgenre": "Cosmic horror SF",
+  "language": "en",
+  "premise": "Astronomer Dr. Lena Voss has spent her career cataloging stars that dim — a slow, regular fading that no model explains. When a colleague\\'s research vessel goes dark at the coordinates of the dimmest star, Lena joins the recovery mission and discovers the stars are not fading: they are being fed on, and the feeder is now in our solar system.",
+  "short_description": "Astronomer Dr. Lena Voss has spent her career cataloging stars that dim — a slow, regular fading that no model explains. When a colleague\\'s research vessel goes dark at the coordinates of the dimmest star, Lena joins the recovery mission and discovers the stars are not fading: they are being fed on, and the feeder is now in our solar system.",
+  "long_description": "Astronomer Dr. Lena Voss has spent her career cataloging stars that dim — a slow, regular fading that no model explains. When a colleague\\'s research vessel goes dark at the coordinates of the dimmest star, Lena joins the recovery mission and discovers the stars are not fading: they are being fed on, and the feeder is now in our solar system.",
+  "main_characters": [],
+  "keywords": [
+    "science fiction",
+    "cosmic horror sf",
+    "novel"
+  ],
+  "TXT_path": "books/The_Starving_Stars/txt/The_Starving_Stars.txt",
+  "EPUB_path": "books/The_Starving_Stars/epub/The_Starving_Stars.epub",
+  "cover_path": "books/The_Starving_Stars/covers/The_Starving_Stars.png",
+  "outline_path": "books/The_Starving_Stars/planning/The_Starving_Stars_outline.md",
+  "cover_script_path": "books/The_Starving_Stars/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 23908,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23908
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "The Silent Server",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Cyberpunk",
+  "subgenre": "Techno-thriller",
+  "language": "en",
+  "premise": "The last off-line server on Earth is a rumor — a machine that has never touched the network, kept in a desert bunker by a cult of engineers. When the global network begins failing in patterns, systems analyst Anya Volkov is sent to find the server and learns the rumor is a question: what do we keep when everything is connected?",
+  "short_description": "The last off-line server on Earth is a rumor — a machine that has never touched the network, kept in a desert bunker by a cult of engineers. When the global network begins failing in patterns, systems analyst Anya Volkov is sent to find the server and learns the rumor is a question: what do we keep when everything is connected?",
+  "long_description": "The last off-line server on Earth is a rumor — a machine that has never touched the network, kept in a desert bunker by a cult of engineers. When the global network begins failing in patterns, systems analyst Anya Volkov is sent to find the server and learns the rumor is a question: what do we keep when everything is connected?",
+  "main_characters": [],
+  "keywords": [
+    "cyberpunk",
+    "techno-thriller",
+    "novel"
+  ],
+  "TXT_path": "books/The_Silent_Server/txt/The_Silent_Server.txt",
+  "EPUB_path": "books/The_Silent_Server/epub/The_Silent_Server.epub",
+  "cover_path": "books/The_Silent_Server/covers/The_Silent_Server.png",
+  "outline_path": "books/The_Silent_Server/planning/The_Silent_Server_outline.md",
+  "cover_script_path": "books/The_Silent_Server/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 26019,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 26019
+  }
+}

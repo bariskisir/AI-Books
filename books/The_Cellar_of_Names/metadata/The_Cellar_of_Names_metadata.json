@@ -1,0 +1,28 @@
+{
+  "title": "The Cellar of Names",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Horror",
+  "subgenre": "Folk horror",
+  "language": "en",
+  "premise": "Every farmhouse in the valley of Hjell keeps a cellar of names — chalk marks on the wall, one per ancestor, kept so the dead are not forgotten. The Berg farm has one more name than it should: a name that is not in the family records, and the mark is fresh. Young farmer Sigrid must find out whose name it is before the cellar claims it.",
+  "short_description": "Every farmhouse in the valley of Hjell keeps a cellar of names — chalk marks on the wall, one per ancestor, kept so the dead are not forgotten. The Berg farm has one more name than it should: a name that is not in the family records, and the mark is fresh. Young farmer Sigrid must find out whose name it is before the cellar claims it.",
+  "long_description": "Every farmhouse in the valley of Hjell keeps a cellar of names — chalk marks on the wall, one per ancestor, kept so the dead are not forgotten. The Berg farm has one more name than it should: a name that is not in the family records, and the mark is fresh. Young farmer Sigrid must find out whose name it is before the cellar claims it.",
+  "main_characters": [],
+  "keywords": [
+    "horror",
+    "folk horror",
+    "novel"
+  ],
+  "TXT_path": "books/The_Cellar_of_Names/txt/The_Cellar_of_Names.txt",
+  "EPUB_path": "books/The_Cellar_of_Names/epub/The_Cellar_of_Names.epub",
+  "cover_path": "books/The_Cellar_of_Names/covers/The_Cellar_of_Names.png",
+  "outline_path": "books/The_Cellar_of_Names/planning/The_Cellar_of_Names_outline.md",
+  "cover_script_path": "books/The_Cellar_of_Names/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24710,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24710
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "The Map of Stars",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Young Adult",
+  "subgenre": "YA adventure",
+  "language": "en",
+  "premise": "The old observatory\\'s map of stars is wrong — the constellations have moved, and teenage astronomer Juno is the only one who noticed. When she redraws the map, the stars begin answering: a pattern emerges that is not astronomy but a message, and it is addressed to her.",
+  "short_description": "The old observatory\\'s map of stars is wrong — the constellations have moved, and teenage astronomer Juno is the only one who noticed. When she redraws the map, the stars begin answering: a pattern emerges that is not astronomy but a message, and it is addressed to her.",
+  "long_description": "The old observatory\\'s map of stars is wrong — the constellations have moved, and teenage astronomer Juno is the only one who noticed. When she redraws the map, the stars begin answering: a pattern emerges that is not astronomy but a message, and it is addressed to her.",
+  "main_characters": [],
+  "keywords": [
+    "young adult",
+    "ya adventure",
+    "novel"
+  ],
+  "TXT_path": "books/The_Map_of_Stars/txt/The_Map_of_Stars.txt",
+  "EPUB_path": "books/The_Map_of_Stars/epub/The_Map_of_Stars.epub",
+  "cover_path": "books/The_Map_of_Stars/covers/The_Map_of_Stars.png",
+  "outline_path": "books/The_Map_of_Stars/planning/The_Map_of_Stars_outline.md",
+  "cover_script_path": "books/The_Map_of_Stars/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 23870,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23870
+  }
+}

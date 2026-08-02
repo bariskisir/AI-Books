@@ -1,0 +1,28 @@
+{
+  "title": "The Orchard Cafe",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Romance",
+  "subgenre": "Second-chance romance",
+  "language": "en",
+  "premise": "The orchard café of Appleton closed the year Mira and Jack divorced; the apples kept growing. Five years later, Jack's contractor crew is hired to demolish the café, and Mira — now the architect on the project — has to design its replacement. The orchard has one condition of its own: the oldest tree is still bearing.",
+  "short_description": "The orchard café of Appleton closed the year Mira and Jack divorced; the apples kept growing. Five years later, Jack's contractor crew is hired to demolish the café, and Mira — now the architect on the project — has to design its replacement. The orchard has one condition of its own: the oldest tree is still bearing.",
+  "long_description": "The orchard café of Appleton closed the year Mira and Jack divorced; the apples kept growing. Five years later, Jack's contractor crew is hired to demolish the café, and Mira — now the architect on the project — has to design its replacement. The orchard has one condition of its own: the oldest tree is still bearing.",
+  "main_characters": [],
+  "keywords": [
+    "romance",
+    "second-chance romance",
+    "novel"
+  ],
+  "TXT_path": "books/The_Orchard_Cafe/txt/The_Orchard_Cafe.txt",
+  "EPUB_path": "books/The_Orchard_Cafe/epub/The_Orchard_Cafe.epub",
+  "cover_path": "books/The_Orchard_Cafe/covers/The_Orchard_Cafe.png",
+  "outline_path": "books/The_Orchard_Cafe/planning/The_Orchard_Cafe_outline.md",
+  "cover_script_path": "books/The_Orchard_Cafe/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 22792,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 22792
+  }
+}

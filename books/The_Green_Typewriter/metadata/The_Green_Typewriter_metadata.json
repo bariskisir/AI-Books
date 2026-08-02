@@ -1,0 +1,28 @@
+{
+  "title": "The Green Typewriter",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Mystery",
+  "subgenre": "Cozy mystery",
+  "language": "en",
+  "premise": "The green typewriter in the second-hand shop types what it hears — the next morning\\'s secrets. When it types a name that belongs to the town\\'s beloved baker, who dies that same day, retired secretary Dottie Lamb must decide whether the typewriter is a witness, a suspect, or a grief-stricken machine telling the truth.",
+  "short_description": "The green typewriter in the second-hand shop types what it hears — the next morning\\'s secrets. When it types a name that belongs to the town\\'s beloved baker, who dies that same day, retired secretary Dottie Lamb must decide whether the typewriter is a witness, a suspect, or a grief-stricken machine telling the truth.",
+  "long_description": "The green typewriter in the second-hand shop types what it hears — the next morning\\'s secrets. When it types a name that belongs to the town\\'s beloved baker, who dies that same day, retired secretary Dottie Lamb must decide whether the typewriter is a witness, a suspect, or a grief-stricken machine telling the truth.",
+  "main_characters": [],
+  "keywords": [
+    "mystery",
+    "cozy mystery",
+    "novel"
+  ],
+  "TXT_path": "books/The_Green_Typewriter/txt/The_Green_Typewriter.txt",
+  "EPUB_path": "books/The_Green_Typewriter/epub/The_Green_Typewriter.epub",
+  "cover_path": "books/The_Green_Typewriter/covers/The_Green_Typewriter.png",
+  "outline_path": "books/The_Green_Typewriter/planning/The_Green_Typewriter_outline.md",
+  "cover_script_path": "books/The_Green_Typewriter/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 22484,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 22484
+  }
+}

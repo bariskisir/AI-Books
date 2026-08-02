@@ -1,0 +1,28 @@
+{
+  "title": "The Blue Hour Club",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Literary Fiction",
+  "subgenre": "Coastal literary",
+  "language": "en",
+  "premise": "Every dusk, four strangers gather on the sea wall of Pelican Point to watch the light leave: a retired astronomer, a grief counselor, a fisherman\\'s daughter, and a man who has stopped speaking. Over one long summer, the blue hour becomes a church, and the four must decide what they are watching for.",
+  "short_description": "Every dusk, four strangers gather on the sea wall of Pelican Point to watch the light leave: a retired astronomer, a grief counselor, a fisherman\\'s daughter, and a man who has stopped speaking. Over one long summer, the blue hour becomes a church, and the four must decide what they are watching for.",
+  "long_description": "Every dusk, four strangers gather on the sea wall of Pelican Point to watch the light leave: a retired astronomer, a grief counselor, a fisherman\\'s daughter, and a man who has stopped speaking. Over one long summer, the blue hour becomes a church, and the four must decide what they are watching for.",
+  "main_characters": [],
+  "keywords": [
+    "literary fiction",
+    "coastal literary",
+    "novel"
+  ],
+  "TXT_path": "books/The_Blue_Hour_Club/txt/The_Blue_Hour_Club.txt",
+  "EPUB_path": "books/The_Blue_Hour_Club/epub/The_Blue_Hour_Club.epub",
+  "cover_path": "books/The_Blue_Hour_Club/covers/The_Blue_Hour_Club.png",
+  "outline_path": "books/The_Blue_Hour_Club/planning/The_Blue_Hour_Club_outline.md",
+  "cover_script_path": "books/The_Blue_Hour_Club/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24486,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24486
+  }
+}

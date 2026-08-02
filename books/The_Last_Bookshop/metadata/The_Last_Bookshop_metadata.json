@@ -1,0 +1,28 @@
+{
+  "title": "The Last Bookshop",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Literary Fiction",
+  "subgenre": "Urban literary",
+  "language": "en",
+  "premise": "The last independent bookshop in the city\\'s old quarter is closing, and its owner, Elias March, has forty days to sell the stock he has kept for forty years. On the final day, a woman walks in and asks for a book that was never published — and Elias must decide what he has actually been keeping.",
+  "short_description": "The last independent bookshop in the city\\'s old quarter is closing, and its owner, Elias March, has forty days to sell the stock he has kept for forty years. On the final day, a woman walks in and asks for a book that was never published — and Elias must decide what he has actually been keeping.",
+  "long_description": "The last independent bookshop in the city\\'s old quarter is closing, and its owner, Elias March, has forty days to sell the stock he has kept for forty years. On the final day, a woman walks in and asks for a book that was never published — and Elias must decide what he has actually been keeping.",
+  "main_characters": [],
+  "keywords": [
+    "literary fiction",
+    "urban literary",
+    "novel"
+  ],
+  "TXT_path": "books/The_Last_Bookshop/txt/The_Last_Bookshop.txt",
+  "EPUB_path": "books/The_Last_Bookshop/epub/The_Last_Bookshop.epub",
+  "cover_path": "books/The_Last_Bookshop/covers/The_Last_Bookshop.png",
+  "outline_path": "books/The_Last_Bookshop/planning/The_Last_Bookshop_outline.md",
+  "cover_script_path": "books/The_Last_Bookshop/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 22963,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 22963
+  }
+}

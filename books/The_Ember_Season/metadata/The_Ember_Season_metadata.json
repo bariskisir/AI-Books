@@ -1,0 +1,28 @@
+{
+  "title": "The Ember Season",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Literary Fiction",
+  "subgenre": "Seasonal literary",
+  "language": "en",
+  "premise": "The ember season is the week of false autumn — the hot, still days before the first true cold, when the town of Ashwood burns its garden waste and the air smells of endings. Teacher Nora Bly, who has lived through forty ember seasons, spends this one deciding whether to leave — and the town she almost leaves teaches her what it has been keeping.",
+  "short_description": "The ember season is the week of false autumn — the hot, still days before the first true cold, when the town of Ashwood burns its garden waste and the air smells of endings. Teacher Nora Bly, who has lived through forty ember seasons, spends this one deciding whether to leave — and the town she almost leaves teaches her what it has been keeping.",
+  "long_description": "The ember season is the week of false autumn — the hot, still days before the first true cold, when the town of Ashwood burns its garden waste and the air smells of endings. Teacher Nora Bly, who has lived through forty ember seasons, spends this one deciding whether to leave — and the town she almost leaves teaches her what it has been keeping.",
+  "main_characters": [],
+  "keywords": [
+    "literary fiction",
+    "seasonal literary",
+    "novel"
+  ],
+  "TXT_path": "books/The_Ember_Season/txt/The_Ember_Season.txt",
+  "EPUB_path": "books/The_Ember_Season/epub/The_Ember_Season.epub",
+  "cover_path": "books/The_Ember_Season/covers/The_Ember_Season.png",
+  "outline_path": "books/The_Ember_Season/planning/The_Ember_Season_outline.md",
+  "cover_script_path": "books/The_Ember_Season/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 23730,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23730
+  }
+}

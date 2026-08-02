@@ -1,0 +1,28 @@
+{
+  "title": "The House of Winding Stairs",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Middle Grade",
+  "subgenre": "MG fantasy",
+  "language": "en",
+  "premise": "The house at the end of Maple Street has a staircase that moves — eleven-year-old Noah has counted it rearranging itself at night. When his family moves in, he learns the stairs are a map: each landing leads to a room from a different year of the house\\'s history, and one room leads to the year his grandfather disappeared.",
+  "short_description": "The house at the end of Maple Street has a staircase that moves — eleven-year-old Noah has counted it rearranging itself at night. When his family moves in, he learns the stairs are a map: each landing leads to a room from a different year of the house\\'s history, and one room leads to the year his grandfather disappeared.",
+  "long_description": "The house at the end of Maple Street has a staircase that moves — eleven-year-old Noah has counted it rearranging itself at night. When his family moves in, he learns the stairs are a map: each landing leads to a room from a different year of the house\\'s history, and one room leads to the year his grandfather disappeared.",
+  "main_characters": [],
+  "keywords": [
+    "middle grade",
+    "mg fantasy",
+    "novel"
+  ],
+  "TXT_path": "books/The_House_of_Winding_Stairs/txt/The_House_of_Winding_Stairs.txt",
+  "EPUB_path": "books/The_House_of_Winding_Stairs/epub/The_House_of_Winding_Stairs.epub",
+  "cover_path": "books/The_House_of_Winding_Stairs/covers/The_House_of_Winding_Stairs.png",
+  "outline_path": "books/The_House_of_Winding_Stairs/planning/The_House_of_Winding_Stairs_outline.md",
+  "cover_script_path": "books/The_House_of_Winding_Stairs/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24193,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24193
+  }
+}

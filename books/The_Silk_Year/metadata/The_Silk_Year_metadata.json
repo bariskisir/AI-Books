@@ -1,0 +1,28 @@
+{
+  "title": "The Silk Year",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Historical Fiction",
+  "subgenre": "Medieval trade",
+  "language": "en",
+  "premise": "Bursa, 1453. The silk caravan season begins the week the news arrives from Constantinople: the city has fallen, and the silk road's western door is closed. Young caravan scribe Dilara, who can read the ledgers of a dozen tongues, is given a year to open a new route — or the weavers of Bursa will starve.",
+  "short_description": "Bursa, 1453. The silk caravan season begins the week the news arrives from Constantinople: the city has fallen, and the silk road's western door is closed. Young caravan scribe Dilara, who can read the ledgers of a dozen tongues, is given a year to open a new route — or the weavers of Bursa will starve.",
+  "long_description": "Bursa, 1453. The silk caravan season begins the week the news arrives from Constantinople: the city has fallen, and the silk road's western door is closed. Young caravan scribe Dilara, who can read the ledgers of a dozen tongues, is given a year to open a new route — or the weavers of Bursa will starve.",
+  "main_characters": [],
+  "keywords": [
+    "historical fiction",
+    "medieval trade",
+    "novel"
+  ],
+  "TXT_path": "books/The_Silk_Year/txt/The_Silk_Year.txt",
+  "EPUB_path": "books/The_Silk_Year/epub/The_Silk_Year.epub",
+  "cover_path": "books/The_Silk_Year/covers/The_Silk_Year.png",
+  "outline_path": "books/The_Silk_Year/planning/The_Silk_Year_outline.md",
+  "cover_script_path": "books/The_Silk_Year/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 22439,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 22439
+  }
+}

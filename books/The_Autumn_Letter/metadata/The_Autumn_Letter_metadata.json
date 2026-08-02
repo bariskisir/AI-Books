@@ -1,0 +1,28 @@
+{
+  "title": "The Autumn Letter",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Romance",
+  "subgenre": "Contemporary romance",
+  "language": "en",
+  "premise": "Every autumn, Sylvia Lindgren writes a letter to the address of the man she almost married — and never sends it. When the house is sold and her letters are returned, the new owner, Noah, begins writing back. Neither knows the other; both know the letters. Over one autumn, a correspondence becomes a courtship.",
+  "short_description": "Every autumn, Sylvia Lindgren writes a letter to the address of the man she almost married — and never sends it. When the house is sold and her letters are returned, the new owner, Noah, begins writing back. Neither knows the other; both know the letters. Over one autumn, a correspondence becomes a courtship.",
+  "long_description": "Every autumn, Sylvia Lindgren writes a letter to the address of the man she almost married — and never sends it. When the house is sold and her letters are returned, the new owner, Noah, begins writing back. Neither knows the other; both know the letters. Over one autumn, a correspondence becomes a courtship.",
+  "main_characters": [],
+  "keywords": [
+    "romance",
+    "contemporary romance",
+    "novel"
+  ],
+  "TXT_path": "books/The_Autumn_Letter/txt/The_Autumn_Letter.txt",
+  "EPUB_path": "books/The_Autumn_Letter/epub/The_Autumn_Letter.epub",
+  "cover_path": "books/The_Autumn_Letter/covers/The_Autumn_Letter.png",
+  "outline_path": "books/The_Autumn_Letter/planning/The_Autumn_Letter_outline.md",
+  "cover_script_path": "books/The_Autumn_Letter/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 22586,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 22586
+  }
+}

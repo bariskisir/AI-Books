@@ -1,0 +1,28 @@
+{
+  "title": "The Clockwork Train",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Middle Grade",
+  "subgenre": "MG steampunk",
+  "language": "en",
+  "premise": "The midnight clockwork train runs through the village of Copperwell once a year, and ten-year-old Ada has never missed it — until the year it stops, and the conductor steps off to ask her for help. The train\\'s clockwork heart has stopped, and the only one who can wind it is a child who still believes in the timetable.",
+  "short_description": "The midnight clockwork train runs through the village of Copperwell once a year, and ten-year-old Ada has never missed it — until the year it stops, and the conductor steps off to ask her for help. The train\\'s clockwork heart has stopped, and the only one who can wind it is a child who still believes in the timetable.",
+  "long_description": "The midnight clockwork train runs through the village of Copperwell once a year, and ten-year-old Ada has never missed it — until the year it stops, and the conductor steps off to ask her for help. The train\\'s clockwork heart has stopped, and the only one who can wind it is a child who still believes in the timetable.",
+  "main_characters": [],
+  "keywords": [
+    "middle grade",
+    "mg steampunk",
+    "novel"
+  ],
+  "TXT_path": "books/The_Clockwork_Train/txt/The_Clockwork_Train.txt",
+  "EPUB_path": "books/The_Clockwork_Train/epub/The_Clockwork_Train.epub",
+  "cover_path": "books/The_Clockwork_Train/covers/The_Clockwork_Train.png",
+  "outline_path": "books/The_Clockwork_Train/planning/The_Clockwork_Train_outline.md",
+  "cover_script_path": "books/The_Clockwork_Train/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 22550,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 22550
+  }
+}

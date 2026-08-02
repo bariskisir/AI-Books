@@ -1,0 +1,28 @@
+{
+  "title": "The Wax Light",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Mystery",
+  "subgenre": "Historical mystery",
+  "language": "en",
+  "premise": "The candle-maker\\'s shop on Tanner Lane makes the city\\'s finest wax — and its finest lies: the wax seals that close the city\\'s letters, contracts, and crimes. When the Master of the Seal dies with an unbroken seal on his own letter, journeyman wax-shaper Benet must prove the seal was made after the letter was written — and find who pressed it.",
+  "short_description": "The candle-maker\\'s shop on Tanner Lane makes the city\\'s finest wax — and its finest lies: the wax seals that close the city\\'s letters, contracts, and crimes. When the Master of the Seal dies with an unbroken seal on his own letter, journeyman wax-shaper Benet must prove the seal was made after the letter was written — and find who pressed it.",
+  "long_description": "The candle-maker\\'s shop on Tanner Lane makes the city\\'s finest wax — and its finest lies: the wax seals that close the city\\'s letters, contracts, and crimes. When the Master of the Seal dies with an unbroken seal on his own letter, journeyman wax-shaper Benet must prove the seal was made after the letter was written — and find who pressed it.",
+  "main_characters": [],
+  "keywords": [
+    "mystery",
+    "historical mystery",
+    "novel"
+  ],
+  "TXT_path": "books/The_Wax_Light/txt/The_Wax_Light.txt",
+  "EPUB_path": "books/The_Wax_Light/epub/The_Wax_Light.epub",
+  "cover_path": "books/The_Wax_Light/covers/The_Wax_Light.png",
+  "outline_path": "books/The_Wax_Light/planning/The_Wax_Light_outline.md",
+  "cover_script_path": "books/The_Wax_Light/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24272,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24272
+  }
+}

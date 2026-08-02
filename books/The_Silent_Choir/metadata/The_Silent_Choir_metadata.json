@@ -1,0 +1,28 @@
+{
+  "title": "The Silent Choir",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Mystery",
+  "subgenre": "Cozy mystery",
+  "language": "en",
+  "premise": "The village choir of St. Cuthbert\\'s has sung the same festival anthem for sixty years — until the night the entire choir falls silent mid-hymn and the choirmaster is found dead in the organ loft. Music teacher Clara Fenwick, who can read the score like a confession, must find out what the choir has been hiding for six decades.",
+  "short_description": "The village choir of St. Cuthbert\\'s has sung the same festival anthem for sixty years — until the night the entire choir falls silent mid-hymn and the choirmaster is found dead in the organ loft. Music teacher Clara Fenwick, who can read the score like a confession, must find out what the choir has been hiding for six decades.",
+  "long_description": "The village choir of St. Cuthbert\\'s has sung the same festival anthem for sixty years — until the night the entire choir falls silent mid-hymn and the choirmaster is found dead in the organ loft. Music teacher Clara Fenwick, who can read the score like a confession, must find out what the choir has been hiding for six decades.",
+  "main_characters": [],
+  "keywords": [
+    "mystery",
+    "cozy mystery",
+    "novel"
+  ],
+  "TXT_path": "books/The_Silent_Choir/txt/The_Silent_Choir.txt",
+  "EPUB_path": "books/The_Silent_Choir/epub/The_Silent_Choir.epub",
+  "cover_path": "books/The_Silent_Choir/covers/The_Silent_Choir.png",
+  "outline_path": "books/The_Silent_Choir/planning/The_Silent_Choir_outline.md",
+  "cover_script_path": "books/The_Silent_Choir/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 22455,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 22455
+  }
+}

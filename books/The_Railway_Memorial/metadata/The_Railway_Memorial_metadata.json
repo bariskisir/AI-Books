@@ -1,0 +1,28 @@
+{
+  "title": "The Railway Memorial",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Historical Fiction",
+  "subgenre": "Victorian rail",
+  "language": "en",
+  "premise": "Rugby, 1861. The railway has come to the village of Broadmere, and with it a death: the navvies\\' tunnel has collapsed, and the company is burying the dead with a lie — \"accident\" — to save the line\\'s schedule. Widow Martha Hale, who lost her husband to the rails, refuses the lie and begins a memorial for the men the railway will not name.",
+  "short_description": "Rugby, 1861. The railway has come to the village of Broadmere, and with it a death: the navvies\\' tunnel has collapsed, and the company is burying the dead with a lie — \"accident\" — to save the line\\'s schedule. Widow Martha Hale, who lost her husband to the rails, refuses the lie and begins a memorial for the men the railway will not name.",
+  "long_description": "Rugby, 1861. The railway has come to the village of Broadmere, and with it a death: the navvies\\' tunnel has collapsed, and the company is burying the dead with a lie — \"accident\" — to save the line\\'s schedule. Widow Martha Hale, who lost her husband to the rails, refuses the lie and begins a memorial for the men the railway will not name.",
+  "main_characters": [],
+  "keywords": [
+    "historical fiction",
+    "victorian rail",
+    "novel"
+  ],
+  "TXT_path": "books/The_Railway_Memorial/txt/The_Railway_Memorial.txt",
+  "EPUB_path": "books/The_Railway_Memorial/epub/The_Railway_Memorial.epub",
+  "cover_path": "books/The_Railway_Memorial/covers/The_Railway_Memorial.png",
+  "outline_path": "books/The_Railway_Memorial/planning/The_Railway_Memorial_outline.md",
+  "cover_script_path": "books/The_Railway_Memorial/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 25113,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25113
+  }
+}

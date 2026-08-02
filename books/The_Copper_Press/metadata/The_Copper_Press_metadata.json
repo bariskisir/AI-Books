@@ -1,0 +1,28 @@
+{
+  "title": "The Copper Press",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Historical Fiction",
+  "subgenre": "Printing revolution",
+  "language": "en",
+  "premise": "Ghent, 1473. Apprentice printer Margriet van der Meer inherits her master's copper press — and his secret: the press can print in color, a secret worth killing for, because the color reveals a map that the Church has spent a century erasing. Margriet must decide what a woman with a press and a truth can print, and what it will cost her.",
+  "short_description": "Ghent, 1473. Apprentice printer Margriet van der Meer inherits her master's copper press — and his secret: the press can print in color, a secret worth killing for, because the color reveals a map that the Church has spent a century erasing. Margriet must decide what a woman with a press and a truth can print, and what it will cost her.",
+  "long_description": "Ghent, 1473. Apprentice printer Margriet van der Meer inherits her master's copper press — and his secret: the press can print in color, a secret worth killing for, because the color reveals a map that the Church has spent a century erasing. Margriet must decide what a woman with a press and a truth can print, and what it will cost her.",
+  "main_characters": [],
+  "keywords": [
+    "historical fiction",
+    "printing revolution",
+    "novel"
+  ],
+  "TXT_path": "books/The_Copper_Press/txt/The_Copper_Press.txt",
+  "EPUB_path": "books/The_Copper_Press/epub/The_Copper_Press.epub",
+  "cover_path": "books/The_Copper_Press/covers/The_Copper_Press.png",
+  "outline_path": "books/The_Copper_Press/planning/The_Copper_Press_outline.md",
+  "cover_script_path": "books/The_Copper_Press/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24579,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24579
+  }
+}

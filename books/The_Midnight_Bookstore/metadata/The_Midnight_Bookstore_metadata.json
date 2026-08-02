@@ -1,0 +1,28 @@
+{
+  "title": "The Midnight Bookstore",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Romance",
+  "subgenre": "Bookish romance",
+  "language": "en",
+  "premise": "The Midnight Bookstore opens at 11 p.m. and sells only books about the night: dreams, stars, sleep, and the sea after dark. Its owner, Elin, is a night person who never expected company; its newest regular, Sam, is a daytime teacher who can\\'t sleep. Their courtship happens between midnight and two, in a shop lit like a lantern.",
+  "short_description": "The Midnight Bookstore opens at 11 p.m. and sells only books about the night: dreams, stars, sleep, and the sea after dark. Its owner, Elin, is a night person who never expected company; its newest regular, Sam, is a daytime teacher who can\\'t sleep. Their courtship happens between midnight and two, in a shop lit like a lantern.",
+  "long_description": "The Midnight Bookstore opens at 11 p.m. and sells only books about the night: dreams, stars, sleep, and the sea after dark. Its owner, Elin, is a night person who never expected company; its newest regular, Sam, is a daytime teacher who can\\'t sleep. Their courtship happens between midnight and two, in a shop lit like a lantern.",
+  "main_characters": [],
+  "keywords": [
+    "romance",
+    "bookish romance",
+    "novel"
+  ],
+  "TXT_path": "books/The_Midnight_Bookstore/txt/The_Midnight_Bookstore.txt",
+  "EPUB_path": "books/The_Midnight_Bookstore/epub/The_Midnight_Bookstore.epub",
+  "cover_path": "books/The_Midnight_Bookstore/covers/The_Midnight_Bookstore.png",
+  "outline_path": "books/The_Midnight_Bookstore/planning/The_Midnight_Bookstore_outline.md",
+  "cover_script_path": "books/The_Midnight_Bookstore/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24255,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24255
+  }
+}

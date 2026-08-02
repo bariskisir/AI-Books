@@ -1,0 +1,28 @@
+{
+  "title": "The Starlight Merchant",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Young Adult",
+  "subgenre": "YA fantasy",
+  "language": "en",
+  "premise": "The Starlight Merchant sells bottled stars — harvested from the sky and sold to the city\\'s rich. Apprentice merchant Selin discovers her own star was harvested, and the merchant who owns her is the one who took it. To get it back, she must learn the trade better than her master, and decide what a star is worth.",
+  "short_description": "The Starlight Merchant sells bottled stars — harvested from the sky and sold to the city\\'s rich. Apprentice merchant Selin discovers her own star was harvested, and the merchant who owns her is the one who took it. To get it back, she must learn the trade better than her master, and decide what a star is worth.",
+  "long_description": "The Starlight Merchant sells bottled stars — harvested from the sky and sold to the city\\'s rich. Apprentice merchant Selin discovers her own star was harvested, and the merchant who owns her is the one who took it. To get it back, she must learn the trade better than her master, and decide what a star is worth.",
+  "main_characters": [],
+  "keywords": [
+    "young adult",
+    "ya fantasy",
+    "novel"
+  ],
+  "TXT_path": "books/The_Starlight_Merchant/txt/The_Starlight_Merchant.txt",
+  "EPUB_path": "books/The_Starlight_Merchant/epub/The_Starlight_Merchant.epub",
+  "cover_path": "books/The_Starlight_Merchant/covers/The_Starlight_Merchant.png",
+  "outline_path": "books/The_Starlight_Merchant/planning/The_Starlight_Merchant_outline.md",
+  "cover_script_path": "books/The_Starlight_Merchant/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 23959,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23959
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "The Sea Glass House",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Middle Grade",
+  "subgenre": "MG mystery",
+  "language": "en",
+  "premise": "The sea-glass house at the end of Crab Lane is always locked, and twelve-year-old Pip has always wondered why. When the summer's first storm washes a key onto the beach, Pip and her cousin Moe unlock a house full of sea-glass jars — each jar holding a note from a stranger, and one jar holding a note from Pip\\'s missing grandmother.",
+  "short_description": "The sea-glass house at the end of Crab Lane is always locked, and twelve-year-old Pip has always wondered why. When the summer's first storm washes a key onto the beach, Pip and her cousin Moe unlock a house full of sea-glass jars — each jar holding a note from a stranger, and one jar holding a note from Pip\\'s missing grandmother.",
+  "long_description": "The sea-glass house at the end of Crab Lane is always locked, and twelve-year-old Pip has always wondered why. When the summer's first storm washes a key onto the beach, Pip and her cousin Moe unlock a house full of sea-glass jars — each jar holding a note from a stranger, and one jar holding a note from Pip\\'s missing grandmother.",
+  "main_characters": [],
+  "keywords": [
+    "middle grade",
+    "mg mystery",
+    "novel"
+  ],
+  "TXT_path": "books/The_Sea_Glass_House/txt/The_Sea_Glass_House.txt",
+  "EPUB_path": "books/The_Sea_Glass_House/epub/The_Sea_Glass_House.epub",
+  "cover_path": "books/The_Sea_Glass_House/covers/The_Sea_Glass_House.png",
+  "outline_path": "books/The_Sea_Glass_House/planning/The_Sea_Glass_House_outline.md",
+  "cover_script_path": "books/The_Sea_Glass_House/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 23143,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23143
+  }
+}

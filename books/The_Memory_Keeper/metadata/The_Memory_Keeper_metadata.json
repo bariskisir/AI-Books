@@ -1,0 +1,28 @@
+{
+  "title": "The Memory Keeper",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Literary Fiction",
+  "subgenre": "Family saga",
+  "language": "en",
+  "premise": "The Memory Keeper of the title is the family\\'s archivist: every photograph, every letter, every receipt of the Lindquist family, kept in a house that has held them for five generations. When the keeper, Ruth, dies, her granddaughter Maren inherits the archive — and discovers the family\\'s history has been curated: some memories kept, others deliberately lost. To keep the archive honestly, Maren must find what Ruth removed.",
+  "short_description": "The Memory Keeper of the title is the family\\'s archivist: every photograph, every letter, every receipt of the Lindquist family, kept in a house that has held them for five generations. When the keeper, Ruth, dies, her granddaughter Maren inherits the archive — and discovers the family\\'s history has been curated: some memories kept, others deliberately lost. To keep the archive honestly, Maren must find what Ruth removed.",
+  "long_description": "The Memory Keeper of the title is the family\\'s archivist: every photograph, every letter, every receipt of the Lindquist family, kept in a house that has held them for five generations. When the keeper, Ruth, dies, her granddaughter Maren inherits the archive — and discovers the family\\'s history has been curated: some memories kept, others deliberately lost. To keep the archive honestly, Maren must find what Ruth removed.",
+  "main_characters": [],
+  "keywords": [
+    "literary fiction",
+    "family saga",
+    "novel"
+  ],
+  "TXT_path": "books/The_Memory_Keeper/txt/The_Memory_Keeper.txt",
+  "EPUB_path": "books/The_Memory_Keeper/epub/The_Memory_Keeper.epub",
+  "cover_path": "books/The_Memory_Keeper/covers/The_Memory_Keeper.png",
+  "outline_path": "books/The_Memory_Keeper/planning/The_Memory_Keeper_outline.md",
+  "cover_script_path": "books/The_Memory_Keeper/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24560,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24560
+  }
+}

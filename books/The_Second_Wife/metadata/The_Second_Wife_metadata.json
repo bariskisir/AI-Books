@@ -1,0 +1,28 @@
+{
+  "title": "The Second Wife",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Literary Fiction",
+  "subgenre": "Domestic drama",
+  "language": "en",
+  "premise": "When Helena marries the widower Daniel, she inherits a house arranged by his first wife — every room, every shelf, every photograph placed by a woman she never met. Over one year, Helena must decide whether she is living in a shrine or a home, and whether the first wife\\'s absence is a ghost or a gift.",
+  "short_description": "When Helena marries the widower Daniel, she inherits a house arranged by his first wife — every room, every shelf, every photograph placed by a woman she never met. Over one year, Helena must decide whether she is living in a shrine or a home, and whether the first wife\\'s absence is a ghost or a gift.",
+  "long_description": "When Helena marries the widower Daniel, she inherits a house arranged by his first wife — every room, every shelf, every photograph placed by a woman she never met. Over one year, Helena must decide whether she is living in a shrine or a home, and whether the first wife\\'s absence is a ghost or a gift.",
+  "main_characters": [],
+  "keywords": [
+    "literary fiction",
+    "domestic drama",
+    "novel"
+  ],
+  "TXT_path": "books/The_Second_Wife/txt/The_Second_Wife.txt",
+  "EPUB_path": "books/The_Second_Wife/epub/The_Second_Wife.epub",
+  "cover_path": "books/The_Second_Wife/covers/The_Second_Wife.png",
+  "outline_path": "books/The_Second_Wife/planning/The_Second_Wife_outline.md",
+  "cover_script_path": "books/The_Second_Wife/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 22986,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 22986
+  }
+}

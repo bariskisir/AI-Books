@@ -1,0 +1,28 @@
+{
+  "title": "The Snow Station",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Thriller",
+  "subgenre": "Nordic thriller",
+  "language": "en",
+  "premise": "The research station at Kare Fjell is cut off by the season's first blizzard, and with it: twelve scientists, one secret, and a body found in the generator shed. Glaciologist Ingrid Voss, who knows the station's ice better than its people, has three days before the weather clears to find which of her colleagues buried the secret — and who is now burying them.",
+  "short_description": "The research station at Kare Fjell is cut off by the season's first blizzard, and with it: twelve scientists, one secret, and a body found in the generator shed. Glaciologist Ingrid Voss, who knows the station's ice better than its people, has three days before the weather clears to find which of her colleagues buried the secret — and who is now burying them.",
+  "long_description": "The research station at Kare Fjell is cut off by the season's first blizzard, and with it: twelve scientists, one secret, and a body found in the generator shed. Glaciologist Ingrid Voss, who knows the station's ice better than its people, has three days before the weather clears to find which of her colleagues buried the secret — and who is now burying them.",
+  "main_characters": [],
+  "keywords": [
+    "thriller",
+    "nordic thriller",
+    "novel"
+  ],
+  "TXT_path": "books/The_Snow_Station/txt/The_Snow_Station.txt",
+  "EPUB_path": "books/The_Snow_Station/epub/The_Snow_Station.epub",
+  "cover_path": "books/The_Snow_Station/covers/The_Snow_Station.png",
+  "outline_path": "books/The_Snow_Station/planning/The_Snow_Station_outline.md",
+  "cover_script_path": "books/The_Snow_Station/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24362,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24362
+  }
+}

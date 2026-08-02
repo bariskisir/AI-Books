@@ -1,0 +1,28 @@
+{
+  "title": "The Heliosphere",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Science Fiction",
+  "subgenre": "Near-future SF",
+  "language": "en",
+  "premise": "Solar physicist Dr. Mariam Okoye discovers a shadow crossing the heliosphere — a dark patch on the sunward data that moves against the solar wind. It is not a storm. It is not a craft. It is a question, and it is aimed at Earth.",
+  "short_description": "Solar physicist Dr. Mariam Okoye discovers a shadow crossing the heliosphere — a dark patch on the sunward data that moves against the solar wind. It is not a storm. It is not a craft. It is a question, and it is aimed at Earth.",
+  "long_description": "Solar physicist Dr. Mariam Okoye discovers a shadow crossing the heliosphere — a dark patch on the sunward data that moves against the solar wind. It is not a storm. It is not a craft. It is a question, and it is aimed at Earth.",
+  "main_characters": [],
+  "keywords": [
+    "science fiction",
+    "near-future sf",
+    "novel"
+  ],
+  "TXT_path": "books/The_Heliosphere/txt/The_Heliosphere.txt",
+  "EPUB_path": "books/The_Heliosphere/epub/The_Heliosphere.epub",
+  "cover_path": "books/The_Heliosphere/covers/The_Heliosphere.png",
+  "outline_path": "books/The_Heliosphere/planning/The_Heliosphere_outline.md",
+  "cover_script_path": "books/The_Heliosphere/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24107,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24107
+  }
+}

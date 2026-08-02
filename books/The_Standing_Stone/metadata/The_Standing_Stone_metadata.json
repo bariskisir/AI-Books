@@ -1,0 +1,28 @@
+{
+  "title": "The Standing Stone",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Fantasy",
+  "subgenre": "Mythic fantasy",
+  "language": "en",
+  "premise": "The standing stone in the village meadow has cast the same shadow at noon for eight hundred years. When the shadow begins to drift — a finger\\'s width a day, then a hand\\'s — the village sends its youngest herder, Alba, to the stone. The stone has a name it has not spoken in eight hundred years, and it is waiting for someone who will ask it properly.",
+  "short_description": "The standing stone in the village meadow has cast the same shadow at noon for eight hundred years. When the shadow begins to drift — a finger\\'s width a day, then a hand\\'s — the village sends its youngest herder, Alba, to the stone. The stone has a name it has not spoken in eight hundred years, and it is waiting for someone who will ask it properly.",
+  "long_description": "The standing stone in the village meadow has cast the same shadow at noon for eight hundred years. When the shadow begins to drift — a finger\\'s width a day, then a hand\\'s — the village sends its youngest herder, Alba, to the stone. The stone has a name it has not spoken in eight hundred years, and it is waiting for someone who will ask it properly.",
+  "main_characters": [],
+  "keywords": [
+    "fantasy",
+    "mythic fantasy",
+    "novel"
+  ],
+  "TXT_path": "books/The_Standing_Stone/txt/The_Standing_Stone.txt",
+  "EPUB_path": "books/The_Standing_Stone/epub/The_Standing_Stone.epub",
+  "cover_path": "books/The_Standing_Stone/covers/The_Standing_Stone.png",
+  "outline_path": "books/The_Standing_Stone/planning/The_Standing_Stone_outline.md",
+  "cover_script_path": "books/The_Standing_Stone/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24329,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24329
+  }
+}

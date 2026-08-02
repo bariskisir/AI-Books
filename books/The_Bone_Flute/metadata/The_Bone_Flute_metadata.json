@@ -1,0 +1,28 @@
+{
+  "title": "The Bone Flute",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Fantasy",
+  "subgenre": "Dark fantasy",
+  "language": "en",
+  "premise": "The flutist Halden plays the dead — a bone flute that lets the departed speak one last time through his music. When a king hires him to play his murdered son, the flute speaks a name that should be impossible: the king\\'s own. Halden must decide whether to play the truth and die, or play a lie and live as the kingdom\\'s greatest liar.",
+  "short_description": "The flutist Halden plays the dead — a bone flute that lets the departed speak one last time through his music. When a king hires him to play his murdered son, the flute speaks a name that should be impossible: the king\\'s own. Halden must decide whether to play the truth and die, or play a lie and live as the kingdom\\'s greatest liar.",
+  "long_description": "The flutist Halden plays the dead — a bone flute that lets the departed speak one last time through his music. When a king hires him to play his murdered son, the flute speaks a name that should be impossible: the king\\'s own. Halden must decide whether to play the truth and die, or play a lie and live as the kingdom\\'s greatest liar.",
+  "main_characters": [],
+  "keywords": [
+    "fantasy",
+    "dark fantasy",
+    "novel"
+  ],
+  "TXT_path": "books/The_Bone_Flute/txt/The_Bone_Flute.txt",
+  "EPUB_path": "books/The_Bone_Flute/epub/The_Bone_Flute.epub",
+  "cover_path": "books/The_Bone_Flute/covers/The_Bone_Flute.png",
+  "outline_path": "books/The_Bone_Flute/planning/The_Bone_Flute_outline.md",
+  "cover_script_path": "books/The_Bone_Flute/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 25294,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25294
+  }
+}

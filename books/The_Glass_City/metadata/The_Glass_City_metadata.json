@@ -1,0 +1,28 @@
+{
+  "title": "The Glass City",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Cyberpunk",
+  "subgenre": "Cyberpunk noir",
+  "language": "en",
+  "premise": "In the Glass City, every surface is a screen and every screen is a witness. Hacker Maren Kai, who has lived her life off the glass, is hired to steal a memory from the city\\'s archive — and finds the memory is her own, recorded before she was born. The Glass City remembers everything except who erased her.",
+  "short_description": "In the Glass City, every surface is a screen and every screen is a witness. Hacker Maren Kai, who has lived her life off the glass, is hired to steal a memory from the city\\'s archive — and finds the memory is her own, recorded before she was born. The Glass City remembers everything except who erased her.",
+  "long_description": "In the Glass City, every surface is a screen and every screen is a witness. Hacker Maren Kai, who has lived her life off the glass, is hired to steal a memory from the city\\'s archive — and finds the memory is her own, recorded before she was born. The Glass City remembers everything except who erased her.",
+  "main_characters": [],
+  "keywords": [
+    "cyberpunk",
+    "cyberpunk noir",
+    "novel"
+  ],
+  "TXT_path": "books/The_Glass_City/txt/The_Glass_City.txt",
+  "EPUB_path": "books/The_Glass_City/epub/The_Glass_City.epub",
+  "cover_path": "books/The_Glass_City/covers/The_Glass_City.png",
+  "outline_path": "books/The_Glass_City/planning/The_Glass_City_outline.md",
+  "cover_script_path": "books/The_Glass_City/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24592,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24592
+  }
+}

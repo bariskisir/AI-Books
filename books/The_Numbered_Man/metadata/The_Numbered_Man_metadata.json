@@ -1,0 +1,28 @@
+{
+  "title": "The Numbered Man",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Thriller",
+  "subgenre": "Psychological thriller",
+  "language": "en",
+  "premise": "Accountant Elias Vane lives by numbers: his day is a ledger, his home a balance sheet. When a stranger hands him a numbered slip — \"You are #712\" — and people around him begin dying in numerical order, Elias must audit the last seventy-two hours of his life to find the man who is counting him down.",
+  "short_description": "Accountant Elias Vane lives by numbers: his day is a ledger, his home a balance sheet. When a stranger hands him a numbered slip — \"You are #712\" — and people around him begin dying in numerical order, Elias must audit the last seventy-two hours of his life to find the man who is counting him down.",
+  "long_description": "Accountant Elias Vane lives by numbers: his day is a ledger, his home a balance sheet. When a stranger hands him a numbered slip — \"You are #712\" — and people around him begin dying in numerical order, Elias must audit the last seventy-two hours of his life to find the man who is counting him down.",
+  "main_characters": [],
+  "keywords": [
+    "thriller",
+    "psychological thriller",
+    "novel"
+  ],
+  "TXT_path": "books/The_Numbered_Man/txt/The_Numbered_Man.txt",
+  "EPUB_path": "books/The_Numbered_Man/epub/The_Numbered_Man.epub",
+  "cover_path": "books/The_Numbered_Man/covers/The_Numbered_Man.png",
+  "outline_path": "books/The_Numbered_Man/planning/The_Numbered_Man_outline.md",
+  "cover_script_path": "books/The_Numbered_Man/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 25442,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25442
+  }
+}

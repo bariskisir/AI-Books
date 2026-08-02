@@ -1,0 +1,28 @@
+{
+  "title": "The Red Ledger",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Thriller",
+  "subgenre": "Financial thriller",
+  "language": "en",
+  "premise": "Forensic auditor Priya Nair finds a red ledger hidden in a bankrupt bank's vault — a second set of books recording payments to a man who died twenty years ago, still being paid. The ledger is alive: every month it grows. Priya must follow the money to its source, even as the source begins following her.",
+  "short_description": "Forensic auditor Priya Nair finds a red ledger hidden in a bankrupt bank's vault — a second set of books recording payments to a man who died twenty years ago, still being paid. The ledger is alive: every month it grows. Priya must follow the money to its source, even as the source begins following her.",
+  "long_description": "Forensic auditor Priya Nair finds a red ledger hidden in a bankrupt bank's vault — a second set of books recording payments to a man who died twenty years ago, still being paid. The ledger is alive: every month it grows. Priya must follow the money to its source, even as the source begins following her.",
+  "main_characters": [],
+  "keywords": [
+    "thriller",
+    "financial thriller",
+    "novel"
+  ],
+  "TXT_path": "books/The_Red_Ledger/txt/The_Red_Ledger.txt",
+  "EPUB_path": "books/The_Red_Ledger/epub/The_Red_Ledger.epub",
+  "cover_path": "books/The_Red_Ledger/covers/The_Red_Ledger.png",
+  "outline_path": "books/The_Red_Ledger/planning/The_Red_Ledger_outline.md",
+  "cover_script_path": "books/The_Red_Ledger/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24729,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24729
+  }
+}

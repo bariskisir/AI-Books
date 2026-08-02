@@ -1,0 +1,28 @@
+{
+  "title": "The Quantum Orchard",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Science Fiction",
+  "subgenre": "Hard SF",
+  "language": "en",
+  "premise": "Quantum agronomist Dr. Aiko Tanaka grows crops in superposition — every harvest exists in every state until observed. When one of her orchard trees bears fruit from a state that should be impossible, Aiko must confront the orchard itself: it is not growing crops, it is growing the future, and something is pruning it.",
+  "short_description": "Quantum agronomist Dr. Aiko Tanaka grows crops in superposition — every harvest exists in every state until observed. When one of her orchard trees bears fruit from a state that should be impossible, Aiko must confront the orchard itself: it is not growing crops, it is growing the future, and something is pruning it.",
+  "long_description": "Quantum agronomist Dr. Aiko Tanaka grows crops in superposition — every harvest exists in every state until observed. When one of her orchard trees bears fruit from a state that should be impossible, Aiko must confront the orchard itself: it is not growing crops, it is growing the future, and something is pruning it.",
+  "main_characters": [],
+  "keywords": [
+    "science fiction",
+    "hard sf",
+    "novel"
+  ],
+  "TXT_path": "books/The_Quantum_Orchard/txt/The_Quantum_Orchard.txt",
+  "EPUB_path": "books/The_Quantum_Orchard/epub/The_Quantum_Orchard.epub",
+  "cover_path": "books/The_Quantum_Orchard/covers/The_Quantum_Orchard.png",
+  "outline_path": "books/The_Quantum_Orchard/planning/The_Quantum_Orchard_outline.md",
+  "cover_script_path": "books/The_Quantum_Orchard/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24958,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24958
+  }
+}

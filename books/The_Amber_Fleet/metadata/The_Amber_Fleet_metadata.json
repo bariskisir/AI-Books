@@ -1,0 +1,28 @@
+{
+  "title": "The Amber Fleet",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Historical Fiction",
+  "subgenre": "Age of sail",
+  "language": "en",
+  "premise": "Amsterdam, 1672. The Republic is at war, the fleets are burning, and navigator-cartographer Sanna de Vries has been given a commission no one wanted: chart the last uncharted sea — the Amber Route to the Baltic's secret harbors — with a crew of the navy's discards. The map she brings home will decide a war she was never meant to survive.",
+  "short_description": "Amsterdam, 1672. The Republic is at war, the fleets are burning, and navigator-cartographer Sanna de Vries has been given a commission no one wanted: chart the last uncharted sea — the Amber Route to the Baltic's secret harbors — with a crew of the navy's discards. The map she brings home will decide a war she was never meant to survive.",
+  "long_description": "Amsterdam, 1672. The Republic is at war, the fleets are burning, and navigator-cartographer Sanna de Vries has been given a commission no one wanted: chart the last uncharted sea — the Amber Route to the Baltic's secret harbors — with a crew of the navy's discards. The map she brings home will decide a war she was never meant to survive.",
+  "main_characters": [],
+  "keywords": [
+    "historical fiction",
+    "age of sail",
+    "novel"
+  ],
+  "TXT_path": "books/The_Amber_Fleet/txt/The_Amber_Fleet.txt",
+  "EPUB_path": "books/The_Amber_Fleet/epub/The_Amber_Fleet.epub",
+  "cover_path": "books/The_Amber_Fleet/covers/The_Amber_Fleet.png",
+  "outline_path": "books/The_Amber_Fleet/planning/The_Amber_Fleet_outline.md",
+  "cover_script_path": "books/The_Amber_Fleet/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 23580,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23580
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "The Sleeping Orchard",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Fantasy",
+  "subgenre": "Fairy-tale fantasy",
+  "language": "en",
+  "premise": "The orchard behind the wall sleeps — a hundred-year slumber cast by a witch who was never defeated, only postponed. When the apples begin to ripen mid-winter, village girl Hazel must enter the orchard to wake it, and finds the witch was not the orchard\\'s enemy but its gardener.",
+  "short_description": "The orchard behind the wall sleeps — a hundred-year slumber cast by a witch who was never defeated, only postponed. When the apples begin to ripen mid-winter, village girl Hazel must enter the orchard to wake it, and finds the witch was not the orchard\\'s enemy but its gardener.",
+  "long_description": "The orchard behind the wall sleeps — a hundred-year slumber cast by a witch who was never defeated, only postponed. When the apples begin to ripen mid-winter, village girl Hazel must enter the orchard to wake it, and finds the witch was not the orchard\\'s enemy but its gardener.",
+  "main_characters": [],
+  "keywords": [
+    "fantasy",
+    "fairy-tale fantasy",
+    "novel"
+  ],
+  "TXT_path": "books/The_Sleeping_Orchard/txt/The_Sleeping_Orchard.txt",
+  "EPUB_path": "books/The_Sleeping_Orchard/epub/The_Sleeping_Orchard.epub",
+  "cover_path": "books/The_Sleeping_Orchard/covers/The_Sleeping_Orchard.png",
+  "outline_path": "books/The_Sleeping_Orchard/planning/The_Sleeping_Orchard_outline.md",
+  "cover_script_path": "books/The_Sleeping_Orchard/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 25361,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25361
+  }
+}

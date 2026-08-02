@@ -1,0 +1,28 @@
+{
+  "title": "The Wild Ones",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Adventure",
+  "subgenre": "Expedition",
+  "language": "en",
+  "premise": "The last unmapped river in the Amazon basin is the Urupi, and the mapmakers have failed to reach its source three times. Explorer Dr. Lena Okafor gets a fourth expedition — with a crew of the failed: a disgraced cartographer, a sick botanist, a guide who has sworn off the river. The Urupi is not unmapped because it is hard. It is unmapped because it is guarded.",
+  "short_description": "The last unmapped river in the Amazon basin is the Urupi, and the mapmakers have failed to reach its source three times. Explorer Dr. Lena Okafor gets a fourth expedition — with a crew of the failed: a disgraced cartographer, a sick botanist, a guide who has sworn off the river. The Urupi is not unmapped because it is hard. It is unmapped because it is guarded.",
+  "long_description": "The last unmapped river in the Amazon basin is the Urupi, and the mapmakers have failed to reach its source three times. Explorer Dr. Lena Okafor gets a fourth expedition — with a crew of the failed: a disgraced cartographer, a sick botanist, a guide who has sworn off the river. The Urupi is not unmapped because it is hard. It is unmapped because it is guarded.",
+  "main_characters": [],
+  "keywords": [
+    "adventure",
+    "expedition",
+    "novel"
+  ],
+  "TXT_path": "books/The_Wild_Ones/txt/The_Wild_Ones.txt",
+  "EPUB_path": "books/The_Wild_Ones/epub/The_Wild_Ones.epub",
+  "cover_path": "books/The_Wild_Ones/covers/The_Wild_Ones.png",
+  "outline_path": "books/The_Wild_Ones/planning/The_Wild_Ones_outline.md",
+  "cover_script_path": "books/The_Wild_Ones/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 25530,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25530
+  }
+}

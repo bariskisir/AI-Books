@@ -1,0 +1,28 @@
+{
+  "title": "The Seaside Restaurant",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Romance",
+  "subgenre": "Small-town romance",
+  "language": "en",
+  "premise": "The seaside restaurant of San Candido is closing after sixty years, and its owner, Rosa, has one condition for selling: her daughter Sofia must cook the final summer service with Marco, the fisherman\\'s son Sofia left ten years ago. The kitchen is small, the summer is short, and the old fire is still banked.",
+  "short_description": "The seaside restaurant of San Candido is closing after sixty years, and its owner, Rosa, has one condition for selling: her daughter Sofia must cook the final summer service with Marco, the fisherman\\'s son Sofia left ten years ago. The kitchen is small, the summer is short, and the old fire is still banked.",
+  "long_description": "The seaside restaurant of San Candido is closing after sixty years, and its owner, Rosa, has one condition for selling: her daughter Sofia must cook the final summer service with Marco, the fisherman\\'s son Sofia left ten years ago. The kitchen is small, the summer is short, and the old fire is still banked.",
+  "main_characters": [],
+  "keywords": [
+    "romance",
+    "small-town romance",
+    "novel"
+  ],
+  "TXT_path": "books/The_Seaside_Restaurant/txt/The_Seaside_Restaurant.txt",
+  "EPUB_path": "books/The_Seaside_Restaurant/epub/The_Seaside_Restaurant.epub",
+  "cover_path": "books/The_Seaside_Restaurant/covers/The_Seaside_Restaurant.png",
+  "outline_path": "books/The_Seaside_Restaurant/planning/The_Seaside_Restaurant_outline.md",
+  "cover_script_path": "books/The_Seaside_Restaurant/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24937,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24937
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "The Copper Canyon",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Western",
+  "subgenre": "Frontier western",
+  "language": "en",
+  "premise": "The copper strike at Cañon del Cobre has brought a hundred men, three saloons, and one lawman to a canyon that had only ever known sheep. Deputy sheriff Rosa Aguilar, raised on the canyon\\'s sheep trails, must keep the peace among the miners — and find out who is stealing the copper that has made the canyon rich enough to kill for.",
+  "short_description": "The copper strike at Cañon del Cobre has brought a hundred men, three saloons, and one lawman to a canyon that had only ever known sheep. Deputy sheriff Rosa Aguilar, raised on the canyon\\'s sheep trails, must keep the peace among the miners — and find out who is stealing the copper that has made the canyon rich enough to kill for.",
+  "long_description": "The copper strike at Cañon del Cobre has brought a hundred men, three saloons, and one lawman to a canyon that had only ever known sheep. Deputy sheriff Rosa Aguilar, raised on the canyon\\'s sheep trails, must keep the peace among the miners — and find out who is stealing the copper that has made the canyon rich enough to kill for.",
+  "main_characters": [],
+  "keywords": [
+    "western",
+    "frontier western",
+    "novel"
+  ],
+  "TXT_path": "books/The_Copper_Canyon/txt/The_Copper_Canyon.txt",
+  "EPUB_path": "books/The_Copper_Canyon/epub/The_Copper_Canyon.epub",
+  "cover_path": "books/The_Copper_Canyon/covers/The_Copper_Canyon.png",
+  "outline_path": "books/The_Copper_Canyon/planning/The_Copper_Canyon_outline.md",
+  "cover_script_path": "books/The_Copper_Canyon/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24392,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24392
+  }
+}

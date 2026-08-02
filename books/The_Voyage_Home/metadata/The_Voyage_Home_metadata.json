@@ -1,0 +1,28 @@
+{
+  "title": "The Voyage Home",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Historical Fiction",
+  "subgenre": "WWII home front",
+  "language": "en",
+  "premise": "London, 1944. Railway clerk Nell Whitfield keeps the departures board at Paddington — every train, every soldier, every goodbye. When her brother's name appears on a casualty list and then a letter arrives from a soldier she never met claiming to be him, Nell must decide whether the man coming home is her brother, an impostor, or the war's strangest mercy.",
+  "short_description": "London, 1944. Railway clerk Nell Whitfield keeps the departures board at Paddington — every train, every soldier, every goodbye. When her brother's name appears on a casualty list and then a letter arrives from a soldier she never met claiming to be him, Nell must decide whether the man coming home is her brother, an impostor, or the war's strangest mercy.",
+  "long_description": "London, 1944. Railway clerk Nell Whitfield keeps the departures board at Paddington — every train, every soldier, every goodbye. When her brother's name appears on a casualty list and then a letter arrives from a soldier she never met claiming to be him, Nell must decide whether the man coming home is her brother, an impostor, or the war's strangest mercy.",
+  "main_characters": [],
+  "keywords": [
+    "historical fiction",
+    "wwii home front",
+    "novel"
+  ],
+  "TXT_path": "books/The_Voyage_Home/txt/The_Voyage_Home.txt",
+  "EPUB_path": "books/The_Voyage_Home/epub/The_Voyage_Home.epub",
+  "cover_path": "books/The_Voyage_Home/covers/The_Voyage_Home.png",
+  "outline_path": "books/The_Voyage_Home/planning/The_Voyage_Home_outline.md",
+  "cover_script_path": "books/The_Voyage_Home/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 25281,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25281
+  }
+}

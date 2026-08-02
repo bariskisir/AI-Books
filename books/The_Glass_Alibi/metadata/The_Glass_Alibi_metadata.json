@@ -1,0 +1,28 @@
+{
+  "title": "The Glass Alibi",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Thriller",
+  "subgenre": "Legal thriller",
+  "language": "en",
+  "premise": "Glass artist Mina Hale\\'s alibi for the night of the murder is her kiln: the temperature log proves she was firing glass at 2 a.m. But the log is a forgery — she fired the kiln early, at 9 p.m., and the murderer is her sister. To save her sister, Mina must defend a lie in court without breaking the alibi she never had.",
+  "short_description": "Glass artist Mina Hale\\'s alibi for the night of the murder is her kiln: the temperature log proves she was firing glass at 2 a.m. But the log is a forgery — she fired the kiln early, at 9 p.m., and the murderer is her sister. To save her sister, Mina must defend a lie in court without breaking the alibi she never had.",
+  "long_description": "Glass artist Mina Hale\\'s alibi for the night of the murder is her kiln: the temperature log proves she was firing glass at 2 a.m. But the log is a forgery — she fired the kiln early, at 9 p.m., and the murderer is her sister. To save her sister, Mina must defend a lie in court without breaking the alibi she never had.",
+  "main_characters": [],
+  "keywords": [
+    "thriller",
+    "legal thriller",
+    "novel"
+  ],
+  "TXT_path": "books/The_Glass_Alibi/txt/The_Glass_Alibi.txt",
+  "EPUB_path": "books/The_Glass_Alibi/epub/The_Glass_Alibi.epub",
+  "cover_path": "books/The_Glass_Alibi/covers/The_Glass_Alibi.png",
+  "outline_path": "books/The_Glass_Alibi/planning/The_Glass_Alibi_outline.md",
+  "cover_script_path": "books/The_Glass_Alibi/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 24965,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 24965
+  }
+}

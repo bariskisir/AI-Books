@@ -1,0 +1,28 @@
+{
+  "title": "The Mirror Season",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Horror",
+  "subgenre": "Psychological horror",
+  "language": "en",
+  "premise": "The mirrors in the old hotel are wrong — they lag by half a second, showing the past just long enough to be seen. Night manager Lena Hsu, who works the dead hours alone, begins to use the lag: the mirrors show her what she missed, what was said behind her, what happened in the rooms. The season of lag is the hotel\\'s \"mirror season,\" and this year, the lag is growing.",
+  "short_description": "The mirrors in the old hotel are wrong — they lag by half a second, showing the past just long enough to be seen. Night manager Lena Hsu, who works the dead hours alone, begins to use the lag: the mirrors show her what she missed, what was said behind her, what happened in the rooms. The season of lag is the hotel\\'s \"mirror season,\" and this year, the lag is growing.",
+  "long_description": "The mirrors in the old hotel are wrong — they lag by half a second, showing the past just long enough to be seen. Night manager Lena Hsu, who works the dead hours alone, begins to use the lag: the mirrors show her what she missed, what was said behind her, what happened in the rooms. The season of lag is the hotel\\'s \"mirror season,\" and this year, the lag is growing.",
+  "main_characters": [],
+  "keywords": [
+    "horror",
+    "psychological horror",
+    "novel"
+  ],
+  "TXT_path": "books/The_Mirror_Season/txt/The_Mirror_Season.txt",
+  "EPUB_path": "books/The_Mirror_Season/epub/The_Mirror_Season.epub",
+  "cover_path": "books/The_Mirror_Season/covers/The_Mirror_Season.png",
+  "outline_path": "books/The_Mirror_Season/planning/The_Mirror_Season_outline.md",
+  "cover_script_path": "books/The_Mirror_Season/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 25071,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 25071
+  }
+}

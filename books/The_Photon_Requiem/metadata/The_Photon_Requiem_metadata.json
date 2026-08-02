@@ -1,0 +1,28 @@
+{
+  "title": "The Photon Requiem",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Science Fiction",
+  "subgenre": "Space opera",
+  "language": "en",
+  "premise": "The last lightship of the Lumen Navy carries a cargo that was never meant to arrive: the recorded consciousness of the Navy\\'s founder, preserved to be \"reborn\" at the end of a century-long war. When the war ends two decades early, navigator-priest Elian must decide whether the rebirth is a resurrection — or an occupation of the peace.",
+  "short_description": "The last lightship of the Lumen Navy carries a cargo that was never meant to arrive: the recorded consciousness of the Navy\\'s founder, preserved to be \"reborn\" at the end of a century-long war. When the war ends two decades early, navigator-priest Elian must decide whether the rebirth is a resurrection — or an occupation of the peace.",
+  "long_description": "The last lightship of the Lumen Navy carries a cargo that was never meant to arrive: the recorded consciousness of the Navy\\'s founder, preserved to be \"reborn\" at the end of a century-long war. When the war ends two decades early, navigator-priest Elian must decide whether the rebirth is a resurrection — or an occupation of the peace.",
+  "main_characters": [],
+  "keywords": [
+    "science fiction",
+    "space opera",
+    "novel"
+  ],
+  "TXT_path": "books/The_Photon_Requiem/txt/The_Photon_Requiem.txt",
+  "EPUB_path": "books/The_Photon_Requiem/epub/The_Photon_Requiem.epub",
+  "cover_path": "books/The_Photon_Requiem/covers/The_Photon_Requiem.png",
+  "outline_path": "books/The_Photon_Requiem/planning/The_Photon_Requiem_outline.md",
+  "cover_script_path": "books/The_Photon_Requiem/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 23186,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23186
+  }
+}

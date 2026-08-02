@@ -1,0 +1,28 @@
+{
+  "title": "The Art of Embers",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Non-Fiction",
+  "subgenre": "Essay collection",
+  "language": "en",
+  "premise": "An essay collection on fire: the hearth, the kitchen, the forge, the bonfire, the burnout, the phoenix. Through a year of fires — the literal and the metaphorical — a writer examines what we burn, what we keep, and what rises. Twelve essays, one year, every flame accounted for.",
+  "short_description": "An essay collection on fire: the hearth, the kitchen, the forge, the bonfire, the burnout, the phoenix. Through a year of fires — the literal and the metaphorical — a writer examines what we burn, what we keep, and what rises. Twelve essays, one year, every flame accounted for.",
+  "long_description": "An essay collection on fire: the hearth, the kitchen, the forge, the bonfire, the burnout, the phoenix. Through a year of fires — the literal and the metaphorical — a writer examines what we burn, what we keep, and what rises. Twelve essays, one year, every flame accounted for.",
+  "main_characters": [],
+  "keywords": [
+    "non-fiction",
+    "essay collection",
+    "novel"
+  ],
+  "TXT_path": "books/The_Art_of_Embers/txt/The_Art_of_Embers.txt",
+  "EPUB_path": "books/The_Art_of_Embers/epub/The_Art_of_Embers.epub",
+  "cover_path": "books/The_Art_of_Embers/covers/The_Art_of_Embers.png",
+  "outline_path": "books/The_Art_of_Embers/planning/The_Art_of_Embers_outline.md",
+  "cover_script_path": "books/The_Art_of_Embers/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 22981,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 22981
+  }
+}

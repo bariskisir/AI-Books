@@ -1,0 +1,28 @@
+{
+  "title": "The Last Dragon Smith",
+  "author": "Barış Kısır",
+  "model": "deepseek-v4-flash-ga",
+  "genre": "Fantasy",
+  "subgenre": "Epic fantasy",
+  "language": "en",
+  "premise": "The last dragon-smith, old Bryn, can forge a dragon\\'s heart from iron and fire — a heart that beats once a century. When the kingdom\\'s final dragon dies, Bryn is ordered to forge a new one, but the heart he forges beats with a will of its own: it chooses its bearer, and it chooses Bryn\\'s granddaughter.",
+  "short_description": "The last dragon-smith, old Bryn, can forge a dragon\\'s heart from iron and fire — a heart that beats once a century. When the kingdom\\'s final dragon dies, Bryn is ordered to forge a new one, but the heart he forges beats with a will of its own: it chooses its bearer, and it chooses Bryn\\'s granddaughter.",
+  "long_description": "The last dragon-smith, old Bryn, can forge a dragon\\'s heart from iron and fire — a heart that beats once a century. When the kingdom\\'s final dragon dies, Bryn is ordered to forge a new one, but the heart he forges beats with a will of its own: it chooses its bearer, and it chooses Bryn\\'s granddaughter.",
+  "main_characters": [],
+  "keywords": [
+    "fantasy",
+    "epic fantasy",
+    "novel"
+  ],
+  "TXT_path": "books/The_Last_Dragon_Smith/txt/The_Last_Dragon_Smith.txt",
+  "EPUB_path": "books/The_Last_Dragon_Smith/epub/The_Last_Dragon_Smith.epub",
+  "cover_path": "books/The_Last_Dragon_Smith/covers/The_Last_Dragon_Smith.png",
+  "outline_path": "books/The_Last_Dragon_Smith/planning/The_Last_Dragon_Smith_outline.md",
+  "cover_script_path": "books/The_Last_Dragon_Smith/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 23125,
+  "stats": {
+    "total_chapters": 50,
+    "total_words": 23125
+  }
+}
