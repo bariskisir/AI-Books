@@ -7,7 +7,8 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[1]
 GITHUB_RAW = "https://github.com/bariskisir/AI-Books/raw/refs/heads/master"
 EPUB_READER = "https://epub-reader-omega.vercel.app"
-PER_ROW = 5
+SERIES_PER_ROW = 5
+BOOKS_PER_ROW = 5
 
 
 def read_metadata(path):
@@ -53,10 +54,10 @@ def cover_cell(meta):
     )
 
 
-def grid_rows(cells):
+def grid_rows(cells, per_row):
     rows = []
-    for i in range(0, len(cells), PER_ROW):
-        chunk = cells[i : i + PER_ROW]
+    for i in range(0, len(cells), per_row):
+        chunk = cells[i : i + per_row]
         rows.append("<tr>" + "".join(chunk) + "</tr>")
     return "\n".join(rows)
 
@@ -146,8 +147,12 @@ def main():
     all_series_books = []
     for books in series_groups.values():
         all_series_books.extend(books)
-    series_grid = grid_rows([cover_cell(m) for m in all_series_books])
-    books_grid = grid_rows([cover_cell(m) for m in standalone_books])
+    series_grid = grid_rows(
+        [cover_cell(m) for m in all_series_books], per_row=SERIES_PER_ROW
+    )
+    books_grid = grid_rows(
+        [cover_cell(m) for m in standalone_books], per_row=BOOKS_PER_ROW
+    )
 
     series_sections = []
     for series_name, books in series_groups.items():
@@ -174,7 +179,7 @@ def main():
 AI Books is a proprietary repository for AI-generated original fiction projects.
 
 <details open>
-<summary>Catalog &mdash; Series</summary>
+<summary>Catalog &mdash; Series ({len(all_series_books)})</summary>
 
 Click a cover to read online
 
@@ -184,7 +189,7 @@ Click a cover to read online
 </details>
 
 <details open>
-<summary>Catalog &mdash; Books</summary>
+<summary>Catalog &mdash; Books ({len(standalone_books)})</summary>
 
 Click a cover to read online
 
