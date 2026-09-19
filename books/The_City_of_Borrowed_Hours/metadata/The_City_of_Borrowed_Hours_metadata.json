@@ -1,0 +1,21 @@
+{
+  "title": "The City of Borrowed Hours",
+  "author": "Barış Kısır",
+  "model": "gpt-6-astra",
+  "genre": "Science Fiction",
+  "subgenre": "Speculative Thriller",
+  "language": "en",
+  "short_description": "An archivist discovers that her missing brother is still making memories inside the machine that protects their city from the sea.",
+  "long_description": "In the tidal city of Bellwether, citizens can surrender painful memories to a municipal archive. Archivist Mara Vale believes her brother died during the evacuation of the eastern wards. Then a routine deposit contains his voice, speaking yesterday. With a salvage captain and a disgraced registry clerk, Mara follows a trail of altered consent forms into the living infrastructure beneath the city. There she discovers how Bellwether bought its safety, what she herself agreed to forget, and why rescuing her brother may require a city to learn how to live without borrowed minds.",
+  "main_characters": ["Mara Vale", "Ivo Vale", "Tamsin Rook", "Jonas Sen", "Ada Venn", "Nera Pell"],
+  "keywords": ["science fiction", "memory", "coastal city", "siblings", "consent", "climate", "political thriller"],
+  "TXT_path": "books/The_City_of_Borrowed_Hours/txt/The_City_of_Borrowed_Hours.txt",
+  "EPUB_path": "books/The_City_of_Borrowed_Hours/epub/The_City_of_Borrowed_Hours.epub",
+  "cover_path": "books/The_City_of_Borrowed_Hours/covers/The_City_of_Borrowed_Hours.png",
+  "status": "completed",
+  "word_count": 26461,
+  "stats": {
+    "total_chapters": 20,
+    "total_words": 26461
+  }
+}

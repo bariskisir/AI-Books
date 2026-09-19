@@ -45,14 +45,14 @@ def paragraphize(text: str) -> str:
     return "\n".join(f"<p>{html.escape(' '.join(block.split()))}</p>" for block in blocks)
 
 
-def xhtml(title: str, body: str, language: str = "en") -> str:
+def xhtml(title: str, body: str, language: str = "en", stylesheet: str = "../styles/stylesheet.css") -> str:
     return f"""<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="{html.escape(language)}">
 <head>
   <meta charset="utf-8"/>
   <title>{html.escape(title)}</title>
-  <link rel="stylesheet" type="text/css" href="../styles/stylesheet.css"/>
+  <link rel="stylesheet" type="text/css" href="{html.escape(stylesheet, quote=True)}"/>
 </head>
 <body>
 {body}
@@ -151,6 +151,7 @@ def build(metadata_path: Path, cover_path: Path | None, output_path: Path) -> No
   </ol>
 </nav>""",
         language,
+        stylesheet="styles/stylesheet.css",
     )
 
     subject_tags = "\n    ".join(f"<dc:subject>{html.escape(str(subject))}</dc:subject>" for subject in subjects)
