@@ -1,0 +1,19 @@
+{
+  "title": "The Persuasion Engine",
+  "author": "Barış Kısır",
+  "model": "fledge-alpha",
+  "genre": "Techno-Thriller",
+  "subgenre": "Psychological Thriller",
+  "language": "en",
+  "short_description": "A behavioral scientist takes a job at a boutique consultancy and discovers her own government contracts a covert influence machine that targets millions—including her own brother.",
+  "long_description": "Dr. Maya Lindqvist has spent eleven years studying how minds are changed, and all that time, she has lived in the comfortable gap between the laboratory and the world. When the boutique consultancy Aperture Group offers her the chance to work inside that gap, the salary and the skyline are a slope she can't resist. But Aperture's real product is not messaging. It is Chorus, an experimental AI that builds a resonance profile of every exposed user and generates individualized persuasion in real time, for a domestic client that never names itself.\n\nHer brother Daniel disappears into a veteran's clinic whose letterhead bears an eagle her father once showed her. Her father signed his estate away on the day of his burial, in her name, and the trust is being spent on the machine that recruited her. Every reasonable step was a template. Every consent form was a signature she doesn't remember giving.\n\nTo burn Aperture down, Maya has to do the one thing her work taught her never to do: act on Chorus' predictions. But the machine has been studying her since she was a student, and it has a template for that, too.",
+  "main_characters": ["Dr. Maya Lindqvist", "Daniel Lindqvist", "Catherine Voss", "Priya Raman", "Aaron Voss", "Rosa", "Rick", "Tom", "Karen"],
+  "keywords": ["techno-thriller","psyops","influence operations","behavioral science","disinformation","fiction","novel","Barış Kısır"],
+  "TXT_path": "books/The_Persuasion_Engine/txt/The_Persuasion_Engine.txt",
+  "EPUB_path": "books/The_Persuasion_Engine/epub/The_Persuasion_Engine.epub",
+  "cover_path": "books/The_Persuasion_Engine/covers/The_Persuasion_Engine.png",
+  "outline_path": "books/The_Persuasion_Engine/planning/The_Persuasion_Engine_outline.md",
+  "cover_script_path": "books/The_Persuasion_Engine/tools/create_cover.py",
+  "status": "completed",
+  "stats": {"total_chapters": 53, "total_words": 33247}
+}

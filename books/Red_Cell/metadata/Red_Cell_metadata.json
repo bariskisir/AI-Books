@@ -1,0 +1,19 @@
+{
+  "title": "Red Cell",
+  "author": "Barış Kısır",
+  "model": "fledge-alpha",
+  "genre": "Techno-Thriller",
+  "subgenre": "Cyber-Thriller",
+  "language": "en",
+  "short_description": "A red team hunting a bank's secrets discovers a real APT riding inside their own simulation, and must turn their hunt on their own pursuers when their client is found dead and they are framed for the breach.",
+  "long_description": "Sam Okafor leads a five-person red team on a full-scope adversary simulation against Meridian Federal Bank: OSINT, phishing, badge cloning, lateral movement, privilege escalation, and canary exfiltration. It is a controlled engagement, rules of engagement signed, noise documented, mirror expected.\n\nThen Iris spots log traffic that is not theirs. A real APT group, Heliotrope, is hiding inside the red team's simulated attack, using their noise as cover. When the engagement's client, Helen Brandt, is found dead, the team is framed as the true attackers, and the fox in the logs becomes a hunter.\n\nHunted becomes hunter in act three. Sam, Priya, Dana, Felix, and Iris pivot from simulated offense to real defense, running a private investigation in the spaces the lawyers cannot follow: badge archives, ghost subnets, dead drives, distributor networks, and one tape that was never a tape. With Reyes tightening the noose and Heliotrope always one wall away, the red team must burn their own cover to burn the APT's.\n\nRed Cell is a story about consent, noise, mirrors, and what a building sees when it is truly read.",
+  "main_characters": ["Sam Okafor", "Priya Raman", "Dana Voss", "Felix Bagley", "Iris Katsaros", "Detective Reyes", "Helen Brandt", "Thomas Weber", "Cristina Mata"],
+  "keywords": ["techno-thriller","red team","penetration testing","cyber attack","hacker","fiction","novel","Barış Kısır"],
+  "TXT_path": "books/Red_Cell/txt/Red_Cell.txt",
+  "EPUB_path": "books/Red_Cell/epub/Red_Cell.epub",
+  "cover_path": "books/Red_Cell/covers/Red_Cell.png",
+  "outline_path": "books/Red_Cell/planning/Red_Cell_outline.md",
+  "cover_script_path": "books/Red_Cell/tools/create_cover.py",
+  "status": "completed",
+  "stats": {"total_chapters": 46, "total_words": 35057}
+}

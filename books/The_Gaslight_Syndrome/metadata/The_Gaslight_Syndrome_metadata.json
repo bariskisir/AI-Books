@@ -1,0 +1,19 @@
+{
+  "title": "The Gaslight Syndrome",
+  "author": "Barış Kısır",
+  "model": "fledge-alpha",
+  "genre": "Psychological Thriller",
+  "subgenre": "Domestic Noir",
+  "language": "en",
+  "short_description": "A clinical psychologist specializing in coercive control discovers her own life has become the subject of the same sophisticated gaslighting she treats in her patients, and must turn the manipulators' techniques against them.",
+  "long_description": "Dr. Eleanor Voss has built a career on recognizing the signature of coercive control: the moved objects, the contradicted memories, the intermittent kindness, the isolation disguised as care. When Claire Templeton arrives with a shoebox of evidence against her husband Thomas, Eleanor believes she knows exactly what she is looking at. But as Claire's case unfolds, Eleanor begins to notice the same signatures in her own office, her own files, her own memory of a Tuesday.\n\nDrawn deeper, Eleanor uncovers a network of fake clinics, anonymous letters, staged appointments, and manipulated archives that reaches further than any single marriage. Claire names its architect. Alfred Black gives it paperwork. The silver postbox on Beech Street keeps its silence. As Eleanor's own records are undermined, she does not fight with the language of facts alone. She keeps an archive, she photographs the weather of her own house, and she answers the network in its own grammar.\n\nWhat follows is a game in which reality itself is the board. Eleanor and Claire learn that the only weapon against a master manipulator is being believed on purpose: keeping the notes, naming the pattern, and refusing to hand back the only true sentences they own. To defeat the network, she must use its own methods — scheduling, staging, intermittent reinforcement, witness — and turn its archive of doubt into a record of testimony.",
+  "main_characters": ["Dr. Eleanor Voss", "Claire Templeton", "Thomas", "Alfred Black", "Simone", "Dana Moreno", "Laura", "Pavel"],
+  "keywords": ["psychological thriller","gaslighting","manipulation","suspense","fiction","novel","Barış Kısır"],
+  "TXT_path": "books/The_Gaslight_Syndrome/txt/The_Gaslight_Syndrome.txt",
+  "EPUB_path": "books/The_Gaslight_Syndrome/epub/The_Gaslight_Syndrome.epub",
+  "cover_path": "books/The_Gaslight_Syndrome/covers/The_Gaslight_Syndrome.png",
+  "outline_path": "books/The_Gaslight_Syndrome/planning/The_Gaslight_Syndrome_outline.md",
+  "cover_script_path": "books/The_Gaslight_Syndrome/tools/create_cover.py",
+  "status": "completed",
+  "stats": {"total_chapters": 67, "total_words": 32076}
+}

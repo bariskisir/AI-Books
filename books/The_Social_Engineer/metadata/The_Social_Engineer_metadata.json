@@ -1,0 +1,19 @@
+{
+  "title": "The Social Engineer",
+  "author": "Barış Kısır",
+  "model": "fledge-alpha",
+  "genre": "Thriller",
+  "subgenre": "Heist / Con Artist",
+  "language": "en",
+  "short_description": "An elite con artist hired to infiltrate a data-broker conglomerate discovers her own psychological file in its system — and must run the greatest con of her life on the people who wrote the playbook.",
+  "long_description": "Alex Mercer steals secrets, not money. Pretexting, phishing, tailgating, impersonation — she can become anyone for eleven minutes or eleven weeks, and no one has ever caught her. When a mysterious client hires her to infiltrate Helix Dyne, a data-broker conglomerate with profiles on 280 million people, she expects a routine job. Instead she finds a machine that sells fear as a product and elections as a deliverable — and her own file in the archive, more accurate than her memories, built from the one job she buried years ago.\n\nThe client, it turns out, was never hers: the whole job was an audit commissioned by Helix's reclusive founder, Silas Crane, the one man on Earth the machine refuses to profile. Her story is published and buried in a day, her handler has sold a piece of her, and her own team may be turned. So Alex does the one thing the file can never predict: she becomes exactly what it forecasts — a contained, converted asset — walks back through the front door, and begins the longest performance of her life.\n\nFrom the badge readers of Helix's lobby to a windowless boardroom in Zurich, The Social Engineer is a sharp, witty caper-thriller about the last person alive who can read a room — and the con she runs on the people who wrote the playbook, armed with nothing but paper, a rotary press, and the machine's one blind spot: it can model what you fear, but it can't model you changing.",
+  "main_characters": ["Alex Mercer", "Priya Voss", "Eli", "Silas Crane", "Merchant", "Whitaker", "Marcus Chen", "Mei Okafor", "River", "Arun", "Ledger"],
+  "keywords": ["thriller","social engineering","con artist","heist","hacking","fiction","novel","Barış Kısır"],
+  "TXT_path": "books/The_Social_Engineer/txt/The_Social_Engineer.txt",
+  "EPUB_path": "books/The_Social_Engineer/epub/The_Social_Engineer.epub",
+  "cover_path": "books/The_Social_Engineer/covers/The_Social_Engineer.png",
+  "outline_path": "books/The_Social_Engineer/planning/The_Social_Engineer_outline.md",
+  "cover_script_path": "books/The_Social_Engineer/tools/create_cover.py",
+  "status": "completed",
+  "stats": {"total_chapters": 77, "total_words": 33104}
+}
