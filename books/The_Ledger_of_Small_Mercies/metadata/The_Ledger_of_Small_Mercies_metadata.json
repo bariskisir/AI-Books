@@ -1,0 +1,37 @@
+{
+  "title": "The Ledger of Small Mercies",
+  "author": "Barış Kısır",
+  "model": "muse-spark-1.3-contributor",
+  "genre": "Literary Fiction",
+  "subgenre": "Intergenerational Drama",
+  "language": "en",
+  "short_description": "In Istanbul's Balat district, an aging ledger-maker keeps two books: one for debts owed, one for kindnesses forgiven.",
+  "long_description": "Yusuf Erdem, seventy-three, has bound ledgers by hand in Istanbul's Balat district for fifty years, keeping one book for debts owed and a secret second book for debts forgiven. When a developer's buyout threatens his workshop and his memory begins to slip, his estranged granddaughter Elif returns from Berlin to settle his affairs and sell the shop. As Elif deciphers the second ledger's coded acts of small mercy, she confronts her late mother's exile, her grandfather's wartime guilt, and her own flight from grief. Spanning three generations and one crumbling street, the novel asks what we owe each other when nothing can truly be repaid.",
+  "main_characters": [
+    "Yusuf Erdem - aging Balat ledger-maker guarding a secret book of forgiven debts",
+    "Elif Aydin - estranged Berlin-raised granddaughter and archivist deciding the workshop's fate",
+    "Meryem Erdem - Yusuf's late daughter whose letters reveal the true reason for her exile",
+    "Ayse Kalfa - widowed tea-house keeper and oral historian of the street's debts and kindnesses"
+  ],
+  "keywords": [
+    "Istanbul",
+    "forgiveness",
+    "family",
+    "memory",
+    "craftsmanship",
+    "intergenerational",
+    "migration",
+    "mercy"
+  ],
+  "TXT_path": "books/The_Ledger_of_Small_Mercies/txt/The_Ledger_of_Small_Mercies.txt",
+  "EPUB_path": "books/The_Ledger_of_Small_Mercies/epub/The_Ledger_of_Small_Mercies.epub",
+  "cover_path": "books/The_Ledger_of_Small_Mercies/covers/The_Ledger_of_Small_Mercies.png",
+  "outline_path": "books/The_Ledger_of_Small_Mercies/planning/The_Ledger_of_Small_Mercies_outline.md",
+  "cover_script_path": "books/The_Ledger_of_Small_Mercies/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 7530,
+  "stats": {
+    "total_chapters": 25,
+    "total_words": 7530
+  }
+}

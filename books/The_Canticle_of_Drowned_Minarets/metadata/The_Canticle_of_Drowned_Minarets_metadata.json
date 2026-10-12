@@ -1,0 +1,37 @@
+{
+  "title": "The Canticle of Drowned Minarets",
+  "author": "Barış Kısır",
+  "model": "muse-spark-1.3-contributor",
+  "genre": "Science Fiction",
+  "subgenre": "Post-Flood Acoustic Dystopia",
+  "language": "en",
+  "short_description": "In sunken Istanbul, a hard-of-hearing acoustic engineer hears a living song beneath the flood and must retune a drowned seed vault before a corporation drills it open.",
+  "long_description": "Fifty years after the Rise drowned Istanbul, acoustic engineer Deniz Kaya maps the sunken streets by sonar song when she detects a living pulse beneath the Basilica Cistern. It comes from the Sarnic Vault, a sealed seed bank whose canisters were tuned like organ pipes to wake crops with sound. When the Meridyen Consortium moves to drill it for patent stock, Deniz and a diver, an archivist, and a guilt-ridden keeper must learn its music before a forced opening inverts the chord and drowns ten thousand irreplaceable lines. To save the vault they must turn the drowned minarets themselves into instruments and sing the city back into balance.",
+  "main_characters": [
+    "Deniz Kaya - acoustic engineer who maps sunken Istanbul by sound and hears the vault first",
+    "Elif Demir - fearless salvage diver who free-dives the cistern and finds the second vault",
+    "Yusuf Erben - ex-imam turned sound archivist who decodes the germination chants",
+    "Imre Solak - aging seed-keeper who built the acoustic locks and guards their secret"
+  ],
+  "keywords": [
+    "sunken Istanbul",
+    "seed vault",
+    "acoustic engineering",
+    "climate flood",
+    "bioresonance",
+    "salvage divers",
+    "corporate siege",
+    "heritage wheat"
+  ],
+  "TXT_path": "books/The_Canticle_of_Drowned_Minarets/txt/The_Canticle_of_Drowned_Minarets.txt",
+  "EPUB_path": "books/The_Canticle_of_Drowned_Minarets/epub/The_Canticle_of_Drowned_Minarets.epub",
+  "cover_path": "books/The_Canticle_of_Drowned_Minarets/covers/The_Canticle_of_Drowned_Minarets.png",
+  "outline_path": "books/The_Canticle_of_Drowned_Minarets/planning/The_Canticle_of_Drowned_Minarets_outline.md",
+  "cover_script_path": "books/The_Canticle_of_Drowned_Minarets/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 8496,
+  "stats": {
+    "total_chapters": 25,
+    "total_words": 8496
+  }
+}

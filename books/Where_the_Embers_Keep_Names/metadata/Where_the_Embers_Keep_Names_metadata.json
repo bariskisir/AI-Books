@@ -1,0 +1,37 @@
+{
+  "title": "Where the Embers Keep Names",
+  "author": "Barış Kısır",
+  "model": "muse-spark-1.3-contributor",
+  "genre": "Horror",
+  "subgenre": "Folk Horror",
+  "language": "en",
+  "short_description": "At snowbound Karatepe Halt, cartographer Elif Demir finds a keeper who burns village names to keep the line alive.",
+  "long_description": "Cartographer Elif Demir arrives at snowbound Karatepe Halt to survey a dying mountain railway and finds a keeper who burns village names to keep the trains running. A coal widow guards an ember atlas where every scorch spares the line by feeding one hamlet to the winter. When Elif learns her own survey was commissioned to choose the next offering, she must outwit hearth spirits, buried tracks, and her hosts. Her rebellion culminates in a burning train ride to the summit, where she redraws the map in fire to end the debt or become its final mark.",
+  "main_characters": [
+    "Elif Demir - disgraced Istanbul cartographer sent to survey Karatepe Halt and choose its next sacrifice",
+    "Yusuf Aksoy - elderly station keeper who feeds written names to an undying stove to hold back the winter",
+    "Meryem Kilic - coal-burner's widow and keeper of the ember atlas recording every village the cold has taken",
+    "Doruk Erden - missing rail worker's son who hears the dead rails singing and guides Elif toward the hidden line"
+  ],
+  "keywords": [
+    "Anatolia",
+    "folk horror",
+    "winter station",
+    "ember atlas",
+    "oral tradition",
+    "isolation",
+    "sacrifice",
+    "memory"
+  ],
+  "TXT_path": "books/Where_the_Embers_Keep_Names/txt/Where_the_Embers_Keep_Names.txt",
+  "EPUB_path": "books/Where_the_Embers_Keep_Names/epub/Where_the_Embers_Keep_Names.epub",
+  "cover_path": "books/Where_the_Embers_Keep_Names/covers/Where_the_Embers_Keep_Names.png",
+  "outline_path": "books/Where_the_Embers_Keep_Names/planning/Where_the_Embers_Keep_Names_outline.md",
+  "cover_script_path": "books/Where_the_Embers_Keep_Names/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 8341,
+  "stats": {
+    "total_chapters": 25,
+    "total_words": 8341
+  }
+}

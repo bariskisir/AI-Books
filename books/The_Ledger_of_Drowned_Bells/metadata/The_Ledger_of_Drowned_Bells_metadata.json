@@ -1,0 +1,37 @@
+{
+  "title": "The Ledger of Drowned Bells",
+  "author": "Barış Kısır",
+  "model": "muse-spark-1.3-contributor",
+  "genre": "Mystery",
+  "subgenre": "Coastal Gothic Mystery",
+  "language": "en",
+  "short_description": "When probate archivist Ada Wren finds a will replaced by a rubbing of a drowned bell, she uncovers sixty years of forged inheritances in Greyport.",
+  "long_description": "Probate archivist Ada Wren comes to Greyport to catalogue a century of sealed wills and instead finds a 1962 page cut out and replaced with a bell rubbing. Three church bells supposedly lost when St. Morven slid into the sea still ring in local legend, and five inheritance-linked deaths share one anniversary date. As Ada traces forged signatures to the town's founding shipping family, a midnight flooding and a smashed bell mould prove someone will drown the truth again. Only by finding where the bells really hang can she expose sixty years of stolen shoreline.",
+  "main_characters": [
+    "Ada Wren - meticulous probate archivist hired to catalogue Greyport's sealed wills",
+    "Harlan Cobb - guilt-ridden retired bell-founder who cast an unrecorded fourth bell",
+    "June Ivers - sharp-tongued cafe owner protecting her family's claim to Cliff House",
+    "Silas Marne - charming harbormaster guarding four generations of forged inheritances"
+  ],
+  "keywords": [
+    "probate archive",
+    "drowned bells",
+    "coastal town",
+    "forged wills",
+    "family secrets",
+    "amateur sleuth",
+    "shipwreck church",
+    "inheritance fraud"
+  ],
+  "TXT_path": "books/The_Ledger_of_Drowned_Bells/txt/The_Ledger_of_Drowned_Bells.txt",
+  "EPUB_path": "books/The_Ledger_of_Drowned_Bells/epub/The_Ledger_of_Drowned_Bells.epub",
+  "cover_path": "books/The_Ledger_of_Drowned_Bells/covers/The_Ledger_of_Drowned_Bells.png",
+  "outline_path": "books/The_Ledger_of_Drowned_Bells/planning/The_Ledger_of_Drowned_Bells_outline.md",
+  "cover_script_path": "books/The_Ledger_of_Drowned_Bells/tools/create_cover.py",
+  "status": "completed",
+  "word_count": 7849,
+  "stats": {
+    "total_chapters": 25,
+    "total_words": 7849
+  }
+}
