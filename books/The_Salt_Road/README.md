@@ -4,7 +4,7 @@
 
 ## Quick Links
 
-- [Read online or listen](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Salt_Road/epub/The_Salt_Road.epub)
+- [Read online or listen](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Salt_Road/epub/The_Salt_Road.epub)
 - [Download EPUB](epub/The_Salt_Road.epub)
 - [Outline](planning/The_Salt_Road_outline.md)
 - [Manuscript](txt/The_Salt_Road.txt)

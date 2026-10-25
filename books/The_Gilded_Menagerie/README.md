@@ -37,5 +37,5 @@ As the season grinds across muddy Midwestern towns through rain and dwindling cr
 
 ## Reading
 
-- [Read online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Gilded_Menagerie/epub/The_Gilded_Menagerie.epub)
+- [Read online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Gilded_Menagerie/epub/The_Gilded_Menagerie.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Gilded_Menagerie/epub/The_Gilded_Menagerie.epub)

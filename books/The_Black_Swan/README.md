@@ -25,5 +25,5 @@ Set against the gilded, brutal world of St. Petersburg's greatest ballet company
 
 ## Reading
 
-- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Black_Swan/epub/The_Black_Swan.epub)
+- [Read or listen online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Black_Swan/epub/The_Black_Swan.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Black_Swan/epub/The_Black_Swan.epub)

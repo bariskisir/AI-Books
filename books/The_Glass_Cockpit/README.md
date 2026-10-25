@@ -38,5 +38,5 @@ NTSB investigator Marcus Bell refuses to sign the easy finding. With Dana's youn
 
 ## Reading
 
-- [Read online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Glass_Cockpit/epub/The_Glass_Cockpit.epub)
+- [Read online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Glass_Cockpit/epub/The_Glass_Cockpit.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Glass_Cockpit/epub/The_Glass_Cockpit.epub)

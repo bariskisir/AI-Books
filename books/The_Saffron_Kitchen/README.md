@@ -40,5 +40,5 @@ The answer hides in a missing batch of saffron and a signature recipe that has b
 
 ## Reading
 
-- [Read online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Saffron_Kitchen/epub/The_Saffron_Kitchen.epub)
+- [Read online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Saffron_Kitchen/epub/The_Saffron_Kitchen.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Saffron_Kitchen/epub/The_Saffron_Kitchen.epub)

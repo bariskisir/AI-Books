@@ -8,7 +8,7 @@ An archivist uncovers a hidden ledger of erased lighthouse records and follows i
 
 **By Barış Kısır**
 
-[Read online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Lantern_Index/epub/The_Lantern_Index.epub)
+[Read online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Lantern_Index/epub/The_Lantern_Index.epub)
 
 [Download EPUB](epub/The_Lantern_Index.epub)
 

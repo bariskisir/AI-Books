@@ -12,7 +12,7 @@ Marsh's diary documents a slow unraveling: the hum in the tower, the light that 
 
 ## Reading
 
-- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Lighthouse_at_the_End/epub/The_Lighthouse_at_the_End.epub)
+- [Read or listen online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Lighthouse_at_the_End/epub/The_Lighthouse_at_the_End.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Lighthouse_at_the_End/epub/The_Lighthouse_at_the_End.epub)
 
 ## Project Structure

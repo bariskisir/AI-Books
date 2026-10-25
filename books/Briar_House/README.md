@@ -4,7 +4,7 @@
 
 ## Quick Links
 
-- [Read online or listen](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/Briar_House/epub/Briar_House.epub)
+- [Read online or listen](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/Briar_House/epub/Briar_House.epub)
 - [Download EPUB](epub/Briar_House.epub)
 - [Outline](planning/Briar_House_outline.md)
 - [Manuscript](txt/Briar_House.txt)

@@ -38,5 +38,5 @@ To learn what she did, Mara must buy herself back one piece at a time — from c
 
 ## Reading
 
-- [Read online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Memory_Merchant/epub/The_Memory_Merchant.epub)
+- [Read online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Memory_Merchant/epub/The_Memory_Merchant.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Memory_Merchant/epub/The_Memory_Merchant.epub)

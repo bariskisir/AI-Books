@@ -13,13 +13,13 @@ Told in spare, literary prose, *The Milkman's Son* traces Declan's slow, painful
 
 ## Reading
 
-- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Milkmans_Son/epub/The_Milkmans_Son.epub)
+- [Read or listen online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Milkmans_Son/epub/The_Milkmans_Son.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Milkmans_Son/epub/The_Milkmans_Son.epub)
 
 ## Cover
 
 <p>
-  <a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Milkmans_Son/epub/The_Milkmans_Son.epub">
+  <a href="https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Milkmans_Son/epub/The_Milkmans_Son.epub">
     <img src="covers/The_Milkmans_Son.png" alt="Cover for The Milkman's Son" width="240">
   </a>
 </p>

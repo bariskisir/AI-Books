@@ -39,5 +39,5 @@ Trapped three hundred feet down with a wounded captain, dwindling air, a failing
 
 ## Reading
 
-- [Read online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Iron_Whale/epub/The_Iron_Whale.epub)
+- [Read online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Iron_Whale/epub/The_Iron_Whale.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Iron_Whale/epub/The_Iron_Whale.epub)

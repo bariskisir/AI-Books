@@ -17,5 +17,5 @@ A psychological literary novel about a woman whose husband stops eating and begi
 
 ## Read Online
 
-- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Vegetarians_Wife/epub/The_Vegetarians_Wife.epub)
+- [Read or listen online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Vegetarians_Wife/epub/The_Vegetarians_Wife.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Vegetarians_Wife/epub/The_Vegetarians_Wife.epub)

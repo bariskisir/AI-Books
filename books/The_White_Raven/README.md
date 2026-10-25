@@ -35,5 +35,5 @@ As the sunless days stretch on and the cold deepens, Liisa must navigate a web o
 
 ## Reading
 
-- [Read online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_White_Raven/epub/The_White_Raven.epub)
+- [Read online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_White_Raven/epub/The_White_Raven.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_White_Raven/epub/The_White_Raven.epub)

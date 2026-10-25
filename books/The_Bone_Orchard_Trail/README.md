@@ -37,5 +37,5 @@ Reede keeps his land alive and his herd fat by feeding the orchard. Something ol
 
 ## Reading
 
-- [Read online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Bone_Orchard_Trail/epub/The_Bone_Orchard_Trail.epub)
+- [Read online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Bone_Orchard_Trail/epub/The_Bone_Orchard_Trail.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Bone_Orchard_Trail/epub/The_Bone_Orchard_Trail.epub)

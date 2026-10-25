@@ -37,5 +37,5 @@ When a desperate thief steals the music box that holds Anselm's fading memories,
 
 ## Reading
 
-- [Read online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Tin_Soldiers_Waltz/epub/The_Tin_Soldiers_Waltz.epub)
+- [Read online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Tin_Soldiers_Waltz/epub/The_Tin_Soldiers_Waltz.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Tin_Soldiers_Waltz/epub/The_Tin_Soldiers_Waltz.epub)

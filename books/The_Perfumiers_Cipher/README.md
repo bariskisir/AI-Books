@@ -1,12 +1,12 @@
 # The Perfumier's Cipher
 
 <p align="center">
-  <a href="https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Perfumiers_Cipher/epub/The_Perfumiers_Cipher.epub" target="_blank">
+  <a href="https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Perfumiers_Cipher/epub/The_Perfumiers_Cipher.epub" target="_blank">
     <img src="covers/The_Perfumiers_Cipher.png" alt="Cover for The Perfumier's Cipher" width="400">
   </a>
 </p>
 
-- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Perfumiers_Cipher/epub/The_Perfumiers_Cipher.epub)
+- [Read or listen online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Perfumiers_Cipher/epub/The_Perfumiers_Cipher.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/The_Perfumiers_Cipher/epub/The_Perfumiers_Cipher.epub)
 
 **Genre:** Fragrance Mystery / Provenance Suspense

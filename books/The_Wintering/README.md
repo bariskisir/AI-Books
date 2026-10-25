@@ -6,7 +6,7 @@ A literary novel about survival, the limits of scientific reason, and what the d
 
 ## Quick Links
 
-- [Read online or listen](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Wintering/epub/The_Wintering.epub)
+- [Read online or listen](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Wintering/epub/The_Wintering.epub)
 - [Download EPUB](The_Wintering/epub/The_Wintering.epub)
 - [Outline](planning/The_Wintering_outline.md)
 - [Manuscript](txt/The_Wintering.txt)

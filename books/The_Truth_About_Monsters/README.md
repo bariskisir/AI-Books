@@ -10,7 +10,7 @@ With the help of her own gentle monster Grumble, Elodie navigates a hidden world
 
 ## Reading Options
 
-- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Truth_About_Monsters/epub/The_Truth_About_Monsters.epub)
+- [Read or listen online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Truth_About_Monsters/epub/The_Truth_About_Monsters.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Truth_About_Monsters/epub/The_Truth_About_Monsters.epub)
 
 ## Cover

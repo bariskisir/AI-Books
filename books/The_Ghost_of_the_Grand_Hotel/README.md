@@ -12,7 +12,7 @@ Claire Durand, a hotel historian, arrives at the Hotel du Lac on Lake Geneva to 
 
 ## Links
 
-- [Read or listen online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Ghost_of_the_Grand_Hotel/epub/The_Ghost_of_the_Grand_Hotel.epub)
+- [Read or listen online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Ghost_of_the_Grand_Hotel/epub/The_Ghost_of_the_Grand_Hotel.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/The_Ghost_of_the_Grand_Hotel/epub/The_Ghost_of_the_Grand_Hotel.epub)
 
 ## Cover

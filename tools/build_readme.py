@@ -6,7 +6,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 GITHUB_RAW = "https://github.com/bariskisir/AI-Books/raw/refs/heads/master"
-EPUB_READER = "https://epub-reader-omega.vercel.app"
+EPUB_READER = "https://epubreader.bariskisir.com"
 SERIES_PER_ROW = 5
 BOOKS_PER_ROW = 5
 

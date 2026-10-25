@@ -79,7 +79,7 @@ Two modes:
 - **Filenames**: same snake_case as directory (no spaces in paths)
 - **Series naming**: `series/<Series_Name>/metadata/Book<N>_<Book_Name>_metadata.json`
 - **Cover image path**: `covers/<Book_Name>.png`
-- **EPUB reader URL**: `https://epub-reader-omega.vercel.app/?epub={GITHUB_RAW}/{EPUB_path}`
+- **EPUB reader URL**: `https://epubreader.bariskisir.com/?epub={GITHUB_RAW}/{EPUB_path}`
 - **GitHub raw base**: `https://github.com/bariskisir/AI-Books/raw/refs/heads/master`
 - **All paths in metadata are relative**, repo-root-relative
 

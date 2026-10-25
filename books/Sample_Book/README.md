@@ -25,5 +25,5 @@ books/Sample_Book/
 
 ## Links
 
-- [Read online](https://epub-reader-omega.vercel.app?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/Sample_Book/epub/Sample_Book.epub)
+- [Read online](https://epubreader.bariskisir.com?epub=https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/Sample_Book/epub/Sample_Book.epub)
 - [Download EPUB](https://github.com/bariskisir/AI-Books/raw/refs/heads/master/books/Sample_Book/epub/Sample_Book.epub)
